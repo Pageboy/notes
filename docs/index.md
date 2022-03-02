@@ -1,11 +1,9 @@
-# Obsidian Notes
+# Chris Jennings
 
-Publish your public notes with MkDocs
+Notes ready
 
-## Hello World!
+## Here is my stuff
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+[[https://www.chrisjennings.net]]]
 
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Navigate through the folders on the left to see what's there.
