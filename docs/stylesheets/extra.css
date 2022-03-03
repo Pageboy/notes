@@ -5,18 +5,22 @@
   --md-default-bg-color: rgb(37, 37, 37);
 }
 
-body {
-  background-color: #221c1c !important;
+[data-md-color-scheme="slate"] {
+  --md-hue: 300;
 }
 
-article h1 {
+/* body {
+  background-color: #221c1c !important;
+} */
+
+/* article h1 {
   color: #f86060 !important;
   font-weight: bolder;
 }
 
 h2 {
   color: #ecb7b7;
-}
+} */
 
 article ul {
   list-style: none; /* Remove default bullets */
