@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/week 5 Shakespeare Play notes.md",
+            "file": "docs/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/week 5 Shakespeare Play notes.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "24b51288c0d759b8",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/Medium/Untitled.md",
+    "docs/Medium/Sample Medium Publications.md",
     "docs/Teaching/Multiplatform Publishing/week 5 Shakespeare Play notes.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "README.md",
     "docs/Teaching/Multiplatform Publishing/Screenshot 2022-02-08 at 15.59.26.png",
     "docs/My Boat/Details.md",
-    "docs/My Boat/Introduction.md",
-    "docs/index.md",
-    "docs/Teaching/Design and Production/week1.md",
-    "docs/Teaching/Multiplatform Publishing/Getting responsive with Flex.md"
+    "docs/My Boat/Introduction.md"
   ]
 }

@@ -1,6 +1,6 @@
 # Chris Jennings
 
-Notes ready
+Notes nearly ready
 
 ## Here is my stuff
 
