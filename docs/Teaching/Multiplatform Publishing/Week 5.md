@@ -133,7 +133,7 @@ It is very important that you build your site from the home page  `index.html`  
 * Navigate to the **docs* folder
 * Use Add file in the root for the `index.html`
 
-![](Week%205/Screenshot%202022-02-22%20at%2012.24.54.png)
+![](Screenshot%202022-02-22%20at%2012.24.54.png)
 
 
 * Move into the css folder and Add file in there
