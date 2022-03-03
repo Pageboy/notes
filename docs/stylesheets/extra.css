@@ -1,3 +1,5 @@
-body {
-  background-color: black;
+:root {
+  --md-primary-fg-color: #ee0f0f;
+  --md-primary-fg-color--light: #ecb7b7;
+  --md-primary-fg-color--dark: #1a1112;
 }
