@@ -18,8 +18,9 @@ theme:
     name: 'material'
     palette:
     font:
-      text: Open Sans
-
+    text: Roboto
+    code: Roboto Mono
+    
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
