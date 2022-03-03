@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
-            "mode": "source"
+            "file": "docs/Teaching/Multiplatform Publishing/From InDesign to HTML.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,76 +19,62 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7f2be5d22c9cd631",
-    "type": "split",
+    "id": "a296b56367152e3f",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "3ccfe6b6535f02e2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b75252e7762e9789",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "277f18b1488013b4",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "50aefb66ea2d145f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ba953336de4fd5a0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "46ebb7e7c57a469c",
-    "type": "split",
+    "id": "543807f241edb5d2",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "3227d74d4efb168b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4bd5e455a3219fea",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "docs/index.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "946076b9d0bfc7e6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/Teaching/Multiplatform Publishing/From InDesign to HTML.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "24b51288c0d759b8",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/From InDesign to HTML.md",
     "docs/index.md",
     "docs/Teaching/Design and Production/week1.md",
     "docs/My Boat/Note 2.md",

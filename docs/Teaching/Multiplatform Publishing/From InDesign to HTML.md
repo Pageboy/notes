@@ -29,11 +29,10 @@ You only need to use standard tags and semantic class names. No need to worry ab
 
 ### Issues
 
-	* If you used a table for the Dramatis Personae
-		* Tables can be styled in CSS
-		* but advice to change to text
-	* If you have the play character on the same line as the first line of the speech
-		* Will need some extra CSS because the tab will disappear
+- If you used a table for the Dramatis Personae
+	- Tables can be styled in CSS but advice to change to text
+- If you have the play character on the same line as the first line of the speech
+	- Will need some extra CSS because the tab will disappear
 
 [Link to article: InDesign to HTML and CSS](https://www.publisha.org/pages/InDesign_to_HTML/)
 
