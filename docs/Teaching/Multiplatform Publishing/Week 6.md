@@ -21,26 +21,34 @@ hide:
 
 Note, you can go right back to the original book panel with the 2 files or use the new play if you added the 6 images in there.
 
-### What presentation?
+### Presentation?
+
+Much of this is a recap on the varois things learnt whai creating the HTML web page for the play. Essentially we look at the CSS equivelants of the InDesign paragraph and character styles.
 
 There is a longer one on Moodle - watch at your leisure
 
-eBook Typography from iCloud Ukraine
+[eBook Typography](https://www.publisha.org/keynotes/eBookTypography/)
 
 * Then demonstrate Dream play
 * From book panel
 * Articles additions
 * Export options
 * Export tagging
-* Toc on page in intro do not export
+* Toc on page in intro should not export
 
 Remember to add in the CSS file I made available on moodle
+
+[Here is the CSS file to add](<script src="https://gist.github.com/Pageboy/731b9b7ad8e42c324dc75528f159ad98.js"></script>).
 
 All images must be anchored and use the object style _scene-image_
 The export tagging for this must create a figure
 Style source is the intro so any changes must be included in that file (use load all text styles but also the object styles)
 Check the table of contents
 
-The first version will be rubbish so we need to go through the export tagging for the front matter.
+The first version will be rubbish so we need to go through the **export tagging** for the front matter.
 
-#multiplatform
+### Observations
+
+Apple Books has been updated later than the version on the iMacs on campus. One very important difference is the way that the table of contents is displayed. This now looks the same as the ios version with the cover shown on the left side of the page when in landcape mode.
+
+The original template (that we used for the play originally) has lots of un-named articls in the articles panel. **Please remove**.
