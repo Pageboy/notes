@@ -1,12 +1,12 @@
-:root {
+/* :root {
   --md-primary-fg-color: hsl(0, 86%, 57%);
   --md-primary-fg-color--light: #ecb7b7;
   --md-primary-fg-color--dark: #1a1112;
   --md-default-bg-color: rgb(37, 37, 37);
-}
+} */
 
 [data-md-color-scheme="slate"] {
-  --md-hue: 300;
+  --md-hue: 100;
 }
 
 /* body {
