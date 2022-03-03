@@ -1,4 +1,6 @@
-# What you should read or watch this week
+# Week 1
+
+## What you should read or watch this week
 
 *   [Read this article on Medium](https://medium.com/@shakespearesglobe/publishing-shakespeare-a-history-of-the-printing-press-1689d9b2f087): Publishing Shakespeare: a history of the printing press
 *   [Read this article at the Folger Archive](https://www.folger.edu/publishing-shakespeare)
