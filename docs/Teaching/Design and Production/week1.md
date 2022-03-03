@@ -1,6 +1,6 @@
 # What you should read or watch this week
 
-*   [Read this article on Medium](https://medium.com/@shakespearesglobe/publishing-shakespeare-a-history-of-the-printing-press-1689d9b2f087): <span style="font-size: 0.9375rem;">Publishing Shakespeare: a history of the printing press</span>
+*   [Read this article on Medium](https://medium.com/@shakespearesglobe/publishing-shakespeare-a-history-of-the-printing-press-1689d9b2f087): Publishing Shakespeare: a history of the printing press
 *   [Read this article at the Folger Archive](https://www.folger.edu/publishing-shakespeare)
 *   Check out the [Shakespeare First Folio web site](https://firstfolio.bodleian.ox.ac.uk) from the Bodliean Library in Oxford
 *   Look at the [Safari Online Playlist](https://learning.oreilly.com/playlists/e96cfcba-a000-4c90-bb5c-ed9113dd7345). You will find a lot of resources there to help you if InDesign is new to you
