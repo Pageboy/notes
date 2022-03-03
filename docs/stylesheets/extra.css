@@ -4,3 +4,11 @@
   --md-primary-fg-color--dark: #1a1112;
   --md-default-bg-color: rgb(37, 37, 37);
 }
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: #ecb7b7;
+}
