@@ -17,6 +17,9 @@ extra_css:
 theme:
     name: 'material'
     palette:
+      scheme: slate
+    font:
+      text: 'Open Sans'
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
