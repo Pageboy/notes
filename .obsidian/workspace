@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
-            "mode": "source"
+            "file": "docs/Teaching/Multiplatform Publishing/HowtodoJavascript.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Teaching/Multiplatform Publishing/HowtodoJavascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "fa0d4be82d6e8f63",
+            "id": "a0aaf3c26f72fe9c",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -92,19 +92,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "24b51288c0d759b8",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/HowtodoJavascript.md",
+    "docs/Medium/Sample Medium Publications.md",
+    "docs/Teaching/Multiplatform Publishing/Getting responsive with Flex.md",
     "docs/index.md",
     "docs/Medium/Untitled.md",
-    "docs/Medium/Sample Medium Publications.md",
     "docs/Teaching/Multiplatform Publishing/week 5 Shakespeare Play notes.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "README.md",
-    "docs/Teaching/Multiplatform Publishing/Screenshot 2022-02-08 at 15.59.26.png",
-    "docs/My Boat/Details.md",
-    "docs/My Boat/Introduction.md"
+    "docs/Teaching/Multiplatform Publishing/Screenshot 2022-02-08 at 15.59.26.png"
   ]
 }
