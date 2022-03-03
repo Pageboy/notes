@@ -24,10 +24,9 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-
-theme:
+    
     features:
-    - navigation.indexes
+      - navigation.indexes
 
 # Extensions
 markdown_extensions:
