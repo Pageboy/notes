@@ -10,10 +10,10 @@ body {
 }
 
 article h1 {
-  font-weight: 800;
+  font-weight: 900;
 }
 
-article h1 a.headerlink {
+article h1 {
   color: rgb(155, 38, 38);
 }
 
