@@ -1,5 +1,5 @@
 :root {
-  --md-primary-fg-color: #ee0f0f;
+  --md-primary-fg-color: hsl(0, 86%, 57%);
   --md-primary-fg-color--light: #ecb7b7;
   --md-primary-fg-color--dark: #1a1112;
   --md-default-bg-color: rgb(37, 37, 37);
@@ -10,9 +10,8 @@ body {
 }
 
 article h1 {
-  color: #9b2626 !important;
-  font-weight: 900;
-  border-bottom: 3px solid #8f8f0c;
+  color: #f86060 !important;
+  font-weight: bolder;
 }
 
 h2 {
