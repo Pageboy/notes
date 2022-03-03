@@ -2,6 +2,13 @@ site_name: Note Seeds
 site_description: My personal digital garden
 site_author: Chris Jennings
 site_url: https://notes.chrisjennings.net
+copyright: Copyright &copy; 2022 Chris Jennings
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/pageboy
+    - icon: fontawesome/brands/instagram 
+      link: https://instagram.com/pagebuoy
 
 theme:
     name: 'material'
@@ -29,14 +36,9 @@ theme:
       - navigation.indexes
     extra_css:
       - stylesheets/extra.css
-    extra:
-      social:
-        - icon: fontawesome/brands/twitter 
-          link: https://twitter.com/pageboy
-        - icon: fontawesome/brands/instagram 
-          link: https://instagram.com/pagebuoy
 
-    copyright: Copyright &copy; 2022 Chris Jennings
+
+   
 # Extensions
 markdown_extensions:
   - footnotes
