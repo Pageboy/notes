@@ -9,6 +9,10 @@ extra:
       link: https://twitter.com/pageboy
     - icon: fontawesome/brands/instagram 
       link: https://instagram.com/pagebuoy
+features:
+  - navigation.indexes
+extra_css:
+  - stylesheets/extra.css
 
 theme:
     name: 'material'
@@ -26,16 +30,13 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue grey
+      primary: black
       accent: blue
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
     
-    features:
-      - navigation.indexes
-    extra_css:
-      - stylesheets/extra.css
+
 
 
    
