@@ -1,17 +1,10 @@
-/* :root {
-  --md-primary-fg-color: hsl(0, 86%, 57%);
-  --md-primary-fg-color--light: #ecb7b7;
-  --md-primary-fg-color--dark: #1a1112;
-  --md-default-bg-color: rgb(37, 37, 37);
-} */
-
 [data-md-color-scheme="slate"] {
   --md-hue: 300;
-  --md-default-fg-color: hsla(333, 100%, 72%, 1);
-  --md-default-fg-color--light: hsla(29, 86%, 59%, 0.692);
-  --md-default-fg-color--lighter: hsla(300, 53%, 37%, 0.32);
+  --md-default-fg-color: hsla(333, 30%, 63%, 0.918);
+  --md-default-fg-color--light: hsl(2, 50%, 45%);
+  --md-default-fg-color--lighter: hsl(0, 31%, 65%);
   --md-default-fg-color--lightest: hsla(300, 75%, 90%, 0.12);
-  --md-default-bg-color: rgb(29, 21, 29);
+  --md-default-bg-color: hsl(300, 0%, 15%);
   --md-default-bg-color--light: hsla(var(--md-hue), 15%, 10%, 0.54);
   --md-default-bg-color--lighter: hsla(var(--md-hue), 15%, 10%, 0.26);
   --md-default-bg-color--lightest: hsla(var(--md-hue), 15%, 10%, 0.07);
