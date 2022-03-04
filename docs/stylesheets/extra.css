@@ -5,9 +5,15 @@
   --md-default-fg-color--lighter: hsl(0, 16%, 89%);
   --md-default-fg-color--lightest: hsla(300, 75%, 90%, 0.12);
   --md-default-bg-color: hsl(300, 0%, 15%);
-  --md-default-bg-color--light: hsla(300, 11%, 4%, 0.733);
+  --md-default-bg-color--light: hsl(300, 10%, 4%);
   --md-default-bg-color--lighter: hsla(240, 13%, 9%, 0.966);
   --md-default-bg-color--lightest: hsla(300, 11%, 14%, 0.07);
+
+  --md-typeset-color: hsla(12, 60%, 49%, 0.918);
+
+  --md-typeset-a-color: hsla(263, 42%, 51%, 0.918);
+
+  --md-typeset-mark-color: hsla(49, 42%, 51%, 0.918);
 }
 
 /* body {
@@ -19,7 +25,7 @@ article h1 {
 }
 
 article ul {
-  list-style: none; /* Remove default bullets */
+  list-style: none !important; /* Remove default bullets */
 }
 
 article ul li::before {
