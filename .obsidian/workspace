@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/My Boat/Details.md",
+            "file": "docs/My Boat/Introduction.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/My Boat/Details.md",
+                "file": "docs/My Boat/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "24b51288c0d759b8",
   "lastOpenFiles": [
+    "docs/My Boat/Introduction.md",
     "docs/My Boat/Details.md",
     "docs/Teaching/Multiplatform Publishing/HowtodoJavascript.md",
     "docs/Medium/Sample Medium Publications.md",
@@ -104,7 +105,6 @@
     "docs/Medium/Untitled.md",
     "docs/Teaching/Multiplatform Publishing/week 5 Shakespeare Play notes.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
-    "docs/Teaching/Multiplatform Publishing/Week 6.md",
-    "README.md"
+    "docs/Teaching/Multiplatform Publishing/Week 6.md"
   ]
 }
