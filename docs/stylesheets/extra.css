@@ -7,7 +7,7 @@
   --md-default-bg-color: hsl(300, 0%, 15%);
   --md-default-bg-color--light: hsl(300, 10%, 4%);
   --md-default-bg-color--lighter: hsla(240, 13%, 9%, 0.966);
-  --md-default-bg-color--lightest: hsla(300, 12%, 5%, 0.644);
+  --md-default-bg-color--lightest: hsla(300, 12%, 5%, 0.911);
 
   /* --md-typeset-color: hsla(12, 60%, 49%, 0.918);
 
@@ -20,7 +20,8 @@
   background-color: #221c1c !important;
 } */
 
-article h1 {
+article h1,
+article h2 {
   font-weight: 700 !important;
 }
 
