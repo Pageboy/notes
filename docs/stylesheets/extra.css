@@ -2,26 +2,21 @@
   --md-hue: 300;
   --md-default-fg-color: hsla(333, 30%, 63%, 0.918);
   --md-default-fg-color--light: hsl(2, 50%, 45%);
-  --md-default-fg-color--lighter: hsl(0, 31%, 65%);
+  --md-default-fg-color--lighter: hsl(0, 23%, 78%);
   --md-default-fg-color--lightest: hsla(300, 75%, 90%, 0.12);
   --md-default-bg-color: hsl(300, 0%, 15%);
-  --md-default-bg-color--light: hsla(var(--md-hue), 15%, 10%, 0.54);
-  --md-default-bg-color--lighter: hsla(var(--md-hue), 15%, 10%, 0.26);
-  --md-default-bg-color--lightest: hsla(var(--md-hue), 15%, 10%, 0.07);
+  --md-default-bg-color--light: hsla(300, 11%, 4%, 0.733);
+  --md-default-bg-color--lighter: hsla(300, 15%, 10%, 0.26);
+  --md-default-bg-color--lightest: hsla(300, 11%, 14%, 0.07);
 }
 
 /* body {
   background-color: #221c1c !important;
 } */
 
-/* article h1 {
-  color: #f86060 !important;
+article h1 {
   font-weight: bolder;
 }
-
-h2 {
-  color: #ecb7b7;
-} */
 
 article ul {
   list-style: none; /* Remove default bullets */
