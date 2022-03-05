@@ -17,7 +17,9 @@ extra_css:
 theme:
     name: 'material'
     palette:
-    # Light mode
+      accent: amber
+
+   # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: black
@@ -30,7 +32,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: blue
+      accent: amber
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
