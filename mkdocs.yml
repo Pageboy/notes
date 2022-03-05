@@ -17,13 +17,11 @@ extra_css:
 theme:
     name: 'material'
     palette:
-      accent: amber
-
-   # Light mode
+    # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: black
-      accent: indigo
+      accent: amber
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
