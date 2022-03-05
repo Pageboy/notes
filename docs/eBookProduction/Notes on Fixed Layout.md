@@ -34,11 +34,8 @@ This does involve some editing of the HTML as well as the CSS, so beware that yo
 
 Here is an example of the output from InDesign to the fixed-layout ePub:
 
-  
 
 `<span id="idTextSpan003" class="CharOverride-2" style="position:absolute;top:-70.31px;left:0px;letter-spacing:-0.64px;">Shakespeare</span>`
-
-  
 
 Yes, I know. Kind off complex isn’t it?
 
@@ -46,55 +43,38 @@ You will see that the word ’Shakespeare’ is enclosed in a span tag.
 
 What we need to do is to enclose each of the letters that need to use the swash in another span tag. (It is perfectly legitimate to nest span tags). This span tag needs a class:
 
-  
 
 `<span id="idTextSpan003" class="CharOverride-2" style="position:absolute;top:-70.31px;left:0px;letter-spacing:-0.64px;">Sha<span class="swash">k</span>espear <span class="swash"> e</span></span>`
 
-  
 
 I have gone for the ‘k’ and the last ‘e’.
 
 Now we need to add some CSS and we can do this in the CSS file that InDesign has created (or we can create our own CSS file to be loaded at export time):
-
   
 
-`span.swash \{
-
+```css
+span.swash {
 font-feature-settings: "swsh" 1;
-
-\}
-
-`
+}
+```
 
 The font that I am using here is the revival FELL font created by [Igino Marini][1].
-
-  
 
 ### Fixed layout options from InDesign
 
 To make a fixed-layout landscape where the print book is portrait spreads, choose _Convert Spread to Landscape page_
 
-  
-
 ![export fixed-layout options](/images/2016/12/Screenshot 2016-12-21 15.38.35.png)
 
-  
-
 If you choose this option then you will fail if you try to convert to Kindle KF8 because KindleGen cannot locate the proper pages in the toc.
-
-  
 
 ### Footnote Options for the Fixed-layout ePub
 
 InDesign can build the footnotes perfectly well for print / PDF. Some clever options for the styling and the amount of offset from the body text. This will translate to the fixed-layout ePub; what you see is what you'll get. The reflowable ePub (from InDesign) will provide the option for making the footnotes popups (nice), or making the footnotes hyperlinked to the back of the book (endnotes). Fixed-layout export does not give you any options like this, so you will need to consider a hack if you want anything different.
 
-  
-
 #### Let's hack the footnotes then
 
 see [my web site](http://www.pagetoscreen.net/journal/item/footnotes_in_the_fixed_layout_epub) and grab the text
-
-  
 
 ### Table of Contents
 
@@ -104,27 +84,16 @@ The table of contents can be on the page and also as a logical TOC (provided in 
 
 When the heading item in the TOC is present in the cell of a table and the cell spans the spread (which then becomes a forced landscape page), the item is repeated in the TOC. You can only resolve this by editing the toc.xhtml file inside the ePub package.
 
-  
-
 Other noted issue: if your print ready InDesign has objects outside the page, then if you export the fixed-layout as 'Based on Document setup'- and you have 2 pages portrait as spread, then you may observe scrollbars in the eBook.
-
-  
 
 ## Decision workflow
 
-  
-
 Is the book to be both print and eBook?
-
-  
-
 ### If Yes
 
 Has the page size been determined?
 
 Will this be fixed layout?
-
-  
 
 Page size:
 
