@@ -13,10 +13,9 @@ How do make sure that the book starts at a specific point
 - Audio
 - Video
 
-# Issues
+## Issues
 - Table of Contents
 - Page numbers
 - Content over the spread
 
-#epubproduction #multiplatform
 

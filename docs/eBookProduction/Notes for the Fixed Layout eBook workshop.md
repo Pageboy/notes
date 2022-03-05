@@ -1,4 +1,5 @@
 # Notes for the Fixed Layout eBook workshop
+
 ## Not using InDesign
 Template for fixed layout ePub without using InDesign
 Use code editor to add XHTML pages and then add to manifest in content.opf
@@ -21,7 +22,6 @@ When coming from print
 
  > Use spreads but make the page size in pixels rather than millimetres or points: You may need to resize the page size slightly. The result is a page width of **396 pixels** and page height of **594 pixels**. When we add 2 pages together the landscape becomes 792 x 594 = 8 x 6.
 
-#epubproduction
 
 
 

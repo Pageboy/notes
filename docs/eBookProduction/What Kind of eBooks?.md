@@ -86,7 +86,7 @@ OK, let's now try to build a list of the choices
 
 ### Fonts
 
-- Use Typekit?
+- Use Adobe Fonts?
 
 - Choose iOS fonts?
 
