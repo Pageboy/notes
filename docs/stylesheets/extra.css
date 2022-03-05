@@ -20,7 +20,7 @@
 
   /* Accent color shades */
   --md-accent-fg-color: rgb(224, 245, 147);
-  --md-accent-fg-color--transparent: hsla(#{hex2hsl($clr-indigo-a200)}, 0.1);
+  --md-accent-fg-color--transparent: hsl(44, 52%, 49%);
   --md-accent-bg-color: hsla(0, 0%, 100%, 1);
   --md-accent-bg-color--light: hsla(0, 0%, 100%, 0.7);
 }
