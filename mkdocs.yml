@@ -29,7 +29,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: lime
+      primary: black
       accent: amber
       toggle:
         icon: material/toggle-switch
