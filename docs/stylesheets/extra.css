@@ -17,6 +17,12 @@
 
   --md-code-fg-color: hsla(300, 18%, 86%, 1);
   --md-code-bg-color: rgb(12, 9, 12);
+
+  /* Accent color shades */
+  --md-accent-fg-color: rgb(224, 245, 147);
+  --md-accent-fg-color--transparent: hsla(#{hex2hsl($clr-indigo-a200)}, 0.1);
+  --md-accent-bg-color: hsla(0, 0%, 100%, 1);
+  --md-accent-bg-color--light: hsla(0, 0%, 100%, 0.7);
 }
 
 /* body {
