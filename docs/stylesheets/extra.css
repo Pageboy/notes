@@ -28,6 +28,10 @@ article h2 {
   font-weight: 700 !important;
 }
 
+article h2 {
+  color: blueviolet;
+}
+
 article ul {
   list-style: none !important; /* Remove default bullets */
 }

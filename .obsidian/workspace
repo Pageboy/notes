@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/My Boat/Introduction.md",
-            "mode": "preview"
+            "file": "docs/Teaching/Multiplatform Publishing/Week 6.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/My Boat/Introduction.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "24b51288c0d759b8",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 6.md",
+    "docs/index.md",
+    "docs/eBookProduction/What Kind of eBooks?.md",
+    "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
+    "docs/eBookProduction/Notes on Fixed Layout.md",
     "docs/My Boat/Introduction.md",
     "docs/My Boat/Details.md",
     "docs/Teaching/Multiplatform Publishing/HowtodoJavascript.md",
     "docs/Medium/Sample Medium Publications.md",
-    "docs/Teaching/Multiplatform Publishing/Getting responsive with Flex.md",
-    "docs/index.md",
-    "docs/Medium/Untitled.md",
-    "docs/Teaching/Multiplatform Publishing/week 5 Shakespeare Play notes.md",
-    "docs/Teaching/Multiplatform Publishing/Week 5.md",
-    "docs/Teaching/Multiplatform Publishing/Week 6.md"
+    "docs/Teaching/Multiplatform Publishing/Getting responsive with Flex.md"
   ]
 }
