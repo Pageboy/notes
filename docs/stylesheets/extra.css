@@ -9,11 +9,11 @@
   --md-default-bg-color--lighter: hsla(240, 13%, 9%, 0.966);
   --md-default-bg-color--lightest: hsla(300, 12%, 5%, 0.911);
 
-  /* --md-typeset-color: hsla(12, 60%, 49%, 0.918);
+  /* --md-typeset-color: hsla(12, 60%, 49%, 0.918); */
 
-  --md-typeset-a-color: hsla(263, 42%, 51%, 0.918);
+  --md-typeset-a-color: hsl(27, 42%, 51%);
 
-  --md-typeset-mark-color: hsla(49, 42%, 51%, 0.918); */
+  /* --md-typeset-mark-color: hsla(49, 42%, 51%, 0.918); */
 
   --md-code-fg-color: hsla(300, 18%, 86%, 1);
   --md-code-bg-color: rgb(12, 9, 12);
