@@ -1,7 +1,7 @@
 ---
 hide:
   - navigation
- published: false
+published: false
 ---
 
 # Week 6
