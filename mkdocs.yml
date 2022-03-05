@@ -44,6 +44,7 @@ theme:
    
 # Extensions
 markdown_extensions:
+  - meta
   - footnotes
   - pymdownx.highlight:
       anchor_linenums: false
