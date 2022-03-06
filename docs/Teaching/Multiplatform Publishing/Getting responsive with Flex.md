@@ -59,4 +59,3 @@ figure {
   }
 
 ```
-#multiplatform

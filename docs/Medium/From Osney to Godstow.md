@@ -17,5 +17,3 @@ Cracks appeared in the road on the north side of the bridge on the morning of De
 https://www.oxfordmail.co.uk/resources/images/13149943.jpg?type=article-full
 
 Rebuilding work finally began and the bridge reopened on December 22, 1888. The bill was said to be £4,500, although that probably didn’t include the cost of litigation, the temporary bridge and the constant replacement of barriers.
-
-#medium

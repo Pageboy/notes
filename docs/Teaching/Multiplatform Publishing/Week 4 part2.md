@@ -1,5 +1,3 @@
-#multiplatform
-
 # Week 4.5
 ## Building the responsive menu
 **Steps**

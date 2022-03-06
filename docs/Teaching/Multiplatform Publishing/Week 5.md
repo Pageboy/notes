@@ -138,6 +138,3 @@ It is very important that you build your site from the home page  `index.html`  
 
 * Move into the css folder and Add file in there
 * Alternatively you can replace the **docs** folder altogether as long as this is working locally
-
-
-#multiplatform

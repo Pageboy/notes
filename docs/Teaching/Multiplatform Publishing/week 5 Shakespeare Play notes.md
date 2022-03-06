@@ -13,5 +13,3 @@ Use _min-width_ for media queries to change for wider screen
 
 If you target larger first then:
 Use *max-width* for media queries
-
-#multiplatform

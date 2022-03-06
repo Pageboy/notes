@@ -5,5 +5,3 @@ In Affinity this can be :
 Export smaller version for social:
 
 1600 x 900
-
-#art

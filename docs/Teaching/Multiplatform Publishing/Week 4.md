@@ -1,5 +1,3 @@
-#multiplatform
-
 # Week 4
 CSS for the play and responsive menu
 

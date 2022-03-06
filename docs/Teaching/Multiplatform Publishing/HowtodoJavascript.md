@@ -1,5 +1,3 @@
-#multiplatform
-
 # How to do Javascript
 Explain javascript with this:
 

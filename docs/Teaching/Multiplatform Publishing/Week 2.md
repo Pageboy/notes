@@ -30,5 +30,3 @@ Install git: xcode-select --install
 
 If you don't have Git on your home PC:
 https://git-scm.com/downloads
-
-#multiplatform

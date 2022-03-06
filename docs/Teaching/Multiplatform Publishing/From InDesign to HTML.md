@@ -38,6 +38,3 @@ You only need to use standard tags and semantic class names. No need to worry ab
 
 [Link to article: InDesign to HTML and CSS](https://www.publisha.org/pages/InDesign_to_HTML/)
 
-
-#multiplatform
-

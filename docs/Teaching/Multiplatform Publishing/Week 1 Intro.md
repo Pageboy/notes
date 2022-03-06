@@ -26,6 +26,3 @@ break
 * create index.html
 * create cover from PDF
 * add the jpeg to the images folder
-
-
-#multiplatform
