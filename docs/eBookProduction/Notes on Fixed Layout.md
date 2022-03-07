@@ -7,7 +7,6 @@ When adding local HTML to page in InDesign:
 If you are adding style or script information you may find that the ePub does not validate. There are 2 reasons for this:
 
 - you will find a tag 'object' wrapping the item that you added
-
 - InDesign export also adds 'scope' to the enclosing div.
 
 ### The fix
@@ -15,7 +14,6 @@ If you are adding style or script information you may find that the ePub does no
 You will need to post edit the ePub to do the following:
 
 - remove the \<object\> tag altogether
-
 - add the value to the scope attribute like this:
 
 `scope='scope'`
@@ -106,3 +104,4 @@ You can fork the eBook version and modify the page size if you really need a mor
   
 
 ## Videos across a spread
+

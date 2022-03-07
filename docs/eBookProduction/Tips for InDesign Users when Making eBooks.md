@@ -2,13 +2,10 @@
 
 >**Note**: There are differences between these 4 scenarios:
 
-+ You have already designed for print and are intending to export for the re-flowable ePub.
-
-+ You have already designed for print and are intending to export for the fixed-layout ePub.
-
-+ You are not creating a print version but just a re-flowable ePub
-
-+ You are not creating a print version but just a fixed-layout ePub
+- You have already designed for print and are intending to export for the re-flowable ePub.
+- You have already designed for print and are intending to export for the fixed-layout ePub.
+- You are not creating a print version but just a re-flowable ePub
+- You are not creating a print version but just a fixed-layout ePub
 
 ## Turn on hidden characters
 
