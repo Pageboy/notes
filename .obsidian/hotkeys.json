@@ -14,5 +14,13 @@
       ],
       "key": "N"
     }
+  ],
+  "tag-pane:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }

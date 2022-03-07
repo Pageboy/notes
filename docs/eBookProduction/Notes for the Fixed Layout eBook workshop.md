@@ -1,4 +1,4 @@
-# Notes for the Fixed Layout eBook workshop
+# Notes for a Fixed Layout eBook workshop
 
 ## Not using InDesign
 Template for fixed layout ePub without using InDesign

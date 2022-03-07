@@ -38,7 +38,7 @@ There is a longer one on Moodle - watch at your leisure
 
 Remember to add in the CSS file I made available on moodle
 
-[Here is the CSS file to add](<script src="https://gist.github.com/Pageboy/731b9b7ad8e42c324dc75528f159ad98.js"></script>).
+[Here is the CSS file to add](https://gist.github.com/Pageboy/731b9b7ad8e42c324dc75528f159ad98).
 
 All images must be anchored and use the object style _scene-image_
 The export tagging for this must create a figure

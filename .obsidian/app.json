@@ -1,5 +1,9 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "docs/media"
+  "attachmentFolderPath": "docs/media",
+  "spellcheck": true,
+  "livePreview": false,
+  "foldHeading": true,
+  "foldIndent": true
 }

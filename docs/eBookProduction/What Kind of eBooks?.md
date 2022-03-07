@@ -24,6 +24,8 @@ So, in summary, the ePub can either be used to deliver *re-flowable* or *fixed-l
 
 The ePub file can be converted to the Kindle `mobi` format (see below), and Amazon make available tools to make this conversion relatively painless[^1]. A good publishing strategy is to create for the ePub format first and then convert to the Kindle format from your validated ePub file. This is the best way you get the best of both worlds because you can test on the devices before release. On the other hand, Amazon will convert the ePub for you when you submit the ePub to them, however, you will not see the Kindle version until it is already on the Amazon Kindle store.
 
+> Update: Amazon now recommend that you simply submit the ePub file to them, rather than convert the file yourself.
+
 ## Kindle Formats
 
 I am separating these formats out because they are specific to the Amazon family of products such as the Kindle eInk reader.
@@ -36,7 +38,7 @@ The Kindle formats are not an open (public) formats and no devices other than th
 
 This format of eBook can only be created with Apple's free software; iBooks Author.
 
->Apple iBooks Author is discontinued and Apple have enhanced their word processor software  _Page_ such that it can export reflowable eBooks (in the ePub format).
+>Apple iBooks Author is discontinued and Apple have enhanced their word processor software  _Pages_ such that it can export reflowable eBooks (in the ePub format).
 
 This is a proprietary format, only viewable on Apple devices (iPad or MAC) and is more difficult to define. It is a package of files in a container that has similar characteristics to the ePub, but post editing the contents is not recommended! The iBook format can be read on the iPad's iBooks app or on a MAC with iBooks.
 
