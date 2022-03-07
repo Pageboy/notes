@@ -38,6 +38,10 @@ article h2 {
   color: rgb(168, 97, 38);
 }
 
+article h3 {
+  color: rgb(129, 93, 63);
+}
+
 article ul {
   list-style: none !important; /* Remove default bullets */
 }
