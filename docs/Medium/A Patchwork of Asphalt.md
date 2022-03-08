@@ -12,5 +12,4 @@ There are so many services present under our pavements. Gas, electric, water and
 
 To be added:
 
-
-![[Recording 20220308105512.webm]]
+Video on the street? Good weather/ bad weather.
