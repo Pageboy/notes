@@ -7,6 +7,10 @@ I spend a lot of time walking around our neighbourhood streets and do a goof dea
 
 ## Underground
 
-There are so many services present under our pavements. Gas, electric, water and more recently cable services. Occasionally they need to be reached by digging through the asphalt and laying a patch after the job is complete. I do  hope that plans exist to register where these services run. 
+There are so many services present under our pavements. Gas, electric, water and more recently cable services. Occasionally they need to be reached by digging through the asphalt and laying a patch after the job is complete. I do  hope that plans exist to register where these services run.
 
-#medium
+
+To be added:
+
+
+![[Recording 20220308105512.webm]]

@@ -30,7 +30,7 @@ There is a longer one on Moodle - watch at your leisure
 [eBook Typography](https://www.publisha.org/keynotes/eBookTypography/)
 
 * Then demonstrate Dream play
-* From book panel
+* From [book panel](https://www.publisha.org/pages/InDesignBookPanel/)
 * Articles additions
 * Export options
 * Export tagging
