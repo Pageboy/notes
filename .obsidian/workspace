@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24b51288c0d759b8",
+        "id": "0797c7fdc86a7c09",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/Medium/A Patchwork of Asphalt.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Medium/A Patchwork of Asphalt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +93,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "24b51288c0d759b8",
+  "active": "0797c7fdc86a7c09",
   "lastOpenFiles": [
     "docs/Medium/A Patchwork of Asphalt.md",
     "docs/Teaching/Multiplatform Publishing/Week 6.md",
