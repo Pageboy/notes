@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/private/This is a private note.md",
-            "mode": "source"
+            "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/private/This is a private note.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "0797c7fdc86a7c09",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 7.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
+    "[[ePub_content_opf]].md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
+    "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "docs/private/This is a private note.md",
     "docs/Medium/A Patchwork of Asphalt.md",
-    "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
-    "README.md",
-    "docs/Teaching/Multiplatform Publishing/Getting responsive with Flex.md",
-    "docs/Teaching/Design and Production/week1.md",
-    "docs/Medium/From Osney to Godstow.md",
-    "docs/eBookProduction/What Kind of eBooks?.md",
-    "docs/art/Image sizes for export.md"
+    "README.md"
   ]
 }

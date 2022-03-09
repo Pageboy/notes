@@ -6,5 +6,7 @@
   "livePreview": false,
   "foldHeading": true,
   "foldIndent": true,
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "showFrontmatter": true,
+  "autoConvertHtml": false
 }

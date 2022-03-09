@@ -1,9 +1,3 @@
----
-hide:
-  - navigation
-published: false
----
-
 # Week 6
 ## eBook intro
 
