@@ -1,3 +1,8 @@
+# Here is a typical toc.ncx file 
+used for backward compatability for older e-readers 
+
+Referenced from [[Week 7]]
+
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
