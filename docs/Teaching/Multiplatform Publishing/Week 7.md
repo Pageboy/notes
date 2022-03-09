@@ -14,13 +14,12 @@ If we know the names of the tags and class names of the HTML selectors, then we 
 
 In our project we do have one that is available (as a starting point) [we can find it here in this `gist`](https://gist.github.com/Pageboy/731b9b7ad8e42c324dc75528f159ad98) 
 
-However, we can make our own by copying the main one that InDesign creates. **How?**
-- Unpack the ePub created from the InDesign export
-	- we use eCanCrusher to do this
+- However, we can make our own by copying the main one that InDesign creates. **How?**
+- Unpack the ePub created from the InDesign export - we use eCanCrusher to do this
 - Open the folder with vscode and locate the file called `idGeneratedStyles_0.css`
 - we can duplicate this file as something like `eplay.css`
-	- in this CSS we can modify the rules within the selectors; these will then overwrite the InDesign at export time
-	- we do need to select this new CSS file at export time
+- in this CSS we can modify the rules within the selectors; these will then overwrite the InDesign at export time
+- we do need to select this new CSS file at export time
 
 ### Roundtrip
 By having our own CSS file and _only_ editing this file, we can go back to InDesign and make changes as long as we don't make new styles or change the export tagging for the ePub.
