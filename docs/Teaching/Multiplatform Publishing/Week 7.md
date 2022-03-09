@@ -1,3 +1,4 @@
+
 # Week 7
 
 Any questions or issues or any reminders needed?
@@ -110,5 +111,32 @@ This one looks like this: [[ePub_toc_xhtml]]
 
 >These files should not be edited, however if there is a problem with the table of contents one could edit this as a last resort, noting that this will upset the _roundtrip_ to InDesign as mentioned before.
 
+### The guide section of the content.opf
+
+The guide section in the content.opf file is not officially needed for the ePub3 package and it’s function is replaced by the `landmarks` section of the navigation document (toc.xhtml)
+
+### The landmarks section
+
+```html
+<nav epub:type="landmarks">
+	<h2>Landmarks</h2>
+		<ol>
+			<li><a epub:type="cover" href="cover.xhtml">Cover</a></li>
+		</ol>
+</nav>
+
+```
+
+The landmarks section is generated from InDesign at export time and the elements within should come from the export options settings. However, I don’t believe that this functions properly.
+
+If you add the following to one of the items in the Landmarks section, the eBook will open on that page:
+
+`epub:type="ibooks:reader-start-page"`
+
+This is from the specific iBooks vocabulary and will only make a difference on Apple devices if you add the following attribute to the HTML tag at the top of the toc.xhtml page:
+
+```xhtml
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+```
 
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,10 +106,10 @@
   },
   "active": "0797c7fdc86a7c09",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
-    "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "[[ePub_content_opf]].md",
     "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "docs/private/This is a private note.md",
