@@ -1,3 +1,8 @@
+---
+hide:
+ - navigation
+---
+
 # Week 7
 
 Any questions or issues or any reminders needed?
