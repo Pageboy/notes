@@ -7,8 +7,11 @@
         "id": "0797c7fdc86a7c09",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/private/This is a private note.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/private/This is a private note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,16 +89,25 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "a6404c7f60358166",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "0797c7fdc86a7c09",
   "lastOpenFiles": [
+    "docs/private/This is a private note.md",
     "docs/Medium/A Patchwork of Asphalt.md",
     "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
@@ -103,7 +116,6 @@
     "docs/Teaching/Design and Production/week1.md",
     "docs/Medium/From Osney to Godstow.md",
     "docs/eBookProduction/What Kind of eBooks?.md",
-    "docs/art/Image sizes for export.md",
-    "docs/index.md"
+    "docs/art/Image sizes for export.md"
   ]
 }
