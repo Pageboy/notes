@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-=======
 ---
 hide:
  - navigation
 ---
->>>>>>> f79e766c707ba5a4354c3ebcf6eba3a3506a2618
 
 # Week 7
 
