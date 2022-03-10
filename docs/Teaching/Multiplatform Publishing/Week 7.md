@@ -147,7 +147,7 @@ This is from the specific iBooks vocabulary and will only make a difference on A
 
 ### eReaders
 
-By this I mean the software that shows the eBook. There are a number for computers (Mac and PC). By default, if you have a MAC your will have Apple Books. If you want alternative, then I suggest [Thorium (free download) from here](https://www.edrlab.org/software/thorium-reader/). This works on both MAC and PC. Another one is Adobe Digital Editions (also free) for both MAC and PC.
+By this I mean the software that shows the eBook. There are a number for computers (Mac and PC). By default, if you have a MAC your will have Apple Books. If you want an alternative, then I suggest [Thorium (free download) from here](https://www.edrlab.org/software/thorium-reader/). This works on both MAC and PC. Another one is [Adobe Digital Editions](https://www.adobe.com/uk/solutions/ebook/digital-editions/download.html) (also free) for both MAC and PC.
 
 You can email the ePub file to yourself and open on your Phone or tablet. On iOS you have Apple Books, other devices have their own. If you have a Kindle, you can also get the eBook there, but you may need to do this via a cable.
 
