@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
-            "mode": "source"
+            "file": "docs/private/Perspectief/Perspectief details for EA.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -18,104 +19,81 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "36d3e10b0bb5f117",
-    "type": "split",
+    "id": "3f1529342dbc0b4d",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "664e6a5d007695f6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9953681c41b79232",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "05e021a5dabc4bc9",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "f3c7a1bc7c9c7654",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "12cc299f36e6a85d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "13a822f6f498652e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "4c7ebc74a018bc8f",
-    "type": "split",
+    "id": "25819866ccd51a0f",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "adfe6f4ee1a3b1d4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9ba2b2453d428b27",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "52679663269a4bec",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "a6404c7f60358166",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
+        "id": "0ff0aef4c1393d05",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/private/Perspectief/Perspectief details for EA.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 2
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "0797c7fdc86a7c09",
   "lastOpenFiles": [
-    "docs/Teaching/Multiplatform Publishing/Week 7.md",
+    "docs/private/Perspectief/Perspectief details for EA.md",
+    "docs/private/Perspectief/Introduction.md",
+    "docs/private/Africa Publishing.md",
     "docs/private/This is a private note.md",
     "docs/private/Jekyll Resources.md",
     "docs/private/Open Source Wikis.md",
-    "docs/private/Africa Publishing.md",
+    "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
-    "[[ePub_content_opf]].md",
-    "docs/Teaching/Multiplatform Publishing/Week 6.md"
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md"
   ]
 }

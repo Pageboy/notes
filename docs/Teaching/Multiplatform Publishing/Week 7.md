@@ -141,7 +141,7 @@ If you add the following to one of the items in the Landmarks section, the eBook
 
 This is from the specific iBooks vocabulary and will only make a difference on Apple devices if you add the following attribute to the HTML tag at the top of the toc.xhtml page:
 
-```xhtml
+```html
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
 ```
 
