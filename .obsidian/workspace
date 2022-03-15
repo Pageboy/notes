@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/private/Jekyll Resources.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "36d3e10b0bb5f117",
+    "id": "11d804a8000833b9",
     "type": "split",
     "children": [
       {
-        "id": "664e6a5d007695f6",
+        "id": "fdc07816321652d2",
         "type": "tabs",
         "children": [
           {
-            "id": "9953681c41b79232",
+            "id": "f094ec7d15a61094",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "05e021a5dabc4bc9",
+            "id": "656cd21bb3b21687",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "4c7ebc74a018bc8f",
+    "id": "ec99f3c97133d0e3",
     "type": "split",
     "children": [
       {
-        "id": "adfe6f4ee1a3b1d4",
+        "id": "90aa748a757e4405",
         "type": "tabs",
         "children": [
           {
-            "id": "9ba2b2453d428b27",
+            "id": "bf45eb945f4adfe0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/private/Jekyll Resources.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "52679663269a4bec",
+            "id": "79b2a05c59f5e8a5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -91,7 +91,7 @@
             }
           },
           {
-            "id": "a6404c7f60358166",
+            "id": "faf01fcb3a0a2301",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -103,19 +103,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 189.5
   },
   "active": "0797c7fdc86a7c09",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 8.md",
+    "docs/art/19 Feb 2022.md",
+    "docs/art/Image sizes for export.md",
     "docs/private/Jekyll Resources.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/private/This is a private note.md",
     "docs/private/Open Source Wikis.md",
     "docs/private/Africa Publishing.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
-    "[[ePub_content_opf]].md",
-    "docs/Teaching/Multiplatform Publishing/Week 6.md"
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md"
   ]
 }
