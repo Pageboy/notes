@@ -1,4 +1,6 @@
-# Some reminders for the re-flowable eBook
+# Week 8
+
+>Some reminders for the re-flowable eBook
 
 ## Footnotes
 I have a very comprehensive [document about footnotes here](https://www.publisha.org/pages/footnotes/).
