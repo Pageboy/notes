@@ -1,4 +1,7 @@
-# Some reminders for the re-flowable eBook
+# Week 8
+Any issues for general airing?
+
+>Some reminders for the re-flowable eBook
 
 ## Footnotes
 I have a very comprehensive [document about footnotes here](https://www.publisha.org/pages/footnotes/).
@@ -109,6 +112,8 @@ To get the best control over the image styling it is best to use an Object style
 In the reflowable eBook, images will enlarge when clicked in the eReader software. However, the images within InDesign must be of a reasonably large size and when exporting to the ePub (reflowable) use the following settings for  `object`:
 ![[Screenshot 2022-03-15 at 16.45.11.png]]
 
+>Note: Popup image enlargements only works on Apple Books; it does not work in Thorium nor Adobe Digital Editions.
+
 ## Heading space
 If you want headings to start half way down the page you will need to use some extra CSS to add a margin-top to that style.
 
@@ -124,6 +129,39 @@ See here what I added:
 ```
 
 
+## In the Play
+If you used the technique to put the character name on the first line of the speech then you need some specific CSS to get good results in the eBook.
 
+I did publish this in the providede CSS but have since discovered a better solution using `inline-block`.
+
+```css
+p.prose {
+  margin-left: 85px;
+  text-indent: 0;
+  line-height:1.4
+}
+
+p.verseline {
+  margin-left: 85px;
+  text-indent: 0;
+  line-height: 1.4;
+  page-break-inside: avoid;
+}
+
+span.character_beforespeech {
+  display: inline-block;
+  position: relative;
+  left: -85px;
+  top: 0;
+  padding: 0;
+  margin: 0;
+  width:0;
+  font-weight: bold;
+  page-break-inside: avoid;
+  /* font-size: 0.9em; */
+}
+```
+
+As you can see the left margin on `prose` and `verseline` has the same value (but negative) as the span.
 
 

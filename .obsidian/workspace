@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "11d804a8000833b9",
+    "id": "b001042dae2a4d73",
     "type": "split",
     "children": [
       {
-        "id": "fdc07816321652d2",
+        "id": "b30b1bc8b2f1b695",
         "type": "tabs",
         "children": [
           {
-            "id": "f094ec7d15a61094",
+            "id": "3bfc45c95d47ec9c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "656cd21bb3b21687",
+            "id": "2eedfd2b79c13699",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,15 +55,15 @@
     "width": 300
   },
   "right": {
-    "id": "ec99f3c97133d0e3",
+    "id": "3398be9e56ed567a",
     "type": "split",
     "children": [
       {
-        "id": "90aa748a757e4405",
+        "id": "95f39c654555098e",
         "type": "tabs",
         "children": [
           {
-            "id": "bf45eb945f4adfe0",
+            "id": "a18ab412335dc6aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "79b2a05c59f5e8a5",
+            "id": "5900c140f7f1548d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -89,29 +89,21 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "faf01fcb3a0a2301",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 189.5
+    "width": 300,
+    "collapsed": true
   },
   "active": "0797c7fdc86a7c09",
   "lastOpenFiles": [
     "docs/Teaching/Multiplatform Publishing/Week 8.md",
+    "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/art/19 Feb 2022.md",
     "docs/art/Image sizes for export.md",
     "docs/private/Jekyll Resources.md",
-    "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/private/This is a private note.md",
     "docs/private/Open Source Wikis.md",
     "docs/private/Africa Publishing.md",
