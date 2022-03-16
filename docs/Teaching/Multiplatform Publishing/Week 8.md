@@ -1,3 +1,7 @@
+---
+hide:
+ - navigation
+---
 # Week 8
 Any issues for general airing?
 
