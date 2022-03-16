@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "6eafcf841629f17c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -100,6 +111,7 @@
   "active": "0797c7fdc86a7c09",
   "lastOpenFiles": [
     "docs/Teaching/Multiplatform Publishing/Week 8.md",
+    "conflict-files-obsidian-git.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/art/19 Feb 2022.md",
     "docs/art/Image sizes for export.md",
@@ -107,7 +119,6 @@
     "docs/private/This is a private note.md",
     "docs/private/Open Source Wikis.md",
     "docs/private/Africa Publishing.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md"
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md"
   ]
 }
