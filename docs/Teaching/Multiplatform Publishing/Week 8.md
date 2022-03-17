@@ -169,3 +169,24 @@ span.character_beforespeech {
 As you can see the left margin on `prose` and `verseline` has the same value (but negative) as the span.
 
 
+## eReader Software
+### Apple Books
+
+On the Mac the best eReader is _Apple Books_ and this will be found on all MACs. The same software is also found on all Apple iOS (iPads, iPhones etc)
+
+>Note: The Apple Books software on MAC has recently been updated to behave the same as that version on the iOS devices, and that change means that the table of contents is no-longer a drop-down but rather a dedicated page seen alongside the cover image.
+
+### Other eReaders for all Platforms
+On Windows (and MAC) systems a good choice is _Thorium_ [freely available from here](https://www.edrlab.org/software/thorium-reader/). 
+
+Also, Adobe Digital Editions, [freely available here](https://www.adobe.com/uk/solutions/ebook/digital-editions/download.html).
+
+[Calibre available here](https://calibre-ebook.com/download)
+
+### Browser Extensions
+Google Chrome can add extensions. You will find a number of these including the ePub Reader and the Mobi Reader. Just open Google Chrome and go to the Extensions store and search for eReader.
+
+
+
+
+
