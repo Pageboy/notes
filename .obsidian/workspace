@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "b94bc703751527ff",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 9.md",
+    "conflict-files-obsidian-git.md",
     "docs/Teaching/Multiplatform Publishing/Week 8.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
-    "conflict-files-obsidian-git.md",
     "docs/art/19 Feb 2022.md",
     "docs/art/Image sizes for export.md",
     "docs/private/Jekyll Resources.md",
     "docs/private/This is a private note.md",
     "docs/private/Open Source Wikis.md",
-    "docs/private/Africa Publishing.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md"
+    "docs/private/Africa Publishing.md"
   ]
 }
