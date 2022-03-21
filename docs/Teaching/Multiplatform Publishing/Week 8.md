@@ -26,6 +26,7 @@ span.reference {
 	vertical-align:super;
 	background-color:#d2232a;
 	padding:2px;
+	font-size:.5em; /*this may not be needed*/
 }
 ```
 
