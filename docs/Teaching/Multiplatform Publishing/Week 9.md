@@ -4,6 +4,8 @@ hide:
 ---
 # Week 9
 ## The Fixed Layout eBook
+[Here is a more comprehensive document](https://www.publisha.org/pages/id2fixed/) that explains all.
+
 - Articles don't have any impact
 - All content will show including page numbers and running headers
 - We can use the whole spread to the edge of the pages; images can bleed etc.
@@ -59,5 +61,23 @@ In the pages panel we need to untick the `Allow Document Pages to Shuffle`
 ![[Screenshot 2022-03-18 at 11.54.15.png]]
 
 Then we can add or remove single pages. We will need to rearrange pages and add a section to get the page numbers back to odd on the right.
+
+## Look at the details
+Remember, the fixed layout eBook gives you exactly what you see in InDesign, so before adding enhancements we should check:
+
+- orphans and widows
+- page numbers
+- running headers
+- image positions and wrapping
+- table of contents
+- preflight errors
+
+### The Page edge
+In the fixed layout eBook, content such as images or colour blocks can use the _full_ page; right to the edge. Consider using images beyond the text block and into the margins.
+
+## Enhancing the eBook
+We are looking at this in the next weeks but if you want to read ahead on this [then go here for details](https://www.publisha.org/pages/enhanced_eBook/).
+
+
 
 
