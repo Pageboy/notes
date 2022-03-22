@@ -75,9 +75,11 @@ Remember, the fixed layout eBook gives you exactly what you see in InDesign, so 
 ### The Page edge
 In the fixed layout eBook, content such as images or colour blocks can use the _full_ page; right to the edge. Consider using images beyond the text block and into the margins.
 
+## Images
+These will appear as seen but  not enlarge we with reed to make interactive
+
 ## Enhancing the eBook
 We are looking at this in the next weeks but if you want to read ahead on this [then go here for details](https://www.publisha.org/pages/enhanced_eBook/).
 
-
-
-
+## How to read eBooks
+Here is a developing list of [[epubreaders]]

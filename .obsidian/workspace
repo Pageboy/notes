@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
+            "file": "docs/Teaching/Multiplatform Publishing/epubreaders.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
+                "file": "docs/Teaching/Multiplatform Publishing/epubreaders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "b94bc703751527ff",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/epubreaders.md",
     "docs/Teaching/Multiplatform Publishing/Week 9.md",
     "docs/Teaching/Multiplatform Publishing/Week 8.md",
     "conflict-files-obsidian-git.md",
@@ -115,7 +116,6 @@
     "docs/art/Image sizes for export.md",
     "docs/private/Jekyll Resources.md",
     "docs/private/This is a private note.md",
-    "docs/private/Open Source Wikis.md",
-    "docs/private/Africa Publishing.md"
+    "docs/private/Open Source Wikis.md"
   ]
 }
