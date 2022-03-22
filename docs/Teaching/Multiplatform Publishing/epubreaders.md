@@ -1,3 +1,7 @@
+---
+hide:
+ - navigation
+---
 # eBook readers
 
 I am writing this list because I am disappointed with Apple Books that has been updated for the MacOs version called Monterey. Apple Books has become a ‘catalyst’ app, meaning that it is the same on both MACOS and iOS. 
