@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/epubreaders.md",
-            "mode": "preview"
+            "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/epubreaders.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,8 +106,8 @@
   },
   "active": "b94bc703751527ff",
   "lastOpenFiles": [
-    "docs/Teaching/Multiplatform Publishing/epubreaders.md",
     "docs/Teaching/Multiplatform Publishing/Week 9.md",
+    "docs/Teaching/Multiplatform Publishing/epubreaders.md",
     "docs/Teaching/Multiplatform Publishing/Week 8.md",
     "conflict-files-obsidian-git.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
