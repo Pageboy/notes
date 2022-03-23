@@ -78,10 +78,13 @@ In the fixed layout eBook, content such as images or colour blocks can use the _
 ## Images
 These will appear as seen but  not enlarge as they do in Apple Books for the reflowable version. We will make interactive by converting to a button.
 
-Images will already be anchored (from the work we did before), but tey do not need to be for the fixed-layout version, so, if we need to add more images, we can simply place anywhere. We can even create double page spreads for images.
+Images will already be anchored (from the work we did before), but they do **not need to be** for the fixed-layout version, so, if we need to add more images, we can simply place anywhere. We can even create double page spreads for images.
 
 ## Enhancing the eBook
 We are looking at this in the next weeks but if you want to read ahead on this [then go here for details](https://www.publisha.org/pages/enhanced_eBook/).
+
+### Time allowing
+We can look at making an image enlarge by making use of buttons and layers.
 
 ## How to read eBooks
 Here is a developing list of [[epubreaders]]
