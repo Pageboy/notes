@@ -44,7 +44,8 @@ Crucial to select `Convert Spread to Landscape Page`
 ### Issues to note
 Half Title appear to the right with blank on the left
 Drop down TOC works hopefully
-On page TOC should also be interactive
+The on-page TOC should also be interactive
+If a text box spreads over 2 pages in the spread, it could affect the table of contents if that item is heading used in the toc; ie you may get the item twice in the toc.
 
 ## Next Steps
 We need a landscape start page so we have 2 options:
@@ -83,7 +84,7 @@ Images will already be anchored (from the work we did before), but they do **not
 ## Enhancing the eBook
 We are looking at this in the next weeks but if you want to read ahead on this [then go here for details](https://www.publisha.org/pages/enhanced_eBook/).
 
-### Time allowing
+### Image Enlargement
 We can look at making an image enlarge by making use of buttons and layers.
 
 ## How to read eBooks

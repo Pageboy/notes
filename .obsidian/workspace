@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
-            "mode": "source"
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -18,99 +19,76 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b001042dae2a4d73",
-    "type": "split",
+    "id": "95a5aeddb2a07e22",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "b30b1bc8b2f1b695",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3bfc45c95d47ec9c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "2eedfd2b79c13699",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "1c114558a71edb35",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "9bc90d49576535ad",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "3b85760b55b79032",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "3398be9e56ed567a",
-    "type": "split",
+    "id": "79c910cc8b6e124b",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "95f39c654555098e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a18ab412335dc6aa",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5900c140f7f1548d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "9537cf1f3aa4eff1",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
+        "id": "ba456929f515da57",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
-    ],
-    "direction": "horizontal",
-    "width": 300
+    ]
   },
   "active": "b94bc703751527ff",
   "lastOpenFiles": [
     "docs/Teaching/Multiplatform Publishing/Week 9.md",
     "docs/Teaching/Multiplatform Publishing/epubreaders.md",
+    "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/Teaching/Multiplatform Publishing/Week 8.md",
     "conflict-files-obsidian-git.md",
-    "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/art/19 Feb 2022.md",
     "docs/art/Image sizes for export.md",
     "docs/private/Jekyll Resources.md",
