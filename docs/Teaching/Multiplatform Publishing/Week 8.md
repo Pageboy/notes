@@ -1,4 +1,9 @@
+---
+hide:
+ - navigation
+---
 # Week 8
+Any issues for general airing?
 
 >Some reminders for the re-flowable eBook
 
@@ -21,6 +26,7 @@ span.reference {
 	vertical-align:super;
 	background-color:#d2232a;
 	padding:2px;
+	font-size:.5em; /*this may not be needed*/
 }
 ```
 
@@ -111,6 +117,8 @@ To get the best control over the image styling it is best to use an Object style
 In the reflowable eBook, images will enlarge when clicked in the eReader software. However, the images within InDesign must be of a reasonably large size and when exporting to the ePub (reflowable) use the following settings for  `object`:
 ![[Screenshot 2022-03-15 at 16.45.11.png]]
 
+>Note: Popup image enlargements only works on Apple Books; it does not work in Thorium nor Adobe Digital Editions.
+
 ## Heading space
 If you want headings to start half way down the page you will need to use some extra CSS to add a margin-top to that style.
 
@@ -124,6 +132,60 @@ See here what I added:
 ```html
 <li><a href="play.xhtml">A Midsummer Night's Dream</a></li>
 ```
+
+
+## In the Play
+If you used the technique to put the character name on the first line of the speech then you need some specific CSS to get good results in the eBook.
+
+I did publish this in the providede CSS but have since discovered a better solution using `inline-block`.
+
+```css
+p.prose {
+  margin-left: 85px;
+  text-indent: 0;
+  line-height:1.4
+}
+
+p.verseline {
+  margin-left: 85px;
+  text-indent: 0;
+  line-height: 1.4;
+  page-break-inside: avoid;
+}
+
+span.character_beforespeech {
+  display: inline-block;
+  position: relative;
+  left: -85px;
+  top: 0;
+  padding: 0;
+  margin: 0;
+  width:0;
+  font-weight: bold;
+  page-break-inside: avoid;
+  /* font-size: 0.9em; */
+}
+```
+
+As you can see the left margin on `prose` and `verseline` has the same value (but negative) as the span.
+
+
+## eReader Software
+### Apple Books
+
+On the Mac the best eReader is _Apple Books_ and this will be found on all MACs. The same software is also found on all Apple iOS (iPads, iPhones etc)
+
+>Note: The Apple Books software on MAC has recently been updated to behave the same as that version on the iOS devices, and that change means that the table of contents is no-longer a drop-down but rather a dedicated page seen alongside the cover image.
+
+### Other eReaders for all Platforms
+On Windows (and MAC) systems a good choice is _Thorium_ [freely available from here](https://www.edrlab.org/software/thorium-reader/). 
+
+Also, Adobe Digital Editions, [freely available here](https://www.adobe.com/uk/solutions/ebook/digital-editions/download.html).
+
+[Calibre available here](https://calibre-ebook.com/download)
+
+### Browser Extensions
+Google Chrome can add extensions. You will find a number of these including the ePub Reader and the Mobi Reader. Just open Google Chrome and go to the Extensions store and search for eReader.
 
 
 

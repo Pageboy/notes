@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0797c7fdc86a7c09",
+        "id": "b94bc703751527ff",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 10.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "11d804a8000833b9",
+    "id": "05d6003ceac8eeb8",
     "type": "split",
     "children": [
       {
-        "id": "fdc07816321652d2",
+        "id": "d3203464eafcb4f6",
         "type": "tabs",
         "children": [
           {
-            "id": "f094ec7d15a61094",
+            "id": "5bea66ce9078dccc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "656cd21bb3b21687",
+            "id": "7310bdc4b66e1192",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 396.5
   },
   "right": {
-    "id": "ec99f3c97133d0e3",
+    "id": "f94ca5deb90dc2d3",
     "type": "split",
     "children": [
       {
-        "id": "90aa748a757e4405",
+        "id": "58217c6adf636bef",
         "type": "tabs",
         "children": [
           {
-            "id": "bf45eb945f4adfe0",
+            "id": "45aed5cac770f90e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "79b2a05c59f5e8a5",
+            "id": "9beaf49bd8e90a68",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -89,33 +89,25 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "faf01fcb3a0a2301",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 189.5
+    "width": 300,
+    "collapsed": true
   },
-  "active": "0797c7fdc86a7c09",
+  "active": "b94bc703751527ff",
   "lastOpenFiles": [
-    "docs/Teaching/Multiplatform Publishing/Week 8.md",
-    "docs/art/19 Feb 2022.md",
-    "docs/art/Image sizes for export.md",
-    "docs/private/Jekyll Resources.md",
+    "docs/Teaching/Multiplatform Publishing/Week 10.md",
+    "docs/media/Screenshot 2022-03-29 at 19.19.41.png",
+    "docs/media/Screenshot 2022-03-29 at 19.41.30.png",
+    "README.md",
+    "docs/Teaching/Multiplatform Publishing/Week 9.md",
+    "docs/Teaching/Multiplatform Publishing/epubreaders.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
-    "docs/private/This is a private note.md",
-    "docs/private/Open Source Wikis.md",
-    "docs/private/Africa Publishing.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md"
+    "docs/Teaching/Multiplatform Publishing/Week 8.md",
+    "conflict-files-obsidian-git.md",
+    "docs/art/19 Feb 2022.md"
   ]
 }
