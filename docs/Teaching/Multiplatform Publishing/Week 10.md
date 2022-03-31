@@ -40,7 +40,6 @@ We can create a _multi-state object_ and then cycle through the images using an 
 
 ## Coming soon
 ### Audio
-<<<<<<< HEAD
 
 - Ambient sound
 - Music on demand
@@ -55,21 +54,5 @@ Video must be mp4. No YouTube links allowed
 
 Can be enlarged so can be small within the text
 
-=======
-
-- Ambient sound
-- Music on demand
-- Audio clips
-
-Sound control / buttons for play and pause
-
-Issue with audio controller over the spread
-
-### Video
-Video must be mp4. No YouTube links allowed
-
-Can be enlarged so can be small within the text
-
->>>>>>> origin/main
 Issue with video over the spread
 
