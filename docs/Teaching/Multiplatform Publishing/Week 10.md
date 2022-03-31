@@ -38,6 +38,10 @@ We can create a _multi-state object_ and then cycle through the images using an 
 
 ![[Screenshot 2022-03-29 at 19.41.30.png]]
 
+Here is a video on YouTube that I have made covering all of this:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Etpj56AnfK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Coming soon
 ### Audio
 
