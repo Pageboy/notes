@@ -7,6 +7,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "fileSortOrder": "byModifiedTime",
-  "showFrontmatter": true,
-  "autoConvertHtml": false
+  "showFrontmatter": false,
+  "autoConvertHtml": false,
+  "legacyEditor": true
 }

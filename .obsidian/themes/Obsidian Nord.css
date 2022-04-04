@@ -133,7 +133,7 @@
 
 html,
 body {
-  /* font-size: 16px !important; */
+  /* font-size: 12px !important; */
 }
 
 strong {
@@ -347,11 +347,19 @@ thead {
   color: var(--text-title-h1) !important;
 }
 
+.cm-header-1 {
+  font-size: 1.3em !important;
+}
+
 .cm-header-2,
 .markdown-preview-section h2 {
   font-weight: 500 !important;
   font-size: 1.6em !important;
   color: var(--text-title-h2) !important;
+}
+
+.cm-header-2 {
+  font-size: 1.2em !important;
 }
 
 .cm-header-3,
@@ -361,11 +369,19 @@ thead {
   color: var(--text-title-h3) !important;
 }
 
+.cm-header-3 {
+  font-size: 1.1em !important;
+}
+
 .cm-header-4,
 .markdown-preview-section h4 {
   font-weight: 500 !important;
   font-size: 1.2em !important;
   color: var(--text-title-h4) !important;
+}
+
+.cm-header-4 {
+  font-size: 1em !important;
 }
 
 .cm-header-5,
