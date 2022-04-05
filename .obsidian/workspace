@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "791aaf114d86cd5a",
+        "id": "074072d8fc80e352",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "62f9ebbdbeab0e1a",
+    "id": "c8cb2e1dbd8f6d70",
     "type": "split",
     "children": [
       {
-        "id": "6808a716658c9a96",
+        "id": "68afc32b01ddfb0e",
         "type": "tabs",
         "children": [
           {
-            "id": "4fc83812efb4ee3c",
+            "id": "70e0ba168526e9bb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "7d32d01703cf8514",
+            "id": "c4609d9f568466b8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,15 +55,15 @@
     "width": 300
   },
   "right": {
-    "id": "5aafd2d4fad1cc02",
+    "id": "e6133c43de30e663",
     "type": "split",
     "children": [
       {
-        "id": "db30c58e3426639f",
+        "id": "79c0ab1184e75e70",
         "type": "tabs",
         "children": [
           {
-            "id": "a12e241fda790bfd",
+            "id": "31a8ec0e8e12e924",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -75,12 +75,12 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "467085f6dcc551ab",
+            "id": "7be3459190d6d600",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -89,33 +89,25 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "9f3a0293307bca6c",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "791aaf114d86cd5a",
+  "active": "074072d8fc80e352",
   "lastOpenFiles": [
     "docs/Teaching/Multiplatform Publishing/Week 11.md",
-    "docs/Teaching/Multiplatform Publishing/Week 10.md",
+    "docs/art/April 3 2022.md",
     "docs/Teaching/Multiplatform Publishing/Week 5 Shakespeare Play notes.md",
+    "docs/Teaching/Multiplatform Publishing/Week 10.md",
     "conflict-files-obsidian-git.md",
     "docs/media/Screenshot 2022-03-29 at 19.19.41.png",
     "docs/media/Screenshot 2022-03-29 at 19.41.30.png",
     "README.md",
     "docs/Teaching/Multiplatform Publishing/Week 9.md",
-    "docs/Teaching/Multiplatform Publishing/epubreaders.md",
-    "docs/Teaching/Multiplatform Publishing/Week 7.md"
+    "docs/Teaching/Multiplatform Publishing/epubreaders.md"
   ]
 }
