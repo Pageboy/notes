@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -89,13 +89,21 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "62f9dc93778b244a",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "074072d8fc80e352",
   "lastOpenFiles": [

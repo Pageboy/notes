@@ -22,6 +22,8 @@ Default audio controller can be used and if made wide, then it will be comprehen
 
 Buttons are a good option if you want to simply provide a start and stop (actually pause) button.
 
+Look for player buttons on Google - images.
+
 ### Ambient sound
 By default, audio will stop when the page is changed, however, for Apple Books it is possible to use special code to get the sound to continue playing. _This does involve editing the HTML inside the ePub package_
 
@@ -58,15 +60,19 @@ window.onload = function(){
 
 ### Getting Video
 
-Video needs to be hard wired; that is you can't include a link or an iframe from YouTube. You will need to convert from YouTube to an __mp4__ file. Here is a useful tool for mac users:
+Video needs to be hard wired; that is you can't include a link or an iframe from YouTube. You will need to convert from YouTube to an __mp4__ file. 
+
+You cannot always find video to grab (or rip) because it may have the sharing disabled or it may be protected in some way. But you can try.
+
+Here is a useful tool for mac users:
 
 [ViDL for MAC](https://omz-software.com/vidl/)
 
 You can install this for yourself on the MAC in your user application folder.
 
-https://ytb.rip/3/
+[https://ytb.rip/3/](https://ytb.rip/3/)
 
-https://tuberipper.com
+[https://tuberipper.com](https://tuberipper.com)
 
 You can edit the video with the tools on the MAC - iMovie or Premiere
 
