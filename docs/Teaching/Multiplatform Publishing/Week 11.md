@@ -52,7 +52,7 @@ window.onload = function(){
    // make the width of the first main div the same as the viewport
    css.innerHTML = "body > div:nth-child(2) {display:none;} body > div:nth-child(1) {width:732px !important;}"
    // write this css to the head of the page
-   document.body.appendChild(css);
+   document.head.appendChild(css);
  }
  };
 ```
