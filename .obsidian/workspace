@@ -7,107 +7,88 @@
         "id": "074072d8fc80e352",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/Week 12.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e99d4ec9809aacde",
-    "type": "split",
+    "id": "bba7e7449e867603",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "e275ff99c2b5650c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a7fc89f4a2c42e5a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "81eed794d646a8dd",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "8214372fe90c974b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4c4d1b8868c63de2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "1b6cc1fe6bd75181",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "3ceca85822748b12",
-    "type": "split",
+    "id": "6a11ec3e7f82bfa0",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "a8c9d0c017181e87",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0cda7e821ac2ec52",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 12.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a20f10266e79d721",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
+        "id": "bf0533025ce7bff1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 1
   },
   "active": "074072d8fc80e352",
   "lastOpenFiles": [
-    "docs/Teaching/Multiplatform Publishing/Week 12.md",
-    "docs/Teaching/Multiplatform Publishing/Week 11.md",
-    "docs/art/April 3 2022.md",
-    "docs/Teaching/Multiplatform Publishing/Week 5 Shakespeare Play notes.md",
-    "docs/Teaching/Multiplatform Publishing/Week 10.md",
-    "conflict-files-obsidian-git.md",
-    "docs/media/Screenshot 2022-03-29 at 19.19.41.png",
-    "docs/media/Screenshot 2022-03-29 at 19.41.30.png",
-    "README.md",
-    "docs/Teaching/Multiplatform Publishing/Week 9.md"
+    "docs/private/art/Image sizes for export.md",
+    "docs/private/art/April 3 2022.md",
+    "docs/private/Music for Video.md",
+    "docs/private/StudentMeetings/Rowan Thomas.md",
+    "docs/private/StudentMeetings/Rachael Waas.md",
+    "docs/private/Notes for videos.md",
+    "docs/private/Jekyll Resources.md",
+    "docs/private/External Eaminer MA.md",
+    "docs/private/Multi-Platform module description.md",
+    "docs/private/Perspectief/Details.md"
   ]
 }
