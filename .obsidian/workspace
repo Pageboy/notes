@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/private/art/Image sizes for export.md",
+            "file": "docs/private/Jekyll Resources.md",
             "mode": "source",
             "source": true
           }
@@ -19,96 +19,81 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3e71c985f6d61577",
-    "type": "split",
+    "id": "815defafaab9a542",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "f28f7fc46cb3263e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cb1607e2b1efa35a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "5d96e0f6ea7e6744",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "0bdf05b36f7ffecf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "de633b7af2b90c8a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "4a11f7f4dd018091",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "7e21d4717175fcbc",
-    "type": "split",
+    "id": "41dfef817aac810f",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "eb471bb8b97c99a3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "921c04d8da893958",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "docs/private/art/Image sizes for export.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ce53bdf1acc82aab",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
+        "id": "41a8654a418892a4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/private/Jekyll Resources.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "074072d8fc80e352",
   "lastOpenFiles": [
-    "docs/private/art/Image sizes for export.md",
-    "docs/private/art/April 3 2022.md",
+    "docs/Teaching/Multiplatform Publishing/Week 12.md",
     "docs/private/Music for Video.md",
+    "docs/private/art/Image sizes for export.md",
+    "conflict-files-obsidian-git.md",
+    "docs/private/External Eaminer MA.md",
+    "docs/private/art/April 3 2022.md",
     "docs/private/StudentMeetings/Rowan Thomas.md",
     "docs/private/StudentMeetings/Rachael Waas.md",
     "docs/private/Notes for videos.md",
-    "docs/private/Jekyll Resources.md",
-    "docs/private/External Eaminer MA.md",
-    "docs/private/Multi-Platform module description.md",
-    "docs/private/Perspectief/Details.md"
+    "docs/private/Jekyll Resources.md"
   ]
 }
