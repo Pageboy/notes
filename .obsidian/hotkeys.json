@@ -2,17 +2,9 @@
   "obsidian-git:commit": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "G"
-    }
-  ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
     }
   ],
   "tag-pane:open": [

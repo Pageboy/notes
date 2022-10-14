@@ -7,3 +7,13 @@
 *   Check out the [Shakespeare First Folio web site](https://firstfolio.bodleian.ox.ac.uk) from the Bodliean Library in Oxford
 *   Look at the [Safari Online Playlist](https://learning.oreilly.com/playlists/e96cfcba-a000-4c90-bb5c-ed9113dd7345). You will find a lot of resources there to help you if InDesign is new to you
 *   Read [The Best of Cover Design](https://learning.oreilly.com/library/view/the-best-of/9781592536894/) on Safari Books Online (your will need to login with your Brookes account)
+
+## Tonge IT Suite
+
+Make the student card an access key. Do the safety test.
+Use the same MAC if you can.
+Use BookIT
+
+Adobe CC
+
+Missing students

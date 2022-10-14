@@ -1,5 +1,7 @@
 [
   "obsidian-markdown-formatting-assistant-plugin",
   "metaedit",
-  "code-block-copy"
+  "code-block-copy",
+  "obsidian-git",
+  "obsidian-gist"
 ]

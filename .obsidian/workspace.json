@@ -4,17 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "7857582a037d9fd1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/Teaching/Design and Production/Week 3.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
+        "id": "b44869429d5b577d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7857582a037d9fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Teaching/Design and Production/Week 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "795d91042c80f3f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Teaching/Design and Production/Week 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -32,7 +52,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
             }
           },
           {
@@ -111,7 +133,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7857582a037d9fd1",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "795d91042c80f3f8",
   "lastOpenFiles": [
     "docs/Teaching/Design and Production/Week 3.md",
     "docs/Teaching/Design and Production/Week 2.md",
