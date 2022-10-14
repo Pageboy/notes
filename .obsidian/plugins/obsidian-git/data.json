@@ -17,11 +17,11 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "/",
+  "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": true,
   "username": "pageboy",
-  "showedMobileNotice": true,
+  "showedMobileNotice": false,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true
 }
