@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b088bbb4e59732e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/private/art/Artist Influencers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Design and Production/Week 3.md",
+            "file": "docs/private/art/Artist Influencers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Design and Production/Week 3.md",
+            "file": "docs/private/art/Artist Influencers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,17 +129,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "067faf30219200de",
+  "active": "b088bbb4e59732e3",
   "lastOpenFiles": [
+    "docs/private/Africa Publishing.md",
+    "docs/private/art/Artist Influencers.md",
+    "docs/media/E0C5F1F4-07C9-4C6E-8EF2-84ABD4383CA0.jpeg",
     "docs/Teaching/Design and Production/Week 3.md",
+    "docs/private/art/April 3 2022.md",
+    "docs/private/art/19 Feb 2022.md",
+    "docs/private/External Eaminer MA.md",
     "docs/Teaching/Design and Production/Week 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/Teaching/Design and Production/week1.md",
-    "docs/private/Multi-Platform module description r.md",
-    "docs/private/Jekyll Resources.md",
-    "docs/Teaching/Multiplatform Publishing/Week 12.md",
-    "docs/private/Music for Video.md",
-    "docs/private/art/Image sizes for export.md",
-    "conflict-files-obsidian-git.md"
+    "docs/Teaching/Design and Production/week1.md"
   ]
 }
