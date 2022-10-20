@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Design and Production/Week 4.md",
+                "file": "docs/Teaching/Design and Production/week1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -91,7 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Design and Production/Week 4.md",
+            "file": "docs/Teaching/Design and Production/week1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Design and Production/Week 4.md",
+            "file": "docs/Teaching/Design and Production/week1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,6 +130,7 @@
   },
   "active": "7857582a037d9fd1",
   "lastOpenFiles": [
+    "docs/Teaching/Design and Production/Week 4.md",
     "docs/private/Jekyll Resources.md",
     "docs/Teaching/Design and Production/Week 3.md",
     "docs/private/art/Artist Influencers.md",
@@ -138,7 +139,6 @@
     "docs/private/art/April 3 2022.md",
     "docs/private/art/19 Feb 2022.md",
     "docs/private/External Eaminer MA.md",
-    "docs/Teaching/Design and Production/Week 2.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md"
+    "docs/Teaching/Design and Production/Week 2.md"
   ]
 }

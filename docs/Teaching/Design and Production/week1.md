@@ -10,10 +10,11 @@
 
 ## Tonge IT Suite
 
-Make the student card an access key. Do the safety test.
-Use the same MAC if you can.
-Use BookIT
+- Make the student card an access key. Do the safety test.
+- Use the same MAC if you can.
+-  BookIT- [bookit.Brookes.ac.uk](bookit.Brookes.ac.uk)
+- Adobe CC
 
-Adobe CC
+## Choose your play
 
-Missing students
+[Here are all plays on Moodle](https://moodle.brookes.ac.uk/mod/page/view.php?id=2073270)
