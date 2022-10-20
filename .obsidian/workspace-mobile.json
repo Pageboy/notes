@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Design and Production/Week 3.md",
+                "file": "docs/Teaching/Design and Production/Week 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -28,13 +28,12 @@
               "state": {
                 "file": "docs/private/art/Artist Influencers.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/private/art/Artist Influencers.md",
+            "file": "docs/Teaching/Design and Production/Week 4.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/private/art/Artist Influencers.md",
+            "file": "docs/Teaching/Design and Production/Week 4.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,17 +128,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b088bbb4e59732e3",
+  "active": "7857582a037d9fd1",
   "lastOpenFiles": [
-    "docs/private/Africa Publishing.md",
-    "docs/private/art/Artist Influencers.md",
-    "docs/media/E0C5F1F4-07C9-4C6E-8EF2-84ABD4383CA0.jpeg",
+    "docs/private/Jekyll Resources.md",
     "docs/Teaching/Design and Production/Week 3.md",
+    "docs/private/art/Artist Influencers.md",
+    "docs/private/Africa Publishing.md",
+    "docs/media/E0C5F1F4-07C9-4C6E-8EF2-84ABD4383CA0.jpeg",
     "docs/private/art/April 3 2022.md",
     "docs/private/art/19 Feb 2022.md",
     "docs/private/External Eaminer MA.md",
     "docs/Teaching/Design and Production/Week 2.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/Teaching/Design and Production/week1.md"
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md"
   ]
 }
