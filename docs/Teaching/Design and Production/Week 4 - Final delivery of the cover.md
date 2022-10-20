@@ -1,5 +1,3 @@
-# Final delivery of the cover
-
 ## Error checking from the Preflight panel
 
 ### Possible errors
@@ -12,10 +10,9 @@
 	- Minimum of 250dpi
 - Distortion
 	- Resolution will show as 2 numbers
-- Overset text
+- Overset te
 
-## Create PDF preset
-
+- Create PDF preset
 - Not spreads
 - Compression
 - Marks and bleeds
