@@ -24,16 +24,15 @@ Look around at the screen….
 	- Filters
 
 - Different templates
-Open cover template
-Save as your cover in a space on Google drive
-Explain lines
+- Open cover template
+- Save as your cover in a space on Google drive
+- construction lines
+- Rulers
+- Units
 
 ## Images
 - Placing
 	- Can be jpg or Photoshop
 - Links panel
-- 
-
-Edit in Photoshop
-- 
+- Edit in Photoshop
 

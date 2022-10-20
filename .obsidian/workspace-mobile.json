@@ -8,27 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7857582a037d9fd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/Design and Production/Week 4 - Final delivery of the cover.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b088bbb4e59732e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/art/Artist Influencers.md",
+                "file": "docs/Teaching/Design and Production/Week 2.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": true
               }
             }
@@ -91,7 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Design and Production/Week 4 - Final delivery of the cover.md",
+            "file": "docs/Teaching/Design and Production/Week 2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +95,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Design and Production/Week 4 - Final delivery of the cover.md",
+            "file": "docs/Teaching/Design and Production/Week 2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,14 +113,14 @@
     "currentTab": 2
   },
   "ribbon": {
-    "mostRecentAction": ""
+    "mostRecentAction": "Open command palette"
   },
-  "active": "7857582a037d9fd1",
+  "active": "b088bbb4e59732e3",
   "lastOpenFiles": [
-    "docs/Teaching/Design and Production/week1.md",
-    "docs/Teaching/Design and Production/Week 4 - Final delivery of the cover.md",
-    "docs/private/Jekyll Resources.md",
     "docs/Teaching/Design and Production/Week 3.md",
+    "docs/Teaching/Design and Production/Week 4 - Final delivery of the cover.md",
+    "docs/Teaching/Design and Production/week1.md",
+    "docs/private/Jekyll Resources.md",
     "docs/private/art/Artist Influencers.md",
     "docs/private/Africa Publishing.md",
     "docs/media/E0C5F1F4-07C9-4C6E-8EF2-84ABD4383CA0.jpeg",
