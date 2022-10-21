@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b088bbb4e59732e3",
+            "id": "7857582a037d9fd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +16,19 @@
                 "file": "docs/Teaching/Design and Production/Week 2.md",
                 "mode": "source",
                 "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b088bbb4e59732e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/private/art/Artist Influencers.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -113,19 +126,19 @@
     "currentTab": 2
   },
   "ribbon": {
-    "mostRecentAction": "Open command palette"
+    "mostRecentAction": ""
   },
-  "active": "b088bbb4e59732e3",
+  "active": "7857582a037d9fd1",
   "lastOpenFiles": [
     "docs/Teaching/Design and Production/Week 3.md",
-    "docs/Teaching/Design and Production/Week 4 - Final delivery of the cover.md",
-    "docs/Teaching/Design and Production/week1.md",
     "docs/private/Jekyll Resources.md",
+    "docs/Teaching/Design and Production/Week 4 - Final delivery of the cover.md",
+    "docs/Teaching/Design and Production/Week 2.md",
+    "docs/Teaching/Design and Production/week1.md",
     "docs/private/art/Artist Influencers.md",
     "docs/private/Africa Publishing.md",
     "docs/media/E0C5F1F4-07C9-4C6E-8EF2-84ABD4383CA0.jpeg",
     "docs/private/art/April 3 2022.md",
-    "docs/private/art/19 Feb 2022.md",
-    "docs/private/External Eaminer MA.md"
+    "docs/private/art/19 Feb 2022.md"
   ]
 }
