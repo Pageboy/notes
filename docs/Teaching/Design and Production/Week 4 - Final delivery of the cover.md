@@ -10,9 +10,12 @@
 	- Minimum of 250dpi
 - Distortion
 	- Resolution will show as 2 numbers
-- Overset te
+- Overset text
+- bleed/trim hazards
+	- these can mostly be ignored accept where a text object is very near to the trim of the page
 
-- Create PDF preset
+## Create PDF preset
+
 - Not spreads
 - Compression
 - Marks and bleeds
@@ -34,4 +37,5 @@
 
 - Look at the folder created
 - Edit the printer instructions
+	- Check Adrian’s slides on moodle for useful tips
 - Create the zip file and submit
