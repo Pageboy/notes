@@ -140,7 +140,7 @@
             }
           },
           {
-            "id": "648008d6a341291a",
+            "id": "78971a8a098e3cc4",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -152,13 +152,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "648008d6a341291a",
+  "active": "78971a8a098e3cc4",
   "lastOpenFiles": [
-    "docs/private/art/Artist Influencers.md",
     "docs/Teaching/Design and Production/Week 3.md",
+    "docs/private/art/Artist Influencers.md",
     "docs/Teaching/Design and Production/Week 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/Teaching/Design and Production/week1.md",
