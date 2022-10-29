@@ -8,15 +8,21 @@
 #### Typefaces vs. Fonts: Difference?
 
 
-A lot of people use the terms “typeface” and “font” interchangeably. But they’re two very distinct things. Before we get started talking about typography, let’s get our terms straight.
+A lot of people use the terms “typeface” and “font” interchangeably. But they’re two very distinct things. 
 
-A typeface is a set of typographical symbols and characters. It’s the letters, numbers, and other characters that let us put words on paper (or screen). A font, on the other hand, is traditionally defined as a complete character set within a typeface, often of a particular size and style. Fonts are also specific computer files that contain all the characters and glyphs within a typeface.
+A typeface is a set of typographical symbols and characters.  A font, on the other hand, is traditionally defined as a complete character set within a typeface, often of a particular size and style. Fonts are also specific computer files that contain all the characters and glyphs within a typeface.
 
 ## Choices
 
 - Commercial constraints balanced with aesthetic desires
-- Using consistency within a series / or indeeed an organisation.
+- Using consistency within a series / or indeed an organisation.
 - Book structure / components
+
+### Title page
+This would usually consist of the title of the book, the author/editor and the publisher name and logo. The design would be simple but can make use of the same style as the cover (the typography and arraignment). Images are not often used and the title page is normally in black and white only.
+
+#### The Frontispiece
+This is opposite the title page and would only display an image with a caption.
 
 ### Imprint
 
