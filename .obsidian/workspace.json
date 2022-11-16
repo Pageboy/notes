@@ -4,24 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b44869429d5b577d",
+        "id": "ce8148ab325544fd",
         "type": "tabs",
         "children": [
           {
-            "id": "638c38342a185075",
+            "id": "13573e660ef14170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Design and Production/Week 5.md",
+                "file": "docs/private/art/Image sizes for export.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5
   },
   "right": {
     "id": "13fd9d4d78d9f053",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Design and Production/Week 5.md",
+                "file": "docs/private/art/Image sizes for export.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Design and Production/Week 5.md",
+                "file": "docs/private/art/Image sizes for export.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,33 +111,25 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "c2b792299ae9bdac",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c2b792299ae9bdac",
+  "active": "fac2b580753629bd",
   "lastOpenFiles": [
-    "docs/Teaching/Design and Production/Week 3.md",
-    "docs/private/art/Artist Influencers.md",
-    "docs/Teaching/Design and Production/Week 2.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/Teaching/Design and Production/week1.md",
-    "docs/private/Multi-Platform module description r.md",
-    "docs/private/Jekyll Resources.md",
-    "docs/Teaching/Multiplatform Publishing/Week 12.md",
-    "docs/private/Music for Video.md",
-    "docs/private/art/Image sizes for export.md"
+    "docs/Teaching/Design and Production/Week 6.md",
+    "docs/Teaching/Design and Production/Week 8.md",
+    "docs/private/art/Image sizes for export.md",
+    "docs/private/bare/From InDesign to HTML.md",
+    "docs/private/bare/Measurements for Perspectief.md",
+    "docs/private/bare/Render settings for Resolve.md",
+    "docs/private/bare/Blocks for flex.md",
+    "docs/private/bare/Week 9 Digital Product.md",
+    "docs/private/bare/Typographic Design for Page and Screen.md",
+    "docs/private/bare/A Walk up Wittenham Clumps.md"
   ]
 }

@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "179c47079e2a541a",
+        "id": "064898125ca0264e",
         "type": "tabs",
         "children": [
           {
-            "id": "b088bbb4e59732e3",
+            "id": "3d1d77cb28e2d2c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Design and Production/Week 5.md",
+                "file": "README.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5636fc479222111a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/private/art/Image sizes for export.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Design and Production/Week 5.md",
+            "file": "docs/private/art/Image sizes for export.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Design and Production/Week 5.md",
+            "file": "docs/private/art/Image sizes for export.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,17 +126,17 @@
     ],
     "currentTab": 2
   },
-  "active": "b088bbb4e59732e3",
+  "active": "5636fc479222111a",
   "lastOpenFiles": [
-    "docs/private/art/Artist Influencers.md",
+    "Week 6.md",
+    "README.md",
+    "docs/Teaching/Design and Production/Week 3.md",
+    "docs/private/bare/Taking 3 shapes for a walk.md",
+    "docs/private/bare/Measurements for Perspectief.md",
     "docs/Teaching/Design and Production/Week 5.md",
+    "docs/private/art/Artist Influencers.md",
     "docs/Teaching/Design and Production/Week 4 - Final delivery of the cover.md",
     "docs/private/Jekyll Resources.md",
-    "docs/Teaching/Design and Production/Week 3.md",
-    "docs/Teaching/Design and Production/Week 2.md",
-    "docs/Teaching/Design and Production/week1.md",
-    "docs/private/Africa Publishing.md",
-    "docs/media/E0C5F1F4-07C9-4C6E-8EF2-84ABD4383CA0.jpeg",
-    "docs/private/art/April 3 2022.md"
+    "docs/Teaching/Design and Production/Week 2.md"
   ]
 }
