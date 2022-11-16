@@ -1,7 +1,7 @@
 ## Getting XML of the play into InDesign
 
-- **find** the template *play.indt* from the downloaded resources
-- 
+**find** the template *play.indt* from the downloaded resources
+
 - Start a new InDesign file by opening this file (double click)
 - Save as your play
 - See the structure panel on the left
@@ -36,9 +36,11 @@ Now see the play in the structure pane
 From the context menu on the structure pane see the menu item _Map tags to Styles_
 **Note: Do not use the reverse of this**
 
-Map by name
+**Map by name**
 
-For each section a new page is started. This is because the style for the Dramatis heading and the Act heading are designed to start on a new page. Just find the pilchrow on page one and delete this.
+![[Screenshot 2022-11-16 at 17.03.11.png]]
+
+We will get a blank extra page at the beginning. This is because the style for the Dramatis heading is designed to start on a new page and there is already an empty paragraph on the first page. Just find the *pilchrow* on page one and delete this.
 
 
 
