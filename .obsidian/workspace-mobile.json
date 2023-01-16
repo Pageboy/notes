@@ -11,30 +11,11 @@
             "id": "3d1d77cb28e2d2c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5636fc479222111a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/private/art/Image sizes for export.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +73,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/private/art/Image sizes for export.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +89,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/private/art/Image sizes for export.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,17 +105,17 @@
     ],
     "currentTab": 2
   },
-  "active": "5636fc479222111a",
+  "active": "3d1d77cb28e2d2c2",
   "lastOpenFiles": [
-    "Week 6.md",
+    "docs/private/DigitalProduct/First Steps for Digital Product.md",
+    "docs/private/Multiplatform Publishing/Week 2.md",
+    "docs/private/Multiplatform Publishing/Week 1 Intro.md",
     "README.md",
-    "docs/Teaching/Design and Production/Week 3.md",
-    "docs/private/bare/Taking 3 shapes for a walk.md",
-    "docs/private/bare/Measurements for Perspectief.md",
-    "docs/Teaching/Design and Production/Week 5.md",
-    "docs/private/art/Artist Influencers.md",
-    "docs/Teaching/Design and Production/Week 4 - Final delivery of the cover.md",
-    "docs/private/Jekyll Resources.md",
-    "docs/Teaching/Design and Production/Week 2.md"
+    "docs/private/art/Print sizes by theme.md",
+    "Week 9.md",
+    "docs/Teaching/Design and Production/Week 8.md",
+    "docs/private/art/Image sizes for export.md",
+    "Week 6.md",
+    "docs/Teaching/Design and Production/Week 3.md"
   ]
 }

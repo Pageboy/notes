@@ -1,3 +1,7 @@
+Check InDesign version
+
+Re download the folder from moodle
+
 ## Getting XML of the play into InDesign
 
 **find** the template *play.indt* from the downloaded resources
