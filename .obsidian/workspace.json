@@ -8,59 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13573e660ef14170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/private/art/Image sizes for export.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b4d3045dd92a01eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "10cf4c3585ac6431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/private/DigitalProduct/First Steps for Digital Product.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b8cfa5b11c554f26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/private/art/April 3 2022.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e8ad5c17bd70ac5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,7 +21,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -191,17 +139,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e8ad5c17bd70ac5a",
+  "active": "56446ebeb27d6eeb",
   "lastOpenFiles": [
-    "docs/private/art/Image sizes for export.md",
-    "docs/private/DigitalProduct/First Steps for Digital Product.md",
-    "docs/private/art/Art Sites requirements.md",
-    "docs/private/art/April 3 2022.md",
-    "docs/private/art/Print sizes by theme.md",
-    "docs/private/art/19 Feb 2022.md",
-    "docs/private/art/19 Feb 2022/bear_sketch@2x.png",
-    "docs/Teaching/Design and Production/Week 9.md",
-    "docs/private/art/Artist Influencers.md",
-    "docs/Teaching/Design and Production/Week 8.md"
+    "docs/Teaching/Multiplatform Publishing/Using a Git Repository to host your Shakespeare Play Web Site.md",
+    "media/templategrab.png.md",
+    "docs/Teaching/Multiplatform Publishing/Week 10.md",
+    "docs/Teaching/Multiplatform Publishing/Week 11.md",
+    "docs/Teaching/Multiplatform Publishing/Week 12.md",
+    "docs/Teaching/Multiplatform Publishing/Week 3.md",
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+    "docs/private/Multiplatform Publishing/Week 1 Intro.md",
+    "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
+    "docs/private/art/Print sizes by theme.md"
   ]
 }
