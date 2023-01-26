@@ -3,7 +3,6 @@ hide:
  - navigation
 ---
 
-# Week 12
 Here are a few extra issues that have been noticed that can be fixed!
 
 ## Do you have a line down the middle of the spread?

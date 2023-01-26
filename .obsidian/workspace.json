@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93a9507c79f40890",
+            "id": "7c17fd2ffb770892",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 2.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,17 +140,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "93a9507c79f40890",
+  "active": "7c17fd2ffb770892",
   "lastOpenFiles": [
-    "docs/Teaching/Multiplatform Publishing/Editing inside the ePUB package.md",
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+    "docs/Teaching/Design and Production/Attention to Detail in Typography with InDesign.md",
     "docs/Teaching/Multiplatform Publishing/From InDesign to HTML and CSS.md",
+    "docs/Teaching/Multiplatform Publishing/Editing inside the ePUB package.md",
+    "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
+    "docs/Teaching/Multiplatform Publishing/Week 12.md",
     "docs/Teaching/Multiplatform Publishing/epubreaders.md",
     "docs/index.md",
     "README.md",
-    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
-    "docs/Web Sites with GitHub/How to build a website with GitHub and Netlify.md",
-    "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
-    "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
-    "docs/eBookProduction/Notes on Fixed Layout.md"
+    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md"
   ]
 }

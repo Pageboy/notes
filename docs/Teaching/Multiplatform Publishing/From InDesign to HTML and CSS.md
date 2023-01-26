@@ -32,7 +32,7 @@ We can achieve this structure by making sure that the Act is set at level 1 and 
 
 Here is a view of our table of contents on the page in InDesign
 
-![[Screenshot 2017-12-23 12.36.38.png]]
+![[Screenshot 2017-12-23 12.36.38.png | Here is a view of our table of contents on the page in InDesign]]
 
 When we export to HTML (File > Export > HTML), we need to be sure that our lists are exported as HTML lists.
 
