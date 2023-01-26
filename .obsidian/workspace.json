@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7083e41e89ab5a18",
+            "id": "93a9507c79f40890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Editing inside the ePUB package.md",
-                "mode": "source",
+                "file": "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Editing inside the ePUB package.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Editing inside the ePUB package.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,8 +140,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7083e41e89ab5a18",
+  "active": "93a9507c79f40890",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Editing inside the ePUB package.md",
     "docs/Teaching/Multiplatform Publishing/From InDesign to HTML and CSS.md",
     "docs/Teaching/Multiplatform Publishing/epubreaders.md",
     "docs/index.md",
@@ -150,7 +151,6 @@
     "docs/Web Sites with GitHub/How to build a website with GitHub and Netlify.md",
     "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
     "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
-    "docs/eBookProduction/Notes on Fixed Layout.md",
-    "docs/private/bare/From Osney to Godstow.md"
+    "docs/eBookProduction/Notes on Fixed Layout.md"
   ]
 }
