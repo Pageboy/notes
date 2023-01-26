@@ -9,7 +9,6 @@ Explain how flex works
 
 Each item has some flex basis
 
-
 ## Getting GitHub up and running
 
 Go to Github.com and create an account

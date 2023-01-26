@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 2.md",
+                "file": "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 2.md",
+                "file": "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 2.md",
+                "file": "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,6 +143,7 @@
   },
   "active": "7c17fd2ffb770892",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/Teaching/Design and Production/Attention to Detail in Typography with InDesign.md",
     "docs/Teaching/Multiplatform Publishing/From InDesign to HTML and CSS.md",
@@ -150,7 +152,6 @@
     "docs/Teaching/Multiplatform Publishing/Week 12.md",
     "docs/Teaching/Multiplatform Publishing/epubreaders.md",
     "docs/index.md",
-    "README.md",
-    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md"
+    "README.md"
   ]
 }
