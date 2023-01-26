@@ -29,3 +29,7 @@ break
 * it is important that you name the repository with the URL that will work ie:
 	* it must be named as above `goodpublisher.github.io`
 * The web site will actually be delivered from the `docs` folder
+
+Now read this:
+
+[[Using a Git Repository to host your Shakespeare Play Web Site]]
