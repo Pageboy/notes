@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/Blog Post Ideas.md",
+                "file": "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/private/Blog Post Ideas.md",
+            "file": "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/private/Blog Post Ideas.md",
+            "file": "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,8 +129,8 @@
   },
   "active": "091f38a5120b2e6d",
   "lastOpenFiles": [
-    "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
     "docs/private/Blog Post Ideas.md",
+    "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
     "docs/private/art/Print sizes by theme.md",
     "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
     "docs/private/Open Source Wikis.md",

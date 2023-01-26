@@ -128,7 +128,7 @@ Open `_config.yml` in a text editor to change some settings.
 
 Change these variables in `_config.yml`:
 
-```yml
+```YAML
 url: "https://yoursite.netlify.app"   #change this to yours
 repository: yourusername/yourrepository
 title: Your recipe collection
@@ -153,12 +153,6 @@ Although the main content is built with markdown and converted to HTML automatic
 Once these changes have been made in Github, you can now go to your new site and begin to add some further details through the CMS. You may need to wait for 5 minutes.
 
 Your site will be live but there will be no styling; your task is to edit the CSS, and add your recipes and introduction text.
-
-
-
-### Some GitHub settings
-
-https://api.netlify.com/auth/done
 
 
 ## HTML and CSS
