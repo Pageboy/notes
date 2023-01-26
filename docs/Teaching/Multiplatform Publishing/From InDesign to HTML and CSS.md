@@ -179,5 +179,6 @@ If you want you can add the images that you need for the play (6 required) with 
 	
 	
 
-[Link to article: InDesign to HTML and CSS](https://www.publisha.org/pages/InDesign_to_HTML/)
-
+#indesign 
+#html
+#css

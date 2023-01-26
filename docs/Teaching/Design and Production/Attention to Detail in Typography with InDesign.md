@@ -281,3 +281,5 @@ Other aspects of the font they you may wish to use (for even greater attention d
 ![[Screenshot 2017-12-05 22.08.05.png | Glyph Table for Jenson]]
 
 **Kerning** is a setting within InDesign for the paragraph style that will adjust letter spacing for certain characters. The letters `A` and `v`, for example, should be optically set rather than using the metrics setting.
+
+#typography
