@@ -14,6 +14,8 @@ You need to choose 5 or more recipes by theme, so that you can create a web site
 - Recipes from the Victorian Kitchen
 - 5 Puddings
 
+Suggest some recipe book titles that include 5 simple recipes
+
 You need to decide on a title (with an optional sub-title) and write an introduction (about 150 words) of the contents. The recipes can be from anywhere, or your own. You will work the title into an ebook cover (the second assignment) and the introduction and the image of the cover will go onto the web site. 
 
 The theme is most important. You can think of a title for your product at the same time.

@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/Multiplatform Publishing/Week 2.md",
+                "file": "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "091f38a5120b2e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/private/Blog Post Ideas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +80,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "4b2f3a5ba6f88a0d",
@@ -78,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/private/Multiplatform Publishing/Week 2.md",
+            "file": "docs/private/Blog Post Ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/private/Multiplatform Publishing/Week 2.md",
+            "file": "docs/private/Blog Post Ideas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,17 +127,17 @@
     ],
     "currentTab": 2
   },
-  "active": "ffc5f546f68e05f0",
+  "active": "091f38a5120b2e6d",
   "lastOpenFiles": [
+    "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
+    "docs/private/Blog Post Ideas.md",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
+    "docs/private/Open Source Wikis.md",
+    "docs/private/Multiplatform Publishing/Week 2.md",
     "docs/private/Multiplatform Publishing/Week 1 Intro.md",
     "docs/private/DigitalProduct/First Steps for Digital Product.md",
-    "docs/private/Multiplatform Publishing/Week 2.md",
     "README.md",
-    "docs/private/art/Print sizes by theme.md",
-    "Week 9.md",
-    "docs/Teaching/Design and Production/Week 8.md",
-    "docs/private/art/Image sizes for export.md",
-    "Week 6.md",
-    "docs/Teaching/Design and Production/Week 3.md"
+    "Week 9.md"
   ]
 }

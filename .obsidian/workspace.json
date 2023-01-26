@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ce8148ab325544fd",
+        "id": "cf17541253fbb375",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d3045dd92a01eb",
+            "id": "cfbd64c17bd06b0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +130,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "gpt3-notes:GPT-3 Notes": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -139,17 +140,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "56446ebeb27d6eeb",
+  "active": "cfbd64c17bd06b0b",
   "lastOpenFiles": [
-    "docs/Teaching/Multiplatform Publishing/Using a Git Repository to host your Shakespeare Play Web Site.md",
-    "media/templategrab.png.md",
-    "docs/Teaching/Multiplatform Publishing/Week 10.md",
-    "docs/Teaching/Multiplatform Publishing/Week 11.md",
-    "docs/Teaching/Multiplatform Publishing/Week 12.md",
-    "docs/Teaching/Multiplatform Publishing/Week 3.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/private/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
-    "docs/private/art/Print sizes by theme.md"
+    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
+    "docs/Web Sites with GitHub/How to build a website with GitHub and Netlify.md",
+    "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
+    "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
+    "docs/eBookProduction/Notes on Fixed Layout.md",
+    "docs/private/bare/From Osney to Godstow.md",
+    "docs/private/bare/Measurements for Perspectief.md",
+    "docs/private/bare/Taking 3 shapes for a walk.md",
+    "docs/private/bare/From InDesign to HTML.md",
+    "docs/private/bare/week 3.md"
   ]
 }

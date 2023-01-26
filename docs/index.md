@@ -1,10 +1,5 @@
-# Chris Jennings
+# My Notes
 
-Notes growing
-
-## Here is my stuff
-
-[My main site - chrisjennings.net](https://www.chrisjennings.net)
-
+Freshly created with with Obsidian and built on GitHub pages
 
 Navigate through the folders on the left to see what's here.

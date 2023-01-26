@@ -17,13 +17,13 @@ You should have 3 text blocks; the toc (in an object called _nav_), a Dramatis P
 
 These 3 objects need to go into the articles panel for export.
 
-![](Screenshot%202022-02-08%20at%2016.13.30.png)
+![[Screenshot 2022-02-08 at 16.13.30.png]]
 
 ### Export Tagging
 
 We need to make sure that all styles (character, paragraph, object and table) export with the correct HTML tag names and class labels. `Edit All Export Tags` can be found in the paragraph style pane. The template will have most of these already but you may need to add.
 
-![](Screenshot%202022-02-08%20at%2015.59.26.png)
+![[Screenshot 2022-02-08 at 15.59.26.png]]
 
 You only need to use standard tags and semantic class names. No need to worry about styles that we don’t use. 
 
