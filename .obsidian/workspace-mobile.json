@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0e5e24e1431eac33",
+        "id": "d8dccb066b18f5c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ffc5f546f68e05f0",
+            "id": "a2c703fb6cbc503d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "091f38a5120b2e6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/From InDesign to HTML and CSS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -92,7 +74,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +90,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,17 +114,17 @@
     ],
     "currentTab": 3
   },
-  "active": "ffc5f546f68e05f0",
+  "active": "a2c703fb6cbc503d",
   "lastOpenFiles": [
-    "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
-    "docs/Teaching/Multiplatform Publishing/From InDesign to HTML and CSS.md",
-    "docs/Teaching/Multiplatform Publishing/Week 7.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
     "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
+    "docs/Teaching/Multiplatform Publishing/From InDesign to HTML and CSS.md",
+    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
+    "docs/Teaching/Multiplatform Publishing/Week 7.md",
+    "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/Teaching/Design and Production/Week 5.md",
     "docs/Teaching/Design and Production/Week 6.md",
-    "docs/Teaching/Design and Production/Attention to Detail in Typography with InDesign.md",
-    "docs/Teaching/Design and Production/Week 8.md"
+    "docs/Teaching/Design and Production/Attention to Detail in Typography with InDesign.md"
   ]
 }

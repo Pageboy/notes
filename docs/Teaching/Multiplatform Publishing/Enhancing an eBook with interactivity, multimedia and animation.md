@@ -3,22 +3,21 @@ There are some ways we can creatively enhance the eBook version to provide some 
 
 ## What enhancements we can add beyond text and image?
 
--   **Multimedia**
-    We can add audio and video inline with the text
-    Audio can be used to provide a soundtrack (music and sound while we read)
-    Audio narration can be played back to synchronise with text (fixed-layout only)
+  - **Multimedia** We can add audio and video inline with the text
+	- Audio can be used to provide a soundtrack (music and sound while we read)
+	- Audio narration can be played back to synchronise with text (fixed-layout only)
 
 -   **Non-linear content**
-    Items that are not in the flow of the text but can appear through a hyperlink
+	- Items that are not in the flow of the text but can appear through a hyperlink
 
 -   **Popup notes**
-    We can convert footnotes into popup notes in a reflowable ePub. We can also show and hide objects that include text and image.
+	- We can convert footnotes into popup notes in a reflowable ePub. We can also show and hide objects that include text and image.
 
 -   **Animation**
-    InDesign has some inbuilt features that can  move and deliver objects dynamically, on page open or activated by interaction with buttons
+	- InDesign has some inbuilt features that can  move and deliver objects dynamically, on page open or activated by interaction with buttons
 
 -   **Read Aloud**
-    Although complex to build and implement, it is possible to have text synchronised with and audio narration. This only possible in a fixed layout ePub.
+	- Although complex to build and implement, it is possible to have text synchronised with and audio narration. This only possible in a fixed layout ePub.
 
 ## Adding Multimedia
 

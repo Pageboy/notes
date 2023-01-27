@@ -15,8 +15,8 @@
               "state": {
                 "file": "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
                 "viewState": {
-                  "x": -454.9400000000021,
-                  "y": 59.79999999999999,
+                  "x": 1413.5,
+                  "y": 4,
                   "zoom": 0,
                   "snapToGrid": false
                 }
@@ -135,13 +135,13 @@
   "left-ribbon": {
     "hiddenItems": {
       "gpt3-notes:GPT-3 Notes": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
   "active": "482d0296ec2ea080",
