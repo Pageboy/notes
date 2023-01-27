@@ -1,4 +1,6 @@
-When we export InDesign to ePub, content is marked-up as HTML and styles are converted to CSS. We can also export to HTML and same thing happens, but what should we do to make sure our HTML and CSS are perfectly formed and can also (if needed) be edited.
+>HTML is the language for the web; delivering content for our various types of screens. InDesign is a *page layout* tool; presuming for the printed page, but we can still generate HTML from our content and with some attention to detail, we can can get good HTML markup ready for further styling and attention to a responsive design.
+
+What should we do to make sure our HTML and CSS are perfectly formed and can also (if needed) be edited.
 
 ## Introduction
 In this detailed description, we are going to use our Shakespeare play to create a single web page but with an interactive navigation block that will help is locate the Acts and Scenes.
@@ -161,9 +163,9 @@ Make sure that you set the Export Tagging for each paragraph, character and obje
 
 The table of contents should be in it's own text frame and this should be exported with `nav` as the export tag. The list items in the TOV should use toc styles but set the tags for those as `<li>`.
 
-### Master Page items?
+### ~~Master~~ Parent Page items?
 
-You can ignore whatever is on the master pages; page numbers and running headers will not appear in the HTML export.
+You can ignore whatever is on the ~~master~~ parent pages; page numbers and running headers will not appear in the HTML export.
 
 
 ### Images

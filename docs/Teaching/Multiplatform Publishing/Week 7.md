@@ -11,6 +11,8 @@ Any questions or issues or any reminders needed?
 
 We are letting InDesign do most of the work but we have control of the tagging (and class names) that get created on export. We do this through the `Export tagging`
 
+![[Screenshot 2017-12-20 16.18.53.png]]
+
 ### Why should we care about the tagging and class names?
 
 If we know the names of the tags and class names of the HTML selectors, then we can potentially modify the styles within the eBook by editing our own CSS file.

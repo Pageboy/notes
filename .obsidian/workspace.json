@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b1e8be8857b3abc9",
+        "id": "45a256e41d9e6dba",
         "type": "tabs",
         "children": [
           {
-            "id": "a32d3169fc0f9207",
+            "id": "482d0296ec2ea080",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
+                "viewState": {
+                  "x": -454.9400000000021,
+                  "y": 59.79999999999999,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -63,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 320.5
   },
   "right": {
     "id": "13fd9d4d78d9f053",
@@ -79,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,17 +144,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a32d3169fc0f9207",
+  "active": "482d0296ec2ea080",
   "lastOpenFiles": [
-    "docs/Web Sites with GitHub/How to build a website with GitHub and Netlify.md",
-    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
-    "docs/Teaching/Multiplatform Publishing/Week 2.md",
-    "docs/Teaching/Design and Production/Attention to Detail in Typography with InDesign.md",
-    "docs/Teaching/Multiplatform Publishing/From InDesign to HTML and CSS.md",
-    "docs/Teaching/Multiplatform Publishing/Editing inside the ePUB package.md",
-    "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
-    "docs/Teaching/Multiplatform Publishing/Week 12.md"
+    "docs/media/Screenshot 2022-02-08 at 16.13.30.png",
+    "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
+    "docs/media/image9.png",
+    "docs/media/image8.png",
+    "docs/media/Screenshot 2022-11-16 at 16.42.33.png",
+    "docs/media/2737D7E5-7C22-4425-A88F-554F0B24B9B6.jpeg",
+    "docs/media/Screenshot 2022-11-16 at 16.47.40.png",
+    "docs/media/Screenshot 2022-12-13 at 11.30.44.png",
+    "docs/media/Screenshot 2022-12-13 at 11.33.16.png",
+    "docs/media/Screenshot 2022-12-13 at 11.39.59.png"
   ]
 }

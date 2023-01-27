@@ -47,4 +47,5 @@ From the context menu on the structure pane see the menu item _Map tags to Style
 We will get a blank extra page at the beginning. This is because the style for the Dramatis heading is designed to start on a new page and there is already an empty paragraph on the first page. Just find the *pilchrow* on page one and delete this.
 
 
-
+#indesign #xml
+#notes4teaching 

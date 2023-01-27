@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
-                "mode": "source",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Design and Production/Attention to Detail in Typography with InDesign.md",
+                "file": "docs/Teaching/Multiplatform Publishing/From InDesign to HTML and CSS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Design and Production/Attention to Detail in Typography with InDesign.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Design and Production/Attention to Detail in Typography with InDesign.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,17 +134,17 @@
     ],
     "currentTab": 3
   },
-  "active": "091f38a5120b2e6d",
+  "active": "ffc5f546f68e05f0",
   "lastOpenFiles": [
     "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
     "docs/Teaching/Multiplatform Publishing/From InDesign to HTML and CSS.md",
-    "docs/private/Blog Post Ideas.md",
-    "docs/private/art/Print sizes by theme.md",
-    "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
-    "docs/private/Open Source Wikis.md",
-    "docs/private/Multiplatform Publishing/Week 2.md",
-    "docs/private/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/private/DigitalProduct/First Steps for Digital Product.md",
-    "README.md"
+    "docs/Teaching/Multiplatform Publishing/Week 7.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
+    "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+    "docs/Teaching/Design and Production/Week 5.md",
+    "docs/Teaching/Design and Production/Week 6.md",
+    "docs/Teaching/Design and Production/Attention to Detail in Typography with InDesign.md",
+    "docs/Teaching/Design and Production/Week 8.md"
   ]
 }

@@ -3,6 +3,15 @@
 
 ### Steps
 
+Start with presentation but rush through earlier part already covered
+
+* Then demonstrate Dream play
+* From book panel
+* Articles additions
+* Export options
+* Export tagging
+* Toc on page in intro do not export
+
 > All depends on how much you changed the play file  
 
 * Go back to the print version with book panel
