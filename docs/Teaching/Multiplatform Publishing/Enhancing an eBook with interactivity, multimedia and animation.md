@@ -3,21 +3,27 @@ There are some ways we can creatively enhance the eBook version to provide some 
 
 ## What enhancements we can add beyond text and image?
 
-  - **Multimedia** We can add audio and video inline with the text
-	- Audio can be used to provide a soundtrack (music and sound while we read)
-	- Audio narration can be played back to synchronise with text (fixed-layout only)
+### Multimedia
 
--   **Non-linear content**
-	- Items that are not in the flow of the text but can appear through a hyperlink
+- We can add audio and video inline with the text
+- Audio can be used to provide a soundtrack (music and sound while we read)
+- Audio narration can be played back to synchronise with text (fixed-layout only)
 
--   **Popup notes**
-	- We can convert footnotes into popup notes in a reflowable ePub. We can also show and hide objects that include text and image.
+### Non-linear content
 
--   **Animation**
-	- InDesign has some inbuilt features that can  move and deliver objects dynamically, on page open or activated by interaction with buttons
+- Items that are not in the flow of the text but can appear through a hyperlink
 
--   **Read Aloud**
-	- Although complex to build and implement, it is possible to have text synchronised with and audio narration. This only possible in a fixed layout ePub.
+### Popup notes
+
+- We can convert footnotes into popup notes in a reflowable ePub. We can also show and hide objects that include text and image.
+
+### Animation
+
+- InDesign has some inbuilt features that can  move and deliver objects dynamically, on page open or activated by interaction with buttons
+
+### Read Aloud
+
+- Although complex to build and implement, it is possible to have text synchronised with and audio narration. This only possible in a fixed layout ePub.
 
 ## Adding Multimedia
 
@@ -62,8 +68,6 @@ When using iBooks on the MAC, the audio and video will continue to play even if 
 ## Multimedia in the Fixed Layout ePUB
 
 When you create the fixed-layout ePUB from InDesign then the page content will be exactly as you see it in InDesign. With audio you will need to make the audio object fill the frame that you have stretched across the page
-
-![[image5.png | Fit the content to the frame]]
 
 We can add audio or video as we can for the reflowable ePUB, but both audio and video will stop playing on page turn on both the MAC and iPad, because each page is a new HTML file.
 
