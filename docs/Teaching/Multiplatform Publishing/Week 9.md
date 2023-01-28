@@ -1,7 +1,8 @@
 ---
 hide:
  - navigation
- - contents
+ - toc
+ - tags
 ---
 ## The Fixed Layout eBook
 [Here is a more comprehensive document](https://www.publisha.org/pages/id2fixed/) that explains all.
@@ -89,3 +90,5 @@ We can look at making an image enlarge by making use of buttons and layers.
 
 ## How to read eBooks
 Here is a developing list of [[epubreaders]]
+
+#epubproduction 
