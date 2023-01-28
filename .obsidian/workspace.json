@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "45a256e41d9e6dba",
+        "id": "3dc2995c81a29078",
         "type": "tabs",
         "children": [
           {
-            "id": "482d0296ec2ea080",
+            "id": "4acdb971411d6422",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
-                "viewState": {
-                  "x": 1413.5,
-                  "y": 4,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -57,7 +54,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -82,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -144,17 +141,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "482d0296ec2ea080",
+  "active": "4acdb971411d6422",
   "lastOpenFiles": [
-    "docs/media/Screenshot 2022-02-08 at 16.13.30.png",
-    "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
-    "docs/media/image9.png",
-    "docs/media/image8.png",
-    "docs/media/Screenshot 2022-11-16 at 16.42.33.png",
-    "docs/media/2737D7E5-7C22-4425-A88F-554F0B24B9B6.jpeg",
-    "docs/media/Screenshot 2022-11-16 at 16.47.40.png",
-    "docs/media/Screenshot 2022-12-13 at 11.30.44.png",
-    "docs/media/Screenshot 2022-12-13 at 11.33.16.png",
-    "docs/media/Screenshot 2022-12-13 at 11.39.59.png"
+    "docs/Teaching/Multiplatform Publishing/Week 3.md",
+    "docs/Teaching/Multiplatform Publishing/Week 9.md",
+    "docs/Teaching/Design and Production/Week 9.md",
+    "docs/Teaching/Design and Production/Week 8.md",
+    "docs/Teaching/Multiplatform Publishing/Week 8.md",
+    "docs/Teaching/Multiplatform Publishing/Week 6.md",
+    "docs/Teaching/Multiplatform Publishing/Week 7.md",
+    "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md"
   ]
 }

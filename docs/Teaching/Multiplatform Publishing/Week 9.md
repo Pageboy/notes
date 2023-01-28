@@ -1,8 +1,8 @@
 ---
 hide:
  - navigation
+ - contents
 ---
-# Week 9
 ## The Fixed Layout eBook
 [Here is a more comprehensive document](https://www.publisha.org/pages/id2fixed/) that explains all.
 

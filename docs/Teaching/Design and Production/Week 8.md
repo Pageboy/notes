@@ -1,4 +1,9 @@
-Check InDesign version
+---
+hide: navigation contents
+---
+
+
+**Check InDesign version**
 
 Re download the folder from moodle
 
