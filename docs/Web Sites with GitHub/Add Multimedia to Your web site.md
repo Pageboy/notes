@@ -1,3 +1,12 @@
+---
+hide:
+ - navigation
+tags:
+ - css
+ - multiplatorm
+ - digitalproduct
+ - html
+---
 
 > We are using GitHub pages to host a web site for the Shakespeare play. This page explains how to add video and audio to the web page.
 

@@ -11,17 +11,98 @@
             "id": "4acdb971411d6422",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "docs/Teaching/DigitalProduct/assignent1.canvas",
+                "viewState": {
+                  "x": -83.34843786496992,
+                  "y": -416.84810866752844,
+                  "zoom": -0.9007309244431712,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "3d5279bbf90b8383",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
+                "file": "docs/private/blog/Video across a 2 page spread (updated).md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "32c213aad55dc9d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/private/blog/Vertical Spacing for text, pBook and eBook.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c153570514cf6e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/private/blog/Page size in InDesign for eBook?.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8c75f59c8d79de1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/private/blog/Validation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7321af65af3c75fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/private/blog/Using Flickr to Generate an Image Gallery.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3903d257ee245dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/private/Teaching_Hold/Multiplatform Publishing/Week 10.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -79,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
+                "file": "docs/private/blog/Using Flickr to Generate an Image Gallery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
+                "file": "docs/private/blog/Using Flickr to Generate an Image Gallery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +195,7 @@
             }
           },
           {
-            "id": "56446ebeb27d6eeb",
+            "id": "dbcfa905803ed3f0",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -126,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,17 +221,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "4acdb971411d6422",
+  "active": "7321af65af3c75fc",
   "lastOpenFiles": [
-    "docs/Teaching/Multiplatform Publishing/Week 3.md",
-    "docs/Teaching/Multiplatform Publishing/Week 9.md",
-    "docs/Teaching/Design and Production/Week 9.md",
-    "docs/Teaching/Design and Production/Week 8.md",
-    "docs/Teaching/Multiplatform Publishing/Week 8.md",
-    "docs/Teaching/Multiplatform Publishing/Week 6.md",
-    "docs/Teaching/Multiplatform Publishing/Week 7.md",
-    "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md"
+    "docs/private/blog/Page Size Issues in fixed-layout ePub.md",
+    "docs/private/blog/Page size in InDesign for eBook?.md",
+    "docs/private/blog/Using Flickr to Generate an Image Gallery.md",
+    "docs/private/blog/Video across a 2 page spread (updated).md",
+    "docs/private/blog/Validation.md",
+    "docs/private/blog/Vertical Spacing for text, pBook and eBook.md",
+    "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
+    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 10.md",
+    "docs/private/Teaching_Hold/Design and Production/Week 5.md",
+    "docs/private/Teaching_Hold/Design and Production/Week 6.md"
   ]
 }

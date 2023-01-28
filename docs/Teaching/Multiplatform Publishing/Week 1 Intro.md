@@ -1,4 +1,13 @@
-# Week 1 Intro
+---
+hide:
+ - navigation
+tags:
+ - ebookproduction
+ - indesign
+ - multimedia
+ - multiplatform
+ - vscode
+---
 
 - HTML presentation
 - Demo the basics with VScode

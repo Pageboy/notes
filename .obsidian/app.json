@@ -7,7 +7,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "fileSortOrder": "byModifiedTime",
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "autoConvertHtml": false,
   "legacyEditor": false,
   "mobileToolbarCommands": [
