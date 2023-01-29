@@ -189,9 +189,3 @@ If you want you can add the images that you need for the play (6 required) with 
 	- Tables can be styled in CSS but advice to change to text
 - If you have the play character on the same line as the first line of the speech
 	- Will need some extra CSS because the tab will disappear
-	
-	
-
-#indesign 
-#html
-#css

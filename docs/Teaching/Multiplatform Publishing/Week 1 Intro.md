@@ -7,6 +7,7 @@ tags:
  - multimedia
  - multiplatform
  - vscode
+ - notes4teaching
 ---
 
 - HTML presentation
@@ -42,5 +43,3 @@ break
 Now read this:
 
 [[Using a Git Repository to host your Shakespeare Play Web Site]]
-
-#notes4teaching 
