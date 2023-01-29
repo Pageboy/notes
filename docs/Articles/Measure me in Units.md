@@ -13,7 +13,7 @@ What units of measure can we use in our CSS to provide such things as font size,
 
 ![Photo by patricia serna on Unsplash](patricia-serna-zpz9vqqdnba-unsplash.jpg "measing tapes")
 
-
+![Photo by patricia serna on Unsplash](patricia-serna-zpz9vqqdnba-unsplash.jpg)
 
 ## The structure of an \`HTML\` page; the hierarchy of the elements.
 
