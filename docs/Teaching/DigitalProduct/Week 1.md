@@ -1,11 +1,10 @@
-
 ---
-hide:
- - navigation
 tags:
  - digitalproduct
  - vscode
  - github
+hide:
+ - navigation
 ---
 
 ## Introduction
