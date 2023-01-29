@@ -50,7 +50,6 @@ theme:
 markdown_extensions:
   - meta
   - footnotes
-  - lightgallery
   - pymdownx.highlight:
       anchor_linenums: false
       use_pygments: true
