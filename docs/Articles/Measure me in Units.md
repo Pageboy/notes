@@ -11,8 +11,7 @@ tags:
 
 What units of measure can we use in our CSS to provide such things as font size, margins, padding and widths. There are many, including px, em, rem, vh, vw and even %. What does it all mean and how should we use these units?
 
-![[patricia-serna-zpz9vqqdnba-unsplash.jpg]]
-Photo by patricia serna on Unsplash
+![Photo by patricia serna on Unsplash](media/patricia-serna-zpz9vqqdnba-unsplash.jpg "measing tapes")
 
 ## The structure of an \`HTML\` page; the hierarchy of the elements.
 
