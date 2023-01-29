@@ -63,6 +63,7 @@ visited {
 }
 
 img {
-  max-width: 530px !important;
+  width:100%;
+  max-width: 730px !important;
   display: block;
 }
