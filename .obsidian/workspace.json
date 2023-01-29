@@ -120,7 +120,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 1.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 1.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 1.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,6 +262,7 @@
   },
   "active": "89c40457acb4ee19",
   "lastOpenFiles": [
+    "docs/Teaching/DigitalProduct/Week 1.md",
     "docs/eBookProduction/Editing inside the ePUB package.md",
     "docs/Articles/Validation.md",
     "docs/Articles/Video across a 2 page spread (updated).md",
@@ -270,7 +271,6 @@
     "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
     "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
-    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
-    "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md"
+    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md"
   ]
 }
