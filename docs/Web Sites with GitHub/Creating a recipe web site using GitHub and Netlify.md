@@ -19,7 +19,6 @@ For the following processes I suggest that you use *Google Chrome* rather than *
 - Create a new repository from this template
 - Once logged in go to this site in another tab: https://github.com/Pageboy/student_recipes
 - see the green button `Use this template` Hit that and `Create a new repository`
-
 - You will need to name this repository. Remember what you called it
 - make sure you make this *Public*
 
@@ -59,8 +58,9 @@ You will also need to enter the `callback` term in the last box. This should be 
 
 `https://api.netlify.com/auth/done`
 
-Here is what that page will look like after you enter the details
+
 ![[oauth 1.png]]
+Here is what that page will look like after you enter the details
 
 ### In Netlify
 

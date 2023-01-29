@@ -70,7 +70,7 @@ And here is HTML5, pure and simple, no references to data held on the web:
 ## How can we validate?
 
 ### HTML
-You can validate your web page by [going to this web site][d2ef4529]{:target="_blank"} and putting in the a link to the file.
+You can validate your web page by [going to this web site][d2ef4529] and putting in the a link to the file.
 
   [d2ef4529]: https://validator.w3.org/nu/ "The online validator"
 

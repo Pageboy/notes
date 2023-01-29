@@ -105,7 +105,7 @@ I suppose you might just as well delete all of the last `<div>` or use HTML comm
 
 When exporting from InDesign, add the following script
 
-```javascript
+```js
 // run this once the page has loaded
 window.onload = function(){
   // find out if there is more than one video over the spread
