@@ -15,9 +15,10 @@ features:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/lightgallery.css
-
+  - stylesheets/lg-transitions.css
 extra_javascript:
   - javascripts/lightgallery.js
+  - javascripts/lg-utils.js
 
 theme:
     name: 'material'
