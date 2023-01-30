@@ -13,7 +13,9 @@ tags:
 - HTML presentation
 - Demo the basics with VScode
 
-break
+
+![!Here is the plan for assignment 1](ass1plan%201.jpg)
+
 
 - Install vscode
 

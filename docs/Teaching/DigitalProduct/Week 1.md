@@ -44,3 +44,6 @@ There are a lot of links to web sites on moodle
 
 ## The web site
 This will be hosted and be a live site -here are the detailed instructions:  [[Creating a recipe web site using GitHub and Netlify]]
+
+
+![!Here is the plan for assignment 1](assignment1.png)

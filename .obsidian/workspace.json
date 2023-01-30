@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Measure me in Units.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Articles/Measure me in Units.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Articles/Measure me in Units.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,13 +249,13 @@
   },
   "active": "35983473bcae1741",
   "lastOpenFiles": [
+    "docs/Teaching/DigitalProduct/Week 1.md",
+    "docs/Articles/Measure me in Units.md",
     "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
     "docs/Teaching/DigitalProduct/assignment1.canvas",
     "docs/private/art/Print sizes by theme.md",
-    "docs/Articles/Measure me in Units.md",
     "docs/Articles/Validation.md",
     "docs/index.md",
-    "docs/Teaching/DigitalProduct/Week 1.md",
     "docs/eBookProduction/Editing inside the ePUB package.md",
     "docs/Articles/Video across a 2 page spread (updated).md",
     "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md"

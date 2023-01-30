@@ -21,7 +21,7 @@
     window.CustomEvent = CustomEvent;
 })();
 
-import utils from 'lg-utils';
+import utils from './lg-utils';
 window.utils = utils;
 window.lgData = {
     uid: 0

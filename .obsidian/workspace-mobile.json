@@ -24,8 +24,13 @@
             "id": "513c1c4a18643a3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Articles/Dropping your caps.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -75,8 +80,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "4b2f3a5ba6f88a0d",
@@ -88,6 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "docs/Articles/Dropping your caps.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,6 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "docs/Articles/Dropping your caps.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
