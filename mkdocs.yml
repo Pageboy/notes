@@ -13,6 +13,10 @@ features:
   - navigation.indexes
 extra_css:
   - stylesheets/extra.css
+  # - stylesheets/lightgallery.css
+
+# extra_javascript:
+#   - javascripts/lightgallery.js
 
 theme:
     name: 'material'

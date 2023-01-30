@@ -1,4 +1,11 @@
-# Important Tips for InDesign Users when Making eBooks
+---
+hide:
+ - navigation
+tags:
+ - ebookproduction
+ - indesign
+ - html
+---
 
 >**Note**: There are differences between these 4 scenarios:
 

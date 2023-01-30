@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "513c1c4a18643a3d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +88,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -96,7 +104,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,17 +128,17 @@
     ],
     "currentTab": 3
   },
-  "active": "a2c703fb6cbc503d",
+  "active": "513c1c4a18643a3d",
   "lastOpenFiles": [
+    "README.md",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/Articles/Measure me in Units.md",
+    "docs/eBookProduction/Attention to Detail in Typography with InDesign.md",
+    "docs/Teaching/DigitalProduct/Week 1.md",
     "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
+    "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
+    "docs/private/art/Artist Influencers.md",
     "docs/Teaching/Multiplatform Publishing/From InDesign to HTML and CSS.md",
-    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
-    "docs/Teaching/Multiplatform Publishing/Week 7.md",
-    "docs/Teaching/DigitalProduct/First Steps for Digital Product.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/Teaching/Design and Production/Week 5.md",
-    "docs/Teaching/Design and Production/Week 6.md",
-    "docs/Teaching/Design and Production/Attention to Detail in Typography with InDesign.md"
+    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md"
   ]
 }

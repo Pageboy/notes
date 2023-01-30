@@ -1,4 +1,12 @@
-# Notes on Fixed Layout
+---
+hide:
+ - navigation
+tags:
+ - ebookproduction
+ - indesign
+ - html
+ - css
+---
 
 ## Adding HTML to InDesign
 
@@ -97,11 +105,6 @@ Page size:
 
 If the design of the book needs to show spreads (because there are images or tables across the spine), then choose a page size that is near as possible 8x6 proportion. This is so that the eBook can use all space on a standard tablet.
 
-  
-
 You can fork the eBook version and modify the page size if you really need a more square format for the printed book.
 
-  
-
-## Videos across a spread
 

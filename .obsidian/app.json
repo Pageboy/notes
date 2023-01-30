@@ -7,7 +7,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "fileSortOrder": "byModifiedTime",
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "autoConvertHtml": false,
   "legacyEditor": false,
   "mobileToolbarCommands": [
@@ -32,5 +32,7 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
   ],
-  "mobilePullAction": "obsidian-markdown-formatting-assistant-plugin:open-command-selector"
+  "mobilePullAction": "obsidian-markdown-formatting-assistant-plugin:open-command-selector",
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
 }

@@ -4,27 +4,134 @@
     "type": "split",
     "children": [
       {
-        "id": "45a256e41d9e6dba",
+        "id": "3dc2995c81a29078",
         "type": "tabs",
         "children": [
           {
-            "id": "482d0296ec2ea080",
+            "id": "4acdb971411d6422",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "docs/Teaching/DigitalProduct/assignment1.canvas",
+                "viewState": {
+                  "x": -83.34843786496992,
+                  "y": -416.84810866752844,
+                  "zoom": -0.9007309244431712,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "3d5279bbf90b8383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Articles/Video across a 2 page spread (updated).md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "32c213aad55dc9d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c153570514cf6e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Articles/Page size in InDesign for eBook?.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8c75f59c8d79de1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Articles/Validation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7321af65af3c75fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a6902c211ae58628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Articles/Dropping your caps.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "35983473bcae1741",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
                 "viewState": {
-                  "x": 1413.5,
-                  "y": 4,
-                  "zoom": 0,
+                  "x": 302,
+                  "y": -28,
+                  "zoom": -1.055919382628586,
                   "snapToGrid": false
                 }
               }
             }
+          },
+          {
+            "id": "3903d257ee245dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/private/Teaching_Hold/Multiplatform Publishing/Week 10.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "stacked": true
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -57,7 +164,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -117,7 +224,7 @@
             }
           },
           {
-            "id": "56446ebeb27d6eeb",
+            "id": "dbcfa905803ed3f0",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -125,12 +232,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,17 +250,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "482d0296ec2ea080",
+  "active": "35983473bcae1741",
   "lastOpenFiles": [
-    "docs/media/Screenshot 2022-02-08 at 16.13.30.png",
-    "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
-    "docs/media/image9.png",
-    "docs/media/image8.png",
-    "docs/media/Screenshot 2022-11-16 at 16.42.33.png",
-    "docs/media/2737D7E5-7C22-4425-A88F-554F0B24B9B6.jpeg",
-    "docs/media/Screenshot 2022-11-16 at 16.47.40.png",
-    "docs/media/Screenshot 2022-12-13 at 11.30.44.png",
-    "docs/media/Screenshot 2022-12-13 at 11.33.16.png",
-    "docs/media/Screenshot 2022-12-13 at 11.39.59.png"
+    "docs/Teaching/DigitalProduct/assignment1.canvas",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/Articles/Measure me in Units.md",
+    "docs/Articles/Validation.md",
+    "docs/index.md",
+    "docs/Teaching/DigitalProduct/Week 1.md",
+    "docs/eBookProduction/Editing inside the ePUB package.md",
+    "docs/Articles/Video across a 2 page spread (updated).md",
+    "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
+    "docs/Web Sites with GitHub/How to build a blog website with GitHub and Netlify.md"
   ]
 }
