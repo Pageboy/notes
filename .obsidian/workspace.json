@@ -105,15 +105,12 @@
             "id": "35983473bcae1741",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
-                "viewState": {
-                  "x": 302,
-                  "y": -28,
-                  "zoom": -1.055919382628586,
-                  "snapToGrid": false
-                }
+                "file": "docs/Articles/Measure me in Units.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -189,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
+                "file": "docs/Articles/Measure me in Units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
+                "file": "docs/Articles/Measure me in Units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,6 +249,7 @@
   },
   "active": "35983473bcae1741",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
     "docs/Teaching/DigitalProduct/assignment1.canvas",
     "docs/private/art/Print sizes by theme.md",
     "docs/Articles/Measure me in Units.md",
@@ -260,7 +258,6 @@
     "docs/Teaching/DigitalProduct/Week 1.md",
     "docs/eBookProduction/Editing inside the ePUB package.md",
     "docs/Articles/Video across a 2 page spread (updated).md",
-    "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
-    "docs/Web Sites with GitHub/How to build a blog website with GitHub and Netlify.md"
+    "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md"
   ]
 }
