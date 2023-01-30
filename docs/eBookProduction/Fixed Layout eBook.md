@@ -1,12 +1,4 @@
----
-hide:
- - navigation
-tags:
- - ebookproduction
- - indesign
- - epub
----
-
+# Fixed Layout eBook
 ## Start Page
 How do make sure that the book starts at a specific point
 

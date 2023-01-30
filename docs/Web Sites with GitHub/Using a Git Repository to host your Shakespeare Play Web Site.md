@@ -1,14 +1,3 @@
----
-hide:
- - navigation
-tags:
- - css
- - multiplatorm
- - html
- - github
- - vscode
----
-
 
 We are using GitHub pages to host a web site for the Shakespeare play. This page explains what we are going to do to get started.
 

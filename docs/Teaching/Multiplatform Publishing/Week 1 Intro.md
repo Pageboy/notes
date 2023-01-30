@@ -1,14 +1,4 @@
----
-hide:
- - navigation
-tags:
- - ebookproduction
- - indesign
- - multimedia
- - multiplatform
- - vscode
- - notes4teaching
----
+# Week 1 Intro
 
 - HTML presentation
 - Demo the basics with VScode
@@ -43,3 +33,5 @@ break
 Now read this:
 
 [[Using a Git Repository to host your Shakespeare Play Web Site]]
+
+#notes4teaching 

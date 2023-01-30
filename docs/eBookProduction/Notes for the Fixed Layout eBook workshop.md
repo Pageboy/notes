@@ -1,10 +1,4 @@
----
-hide:
- - navigation
-tags:
- - ebookproduction
- - indesign
----
+# Notes for a Fixed Layout eBook workshop
 
 ## Not using InDesign
 Template for fixed layout ePub without using InDesign
@@ -12,10 +6,12 @@ Use code editor to add XHTML pages and then add to manifest in content.opf
 
 To make sure the first page with image always opens first use:
 epub:type="bodymatter" on the wrapper div
-
 ## Resources
 - eCan crusher: http//:www/publisha.org/resources/eCanCrusherMac.1.2-2.1.zip
 - ePub Checker: https://www.pagina.gmbh/produkte/epub-checker/
+
+## Proofing in Apple Books
+Unpack the ePub with ecancrusher. Add the .epub extension to the folder. Add to Apple Books as a proof.
 
 ## Using InDesign
 Starting a new eBook in landscape - choose for web
