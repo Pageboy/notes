@@ -3,6 +3,7 @@ site_description: My personal digital garden
 site_author: 
 site_url: https://notes.chrisjennings.net
 copyright: Copyright &copy; 2023 Chris Jennings
+repo_url: https://github.com/Pageboy/pageboy.github.io
 extra:
   social:
     - icon: fontawesome/brands/twitter 
@@ -13,10 +14,10 @@ features:
   - navigation.indexes
 extra_css:
   - stylesheets/extra.css
-  # - stylesheets/lightgallery.css
+  - stylesheets/lightgallery.css
 
-# extra_javascript:
-#   - javascripts/lightgallery.js
+extra_javascript:
+  - javascripts/lightgallery.js
 
 theme:
     name: 'material'
@@ -50,6 +51,7 @@ theme:
 markdown_extensions:
   - meta
   - footnotes
+  - lightgallery
   - pymdownx.highlight:
       anchor_linenums: false
       use_pygments: true
@@ -71,4 +73,4 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
