@@ -24,8 +24,7 @@ For the following processes I suggest that you use *Google Chrome* rather than *
 
 You should now have a repository built on this template. You can leave this site open for moment . Your site assets are stored here but the site will be built from these files at **Netlify**.
 
-![[Screenshot 2023-01-13 at 10.11.59.png]]
-
+![!Create the new reposotory based on the template](Screenshot%202023-01-13%20at%2010.11.59.png)
 
 ## Steps to get working with this template
 
@@ -58,9 +57,7 @@ You will also need to enter the `callback` term in the last box. This should be 
 
 `https://api.netlify.com/auth/done`
 
-
-![[oauth 1.png]]
-Here is what that page will look like after you enter the details
+![!Here is what that page will look like after you enter the details](oauth%201.png)
 
 ### In Netlify
 
@@ -86,7 +83,6 @@ backend:
   site_domain: yoursite.netlify.app #Your site on netlify
   use_graphql: true
 
-publish_mode: editorial_workflow
 show_preview_links: true
 display_url: https://yoursite.netlify.app
 ```

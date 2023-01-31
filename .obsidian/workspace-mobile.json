@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "docs/Teaching/DigitalProduct/Week 1.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "4b2f3a5ba6f88a0d",
@@ -92,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Articles/Dropping your caps.md",
+            "file": "docs/Teaching/DigitalProduct/Week 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Articles/Dropping your caps.md",
+            "file": "docs/Teaching/DigitalProduct/Week 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,9 +134,10 @@
     ],
     "currentTab": 3
   },
-  "active": "513c1c4a18643a3d",
+  "active": "a2c703fb6cbc503d",
   "lastOpenFiles": [
     "README.md",
+    "docs/Articles/Dropping your caps.md",
     "docs/private/art/Print sizes by theme.md",
     "docs/Articles/Measure me in Units.md",
     "docs/eBookProduction/Attention to Detail in Typography with InDesign.md",
@@ -144,7 +145,6 @@
     "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
     "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
     "docs/private/art/Artist Influencers.md",
-    "docs/Teaching/Multiplatform Publishing/From InDesign to HTML and CSS.md",
-    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md"
+    "docs/Teaching/Multiplatform Publishing/From InDesign to HTML and CSS.md"
   ]
 }
