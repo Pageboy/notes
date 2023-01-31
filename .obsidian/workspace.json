@@ -102,19 +102,6 @@
             }
           },
           {
-            "id": "35983473bcae1741",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "3903d257ee245dda",
             "type": "leaf",
             "state": {
@@ -128,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -186,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Articles/Dropping your caps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Articles/Dropping your caps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,9 +234,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "35983473bcae1741",
+  "active": "a6902c211ae58628",
   "lastOpenFiles": [
-    "docs/tags.md",
+    "docs/index.md",
+    "docs/private/tags.md",
     "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/Teaching/DigitalProduct/Week 1.md",
@@ -257,7 +245,6 @@
     "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
     "docs/Teaching/DigitalProduct/assignment1.canvas",
     "docs/private/art/Print sizes by theme.md",
-    "docs/Articles/Validation.md",
-    "docs/index.md"
+    "docs/Articles/Validation.md"
   ]
 }
