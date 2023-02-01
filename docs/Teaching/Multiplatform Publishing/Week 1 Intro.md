@@ -29,7 +29,10 @@ tags:
 * Prettier
 * GitHub Pull
 
-## Next Steps
+We will download the folder from moodle or from ![here](docs/media/homepage.zip) here
+
+
+## Next Steps.
 
 * create an account on GitHub with a username that will be part of your web site address
 * if your username (account owner) is _goodpublisher_ then your web site url would be `goodpublisher.github.io` Lets continue to use this example
@@ -41,6 +44,8 @@ tags:
 * it is important that you name the repository with the URL that will work ie:
 	* it must be named as above `goodpublisher.github.io`
 * The web site will actually be delivered from the `docs` folder
+
+Home page needs the play synopsis or how about using openAI to generate a plot summary?
 
 Now read this:
 

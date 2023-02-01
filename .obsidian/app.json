@@ -30,7 +30,8 @@
     "editor:undo",
     "editor:redo",
     "editor:toggle-keyboard",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "insert-unsplash-image:insert"
   ],
   "mobilePullAction": "obsidian-markdown-formatting-assistant-plugin:open-command-selector",
   "showUnsupportedFiles": true,

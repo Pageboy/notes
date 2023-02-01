@@ -20,8 +20,8 @@
   "basePath": "",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": true,
-  "username": "pageboy",
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
-  "showBranchStatusBar": true
+  "showBranchStatusBar": true,
+  "setLastSaveToLastCommit": false
 }

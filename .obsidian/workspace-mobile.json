@@ -4,30 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d8dccb066b18f5c4",
+        "id": "4d406afef7325af2",
         "type": "tabs",
         "children": [
           {
-            "id": "a2c703fb6cbc503d",
+            "id": "2c6277a77e0bf1eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 1.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "513c1c4a18643a3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Articles/Dropping your caps.md",
-                "mode": "preview",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -92,7 +79,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/DigitalProduct/Week 1.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +96,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/DigitalProduct/Week 1.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +111,15 @@
         }
       },
       {
-        "id": "a9b5b2075b61bdd9",
+        "id": "529e191f0ba82b87",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "97491210386a68c6",
         "type": "leaf",
         "state": {
           "type": "side-panel-control-view",
@@ -134,17 +129,17 @@
     ],
     "currentTab": 3
   },
-  "active": "a2c703fb6cbc503d",
+  "active": "2c6277a77e0bf1eb",
   "lastOpenFiles": [
-    "README.md",
+    "daily/31-01-2023.md",
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+    "daily/01-02-2023.md",
+    "2023-02-01.md",
+    "Untitled.md",
+    "2023-01-31.md",
     "docs/Articles/Dropping your caps.md",
-    "docs/private/art/Print sizes by theme.md",
-    "docs/Articles/Measure me in Units.md",
-    "docs/eBookProduction/Attention to Detail in Typography with InDesign.md",
+    "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
     "docs/Teaching/DigitalProduct/Week 1.md",
-    "docs/Teaching/Multiplatform Publishing/Enhancing an eBook with interactivity, multimedia and animation.md",
-    "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
-    "docs/private/art/Artist Influencers.md",
-    "docs/Teaching/Multiplatform Publishing/From InDesign to HTML and CSS.md"
+    "README.md"
   ]
 }

@@ -94,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Dropping your caps.md",
+                "file": "daily/01-02-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -115,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Articles/Dropping your caps.md",
+                "file": "docs/private/Teaching_Hold/Multiplatform Publishing/Week 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Articles/Dropping your caps.md",
+                "file": "docs/private/Teaching_Hold/Multiplatform Publishing/Week 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,9 +214,17 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "dfc0faadc097eba7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -224,6 +232,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "gpt3-notes:GPT-3 Notes": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -234,8 +243,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a6902c211ae58628",
+  "active": "3903d257ee245dda",
   "lastOpenFiles": [
+    "daily/01-02-2023.md",
+    "docs/Articles/Dropping your caps.md",
     "docs/index.md",
     "docs/private/tags.md",
     "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
@@ -243,8 +254,6 @@
     "docs/Teaching/DigitalProduct/Week 1.md",
     "docs/Articles/Measure me in Units.md",
     "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
-    "docs/Teaching/DigitalProduct/assignment1.canvas",
-    "docs/private/art/Print sizes by theme.md",
-    "docs/Articles/Validation.md"
+    "docs/Teaching/DigitalProduct/assignment1.canvas"
   ]
 }
