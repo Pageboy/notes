@@ -29,6 +29,8 @@ tags:
 * Prettier
 * GitHub Pull
 
+Prettier not needed
+
 We will download the folder from moodle or from ![here](docs/media/homepage.zip) here
 
 

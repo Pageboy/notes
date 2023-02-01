@@ -66,8 +66,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "4b2f3a5ba6f88a0d",
@@ -131,9 +130,9 @@
   },
   "active": "2c6277a77e0bf1eb",
   "lastOpenFiles": [
-    "daily/31-01-2023.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "daily/01-02-2023.md",
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+    "daily/31-01-2023.md",
     "2023-02-01.md",
     "Untitled.md",
     "2023-01-31.md",
