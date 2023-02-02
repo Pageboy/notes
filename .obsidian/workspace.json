@@ -107,11 +107,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/Teaching_Hold/Multiplatform Publishing/Week 10.md",
-                "mode": "preview",
+                "file": "daily/02-02-2023.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
+            }
+          },
+          {
+            "id": "8b3094e4a2ca16c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -173,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/private/Teaching_Hold/Multiplatform Publishing/Week 10.md",
+                "file": "daily/02-02-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/private/Teaching_Hold/Multiplatform Publishing/Week 10.md",
+                "file": "daily/02-02-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,15 +253,15 @@
   },
   "active": "3903d257ee245dda",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 10.md",
     "daily/01-02-2023.md",
     "docs/Articles/Dropping your caps.md",
     "docs/index.md",
     "docs/private/tags.md",
     "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/Teaching/DigitalProduct/Week 1.md",
     "docs/Articles/Measure me in Units.md",
-    "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
-    "docs/Teaching/DigitalProduct/assignment1.canvas"
+    "docs/Teaching/Multiplatform Publishing/Assignment1.canvas"
   ]
 }
