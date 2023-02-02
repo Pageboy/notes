@@ -13,12 +13,14 @@ extra:
 features:
   - navigation.indexes
 extra_css:
-  - stylesheets/extra.css
-  - stylesheets/lightgallery.css
-  - stylesheets/lg-transitions.css
+  # - stylesheets/extra.css
+  # - stylesheets/lightgallery.css
+  # - stylesheets/lg-transitions.css
+  - stylesheets/glightbox.min.css
 extra_javascript:
-  - javascripts/lightgallery.js
-  - javascripts/lg-utils.js
+  # - javascripts/lightgallery.js
+  # - javascripts/lg-utils.js
+  - javascripts/glightbox.min.js
 
 theme:
     name: 'material'
@@ -52,7 +54,7 @@ theme:
 markdown_extensions:
   - meta
   - footnotes
-  - lightgallery
+  # - lightgallery
   - pymdownx.highlight:
       anchor_linenums: false
       use_pygments: true
@@ -75,3 +77,5 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - glightbox:
+      zoomable: true
