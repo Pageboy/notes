@@ -10,30 +10,7 @@ tags:
  - notes4teaching
 ---
 
-- HTML presentation
-- Demo the basics with VScode
-
-
-![!Here is the plan for assignment 1](ass1plan%201.jpg)
-
-
-- Install vscode
-
-[https://code.visualstudio.com/download]()
-
-* Put the vscode icon on the dock
-
-### extensions for vscode:
-
-* Liveserver
-* Prettier
-* GitHub Pull
-
-Prettier not needed at the moment
-
-
-## Next Steps.
-
+## Get account On GitHub
 * create an account on GitHub with a username that will be part of your web site address
 * if your username (account owner) is _goodpublisher_ then your web site url would be `goodpublisher.github.io` Lets continue to use this example
 * remember the email and password that you use

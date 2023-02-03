@@ -37,7 +37,7 @@ The internet gave us to the *hyperlink* and it was thought to solve the referenc
 
 The hyperlink introduces another problem; the *back button*.
 
-**Along Comes the eBook**
+>Along Comes the eBook
 
 Can authors be creative with the interactive note in the eBook? What can the popup note and the scrolling *excursus* add to an author’s work?
 

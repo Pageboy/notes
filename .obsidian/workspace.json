@@ -4,113 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3dc2995c81a29078",
+        "id": "2d84990e5f7436d7",
         "type": "tabs",
         "children": [
           {
-            "id": "4acdb971411d6422",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "docs/Teaching/DigitalProduct/assignment1.canvas",
-                "viewState": {
-                  "x": -83.34843786496992,
-                  "y": -416.84810866752844,
-                  "zoom": -0.9007309244431712,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "3d5279bbf90b8383",
+            "id": "a2e2f437ec4d9faa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Video across a 2 page spread (updated).md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "32c213aad55dc9d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
+                "file": "docs/Articles/Footnotes and other Diversions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
-            }
-          },
-          {
-            "id": "c153570514cf6e24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Articles/Page size in InDesign for eBook?.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8c75f59c8d79de1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Articles/Validation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7321af65af3c75fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a6902c211ae58628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/01-02-2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8b3094e4a2ca16c1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/01-02-2023.md",
+                "file": "docs/Articles/Footnotes and other Diversions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/01-02-2023.md",
+                "file": "docs/Articles/Footnotes and other Diversions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,17 +148,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a6902c211ae58628",
+  "active": "a2e2f437ec4d9faa",
   "lastOpenFiles": [
-    "docs/eBookProduction/Notes on Fixed Layout.md",
+    "docs/Teaching/DigitalProduct/assignment1.canvas",
+    "docs/Articles/Video across a 2 page spread (updated).md",
+    "daily/01-02-2023.md",
     "docs/Articles/Footnotes and other Diversions.md",
+    "docs/eBookProduction/Notes on Fixed Layout.md",
     "docs/media/image4 2.png",
     "docs/media/image2.jpeg",
     "docs/Articles/Page size in InDesign for eBook?.md",
     "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
-    "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
-    "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
-    "docs/eBookProduction/Attention to Detail in Typography with InDesign.md",
-    "docs/Articles/Vertical Spacing for text, pBook and eBook.md"
+    "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md"
   ]
 }
