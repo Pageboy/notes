@@ -14,6 +14,7 @@ I start with a quote from Robert Bringhurst in his *The Elements of Typographic 
 
 In medieval Europe, the relationship between the shape of the page and text block provided space for notes in the margin. In fact, even before printing margin notes are used to elaborate or further explain details. In this illustration we see a spread from the _Liber insularum Archipelagi_ with notes in the site margins
 
+
 ![Liber insularum Archipelagi , Christophorum de Bondelmontibus de Florentia 1422](image1.jpeg)
 
 This paper sets out to explore the relationship between the footnote in the printed work and equivalent devices in screen based medium.
@@ -49,7 +50,6 @@ When a new translation of the bible was published in 1568, extensive notes were 
 _See here how this page from the Bible has side notes which flood out into the left column of text._
 
 ![The Geneva Bible from 1568 (Bishops' Bible)](image1_1.png)
-
 
 ## Conventions for Supplementary Content in Print
 
@@ -87,7 +87,7 @@ Sidenotes may not need the reference numbers or symbols as long as they can be n
 
 On the other hand Edward R. Tufte[^2] is well known for his beautifully designed books about the display of information and we can see in this example from _Visual Explanations_, that he uses numbers for the margin notes.
 
-![a spread from _Visual Explanations_, Edward R. Tufte ](image5_2.png)
+![a spread from _Visual Explanations_, Edward R. Tufte](image5_2.png)
 
 Robert Bringhurst uses both side notes and footnotes in his *The Elements of Typographic Style*:
 
@@ -100,7 +100,6 @@ Let’s look at some methods to create footnotes, side notes or endnotes.
 ### Word Processors
 
 ![setting dialogue for Microsoft Word](image7_1.png)
-
 
 In Microsoft Word, it is straightforward enough with a choice to go to the bottom of the page, below the text, end of document or end of section. Apples Pages will only go to the bottom of the page.
 
@@ -140,7 +139,7 @@ All of the above can (and has been) presented on the screen as in print with the
 
 Hypercard on the MAC was able to create linking of pages but also making references and glossary items popup on mouse click as seen here in the Voyager publication on CD-ROM of *Macbeth*[^4].
 
-![a page from the Hypercard *Macbeth*, a Voyager CD-ROM ](macbethvoyager.gif)
+![a page from the Hypercard *Macbeth*, a Voyager CD-ROM](macbethvoyager.gif)
 
 In the screen based medium, we can adopt other methods for linking references in the text to footnote content. Of course we can't call them footnotes anymore and they may be *hyperlinks* or *popups*.
 
@@ -151,8 +150,6 @@ Hypercard on the MAC propagated many ‘Stacks’ (the term for a Hypercard appl
 The term hypertext was coined first by Ted Nelson in 1963. The idea was further developed and the term adopted by many. For a history of hypertext see Jacob Nielsen’s book, _Hypertext and Hypermedia_ (later re-issued as _Multimedia and Hypertext: The Internet and Beyond_, Morgan Kaufmann Publishers, 1995.[^5]
 
 ![a definition of Hypertext in a Hypercard Stack](image1.gif)
-
-
 
 Although Hypercard had a great following it came after a hypertext authoring system called *Guide* created by the software company Owl (an Edinburgh based organisation). In this system, an *anchor* was created and led, through a mouse click, to a destination or a popup.
 
@@ -218,7 +215,7 @@ On my web site (*publisha.github.io*) I use a jQuery plugin generously provided 
 
 ![a footnote becomes a popup not on a web page with javascript](bigfoot.gif)
 
-## Tootips or hover ups
+## Tooltips or hover ups
 
 Another way to provide supplementary information is via the tooltip. This is a block of text that will appear as the mouse cursor hovers over the reference point in the text.
 
@@ -316,7 +313,7 @@ Here is the ePub version of _Medea, a performance history_ for the [APGRD][cf20f
 
 One of my MA students created this enhanced eBook of Mozart's _Magic Flute_. The eBook included music and narrated popup notes.
 
-![an enhanced eBook of the Magic Flute by MA student Maria Hock ](magicflute.gif)
+![an enhanced eBook of the Magic Flute by MA student Maria Hock](magicflute.gif)
 
 There are instruction for making popup text in the fixed layout eBook from InDesign [on my screencast channel][f15e7388].
 
