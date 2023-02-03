@@ -41,7 +41,9 @@ This does involve some editing of the HTML as well as the CSS, so beware that yo
 Here is an example of the output from InDesign to the fixed-layout ePub:
 
 
-`<span id="idTextSpan003" class="CharOverride-2" style="position:absolute;top:-70.31px;left:0px;letter-spacing:-0.64px;">Shakespeare</span>`
+```html
+<span id="idTextSpan003" class="CharOverride-2" style="position:absolute;top:-70.31px;left:0px;letter-spacing:-0.64px;">Shakespeare</span>
+```
 
 Yes, I know. Kind off complex isn’t it?
 
@@ -50,13 +52,13 @@ You will see that the word ’Shakespeare’ is enclosed in a span tag.
 What we need to do is to enclose each of the letters that need to use the swash in another span tag. (It is perfectly legitimate to nest span tags). This span tag needs a class:
 
 
-`<span id="idTextSpan003" class="CharOverride-2" style="position:absolute;top:-70.31px;left:0px;letter-spacing:-0.64px;">Sha<span class="swash">k</span>espear <span class="swash"> e</span></span>`
-
+```html
+<span id="idTextSpan003" class="CharOverride-2" style="position:absolute;top:-70.31px;left:0px;letter-spacing:-0.64px;">Sha<span class="swash">k</span>espear <span class="swash"> e</span></span>
+```
 
 I have gone for the ‘k’ and the last ‘e’.
 
 Now we need to add some CSS and we can do this in the CSS file that InDesign has created (or we can create our own CSS file to be loaded at export time):
-  
 
 ```css
 span.swash {
@@ -69,8 +71,6 @@ The font that I am using here is the revival FELL font created by [Igino Marini]
 ### Fixed layout options from InDesign
 
 To make a fixed-layout landscape where the print book is portrait spreads, choose _Convert Spread to Landscape page_
-
-![export fixed-layout options](/images/2016/12/Screenshot 2016-12-21 15.38.35.png)
 
 If you choose this option then you will fail if you try to convert to Kindle KF8 because KindleGen cannot locate the proper pages in the toc.
 

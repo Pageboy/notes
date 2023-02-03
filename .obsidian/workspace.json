@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
+                "file": "docs/eBookProduction/Notes on Fixed Layout.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
+                "file": "docs/eBookProduction/Notes on Fixed Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
+                "file": "docs/eBookProduction/Notes on Fixed Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,18 +216,18 @@
             }
           },
           {
-            "id": "dbcfa905803ed3f0",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
-          },
-          {
             "id": "dfc0faadc097eba7",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac4bc7a5f27d2e89",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
               "state": {}
             }
           }
@@ -253,15 +253,15 @@
   },
   "active": "3903d257ee245dda",
   "lastOpenFiles": [
+    "docs/Articles/Footnotes and other Diversions.md",
+    "docs/media/image4 2.png",
+    "docs/media/image2.jpeg",
     "docs/Articles/Page size in InDesign for eBook?.md",
-    "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
-    "docs/Articles/Using Flickr to Generate an Image Gallery.md",
-    "docs/Articles/Dropping your caps.md",
-    "docs/Articles/Sharing to Facebook and Twitter.md",
-    "docs/Articles/Video across a 2 page spread (updated).md",
-    "docs/Articles/Validation.md",
-    "docs/Articles/Measure me in Units.md",
-    "daily/02-02-2023.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md"
+    "docs/eBookProduction/Notes on Fixed Layout.md",
+    "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
+    "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
+    "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
+    "docs/eBookProduction/Attention to Detail in Typography with InDesign.md",
+    "docs/Articles/Vertical Spacing for text, pBook and eBook.md"
   ]
 }

@@ -29,7 +29,7 @@ Page sizes are measured in worldly units like millimetres or inches. We* (in the
 
 You can set up your preferences for the units that InDesign uses, as well as many other behaviours by finding the menu under the far left InDesign CC item. Please be aware, that the settings you make without any document open, will thenceforth be your default preferences. On the other hand, when you make changes to the preference setting when you have a document open, then those settings are for that document.
 
-![[preferences.png | InDesign preference set for all of your future document]]
+![InDesign preference set for all of your future document](preferences.png)
 
 ## Book Design and the Page
 
@@ -51,7 +51,7 @@ Once we have made a decision about the size of the page, then we need to conside
 
 The basic grid that we use, divides the page 9 horizontally and 9 vertically. You can see the arrangement in the following image from InDesign.
 
-![[pagelayout.png | Traditional page layout with grid]]
+![Traditional page layout with grid](pagelayout.png)
 
 The margins are calculated by dividing the width and height by nine. Thus we get:
 
@@ -60,15 +60,15 @@ The margins are calculated by dividing the width and height by nine. Thus we get
 >innerMargin: 140/9=15.556 mm
 >Outer margin: 140/4.5 =31.111 mm
 
-You will also see the underlying construction lines that can also be used to make the text block sit harmoniously within the page. [More on this here][06c78fa0].
+You will also see the underlying construction lines that can also be used to make the text block sit harmoniously within the page. ![More on this here]![06c78fa0].
 
 The grid is displayed on the InDesign spread by using the setting in preferences for the document grid.
 
-![[documnetGridSettings.jpg | Grids and guide settings]]
+![Grids and guide setting](documnetGridSettings.jpg)
 
 Setting this up with InDesign is shown in the ‘new document’ dialogue below:
 
-![[marginSettings.png |Setting the margins when you start a new document. All boxes are calculators, so enter a fraction like 216/9]]
+![Setting the margins when you start a new document. All boxes are calculators, so enter a fraction like 216/9](marginSettings.png)
 
 You may also notice that we are using a bleed of 3mm all around, so that content can extend beyond the page where we want images to the edge of the paper. We also use a slug of 20mm at the bottom. This is so that we can add some information to the PDF below the printable page.
 
@@ -78,7 +78,7 @@ You may also notice that we are using a bleed of 3mm all around, so that content
 
 The baseline in typography is the imaginary line on which most letters sit. The descenders of letters will extend below this line. Also, the body of some letters such as the J and Q in some typefaces will also extend slightly below this baseline.
 
-![[baseline.png]]
+![The baseline in InDesign](baseline.png)
 
 The purpose of using the baseline grid is to make sure that the main text will align properly across columns or across the spine of the pages when seen in a double page spread. There can be something very uncomfortable looking when the text appears on a different alignment. This is always particularly obvious when the text reaches the bottom of the page. When the book is printed on thin paper, the text may be seen through the page; if the lines of text coincide (back to back), then this will be less noticeable.
 
@@ -88,7 +88,7 @@ There are several steps and various options for aligning the text to a common ba
 
 One way to set the baseline grid in under InDesign>Preferences. You can start with this method, and change as you see for the whole document. You will notice that there is no way to preview this, so you need to set this up, go back to your pages and use the menu View>Grids and Guides>View Baseline Grid.
 
-![[gridsinpreferences.png | Baseline grid preferences for the document and future documents]]
+![Baseline grid preferences for the document and future documents](gridsinpreferences.png)
 
 The critical options for you in the Grids Preferences are where the gridlines begin (Start and Relative To:), and the increment. You probably want the gridlines to begin at the top of the margin. Once you decide to align the text to the baseline, then this will take precedence over any other settings, such as the leading on the paragraph.
 
@@ -97,7 +97,7 @@ The critical options for you in the Grids Preferences are where the gridlines be
 
 >The **Space Before** and **Space After** settings for the paragraph will also be over-ridden by the baseline grid. To align the text to base line grid you need to choose from the options found in Paragraph style palette for Indents and Spacing.
 
-![[AlignToGrid.png | You can align to grid any paragraph style (first line or all lines]]
+![You can align to grid any paragraph style (first line or all lines](AlignToGrid.png)
 
 Some features of the the baseline grid can be somewhat confusing, since your chosen units may be millimetres, but the baseline grid is always set in points.
 
@@ -107,12 +107,11 @@ So far, we have looked at setting the baseline grid in the global settings. This
 
 A better way is to set the baseline grid for the text frame(s) and this is best done on the Object Style. Setting an Object Style for all of your text frames where the text is threaded throughout the document will require and extra step.
 
+![Set the baseline grid on the text frame](objectStyleOptions.png)
 
-![[objectStyleOptions.png | Set the baseline grid on the text frame]]
+The way to apply an object style on a great number of text frames is to use the Find/Change dialogue and choose Object — Search for all object that are using an Object Style of ![None], and applying your new object style to all.
 
-The way to apply an object style on a great number of text frames is to use the Find/Change dialogue and choose Object — Search for all object that are using an Object Style of [None], and applying your new object style to all.
-
-![[findojectstyles.png | Find an object and apply an object style]]
+![Find an object and apply an object style](findojectstyles.png)
 
 **Typography isn’t Just about Fonts**
 
@@ -132,13 +131,13 @@ There are 2 common ways to indicate that a new paragraph begins.
 
 The first paragraph in a section or chapter is often treated differently with a drop cap for the first letter, or different treatment for the first line or range of words.
 
-![[fisrtlineindent.png | The image here shows the left indent of 17mm for the whole paragraph and a Space After of 3mm]]
+![The image here shows the left indent of 17mm for the whole paragraph and a Space After of 3mm](fisrtlineindent.png)
 
 The image here shows the left indent of 17mm for the whole paragraph and a Space After of 3mm.
 
 ## Drop Caps and Nested Styles
 
-![[nestedstyles.png | Drop caps]]
+![Drop caps](nestedstyles.png)
 
 This image shows how we can set up a Drop Cap through the Drop Caps and Nested Style palette. This also shows that we can create a style for the first line of the paragraph. If you prefer to only style the first few words, then use a nested style rather than a nested line.
 
@@ -158,7 +157,7 @@ You can see the various choices of alignment here, and it is better if you exper
 
 Justified text may look awful because InDesign needs to space the words out along the line in order to achieve alignment both left and right. If the column width is narrow, then this can cause large spaces to appear between the words. There are some ways that we can further control this Justification.
 
-![[justification.png | Settings for justification]]
+![Settings for justification](justification.png)
 
 Under the Justification section of the paragraph style panel you can choose which method that InDesign uses to calculate the spacing to achieve alignment left and right. By choosing the Adobe Paragraph Composer, InDesign will go through the whole paragraph to help decide where to adjust word spacing.
 
@@ -168,13 +167,13 @@ Hyphenation can be used to break some longer words between lines. Using hyphens 
 
 InDesign can use more sophisticated algorithms to calculate where to best place the hyphens and under the Hyphenation menu, you will see many choices. See below for further information on hyphens.
 
-![[hyphenation.png | Hypenation settings]]
+![Hypenation settings](hyphenation.png)
 
 ### First Line Indent
 
 This was previously mentioned in relation to new paragraph indication, but it also important to understand the relationship between it and the Left Indent. As you can see in the following screen image, we can use a negative First Line Indent, to shift the first line to the left of the indented paragraph. Notice also, that we can even use fractions of millimetres!
 
-![[negativeIndent.png | First Line indent]]
+![First Line indent](negativeIndent.png)
 
 This is also very significant where we are styling lines of verse or poetry, because we are, effectively dealing with individual lines as paragraphs, and, although we are not often likely to see those lines wrapping around to the next line — when they do wrap over, it is useful to emphasise that the lines belong together.
 
@@ -187,30 +186,26 @@ With each line as a paragraph, we can use space-before and leading in combinatio
 Here we see where a line of verse has wrapped on to the next line. We have used a smaller leading in the style to bring the lines together. We have used a negative first-line-indent to set the second line in from the first.
 In our Shakespeare Play example we need to know the difference between verse and prose. Some of Shakespeare’s plays have more of one than another, but many have a good mixture of both.
 
-![[indentsforverse.png | Indents for verse. Only set the first line to align to grid]]
+![Indents for verse. Only set the first line to align to grid](indentsforverse.png)
 
 If we have received text from a facsimile edition — that is, the text is scanned and converted — we are likely to find that long lines are broken with a paragraph break. We must remove these artificial breaks because our prose text must be allowed to freely flow and only break when it reaches the eight hand edge of the column.
 
-  [06c78fa0]: http://www.guidesandgrids.com/tutorials/what-is-a-grid-and-how-to-create-one-yourself/ "Guides and Grids"
+  ![06c78fa0]: http://www.guidesandgrids.com/tutorials/what-is-a-grid-and-how-to-create-one-yourself/ "Guides and Grids"
 
 Here is an example of verse in our play ‘A Midsummer Night’s Dream’.
 
-[![Here is an example of verse in our play A Midsummer Night’s Dream.](/images/2017/01/exampleverse.png)](/images/2017/01/exampleverse.png)
-
-![[exampleverse.png | Here is an example of verse in our play A Midsummer Night’s Dream]]
+![Here is an example of verse in our play A Midsummer Night’s Dream](exampleverse.png)
 
 And here is an example of prose spoken by Bottom.
 
-![[exampleprose.png | And here is an example of prose spoken by Bottom]]
+![And here is an example of prose spoken by Bottom](exampleprose.png)
 
 ## Keep Options
 
 In the paragraph style options you will find the Keep Options section.
 From this panel we can determine that a topic heading (in our play this is the Act or Scene start) will always start with a new page. We can also control orphans and widows from these paragraph settings.
 
-[![The various Keep Options](/images/2017/01/keepOptions.png)](/images/2017/01/keepOptions.png)
-
-![[keepOptions.png | The various Keep Options]]
+![The various Keep Options](keepOptions.png)
 
 ### Starting a New Page
 
@@ -234,7 +229,7 @@ We need to look carefully again at the Keep Options part of the paragraph styles
 
 Using these features can be rather disconcerting, because small changes may move our text in a very dramatic way. My advise is that you work from the beginning of your text in InDesign and try to resolve these issues from the first pages. If you are previewing changes at a later page, your visible text, will suddenly disappear as earlier text is forced to shift on to new pages!
 
-![[finalExample.png "| A finished spread"]]
+![A finished spread](finalExample.png)
 
 ## Further Details in the text
 ### Hyphens and Dashes
@@ -277,16 +272,16 @@ InDesign can resolve this 2 ways.
 ## OpenType features
 If the font you are using is of the `Opentype` variety, you will be able to invoke some more appropriate characters and glyphs. One example is numbers. Numbers will look better as 'proportional old-style' if they are within the text. The numbers will align themselves to the lowercase of the font rather than use the same height as the uppercase letters.
 
-![[Screenshot 2017-12-05 19.50.54.png | Lining numbers]]
+![Lining numbers](Screenshot 2017-12-05 19.50.54.png)
 
 In the illustration seen here, the font used in the paragraph text is Minion Pro; this is an opentype font and so we can use proportional old style numbers.
 
 Other aspects of the font they you may wish to use (for even greater attention detail) are _Ligatures_ and _Kerning_.
 
-![[Screenshot 2017-12-05 21.52.15.png | Ligatures in action]]
+![Ligatures in action](Screenshot 2017-12-05 21.52.15.png)
 
 **Ligatures** are essentially special glyphs that exist within the font that are characters put together. The example shown here includes the letters `s` and `t` that in their special form are joined together. You can see the available ligatures in the _glyph_ table of the font. Only well prepared fonts will have a full set of ligatures. Here we see the example of Adobe Jenson Pro in use.
 
-![[Screenshot 2017-12-05 22.08.05.png | Glyph Table for Jenson]]
+![Glyph Table for Jenson](Screenshot 2017-12-05 22.08.05.png)
 
 **Kerning** is a setting within InDesign for the paragraph style that will adjust letter spacing for certain characters. The letters `A` and `v`, for example, should be optically set rather than using the metrics setting.
