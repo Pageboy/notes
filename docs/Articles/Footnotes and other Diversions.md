@@ -25,7 +25,7 @@ There has always been a need to add extra explanatory information to certain tex
 
 When Edward Gibbon published his 6 volume *The History of the Decline and Fall of the Roman Empire* towards the end of the 18th Century, he included almost 8,000 footnotes and asides. He wasn’t the first to incorporate supplementary information but Gibbon’s work established the standard for academic publications.
 
-![The History of the Decline and Fall of the Roman Empire by Gibbon, Edward - Warne 1872](image2%201.png)
+![The History of the Decline and Fall of the Roman Empire by Gibbon, Edward - Warne 1872](image2_1.png)
 
 Footnotes are marvellous things. They can provide extra information that helps to elaborate or to cite sources. Publishers don’t like footnotes[^1]; they prefer endnotes, because they are far easier to manage and encourage buyers to purchase the complete book rather than download a sample.
 
@@ -47,7 +47,7 @@ When a new translation of the bible was published in 1568, extensive notes were 
 
 _See here how this page from the Bible has side notes which flood out into the left column of text._
 
-![The Geneva Bible from 1568 (Bishops' Bible)](image1%201.png)
+![The Geneva Bible from 1568 (Bishops' Bible)](image1_1.png)
 
 
 ## Conventions for Supplementary Content in Print
@@ -82,15 +82,15 @@ As we have seen from early manuscripts such as the *Geneva Bible*, side notes we
 
 Sidenotes may not need the reference numbers or symbols as long as they can be near to the context within the text block. Here as a sample spread from *The Book of Barely Imagined Beings*, Casper Henderson.
 
-![a double page spread from *The Book of Barely Imagined Beings*, Casper Henderson](image4%202.png)
+![a double page spread from *The Book of Barely Imagined Beings*, Casper Henderson](image4_2.png)
 
 On the other hand Edward R. Tufte[^2] is well known for his beautifully designed books about the display of information and we can see in this example from _Visual Explanations_, that he uses numbers for the margin notes.
 
-![a spread from _Visual Explanations_, Edward R. Tufte ](image5%202.png)
+![a spread from _Visual Explanations_, Edward R. Tufte ](image5_2.png)
 
 Robert Bringhurst uses both side notes and footnotes in his *The Elements of Typographic Style*:
 
-![a spread from *The Elements of Typographic Style*, Robert Bringhurst](image6%201.png)
+![a spread from *The Elements of Typographic Style*, Robert Bringhurst](image6_1.png)
 
 ## Practical Methods
 
@@ -98,7 +98,7 @@ Let’s look at some methods to create footnotes, side notes or endnotes.
 
 ### Word Processors
 
-![setting dialogue for Microsoft Word](image7%201.png)
+![setting dialogue for Microsoft Word](image7_1.png)
 
 
 In Microsoft Word, it is straightforward enough with a choice to go to the bottom of the page, below the text, end of document or end of section. Apples Pages will only go to the bottom of the page.
@@ -169,7 +169,7 @@ The early concept of the internet pages and HTML was that it was possible to nav
 
 The image here shows the initial standard way to show a hypertext link.
 
-![hypertext links on a web site](image13%202.png)
+![hypertext links on a web site](image13_2.png)
 
 The links here would take you to another page and, would always depend on the browser’s ability to provide a back button within the user interface.
 
@@ -241,7 +241,7 @@ Footnotes are no good for reflowable eBooks! You don't actually have a page bott
 
 The reflowable ePub3 format does support popup notes. When you export from InDesign to ePub (reflowable), you have an option to convert your *footnotes* to pop-up notes.
 
-![Export to reflowable ePub from InDesign gives you the popup notes option](image19%201.png)
+![Export to reflowable ePub from InDesign gives you the popup notes option](image19_1.png)
 
 This will take the notes from the foot of the page, wrap them in an HTML tag `<aside>` and add the necessary ePub3 classes in the XHTML code. In fact you will get an attribute added to the hyperlinked number:
 
@@ -251,7 +251,7 @@ and then the footnote reference will be wrapped in the `<aside>` tag. We need to
 
 This magic markup will be at the bottom of the HTML page, so if you have correctly split the ePub into the chapters, the list will be at the end of the chapter; otherwise, if your ePub produces one XHTML file, then the note markup will be at the end of the book.
 
-![Here is what the popup looks like within Apple iBooks](image20%201.png)
+![Here is what the popup looks like within Apple iBooks](image20_1.png)
 
 The pop-up note reference is supported by Apple in their iBooks app for MACs and iOS on tablets etc. It is also documented that later Kobo devices also support pop-up notes. The later versions of the Kindle also support popup notes from footnotes. Adobe Digital Editions 4.5 support popup notes.
 
