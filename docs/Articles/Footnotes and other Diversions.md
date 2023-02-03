@@ -3,6 +3,7 @@ hide:
  - navigation
 tags:
  - multiplatform
+ - design
  - typography
  - indesign
 ---
