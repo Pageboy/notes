@@ -80,7 +80,7 @@ InDesign can build the footnotes perfectly well for print / PDF. Some clever opt
 
 #### Let's hack the footnotes then
 
-see [my web site](http://www.pagetoscreen.net/journal/item/footnotes_in_the_fixed_layout_epub) and grab the text
+[see this artcle](Footnotes%20and%20other%20Diversions.md)
 
 ### Table of Contents
 
