@@ -78,12 +78,10 @@ There are several options, but be aware that the validation process needs to kno
 
 All being well you should see something like this:
 
-We succesfully validated this XHTML file
 
+![We successfully validated this XHTML file](validation1.png)
 
-![[validation1.png]]
-
-To validate the CSS [go to the Jigsaw validator here][69928c16]{:target="_blank"}.
+To validate the CSS [go to the Jigsaw validator here][69928c16]
 
   [69928c16]: https://jigsaw.w3.org/css-validator/ "Validate the CSS"
 
@@ -99,7 +97,7 @@ It turns out that ePUB3 (the eBook format that we are targeting) uses the XHTML 
 
 The ePub standard for delivering eBooks is a wrapped-up package of files, consisting (mostly) of HTML and CSS, although, actually the HTML is a particular flavour; `XHTML5`. This means that it must conform to a very strict set of rules.
 
-We can also validate the ePub by using an [online service at the IDPF web site][4a53fecc]{:target="_blank"}
+We can also validate the ePub by using an [online service at the IDPF web site][4a53fecc]
 
   [4a53fecc]: http://validator.idpf.org "Validate the ePub"
 
@@ -120,11 +118,9 @@ $ Validating using EPUB version 3.0.1 rules.
 $ No errors or warnings detected.
 $ epubcheck completed
 ```
-All sorts of code will need validating and by [going to CodeBeautify][8f71ebe7]{:target="_blank"} you are bound to find exactly what you need.
+All sorts of code will need validating and by [going to CodeBeautify][8f71ebe7] you are bound to find exactly what you need.
 
   [8f71ebe7]: http://codebeautify.org "This is very useful indeed"
-
-
 
 
 [^1]: Chris Colyer's Website is the [goto place][7faa4e4f]{:target="_blank"} for browser hacks:

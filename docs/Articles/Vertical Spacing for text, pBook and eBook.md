@@ -13,9 +13,7 @@ When we choose a value for _leading_ in InDesign, we are actually defining the d
 InDesign has a super useful feature in paragraph styles; *Align to Grid*.
 If you set this up correctly for your body text, then you will be guaranteed to get the lines of text to align across the spine and to 'back up' through the paper. Where the paper has any transparency at all, the lines of the body text should coincide back to back.
 
-Here we see the baseline
-
-![[baseline 1.png]]
+![Here we see the baseline](baseline%201.png)
 
 Text should always align across the spine of a double page spread, whether for print or eBook. In print, text should also align where columns are used. To be be more specific, the main text or body text must align to an imaginary baseline across the spread. In print the lines of text should coincide through the page when held up to the light.
 
@@ -29,9 +27,7 @@ Since your type sizes and leading will use points (pts) then you can set the ver
 
 You will see from the first images here that we can interrupt the flow of the body text with sub headings or blockquotes that are not aligned to the baseline grid, and are positioned with space-before. The body text goes back to the grid after the heading or blockquote.
 
-Body text is aligned to the grid
-
-![[bodytextalignedtogrid.png]]
+![Body text is aligned to the grid](bodytextalignedtogrid.png)
 
 > Our body text uses 13pts leading so the space taken up by the subhead is 26pts, thus keeping the text aligned.
 

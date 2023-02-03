@@ -17,9 +17,7 @@ What units of measure can we use in our CSS to provide such things as font size,
 
 We should just remind ourselves about this, because some of these important units are relative – relative to the settings on their parent element.
 
-Here we see the structure of the web page
-
-![[htmldom.png]]
+![Here we see the structure of the web page](htmldom.png)
 
 We have `<html>` as the root element with `<body>`as the main content. Within this we will have a number of block level elements such as headings, paragraphs, sections, navs and articles.
 

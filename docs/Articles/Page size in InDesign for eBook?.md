@@ -19,15 +19,11 @@ Let's use the iPad with Apple's iOS as an example. Let's have a look at iBooks (
 
 On any MAC with iBooks, a reflowable eBook provides the user with a font size 'adjuster' symbolised as a small and large capital `A`. You can see the image alongside here.
 
-The appearance controller for iBooks on the MAC
-
-![[ibooksfontsize.png]]
+![The appearance controller for iBooks on the MAC](ibooksfontsize.png)
 
 The range of choices is extreme: There are 11 steps from when the little `A` is greyed out to when the large `A` is greyed out. As you see from the nest image here, the large size is - well, kind of ridiculous.
 
-The largest text size with iBooks]
-
-![[ibooksenlargedtext.png]]
+![The largest text size with iBooks](ibooksenlargedtext.png)
 
 ## The target size for the body text font?
 
@@ -60,32 +56,24 @@ To establish this, we need to conduct some experiments.
 
 You might be tempted, when creating a new InDesign document to select `Intent` and choose `Mobile`, and then choose `iPad`. Depending on which you choose, you might get a page size of 1024x768 pixels. If you have a body text font size of `12pts`, then your text will appear very small, when working with InDesign. See the image to the left.
 
-This portrait page is 768 wide x 1024 tall
-
-![[ipadsize12pts.png]]
+![This portrait page is 768 wide x 1024 tall](ipadsize12pts.png)
 
 Let's try something else; if we imagine that the _spread_ needs to be 1024 pixels together then the page should be 768 pixels tall and 512 pixels wide.
 
-View in InDesign of 12pt text on 512x768 page
-
-![[pagesize768512.png]]
+![View in InDesign of 12pt text on 512x768 page](pagesize768512.png)
 
 Now we see what the 12pt text looks like in InDesign. Not bad. Good measure with a manageable page size.
 
 How near is this to the eventual view in the eBook. We need to export as reflowable and then look at this in Apple's iBooks, but with the text size set one size larger than the smallest.
 
-Here we compare the eBook with what we see in InDesign
-
-![[pagesize768512_epub2.png]]
-
+![Here we compare the eBook with what we see in InDesign](pagesize768512_epub2.png)
 
 We can continue to try other options until the best choice is found; let's just see a different size in InDesign. This time we choose for Web Intent and choose the `640 x 480` size.
 
 We have InDesign show us the page at `actual size` and we compare this to iBooks (actual size) but enlarge the text up one notch.
 
-InDesign actual size and iBooks with text up one notch
+![InDesign actual size and iBooks with text up one notch](640480_iBook_2ndstep.png)
 
-![[640480_iBook_2ndstep.png]]
 
 ## Conclusions
 

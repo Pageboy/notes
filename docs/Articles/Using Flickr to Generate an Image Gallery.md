@@ -12,9 +12,7 @@ We should all be very grateful that Flickr exists. This is one of the most popul
 
 I have a book in my shelf. It is quite old now. It's called *Flickr Hacks* 2006, O'Reilly Publishers, New York.
 
-Flickr Hacks - Bausch and Bumgardner
-
-![[Screenshot 2018-01-14 19.30.52.png]]
+![Flickr Hacks - Bausch and Bumgardner](Screenshot%202018-01-14%2019.30.52.png)
 
 This book is an unusual O'Reilly book, in that it does not have an engraving of an animal but rather the slide projector. As you can see, it's an unbranded Kodak Carousel.
 
@@ -46,17 +44,13 @@ I have 2 galleries in progress at the moment but [please have a look at this one
 
   [92be4fb2]: https://en.wikipedia.org/wiki/Flickr "Have a look at Wikipedia and make a donation while you're there."
 
-Here is what it looks like, but do take a look on my site
-
-![[imagegalleryscreen.png]]
+![Here is what it looks like, but do take a look on my site](imagegalleryscreen.png)
 
 ## The workflow
 
   In your Flickr account set up an album and add some photos to that album. You should put caption information in there if possible.
 
-Adding image to Flickr and editing title and description
-
-![[addingimagetoflickrealbum.png]]
+![Adding image to Flickr and editing title and description](addingimagetoflickrealbum.png)
 
 ### The APP Garden
 
@@ -72,14 +66,15 @@ Now comes the complicated part; you need to get from the very generous Phil Cohe
   [15f2a032]: http://phlippers.net/fancy-photoset/ "a jquery plugin"
 
 You will need to make modifications to the jquery function to pull from the Flickr API those elements that you need. In my case, I wanted the title and description and the large version of the image to use in the popup version of the image. You need to get the appropriate JSON output from Flickr.
+]
 
-Flickr APP Garden page
-
-![[flickreAPI2JSON.png]]
+![Flickr APP Garden page](flickreAPI2JSON.png)
 
 The section of the jquery Flickr function will look like this:
 
-`jsonUrl = "https://api.flickr.com/services/rest/?" + "method=flickr.photosets.getPhotos&" + ("api_key=" + options.apiKey + "&") + ("photoset_id=" + options.photosetId + "&") + ("user_id=" + options.flickrId + "&") + "extras=description,url_sq,url_t,url_s,url_m,url_o&" + "format=json&jsoncallback=?";`
+```javascript
+jsonUrl = "https://api.flickr.com/services/rest/?" + "method=flickr.photosets.getPhotos&" + ("api_key=" + options.apiKey + "&") + ("photoset_id=" + options.photosetId + "&") + ("user_id=" + options.flickrId + "&") + "extras=description,url_sq,url_t,url_s,url_m,url_o&" + "format=json&jsoncallback=?";
+```
 
 ### The Styling of the Gallery
 

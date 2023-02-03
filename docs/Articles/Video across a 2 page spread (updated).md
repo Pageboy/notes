@@ -14,10 +14,7 @@ There is an issue when video in a fixed layout ePub spans across 2 pages. This s
 
 ## There are really 2 videos (one on each half)
 
-In iBooks, the video is split
-
-![[videoover2_broke.png]]
-
+![In iBooks, the video is split](videoover2_broke.png)
 
 When you export to the fixed-layout ePub from InDesign – and you choose the `Convert Spread to Landscape` option. The process takes the pair of pages and creates one XHTML file (in the ePub package) with a viewport dimension based on the overall width of 2 pages. But, it also creates a 2 divisions with a width obtained from the width of the page. Inside these `<div>`s, it puts a copy of the video; there are 2 videos on the ePub page.
 
@@ -48,9 +45,7 @@ Look at this line:
 
 Take a note of the width (yours may be different to mine). Now **change** the width on the first `<div>`, because this will have a width that is half of the width above; You see that this is an inline CSS - this is why we cannot change in our own CSS.
 
-This shows the HTML where the video is displayed across 2 pages
-
-![[editHTML2videos.png]]
+![This shows the HTML where the video is displayed across 2 pages](editHTML2videos.png)
 
 Here is mine:
 
@@ -76,9 +71,7 @@ The next change is to hide the second `<div>`. Find the second block that also h
 
 InDesign does provide a tick box on the media panel to play on page load. This effectively gets the video going straight away. In this situation there is a danger that using the above method to display the video fully across the spread may result in the video playing twice, and with sound this may result in an unpleasant echo.
 
-The play on page load tick box
-
-![[autoplayvideo.png]]
+![The play on page load tick box](autoplayvideo.png)
 
 ### How to solve this?
 

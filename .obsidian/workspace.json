@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/02-02-2023.md",
+                "file": "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/02-02-2023.md",
+                "file": "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/02-02-2023.md",
+                "file": "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,15 +253,15 @@
   },
   "active": "3903d257ee245dda",
   "lastOpenFiles": [
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 10.md",
-    "daily/01-02-2023.md",
+    "docs/Articles/Page size in InDesign for eBook?.md",
+    "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
+    "docs/Articles/Using Flickr to Generate an Image Gallery.md",
     "docs/Articles/Dropping your caps.md",
-    "docs/index.md",
-    "docs/private/tags.md",
-    "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
-    "docs/Teaching/DigitalProduct/Week 1.md",
+    "docs/Articles/Sharing to Facebook and Twitter.md",
+    "docs/Articles/Video across a 2 page spread (updated).md",
+    "docs/Articles/Validation.md",
     "docs/Articles/Measure me in Units.md",
-    "docs/Teaching/Multiplatform Publishing/Assignment1.canvas"
+    "daily/02-02-2023.md",
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md"
   ]
 }

@@ -21,9 +21,7 @@ Our print book spreads will become landscape in the fixed-layout eBook. So, we w
 On a computer running Apple iBooks or any other eReader, the proportion is
 not really significant because all computer displays vary in proportion. However, on a tablet such as the iPad the proportion is specifically 6x8 or 0.75. So, we need to modify the size of the pages in the InDesign file very slightly; keeping the width of the pages, we take the width of the spread and multiply by 0.75 and we get 208.5. So we lose about 8mm in the height.
 
-Here we see that the page size does not exactly fit on the iPad
-
-![[ipad_edgerevealed.jpg]]
+![Here we see that the page size does not exactly fit on the iPad](ipad_edgerevealed.jpg)
 
 ## Theory and Practice
 
@@ -46,9 +44,7 @@ We don't need to edit the XHTML code inside the ePub. No, we just need to adjust
 
 In Indesign, go to the preferences panel and find the `units and increments` section. Change the Ruler units for both vertical and horizontal to **pixels**.
 
-Change from millimetres to pixels
-
-![[changetheunitstopixels.png]]
+![Change from millimetres to pixels](changetheunitstopixels.png)
 
 ### Page size
 
@@ -62,8 +58,6 @@ The result is a page width of `396 pixels` and page height of `594 pixels`. When
 
 You can go back to the File>Document setup and change the page size. This will work, however, you can use the Page Tool on the tool palette and select all master pages in the Pages panel. You then can control the reference point for the change to happen (choose the centre top).
 
-In the documents setup we now need to adjust to a whole pixel number.
-
-![[documentsetup.png]]
+![In the documents setup we now need to adjust to a whole pixel number.](documentsetup.png)
 
 Then you need to apply the master pages to all pages and also set the page size in the document setup panel.
