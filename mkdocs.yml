@@ -79,6 +79,6 @@ plugins:
       slide_effect: slide
       width: 100%
       height: auto
-      zoomable: true
+      zoomable: false
       auto_caption: true
       caption_position: bottom
