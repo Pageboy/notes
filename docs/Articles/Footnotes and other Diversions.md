@@ -14,7 +14,6 @@ I start with a quote from Robert Bringhurst in his *The Elements of Typographic 
 
 In medieval Europe, the relationship between the shape of the page and text block provided space for notes in the margin. In fact, even before printing margin notes are used to elaborate or further explain details. In this illustration we see a spread from the _Liber insularum Archipelagi_ with notes in the site margins
 
-
 ![Liber insularum Archipelagi , Christophorum de Bondelmontibus de Florentia 1422](image1.jpeg)
 
 This paper sets out to explore the relationship between the footnote in the printed work and equivalent devices in screen based medium.
