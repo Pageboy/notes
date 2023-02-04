@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Using Flickr to Generate an Image Gallery.md",
+                "file": "docs/private/art/Print sizes by theme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Articles/Using Flickr to Generate an Image Gallery.md",
+                "file": "docs/private/art/Print sizes by theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Articles/Using Flickr to Generate an Image Gallery.md",
+                "file": "docs/private/art/Print sizes by theme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,6 +151,8 @@
   },
   "active": "a2e2f437ec4d9faa",
   "lastOpenFiles": [
+    "docs/private/art/Image sizes for export.md",
+    "docs/Articles/Using Flickr to Generate an Image Gallery.md",
     "daily/03-02-2023.md",
     "daily/04-02-2023.md",
     "docs/Articles/Dropping your caps.md",
@@ -158,8 +160,6 @@
     "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
     "docs/eBookProduction/Attention to Detail in Typography with InDesign.md",
     "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
-    "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
-    "docs/eBookProduction/Fixed Layout eBook.md",
-    "docs/eBookProduction/Editing inside the ePUB package.md"
+    "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md"
   ]
 }

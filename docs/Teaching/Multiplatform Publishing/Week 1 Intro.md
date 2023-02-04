@@ -14,7 +14,7 @@ tags:
 - Demo the basics with VScode
 
 
-![!Here is the plan for assignment 1](ass1plan%201.jpg)
+![!Here is the plan for assignment 1](ass1plan_1.jpg)
 
 - Install vscode
 
