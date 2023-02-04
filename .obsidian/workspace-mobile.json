@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Articles/The basics of HTML and CSS.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -93,8 +93,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "4b2f3a5ba6f88a0d",
@@ -158,15 +157,15 @@
   },
   "active": "507e746d8b086c9d",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+    "docs/Teaching/DigitalProduct/Week 1.md",
+    "docs/Teaching/Multiplatform Publishing/Week 2.md",
     "docs/Teaching/DigitalProduct/Week 2.md",
     "docs/Articles/The basics of HTML and CSS.md",
     "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
     "docs/Articles/Validation.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 2.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 3.md",
-    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 4.md",
-    "enhanced_eBook/image14.png.md",
-    "docs/Teaching/DigitalProduct/Week 1.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md"
+    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 4.md"
   ]
 }

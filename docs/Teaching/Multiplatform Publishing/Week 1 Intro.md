@@ -13,6 +13,7 @@ tags:
 - HTML presentation
 - Demo the basics with VScode
 
+![The basics of HTML and CSS](The%20basics%20of%20HTML%20and%20CSS.md)
 
 ![!Here is the plan for assignment 1](ass1plan_1.jpg)
 

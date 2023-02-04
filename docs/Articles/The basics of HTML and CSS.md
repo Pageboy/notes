@@ -99,6 +99,7 @@ To work toward this end we need to:
 
 ## Types of Mark-up for HTML
 
+
 **Block** elements are those which, by default, will begin on a new line and the content after will start a new line
 
 >**Examples**:
@@ -114,6 +115,7 @@ Here are some examples:
 * `<header>` -  at the top of the page
 * `<footer>` - at the bottom of the page
 
+
 In addition there are list items:
 
 * `<ul>` - an unordered list (often a bulleted list)
@@ -122,25 +124,27 @@ In addition there are list items:
 
 **Inline** elements are contained within a line
 
+
 >**Examples**:
 emphasised (`<em>`) or bold (`<strong>`)
 
-Text elements within block level elements can be marked up with <span> tags or default HTML
+Text elements within block level elements can be marked up with `<span>` tags or default HTML
 
 >**Examples**:
 `<span class="booktitle">`
-`<em>` - standard tag for emphasised text. Can be also be `<i>`, and will be _italic_ by default
+`<em>` - standard tag for emphasised text. Can be also be a `<i>`, and will be _italic_ by default
 
 Mark-up should be semantic and can use existing HTML tags
 
 **Examples**:
 
-```html
+```HTML
 <h1 class="authorname">
 <h2 class="chapter">
 <article>
- ```
-### The are many HTML elements
+```
+
+### There are many HTML elements
 
 There is a lot to HTML. If this is your first view of it, don't be too concerned that you don't know all of it!. The best way to explore is by looking at the many web sites. In particular, the [W3 Schools web site](https://www.w3schools.com/html/) has comprehensive information.
 
@@ -188,7 +192,7 @@ Inline elements can be contained within paragraphs or other block level elements
 
 Everything is contained within the document (HTML)
 
-All displayed elements are contained within the root or <body> of the document which is unique and can have an ID.
+All displayed elements are contained within the root or `<body>`of the document which is unique and can have an ID.
 Like this: `<body id=“home”>`
 
 ## Defining the styles
