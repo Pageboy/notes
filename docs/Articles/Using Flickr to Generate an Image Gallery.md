@@ -12,8 +12,7 @@ We should all be very grateful that Flickr exists. This is one of the most popul
 
 I have a book in my shelf. It is quite old now. It's called *Flickr Hacks* 2006, O'Reilly Publishers, New York.
 
-![Flickr Hacks - Bausch and Bumgardner](Screenshot%202018-01-14%2019.30.52.png)
-
+![Flickr Hacks - Bausch and Bumgardner](Screenshot_2018-01-14_19.30.52.png)
 This book is an unusual O'Reilly book, in that it does not have an engraving of an animal but rather the slide projector. As you can see, it's an unbranded Kodak Carousel.
 
 ## Flickr

@@ -14,7 +14,7 @@ I start with a quote from Robert Bringhurst in his *The Elements of Typographic 
 
 In medieval Europe, the relationship between the shape of the page and text block provided space for notes in the margin. In fact, even before printing margin notes are used to elaborate or further explain details. In this illustration we see a spread from the _Liber insularum Archipelagi_ with notes in the site margins
 
-![Liber insularum Archipelagi , Christophorum de Bondelmontibus de Florentia 1422](image1.jpeg)
+![Liber insularum Archipelagi , Christophorum de Bondelmontibus de Florentia 1422](image1.jpg)
 
 This paper sets out to explore the relationship between the footnote in the printed work and equivalent devices in screen based medium.
 
@@ -62,15 +62,15 @@ Where the notes are displayed as footnotes then superscripted numbers can also b
 
 > **Note**: These symbols can look very different with different typefaces.
 
-![Symbols and their order for footnote References](image2.jpeg)
+![Symbols and their order for footnote References](image2.jpg)
 
 The convention is to use these symbols in a particular order on the page as seen in this example, *Journey to Britain*, Bronwen Riley
 
-![part of a page from *Journey to Britain*, Bronwen Riley](image3.jpeg)
+![part of a page from *Journey to Britain*, Bronwen Riley](image3.jpg)
 
 Unusually, both symbols and numbers can be used as in this example from *The Devils Details*, Chuck Zerby
 
-![a page from *The Devils Details*, Chuck Zerby](image4.jpeg)
+![a page from *The Devils Details*, Chuck Zerby](image4.jpg)
 
 In this case, symbols are used for general notes and the numbers are used for citations.
 
@@ -78,7 +78,7 @@ In this case, symbols are used for general notes and the numbers are used for ci
 
 As we have seen from early manuscripts such as the *Geneva Bible*, side notes were common and possibly are a legacy feature from illuminated manuscripts such as the example here.
 
-![a leaf from the Chudleigh Bible, in Latin, illuminated manuscript on vellum - north-eastern France, c.1220-30](image5.jpeg)
+![a leaf from the Chudleigh Bible, in Latin, illuminated manuscript on vellum - north-eastern France, c.1220-30](image5.jpg)
 
 Sidenotes may not need the reference numbers or symbols as long as they can be near to the context within the text block. Here as a sample spread from *The Book of Barely Imagined Beings*, Casper Henderson.
 
