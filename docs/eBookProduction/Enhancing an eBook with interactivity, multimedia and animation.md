@@ -63,9 +63,9 @@ We do not need to apply any specific settings when we export again and the resul
 
 ## Adding Audio
 
-![[image3 1.png | When audio is placed you will initially see just a square]]
+![When audio is placed you will initially see just a square](image3_1.png)
 
-![[image4 1.png | Here we see the results - audio on the eBook page]]
+![Here we see the results - audio on the eBook page](image4_1.png)
 
 Audio can be added in much the same way as the video, but once again we need to be aware that probably only want small snippets of audio in context. The audio will initially be placed as a small square, and you will need to stretch this out to fill the width of the page, so that the audio controller is as wide as possible.
 
@@ -91,7 +91,7 @@ The basic principle is that each word spoken and written needs to relate to a ti
 
 Building something like this by hand coding would be virtually impossible for the whole of the play, and would also depend on the level of granularity that you want to be highlighted; word, line, sentence, or paragraph etc.
 
-![[image6.png | Here we see the complex markup]]
+![Here we see the complex markup](image6.png)
 
 Here we see that the audio section that we will use start ‘Four nights …’ with the span tag `id="_idTextSpan207"`
 
@@ -237,11 +237,11 @@ It is also possible to add a PDF into the eBook and have a hyperlink open this f
 
 ## Scrolling Text in the Fixed Layout ePUB
 
-![[image12 1.png]]
+![](image12_1.png)
 
 It is not possible to add scrolling text fields in a reflowable ePUB, but with the fixed layout format we can add a text box on a page and include as much scrolling text as you like.
 
-![[image13 1.png]]
+![](image13_1.png)
 
 ## How to create a vertical scrolling text field
 
@@ -255,19 +255,17 @@ In your target InDesign file create an empty text field wider (by about 20mm) th
 
 Select the text field and ‘Paste Into’ this selected text box. You can select all of this text and style accordingly.
 
-[![The pasted text box goes to the middle](/images/pastetextboxinto_goestomiddle.png)](/images/pastetextboxinto_goestomiddle.png)
-
-![[pastetextboxinto_goestomiddle.png | The pasted text box goes to the middle]]
+![The pasted text box goes to the middle](pastetextboxinto_goestomiddle.png)
 
 > You will find that InDesign put this text box in the vertical middle and so you won't see the first line of your text or content. To rectify this, you need to use the position box in the InDesign toolbar. Once you see the target circle in the centre of your containing text box, then observe the position number near to the top left. Change this number to `0`. The 2 images here will help you understand this process.
 
-![[setpositiontozero.png | Set the position to 0]]
+![Set the position to 0](setpositiontozero.png)
 
 With the parent text box selected, create an Object Style and set the export tagging for HTML and ePUB to a `<div>` with a class of ‘scroller’.
 
 Create a CSS file with the following:
 
-[![Export tagging for the object](/images/2017/02/enhanced_eBook/image14.png)](/images/2017/02/enhanced_eBook/image14.png)
+![Export tagging for the object](image14.png)
 
 ```css
 div.scroller {
@@ -295,7 +293,7 @@ As an alternative to using InDesign to create a nested text field, you could als
 
 Popup notes cannot be created from footnotes in the fixed layout ePub. However, any combination of text and image can be made into a button, and so to make a popup text, you can group a text box with a drawn speech bubble and then make this into a button. You then need a transparent frame laid over the text that you want to be interactive – this then becomes the button that performs the action. You can make the popup speech bubble also have an action to hide itself when clicked.
 
-![[image15 1.png | Here we see an object that can be set to show on click]]
+![Here we see an object that can be set to show on click](image15_1.png)
 
 ## Animation
 
@@ -303,7 +301,7 @@ InDesign does give you some basic controls over the way objects are dynamically 
 
 > **Note:** Animation is not supported on anchored objects, so you will need to release any previously anchored images.
 
-![[image16.png | Animating an image to slide onto the page]]
+![Animating an image to slide onto the page](image16.png)
 
 ## Creating a Slide Show in InDesign
 
@@ -313,7 +311,7 @@ The images in the sequence need to be the same size and proportion (approximatel
 
 Prepare the images so that they are all the same proportion and size (InDesign will crop them to fit if you don't).
 
-![[image17.png]]
+![](image17.png)
 
 You may need to consider using a full page for this asset, so go ahead and create a new page or find a blank one. If your print book had blank pages then this is a good solution to keeping the same pages but avoiding banks in the eBook.
 
@@ -323,7 +321,7 @@ You should configure this frame to ‘Fit Content Proportionally’ and turn on 
 
 Now duplicate this frame for the number of images you want in the sequence. Use the Step and Repeat menu found on the Edit menu. The frames should be offset by a small distance.
 
-![[image18.png]]
+![](image18.png)
 
 Use the Place command and select all of your images and click each frame in turn to populate the frames with the images. They should automatically resize and crop to fit. When placing images you can select more than one and all we be loaded onto your cursor.
 
@@ -333,7 +331,7 @@ Use the Object States menu under Window>Interactive and create a new multi-state
 
 Now we need to create buttons to control the sequence as a slide show.
 
-![[image19.png]]
+![](image19.png)
 
 You need to build a graphic that shows a backward or forward triangle.
 
@@ -351,8 +349,9 @@ But let us not get too carried away by all the possibilities. Think carefully ab
 
 Under the Window>Interactivity menu you will find the EPUB Interactivity Window. With this, you can test your fixed pages (or indeed the whole book) before exporting to the fixed layout ePUB. Not all features can be previewed but certainly the animation, multimedia and interactivity will show as expected.
 
-![[image20.png]]
+![](image20.png)
 
-![[image21.png]]
+![](image21.png)
+
 
 #indesign #html #epubproduction 

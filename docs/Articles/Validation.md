@@ -123,6 +123,6 @@ All sorts of code will need validating and by [going to CodeBeautify][8f71ebe7] 
   [8f71ebe7]: http://codebeautify.org "This is very useful indeed"
 
 
-[^1]: Chris Colyer's Website is the [goto place][7faa4e4f]{:target="_blank"} for browser hacks:
+[^1]: Chris Colyer's Website is the [goto place][7faa4e4f] for browser hacks:
 
   [7faa4e4f]: https://css-tricks.com/snippets/css/browser-specific-hacks/ "Off to the web"
