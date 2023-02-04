@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Footnotes and other Diversions.md",
+                "file": "docs/private/Footnotes and other Diversions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "59d183964f4a95b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Articles/Footnotes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Articles/Footnotes and other Diversions.md",
+                "file": "docs/Articles/Footnotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Articles/Footnotes and other Diversions.md",
+                "file": "docs/Articles/Footnotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +135,7 @@
             }
           },
           {
-            "id": "ac4bc7a5f27d2e89",
+            "id": "f9d5996a573c718a",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -133,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,17 +163,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a2e2f437ec4d9faa",
+  "active": "59d183964f4a95b7",
   "lastOpenFiles": [
+    "docs/private/Footnotes and other Diversions.md",
+    "docs/Articles/Footnotes.md",
     "docs/Articles/Measure me in Units.md",
-    "docs/Articles/Footnotes and other Diversions.md",
     "docs/media/image1.jpeg",
     "docs/Articles/Page size in InDesign for eBook?.md",
     "docs/media/image1.gif",
     "docs/Teaching/DigitalProduct/assignment1.canvas",
     "docs/Articles/Video across a 2 page spread (updated).md",
     "daily/01-02-2023.md",
-    "docs/eBookProduction/Notes on Fixed Layout.md",
-    "docs/media/image4 2.png"
+    "docs/eBookProduction/Notes on Fixed Layout.md"
   ]
 }
