@@ -308,7 +308,7 @@ Here is the ePub version of _Medea, a performance history_ for the [APGRD][cf20f
 
   [cf20f734]: http://www.apgrd.ox.ac.uk/learning/medea-a-performance-history "The Archive of Performances of Greek and Roman Drama"
 
-![pages from 'Medea' an interactive eBook](medea.gif)
+![pages from 'Medea' an interactive eBook](../media/medea.gif)
 
 One of my MA students created this enhanced eBook of Mozart's _Magic Flute_. The eBook included music and narrated popup notes.
 
