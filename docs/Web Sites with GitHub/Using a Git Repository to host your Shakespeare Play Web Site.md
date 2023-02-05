@@ -87,21 +87,21 @@ When you select `clone` you will need to paste the previously copied link into t
 We can now use *vscode* to edit the HTML (index.html)  and the CSS (css/styles.css).
 
 ## Ok, so what do I do now?
-[You should now read the help document here][9bf3210c], that explains how to generate the HTML files from InDesign.
 
-  [9bf3210c]: https://publisha.github.io/pages/InDesign_to_HTML/ "This gives you comprehensive information needed to build the HTML from InDesign."
+You should now read the help document here, that explains how to generate the HTML files from InDesign.
+
+[From InDesign to HTML and CSS](From%20InDesign%20to%20HTML%20and%20CSS.md)
 
 ### Here are the basic steps
 
 - Open InDesign and find your final version of the play (**only the play - not the Introduction**)
 - Make any corrections that you like (consider the comments from the previous assignment)
 - If you created any new styles you will need to go to the style panel and configure the _Export Tags_ feature, making sure that each style will export with an HTML tag.
-- As stated above - read the help document that I have provided - [InDesign to HTML][2aa24c4b].
+- As stated above - read the help document that I have provided
 - Follow those instructions to create the interactive table of contents.
 - Export your play InDesign document with settings in the instructions.
 - You will find that you have now got a new file saved wherever your InDesign file was saved. You can drag this file into the `docs` folder of your working copy of the repo that you have open in Visual Studio Code (vscode). This file should be renamed `play.html` and will replace the existing placeholder file.
 
-  [2aa24c4b]: /pages/InDesign_to_HTML/ "read this for a thorough explanation"
 
 > **Note:** if you included images in your play, you will need more work to get those into the appropriate location.
 
@@ -165,7 +165,7 @@ Ok, so I know this seems complicated. Let me write out a simple list with the st
 - Grab link on Moodle (week 1) for the GitHub template
 - Copy the link next to the Clone button
 - In vscode, use the icon bottom right to clone and use the window to paste in the link
-- [Read the helper document about getting HTML from InDesign][f0f67b5c]
+- [Read the helper document about getting HTML from InDesign](From%20InDesign%20to%20HTML%20and%20CSS.md)
 - Add the files into the local version of the repository and edit the HTML and CSS etc
 - Check that the site works (home page is the cover image with link to the play)
 - `push` the files to your GitHub repository
@@ -173,4 +173,3 @@ Ok, so I know this seems complicated. Let me write out a simple list with the st
 - Note the web address and finish
 
 [fc57320f]: https://www.github.com "Create the account"
-  [f0f67b5c]: https://publisha.org/pages/InDesign_to_HTML/ "Read this"
