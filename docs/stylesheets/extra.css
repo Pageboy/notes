@@ -64,7 +64,7 @@ visited {
 
 img {
   width: 60%;
-  max-height: 1vh !important;
+  max-height: 50vh !important;
   margin: 1em auto 0 auto;
   display: block;
 }
