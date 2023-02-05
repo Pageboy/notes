@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Articles/Footnotes and other Diversions.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -151,6 +151,8 @@
   },
   "active": "a2e2f437ec4d9faa",
   "lastOpenFiles": [
+    "docs/Teaching/DigitalProduct/Week 2.md",
+    "docs/Articles/Footnotes and other Diversions.md",
     "docs/private/External Eaminer MA.md",
     "docs/private/Blog Post Ideas.md",
     "docs/private/art/Print sizes by theme.md",
@@ -158,8 +160,6 @@
     "docs/Articles/Using Flickr to Generate an Image Gallery.md",
     "daily/03-02-2023.md",
     "daily/04-02-2023.md",
-    "docs/Articles/Dropping your caps.md",
-    "docs/Articles/Validation.md",
-    "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md"
+    "docs/Articles/Dropping your caps.md"
   ]
 }

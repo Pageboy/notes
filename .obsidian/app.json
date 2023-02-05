@@ -8,7 +8,7 @@
   "foldIndent": true,
   "fileSortOrder": "byModifiedTime",
   "showFrontmatter": true,
-  "autoConvertHtml": false,
+  "autoConvertHtml": true,
   "legacyEditor": false,
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
@@ -35,5 +35,6 @@
   ],
   "mobilePullAction": "obsidian-markdown-formatting-assistant-plugin:open-command-selector",
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
