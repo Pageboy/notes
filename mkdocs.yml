@@ -15,11 +15,9 @@ features:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/glightbox.min.css
-  - stylesheets/bigfoot.css
 extra_javascript:
   # - javascripts/jquery-1.10.2.min.js
   - javascripts/glightbox.min.js
-  - javascripts/bigfoot.js
   
 
 theme:
