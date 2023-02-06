@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Footnotes and other Diversions.md",
-                "mode": "preview",
+                "file": "docs/Teaching/DigitalProduct/Week 2.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Articles/Footnotes and other Diversions.md",
+                "file": "docs/Teaching/DigitalProduct/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Articles/Footnotes and other Diversions.md",
+                "file": "docs/Teaching/DigitalProduct/Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,12 +165,12 @@
   },
   "active": "0e785f9d0cb283d8",
   "lastOpenFiles": [
+    "docs/Articles/Footnotes and other Diversions.md",
     "docs/private/art/Print sizes by theme.md",
     "docs/Teaching/DigitalProduct/Week 2.md",
     "docs/Teaching/DigitalProduct/Week 1.md",
     "docs/Teaching/Multiplatform Publishing/Week 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/Articles/Footnotes and other Diversions.md",
     "docs/Articles/Measure me in Units.md",
     "docs/private/External Eaminer MA.md",
     "docs/private/Blog Post Ideas.md",
