@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
+                "file": "docs/Articles/The basics of HTML and CSS.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -105,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
+            "file": "docs/Articles/The basics of HTML and CSS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
+            "file": "docs/Articles/The basics of HTML and CSS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,6 +157,7 @@
   },
   "active": "507e746d8b086c9d",
   "lastOpenFiles": [
+    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
     "docs/Articles/The basics of HTML and CSS.md",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/Teaching/DigitalProduct/Week 1.md",
@@ -165,7 +166,6 @@
     "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
     "docs/Articles/Validation.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 2.md",
-    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 3.md",
-    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 4.md"
+    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 3.md"
   ]
 }
