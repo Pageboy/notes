@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8df9ba35c1abb01b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 2.md",
+                "file": "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 2.md",
+                "file": "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,17 +176,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0e785f9d0cb283d8",
+  "active": "8df9ba35c1abb01b",
   "lastOpenFiles": [
-    "docs/Articles/Footnotes and other Diversions.md",
-    "docs/private/art/Print sizes by theme.md",
     "docs/Teaching/DigitalProduct/Week 2.md",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/private/art/19 Feb 2022.md",
+    "docs/private/art/Image sizes for export.md",
+    "docs/private/art/Art Sites requirements.md",
+    "docs/Articles/Footnotes and other Diversions.md",
     "docs/Teaching/DigitalProduct/Week 1.md",
     "docs/Teaching/Multiplatform Publishing/Week 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/Articles/Measure me in Units.md",
-    "docs/private/External Eaminer MA.md",
-    "docs/private/Blog Post Ideas.md",
-    "docs/private/art/Image sizes for export.md"
+    "docs/Articles/Measure me in Units.md"
   ]
 }
