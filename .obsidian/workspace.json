@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Teaching/DigitalProduct/Week 3.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -150,15 +150,15 @@
   },
   "active": "fc8fb6e7bb2ce227",
   "lastOpenFiles": [
-    "daily/13-02-2023.md",
     "daily/14-02-2023.md",
+    "docs/Teaching/DigitalProduct/Week 3.md",
+    "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
+    "daily/13-02-2023.md",
     "daily/12-02-2023.md",
     "daily/04-02-2023.md",
-    "docs/Teaching/DigitalProduct/Week 3.md",
     "docs/Teaching/DigitalProduct/Week 2.md",
     "docs/Teaching/DigitalProduct/assignment1.canvas",
     "docs/Teaching/DigitalProduct/Week 1.md",
-    "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
-    "docs/private/art/Print sizes by theme.md"
+    "docs/Teaching/Multiplatform Publishing/Assignment1.canvas"
   ]
 }
