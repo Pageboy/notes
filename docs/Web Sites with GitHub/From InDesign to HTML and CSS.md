@@ -84,9 +84,7 @@ Because the Scenes are one level below Acts, the structure should look like this
 
 Here is what our HTML list looks like in it's *raw* state.
 
-Default styling for HTML nested list
-
-![[Screenshot 2017-12-23 12.54.25.png]]
+![Default styling for HTML nested list](../media/Screenshot_2017-12-23_12.54.25.png)
 
 ## Interactive TOC
 
@@ -121,9 +119,7 @@ In the style settings for each element (paragraph or character), there is a sect
 
 We can makes this setting for each style in turn or we can use the InDesign panel for `Edit All Export Tags` that helps us makes these settings in one place.
 
-Look for Edit All Export Tags... in the paragraph styles menu
-
-![[Screenshot 2017-12-20 16.18.27.png]]
+![Look for Edit All Export Tags... in the paragraph styles menu](../media/Screenshot_2017-12-20_16.18.27.png)
 
 You can go through all of the styles and make sure that you set an appropriate style and class name. If you leave this to InDesign then you may find that you have problems later when you try to edit the style with `CSS`.
 
