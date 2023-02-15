@@ -16,6 +16,4 @@ Now lets move back to InDesign
 
 ## From InDesign to HTML
 
-[[From InDesign to HTML and CSS]]
-
-[[Fro]]
+[From InDesign to HTML and CSS](../../Web%20Sites%20with%20GitHub/From%20InDesign%20to%20HTML%20and%20CSS.md)
