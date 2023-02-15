@@ -12,7 +12,7 @@ Now clone the repository in Vscode
 
 ![](../../media/Pasted%20image%2020230210170749.png)
 
-And past the link into here
+And paste the link into here
 
 ![](../../media/Pasted%20image%2020230210170812.png)
 
@@ -38,3 +38,13 @@ Write a short commit message and then use Sync Changes
 
 For that reason best to work offline and check results locally first.
 
+## Want to work at home on this?
+You will need vscode. Free from here: https://code.visualstudio.com/download
+Add the LiveServer extension, so you easily view your changes on the local computer.
+You will also need to add `Git` to your computer.
+
+On a MAC use the Terminal application and write this:
+
+>Install git: `xcode-select --install`
+
+On a Windows PC go here: https://git-scm.com/downloads and download and follow instructions.

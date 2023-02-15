@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 3.md",
+                "file": "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 3.md",
+                "file": "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 3.md",
+                "file": "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,15 +150,15 @@
   },
   "active": "fc8fb6e7bb2ce227",
   "lastOpenFiles": [
-    "docs/private/Teaching_Hold/Multiplatform Publishing/HowtodoJavascript.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 2.md",
-    "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
+    "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
+    "docs/Web Sites with GitHub/How to build a blog website with GitHub and Netlify.md",
+    "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
     "docs/Teaching/Multiplatform Publishing/Week 3.md",
+    "docs/private/Teaching_Hold/Multiplatform Publishing/HowtodoJavascript.md",
+    "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
     "daily/15-02-2023.md",
     "docs/Teaching/Multiplatform Publishing/Week 2.md",
-    "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
-    "docs/private/Teaching_Hold/Design and Production/Week 3.md",
-    "docs/Teaching/DigitalProduct/Week 3.md",
-    "daily/14-02-2023.md"
+    "docs/private/Teaching_Hold/Design and Production/Week 3.md"
   ]
 }
