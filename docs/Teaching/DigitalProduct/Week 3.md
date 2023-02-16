@@ -38,10 +38,7 @@ Here is an article I have put together:
 
 ## Styling the menu 
 
-Here is a codepen site that you can play with and _borrow_ the CSS:
+Here is a [CodePen](https://codepen.io/pageboy/pen/zYowepE) site that you can play with and _borrow_ the CSS.
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Recipe Page" src="https://codepen.io/pageboy/embed/zYowepE?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/pageboy/pen/zYowepE">
-  Recipe Page</a> by Chris Jennings (<a href="https://codepen.io/pageboy">@pageboy</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
+In Week 4 we will look in detail at the way to make the site responsive.
+
