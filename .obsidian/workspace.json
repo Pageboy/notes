@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 3.md",
-                "mode": "source",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 4.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 3.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 3.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,13 +164,13 @@
   },
   "active": "4d6b2a4ed0b582b0",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 3.md",
     "docs/Teaching/Multiplatform Publishing/Week 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 4.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 6.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 5.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 4.md",
-    "docs/Teaching/Multiplatform Publishing/Week 3.md",
     "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 2.md",
     "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md"

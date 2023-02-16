@@ -1,8 +1,8 @@
 For this week we are looking at more details in how to style the play.
 
-I make this Codepen here for you to explore and try to figure out what is happening.
+I made this [Codepen](https://codepen.io/pageboy/pen/YzprOEX) here for you to explore and try to figure out what is happening.
 
->I have added 3 things to the HTML that have not been delivered from _InDesign_:
+>I have added 3 things to the HTML that have **not** been delivered from _InDesign_:
 
 - The title of the play above the Dramatis personae like this:
 ```html
@@ -18,9 +18,11 @@ I make this Codepen here for you to explore and try to figure out what is happen
 </li>
 ```
 
-I have created a [CodePen](https://codepen.io/pageboy/pen/YzprOEX) over here that you can explore.
-
 ## Unordered List becomes navigation
+**This may be difficult to understand.**
+
+>Hint: In Vscode you need to go to the `View` menu and turn on `word wrap` so the lines don't go on forever.
+
 The exported HTML from InDesign should contain the table of contents as an `unordered list`. If you explore the HTML you are bound to struggle to understand this because InDesign does not put any breaks in the text; also it adds a lot of unnecessary  code. So..... let me show you a simplified version that may help in the comprehension of this.
 
 ### It's all about the nesting
