@@ -22,8 +22,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "6fa2c75dc3e3c49e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Teaching/DigitalProduct/Week 3 - part 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/assignment1.canvas",
+                "file": "docs/Teaching/DigitalProduct/Week 3 - part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/assignment1.canvas",
+                "file": "docs/Teaching/DigitalProduct/Week 3 - part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +165,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "9c9d7cf25d9eaf6a",
+  "active": "6fa2c75dc3e3c49e",
   "lastOpenFiles": [
     "docs/Teaching/DigitalProduct/assignment1.canvas",
     "docs/Teaching/Multiplatform Publishing/Week 3.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+                "file": "docs/Teaching/DigitalProduct/Week 3.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -79,7 +79,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+            "file": "docs/Teaching/DigitalProduct/Week 3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+            "file": "docs/Teaching/DigitalProduct/Week 3.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,6 +131,7 @@
   },
   "active": "2765fd2edda597de",
   "lastOpenFiles": [
+    "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
     "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
     "docs/media/yourexportedplay.png",
@@ -139,7 +140,6 @@
     "docs/Teaching/Multiplatform Publishing/Week 3.md",
     "docs/Teaching/Multiplatform Publishing/Week 4.md",
     "docs/Teaching/Multiplatform Publishing/Week 2.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md"
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md"
   ]
 }
