@@ -44,9 +44,9 @@ Act II
 We can achieve this structure by making sure that the Act is set at level 1 and the `scene` (also `firstscene`) is set at level 2.
 
 
-![Here is a view of our table of contents on the page in InDesign](Screenshot_2017-12-23_12.36.38.png)
+![Here is a view of our table of contents on the page in InDesign](../media/Screenshot_2017-12-23_12.36.38.png)
 
-![When we export to HTML (File > Export > HTML), we need to be sure that our lists are exported as HTML lists.](Screenshot_2017-12-23_14.11.56.png)
+![When we export to HTML (File > Export > HTML), we need to be sure that our lists are exported as HTML lists.](../media/Screenshot_2017-12-23_14.11.56.png)
 
 ### Lists in HTML
 
@@ -123,7 +123,7 @@ We can makes this setting for each style in turn or we can use the InDesign pane
 
 You can go through all of the styles and make sure that you set an appropriate style and class name. If you leave this to InDesign then you may find that you have problems later when you try to edit the style with `CSS`.
 
-![Adjust the Export Tags for all styles in one place](Screenshot_2017-12-20_16.18.53.png)
+![Adjust the Export Tags for all styles in one place](../media/Screenshot_2017-12-20_16.18.53.png)
 
 ### Class names
 
@@ -133,13 +133,13 @@ HTML tags can also have class names that will give us even more control over the
 
 You should have 3 text blocks; the toc (in an object called _nav_), a Dramatis Personae (in an object called _dramatis) and the play in an object labelled _play_. 
 
-![These 3 objects need to go into the articles panel for export.](Screenshot_2022-02-08_at_16.13.30.png)
+![These 3 objects need to go into the articles panel for export.](../media/Screenshot_2022-02-08_at_16.13.30.png)
 
 ## Export to HTML
 
 There are a number of settings to go through when we choose to export the InDesign document to HTML.
 
-For this project we will base the layout on the XML structure and so we must make sure that the newly added table of Contents is included in the XML structure by mapping the `Style to the Tags` once more with the new list styles mapped to an appropriate tag.
+For this project we will base the layout on the structure in the `Articles Panel`. a and so we must make sure that the various sections are added to the articles panel.
 
 In the third panel of the `Export to HTML` we will need to choose a CSS file that we can edit and turn off the one that InDesign generates.
 

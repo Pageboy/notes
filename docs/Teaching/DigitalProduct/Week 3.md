@@ -30,9 +30,7 @@ After styling this _could_ look like this:
 >There is also a `search` button available there too.
 
 ## Some useful info about CSS
-What are these units? `px(pixels)``, `em`, `rem`
-?
-Here is an article I have put together:
+Here is an article I have put together about units in CSS. 
 
 [Measure me in Units](../../Articles/Measure%20me%20in%20Units.md)
 
