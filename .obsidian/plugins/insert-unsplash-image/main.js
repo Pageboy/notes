@@ -22664,11 +22664,13 @@ var DEFAULT_SETTINGS = {
   insertSize: "",
   frontmatter: {
     key: "image",
-    valueFormat: "{image-url}"
+    valueFormat: "{image-url}",
+    appendReferral: false
   },
   imageProvider: "unsplash" /* unsplash */,
   proxyServer: "",
-  pixabayApiKey: ""
+  pixabayApiKey: "",
+  insertBackLink: false
 };
 var SettingTab = class extends import_obsidian.PluginSettingTab {
   constructor(app, plugin) {
@@ -22696,6 +22698,13 @@ var SettingTab = class extends import_obsidian.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
+    new import_obsidian.Setting(containerEl).setName("Insert backlink").setDesc("Insert a backlink(image HTML location on Provider website) in front of the reference text, eg. Backlink | Photo by ...").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.insertBackLink).onChange(async (value) => {
+        this.plugin.settings.insertBackLink = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    containerEl.createEl("h1", { text: "Frontmatter" });
     new import_obsidian.Setting(containerEl).setName("Insert to Frontmatter Key").setDesc("The key used when insert to frontmatter.").addText((text) => {
       text.setPlaceholder("image").setValue(this.plugin.settings.frontmatter.key).onChange(async (value) => {
         this.plugin.settings.frontmatter.key = value;
@@ -22708,7 +22717,14 @@ var SettingTab = class extends import_obsidian.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
-    new import_obsidian.Setting(containerEl).setName("Image Provider").addDropdown((dropdown) => {
+    new import_obsidian.Setting(containerEl).setName("Append image referral at end of the file").setDesc("Will append image referral at end of the file if set to true").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.frontmatter.appendReferral).onChange(async (value) => {
+        this.plugin.settings.frontmatter.appendReferral = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    containerEl.createEl("h1", { text: "Image Provider" });
+    new import_obsidian.Setting(containerEl).setName("Provider").addDropdown((dropdown) => {
       dropdown.addOptions({
         ["unsplash" /* unsplash */]: "Unsplash",
         ["pixabay" /* pixabay */]: "Pixabay"
@@ -22717,15 +22733,13 @@ var SettingTab = class extends import_obsidian.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
-    containerEl.createEl("h2", { text: "Unsplash" });
-    new import_obsidian.Setting(containerEl).setName("Proxy Server").setDesc("Use a self host proxy server. Leave it empty if you don't want host proxy server by yourself.").addText((text) => {
+    new import_obsidian.Setting(containerEl).setName("Unsplash Proxy Server").setDesc("Use a self host proxy server. Leave it empty if you don't want host proxy server by yourself.").addText((text) => {
       text.setPlaceholder("https://self-host-proxy.com/").setValue(this.plugin.settings.proxyServer).onChange(async (value) => {
         this.plugin.settings.proxyServer = value;
         await this.plugin.saveSettings();
       });
     });
-    containerEl.createEl("h2", { text: "Pixabay" });
-    new import_obsidian.Setting(containerEl).setName("API key").setDesc("API key can be found on https://pixabay.com/api/docs/ after logging in.").addText((text) => {
+    new import_obsidian.Setting(containerEl).setName("Pixabay API key").setDesc("API key can be found on https://pixabay.com/api/docs/ after logging in.").addText((text) => {
       text.setPlaceholder("Your API key").setValue(this.plugin.settings.pixabayApiKey).onChange(async (value) => {
         this.plugin.settings.pixabayApiKey = value;
         await this.plugin.saveSettings();
@@ -22800,6 +22814,9 @@ var pixabayOrientationMapping = {
 var APP_NAME = encodeURIComponent("Obsidian Image Inserter Plugin");
 var UTM = `utm_source=${APP_NAME}&utm_medium=referral`;
 var PER_PAGE = "30";
+var randomImgName = () => {
+  return `img-${(0, import_obsidian2.moment)().format("YYYYMMDDHHmmss")}`;
+};
 function getFetcher(settings) {
   const startPage = 1;
   let curPage = startPage;
@@ -22838,7 +22855,10 @@ function getFetcher(settings) {
         return data.hits.map(function(item) {
           return {
             thumb: item.previewURL,
-            url: item.webformatURL
+            url: item.webformatURL,
+            pageUrl: item.pageURL,
+            userUrl: `https://pixabay.com/users/${item.user}-${item.user_id}`,
+            username: item.user
           };
         });
       },
@@ -22849,8 +22869,12 @@ function getFetcher(settings) {
       async downloadAndInsertImage(image, createFile) {
         const url = image.url;
         const imageSize = insertSize === "" ? "" : `|${insertSize}`;
-        let nameText = `![img-${(0, import_obsidian2.moment)().format("YYYYMMDDHHmmss")}${imageSize}]`;
+        let nameText = `![${randomImgName()}${imageSize}]`;
         let urlText = `(${url})`;
+        const backlink = settings.insertBackLink && image.pageUrl ? `[Backlink](${image.pageUrl}) | ` : "";
+        const referral = `
+*${backlink}Photo by [${image.username}](${image.userUrl}) on [Pixabay](https://pixabay.com/)*
+`;
         if (insertMode === "local" /* local */) {
           const imageName = `Inserted image ${(0, import_obsidian2.moment)().format("YYYYMMDDHHmmss")}`;
           const ext = "png";
@@ -22859,18 +22883,22 @@ function getFetcher(settings) {
           nameText = `![[${imageName}.${ext}${imageSize}]]`;
           urlText = "";
         }
-        return `${nameText}${urlText}`;
+        return `${nameText}${urlText}${referral}`;
       },
       async downloadAndGetUri(image, createFile) {
         const url = image.url;
+        const backlink = settings.insertBackLink && image.pageUrl ? `[Backlink](${image.pageUrl}) | ` : "";
+        const referral = `
+*${backlink}Photo by [${image.username}](${image.userUrl}) on [Pixabay](https://pixabay.com/)*
+`;
         if (insertMode === "local" /* local */) {
           const imageName = `Inserted image ${(0, import_obsidian2.moment)().format("YYYYMMDDHHmmss")}`;
           const ext = "png";
           const arrayBuf = await this.downloadImage(url);
           createFile(imageName, ext, arrayBuf);
-          return `${imageName}.${ext}`;
+          return { url: `${imageName}.${ext}`, referral };
         }
-        return url;
+        return { url, referral };
       }
     };
   }
@@ -22912,10 +22940,9 @@ function getFetcher(settings) {
           thumb: item.urls.thumb,
           url: item.urls.regular,
           downloadLocationUrl: item.links.download_location,
-          author: {
-            name: item.user.name,
-            username: item.user.username
-          }
+          pageUrl: item.links.html,
+          username: item.user.name,
+          userUrl: `https://unsplash.com/@${item.user.username}?${UTM}`
         };
       });
     },
@@ -22927,14 +22954,14 @@ function getFetcher(settings) {
       return res.arrayBuffer;
     },
     async downloadAndInsertImage(image, createFile) {
-      var _a, _b, _c;
       this.touchDownloadLocation(image.downloadLocationUrl);
       const url = image.url;
       const imageSize = insertSize === "" ? "" : `|${insertSize}`;
-      let nameText = `![${(_a = image.desc) == null ? void 0 : _a.slice(0, 10)}${imageSize}]`;
+      let nameText = `![${image.desc || randomImgName()}${imageSize}]`;
       let urlText = `(${url})`;
+      const backlink = settings.insertBackLink && image.pageUrl ? `[Backlink](${image.pageUrl}) | ` : "";
       const referral = `
-*Photo by [${(_b = image.author) == null ? void 0 : _b.name}](https://unsplash.com/@${(_c = image.author) == null ? void 0 : _c.username}?${UTM}) on [Unsplash](https://unsplash.com/?${UTM})*
+*${backlink}Photo by [${image.username}](${image.userUrl}) on [Unsplash](https://unsplash.com/?${UTM})*
 `;
       if (insertMode === "local" /* local */) {
         const imageName = `Inserted image ${(0, import_obsidian2.moment)().format("YYYYMMDDHHmmss")}`;
@@ -22949,14 +22976,18 @@ function getFetcher(settings) {
     async downloadAndGetUri(image, createFile) {
       this.touchDownloadLocation(image.downloadLocationUrl);
       const url = image.url;
+      const backlink = settings.insertBackLink && image.pageUrl ? `[Backlink](${image.pageUrl}) | ` : "";
+      const referral = `
+*${backlink}Photo by [${image.username}](${image.userUrl}) on [Unsplash](https://unsplash.com/?${UTM})*
+`;
       if (insertMode === "local" /* local */) {
         const imageName = `Inserted image ${(0, import_obsidian2.moment)().format("YYYYMMDDHHmmss")}`;
         const ext = "png";
         const arrayBuf = await this.downloadImage(url);
         createFile(imageName, ext, arrayBuf);
-        return `${imageName}.${ext}`;
+        return { url: `${imageName}.${ext}`, referral };
       }
-      return url;
+      return { url, referral };
     }
   };
 }
@@ -23028,6 +23059,7 @@ var ImagesModal = ({ fetcher, onSelect }) => {
     } else if (e.ctrlKey && e.key === "p") {
       setSelectedImage((prev) => prev - 1 < 0 ? images.length - 1 : prev - 1);
     } else if (e.key === "Enter") {
+      e.preventDefault();
       onSelect(images[selectedImage]);
     }
   }, [images, selectedImage]);
@@ -23169,11 +23201,11 @@ var ModalWrapper = class extends import_obsidian4.Modal {
         this.editor.replaceSelection(imageTag);
       }
       if (this.insertPlace === "frontmatter" /* frontmatter */) {
-        const imageTag = await this.fetcher.downloadAndGetUri(item, this.createFile.bind(this));
+        const { url: imageTag, referral } = await this.fetcher.downloadAndGetUri(item, this.createFile.bind(this));
         const file = this.app.workspace.getActiveFile();
         if (file) {
           const updatedContent = await upsert(this.app, file, this.settings.frontmatter.key, `"${this.settings.frontmatter.valueFormat.replace("{image-url}", imageTag)}"`);
-          this.app.vault.modify(file, updatedContent);
+          await this.app.vault.modify(file, this.settings.frontmatter.appendReferral ? [updatedContent, referral].join("\n") : updatedContent);
         }
       }
       this.close();

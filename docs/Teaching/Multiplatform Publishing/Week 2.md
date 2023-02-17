@@ -25,5 +25,4 @@ tags:
 Home page needs the play synopsis or how about using openAI to generate a plot summary?
 
 Now read this:
-
-[[Using a Git Repository to host your Shakespeare Play Web Site]]
+[Using a Git Repository to host your Shakespeare Play Web Site](../../Web%20Sites%20with%20GitHub/Using%20a%20Git%20Repository%20to%20host%20your%20Shakespeare%20Play%20Web%20Site.md)

@@ -38,7 +38,7 @@ body {
 }
 ```
 
-**Note: In this version we start with the large display mode**
+>**Note:** In this version we start with CSS that delivers for a large display.
 
 We make the nav item sit at the top and spread out over the page and we make the `ul` inside this as a flex item.
 

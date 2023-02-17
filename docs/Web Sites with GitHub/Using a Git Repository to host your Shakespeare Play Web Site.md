@@ -102,7 +102,6 @@ You should now read the help document here, that explains how to generate the HT
 - Export your play InDesign document with settings in the instructions.
 - You will find that you have now got a new file saved wherever your InDesign file was saved. You can drag this file into the `docs` folder of your working copy of the repo that you have open in Visual Studio Code (vscode). This file should be renamed `play.html` and will replace the existing placeholder file.
 
-
 > **Note:** if you included images in your play, you will need more work to get those into the appropriate location.
 
 ## The Play
@@ -110,6 +109,8 @@ You should now read the help document here, that explains how to generate the HT
 In VS Code it will look similar to this:
 
 ![[yourexportedplay.png]]
+
+
 
 - Open the _play.html_ file that is inside the docs folder (that you have from your repository) with **VS Code**
 - Now edit the _style.css_ file (again inside the docs folder) to style each of the elements in the play

@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8959743d43e15c5b",
+        "id": "d3230498ea9a4d3a",
         "type": "tabs",
         "children": [
           {
-            "id": "7aa7efc2494b413e",
+            "id": "2765fd2edda597de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "77a17cc4b0bf985b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
-                "mode": "source",
+                "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +79,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
+            "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +96,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
+            "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +119,7 @@
         }
       },
       {
-        "id": "3683b2f22e02b4e3",
+        "id": "6540a46f5076edcb",
         "type": "leaf",
         "state": {
           "type": "side-panel-control-view",
@@ -143,17 +129,17 @@
     ],
     "currentTab": 4
   },
-  "active": "77a17cc4b0bf985b",
+  "active": "2765fd2edda597de",
   "lastOpenFiles": [
-    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 2.md",
+    "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
     "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
-    "daily/17-02-2023.md",
-    "daily/15-02-2023.md",
-    "docs/Teaching/Multiplatform Publishing/Week 3.md",
-    "docs/Teaching/DigitalProduct/Week 3.md",
-    "docs/private/art/Print sizes by theme.md",
+    "docs/media/yourexportedplay.png",
     "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
-    "docs/Web Sites with GitHub/How to build a blog website with GitHub and Netlify.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md"
+    "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
+    "docs/Teaching/Multiplatform Publishing/Week 3.md",
+    "docs/Teaching/Multiplatform Publishing/Week 4.md",
+    "docs/Teaching/Multiplatform Publishing/Week 2.md",
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+    "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md"
   ]
 }
