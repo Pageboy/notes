@@ -245,3 +245,5 @@ The function looks for the element that has an `id` of `toggle`, and then unchec
 </head>
 
 ```
+
+See this: [How to do Javascript](How%20to%20do%20Javascript.md)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
+                "file": "docs/Teaching/DigitalProduct/Week 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
+                "file": "docs/Teaching/DigitalProduct/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
+                "file": "docs/Teaching/DigitalProduct/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -150,6 +150,8 @@
   },
   "active": "9c9d7cf25d9eaf6a",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
+    "docs/Teaching/Multiplatform Publishing/How to do Javascript.md",
     "docs/Teaching/Multiplatform Publishing/Week 4.md",
     "docs/Teaching/DigitalProduct/Week 4.md",
     "docs/Teaching/DigitalProduct/assignment1.canvas",
@@ -157,8 +159,6 @@
     "docs/Teaching/Multiplatform Publishing/Assignment1.canvas",
     "docs/Articles/Footnotes and other Diversions.md",
     "docs/private/Blog Post Ideas.md",
-    "daily/16-02-2023.md",
-    "daily/15-02-2023.md",
-    "daily/17-02-2023.md"
+    "daily/16-02-2023.md"
   ]
 }
