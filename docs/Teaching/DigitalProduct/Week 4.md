@@ -96,4 +96,4 @@ font-size: 1.2em;
 }
 ```
 
-This is known as the adjacent sibling selector.
+This is known as the *adjacent sibling* selector.  With this CSS,  the paragraphs will have a font size of 1em, but the one that follows the h2 will have a size of 1.2em.

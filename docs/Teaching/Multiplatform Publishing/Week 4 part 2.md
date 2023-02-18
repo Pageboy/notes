@@ -207,3 +207,9 @@ So when the display is small we can use our **media query** to hide the menu and
 #### CodePen
 
 You can explore this yourself on the [CodePen](https://codepen.io/pageboy/pen/MWqYzgP).
+
+### One more thing
+
+>There is one issue for the smaller screens.
+
+You may notice that when you select one of the items on the menu and this takes you to that target location (maybe a scene in the play), then the menu remains expanded on the page. If you want to get it to hide and the hamburger, return, then you can only do this with javascript. 
