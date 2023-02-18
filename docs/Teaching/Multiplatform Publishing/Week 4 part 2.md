@@ -212,4 +212,36 @@ You can explore this yourself on the [CodePen](https://codepen.io/pageboy/pen/MW
 
 >There is one issue for the smaller screens.
 
-You may notice that when you select one of the items on the menu and this takes you to that target location (maybe a scene in the play), then the menu remains expanded on the page. If you want to get it to hide and the hamburger, return, then you can only do this with javascript. 
+You may notice that when you select one of the items on the menu and this takes you to that target location (maybe a scene in the play), then the menu remains expanded on the page. If you want to get it to hide and the hamburger, return, then you can only do this with javascript.
+
+I have added this feature to the _CodePen_ and here is the explanation.
+
+- first we need to add to the HTML a javascript command.
+```html
+<nav>
+    <input type="checkbox" id="toggle" />
+    <label for="toggle" class="hamburger">&#9776;</label>
+    <ul onclick="hidemenu()">
+    ....
+```
+-  next we add the following javascript function
+```js
+function hidemenu() {
+  document.getElementById("toggle").checked = false;
+}
+```
+
+The function looks for the element that has an `id` of `toggle`, and then unchecks the input checkbox and thus - hides away the menu.
+
+>Note: To make this work on a live page we need to add the javascript function into the existing `head` tag of the HTML like this:
+
+```html
+<head>
+	<script>
+	function hidemenu() {
+	  document.getElementById("toggle").checked = false;
+	}
+	</script>
+</head>
+
+```
