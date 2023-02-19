@@ -31,7 +31,8 @@
     "editor:redo",
     "editor:toggle-keyboard",
     "editor:configure-toolbar",
-    "insert-unsplash-image:insert"
+    "obsidian-markdown-formatting-assistant-plugin:open-callouts-selector",
+    "editor:insert-callout"
   ],
   "mobilePullAction": "obsidian-markdown-formatting-assistant-plugin:open-command-selector",
   "showUnsupportedFiles": true,

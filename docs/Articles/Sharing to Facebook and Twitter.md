@@ -19,6 +19,7 @@ The basic metadata that needs to be added to each web page uses `OpenGraph` to p
 
 Open Graph is essentially a set of metadata tags that `Facebook` will recognise and be able to use the data to display the link in the timeline.
 
+
 ## *Twitter* has it’s Own
 
 If you want your page referrals in `Twitter`to look good too you have some further options.

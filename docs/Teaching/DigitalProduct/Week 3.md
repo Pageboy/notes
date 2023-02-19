@@ -13,7 +13,9 @@ use *sitesucker* to download the complete live web site to your computer (or goo
 
 ![Only edit the CSS](../../media/Screenshot%202023-02-13%20at%2023.34.57.png)
 
-- paste ONLY the CSS back to the GitHub repository
+
+> [!NOTE] CSS
+> paste ONLY the CSS back to the GitHub repository
 
 ![Paste this back to github](../../media/Screenshot%202023-02-13%20at%2023.36.47.png)
 
@@ -27,7 +29,8 @@ After styling this _could_ look like this:
 
 >You will notice some other settings; making the `edit` true will place a button on the footer, so that you can easily find the editor.
 
->There is also a `search` button available there too.
+> [!INFO] Search
+> There is also a `search` button available there too.
 
 ## Some useful info about CSS
 Here is an article I have put together about units in CSS. 
