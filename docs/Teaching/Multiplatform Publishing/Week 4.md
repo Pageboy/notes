@@ -1,3 +1,13 @@
+---
+hide:
+ - navigation
+tags:
+ - ebookproduction
+ - indesign
+ - html
+ - css
+---
+
 For this week we are looking at more details in how to style the play.
 
 I made this [Codepen](https://codepen.io/pageboy/pen/YzprOEX) here for you to explore and try to figure out what is happening.
@@ -21,7 +31,8 @@ I made this [Codepen](https://codepen.io/pageboy/pen/YzprOEX) here for you to ex
 ## Unordered List becomes navigation
 **This may be difficult to understand.**
 
->Hint: In Vscode you need to go to the `View` menu and turn on `word wrap` so the lines don't go on forever.
+>[!Hint] Word wrap
+>Vscode you need to go to the `View` menu and turn on `word wrap` so the lines don't go on forever.
 
 The exported HTML from InDesign should contain the table of contents as an `unordered list`. If you explore the HTML you are bound to struggle to understand this because InDesign does not put any breaks in the text; also it adds a lot of unnecessary  code. So..... let me show you a simplified version that may help in the comprehension of this.
 
