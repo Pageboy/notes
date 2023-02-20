@@ -13,9 +13,9 @@ use *sitesucker* to download the complete live web site to your computer (or goo
 
 ![Only edit the CSS](../../media/Screenshot%202023-02-13%20at%2023.34.57.png)
 
+> [!important] 
+>  paste ONLY the CSS back to the GitHub repository
 
-> [!NOTE] CSS
-> paste ONLY the CSS back to the GitHub repository
 
 ![Paste this back to github](../../media/Screenshot%202023-02-13%20at%2023.36.47.png)
 

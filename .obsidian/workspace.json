@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 4.md",
-                "mode": "source",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 4.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 4.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,16 +119,26 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "6862da88a20fe36b",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "daily-notes:Open today's daily note": false,
       "gpt3-notes:GPT-3 Notes": false,
       "switcher:Open quick switcher": false,
@@ -139,17 +149,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9c9d7cf25d9eaf6a",
+  "active": "6862da88a20fe36b",
   "lastOpenFiles": [
+    "docs/Teaching/DigitalProduct/Week 4.md",
+    "docs/Teaching/DigitalProduct/Week 3.md",
+    "docs/Teaching/DigitalProduct/Week 2.md",
+    "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
+    "docs/Teaching/Multiplatform Publishing/Week 4.md",
     "docs/Teaching/Multiplatform Publishing/Week 3.md",
     "daily/16-02-2023.md",
     "daily/17-02-2023.md",
     "daily/03-02-2023.md",
-    "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
-    "docs/Teaching/Multiplatform Publishing/Week 4.md",
-    "docs/Teaching/DigitalProduct/Week 3.md",
-    "docs/Teaching/Multiplatform Publishing/How to do Javascript.md",
-    "docs/Teaching/DigitalProduct/Week 4.md",
-    "docs/Teaching/DigitalProduct/assignment1.canvas"
+    "docs/Teaching/Multiplatform Publishing/How to do Javascript.md"
   ]
 }

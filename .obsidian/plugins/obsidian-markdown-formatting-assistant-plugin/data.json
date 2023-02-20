@@ -30,7 +30,7 @@
     },
     {
       "name": "latex",
-      "active": true,
+      "active": false,
       "visible": false
     },
     {
@@ -40,6 +40,11 @@
     },
     {
       "name": "colors",
+      "active": true,
+      "visible": false
+    },
+    {
+      "name": "callouts",
       "active": true,
       "visible": false
     }
