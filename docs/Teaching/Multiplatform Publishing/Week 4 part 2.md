@@ -242,7 +242,8 @@ function hidemenu() {
 
 The function looks for the element that has an `id` of `toggle`, and then unchecks the input checkbox and thus - hides away the menu.
 
->Note: To make this work on a live page we need to add the javascript function into the existing `head` tag of the HTML like this:
+> [!note] 
+> To make this work on a live page we need to add the javascript function into the existing `head` tag of the HTML like this:
 
 ```html
 <head>

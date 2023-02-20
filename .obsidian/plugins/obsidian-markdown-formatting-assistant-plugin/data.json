@@ -46,7 +46,7 @@
     {
       "name": "callouts",
       "active": true,
-      "visible": false
+      "visible": true
     }
   ]
 }

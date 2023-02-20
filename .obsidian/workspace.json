@@ -121,7 +121,7 @@
             }
           },
           {
-            "id": "6862da88a20fe36b",
+            "id": "16a8019390f95678",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,7 +148,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6862da88a20fe36b",
+  "active": "9c9d7cf25d9eaf6a",
   "lastOpenFiles": [
     "docs/Teaching/DigitalProduct/Week 4.md",
     "docs/Teaching/DigitalProduct/Week 3.md",
