@@ -56,7 +56,8 @@ markdown_extensions:
       anchor_linenums: false
       use_pygments: true
       linenums_style: pymdownx-inline
-  - pymdownx.superfences 
+  - pymdownx.superfences
+  - admonition
 
   # - attr_list
   # - pymdownx.arithmatex
@@ -67,9 +68,8 @@ markdown_extensions:
   #     custom_checkbox: true
 #  - pymdownx.emoji:
 #      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  # - admonition
   - toc:
-      permalink: false
+      permalink: true
 
 plugins:
   - search
@@ -84,3 +84,4 @@ plugins:
       zoomable: false
       auto_caption: true
       caption_position: bottom
+  - callouts
