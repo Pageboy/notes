@@ -106,11 +106,8 @@ You should now read the help document here, that explains how to generate the HT
 
 ## The Play
 
-In VS Code it will look similar to this:
-
+In VS Code it will look similar to this screen grab  
 ![[yourexportedplay.png]]
-
-
 
 - Open the _play.html_ file that is inside the docs folder (that you have from your repository) with **VS Code**
 - Now edit the _style.css_ file (again inside the docs folder) to style each of the elements in the play

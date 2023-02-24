@@ -309,7 +309,8 @@ left:0;
 
 In this example the copyright block will be fixed at the bottom of the viewport and will stay there even when the user scrolls their window.
 
->**Note:** We would only use `static` if we need to reset the position to the default
+>[!Note]
+>We would only use `static` if we need to reset the position to the default
 
 
 ## Units of Measure

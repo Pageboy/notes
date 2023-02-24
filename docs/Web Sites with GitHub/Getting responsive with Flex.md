@@ -3,7 +3,7 @@ hide:
  - navigation
 tags:
  - css
- - resonsive
+ - responsive
  - multiplatorm
  - digitalproduct
 ---

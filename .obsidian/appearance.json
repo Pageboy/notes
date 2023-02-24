@@ -2,5 +2,6 @@
   "baseFontSize": 20,
   "cssTheme": "Obsidian Nord",
   "accentColor": "#ff6a00",
-  "textFontFamily": ""
+  "textFontFamily": "Avenir",
+  "interfaceFontFamily": "Avenir"
 }
