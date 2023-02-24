@@ -6,31 +6,30 @@ tags:
  - website
  - html
  - responsive
+ - vscode
+ - github
 ---
 
-* Join work from home page and play
+## This week
+
 * stop destinations from being hidden under the menubar
 * provide button to go back to the top (since this is a long scrolling page)
 * discuss media query strategies
 * discuss multimedia options
 * links from and to home page
 
-> If you target _mobile_ first then:  
-> Use _min-width_ for media queries to change for wider screen  
->   
-> If you target larger first then:  
-> Use *max-width* for media queries  
 
 ## To do for the play:
-* The play navigation needs attention
+* The play navigation needs attention to work on all devices
 * Bring the files together in the docs folder
 * Make a hyperlink from the **home page to the play**
 * In the play, create a link **back to the home page**
 * In the play, create a ‘**back to top**’ button
-* Optionally add an **audio clip**
+* Add **multimedia**
 * Make the site **live on GitHub**
 
-* Fixed navigation hides the destination when clicking an item in the navigation.  We can - sort out with  *scroll-padding-top* on the `html` element.
+> [!hint] 
+>  Fixed navigation hides the destination when clicking an item in the navigation.  We can - sort out with  *scroll-padding-top* on the `html` element. Here is what to do:
 
 ```css
 html {
@@ -46,7 +45,6 @@ Not good that clicking the links does not hide the menu - can only be sorted wit
 
 * sort this out with simple javascript in the **head** tag of the play HTML 
 
-
 ```javascript
     <script>
       function hidemenu() {
@@ -55,7 +53,7 @@ Not good that clicking the links does not hide the menu - can only be sorted wit
     </script>
 ```
 
-Give the ul an ID and then:
+Give the `ul` an `id` like this:
 
 ```html
 <ul id=“menu” onclick=“hidemenu()”>
@@ -82,7 +80,7 @@ Also add the following ~important~ switch to the toggle hamburger
 * ditto on the cover image
 
 - - - -
-## More on the play
+### More on the play
 
 * add a **back to top** with position fixed and > id on body
 

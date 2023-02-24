@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#vscode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -161,7 +161,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9c9d7cf25d9eaf6a",
+  "active": "d886f93a66ee3a62",
   "lastOpenFiles": [
     "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 6.md",
