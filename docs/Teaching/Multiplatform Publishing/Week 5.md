@@ -85,11 +85,9 @@ Also add the following ~important~ switch to the toggle hamburger
 * add a **back to top** with position fixed and > id on body
 
 ```html
-<div class=“backtotop”>
-<a title=“go back to the top of the page” href="#play4web">&#x25B2;</a>
-</div>
+<p class="takemeup"><a href="#top">&#x25B2;</a></p>
 
-see the id on the body for your own link
+<!--   see the id on the body for your own link  -->
 ```
 
 
