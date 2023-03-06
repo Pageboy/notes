@@ -24,13 +24,8 @@
             "id": "4cfe549dfb5d9540",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -92,7 +87,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +103,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
