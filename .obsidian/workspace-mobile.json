@@ -19,17 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "4cfe549dfb5d9540",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,6 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,6 +95,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -140,7 +133,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4cfe549dfb5d9540",
+  "active": "65c31f3bdd5abf5d",
   "lastOpenFiles": [
     "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
