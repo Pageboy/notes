@@ -33,12 +33,14 @@ We can use this feature on the listing page, because the HTML (simplified) is li
 		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quidem placeat animi laboriosam, iste non consequatur velit iusto provident aliquam totam sed.</p>
 		</div>
 	</section>
-		<section class="recipe-teaser">
+	<section class="recipe-teaser">
 		<h1>Recipe 2</h1>
 		<div class="excerpt">
 		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quidem placeat animi laboriosam, iste non consequatur velit iusto provident aliquam totam sed.</p>
 		</div>
 	</section>
+	<!-- + 3 or more recipe-teasers here -->
+</div>
 ```
 
 We should have 5 of those `recipe-teaser` blocks inside the `list` block.
@@ -67,15 +69,15 @@ margin:1em;
 Using flex box is very useful because the space is arranged automatically. There are some other features of your web pages that we also need to adjust when viewing on different device widths. For these we can use media queries in our CSS to provide some different rules according to the width of the display. For example, we may not want  large margins around the content on smartphones, rather we want to make use of the maximum amount of space that we have.
 
 ```css
-main {
-width:70%;
-padding: 2em;
-margin:4em auto;
-}
-
+/* on our normal computer screen we limit the widthof the main box */
+	main {
+	width:70%;
+	padding: 2em;
+	margin:4em auto;
+	}
+	
 /* the following means when the screen is smaller than 700px wide */
 @media (max-width: 700px) {
-
 	main {
 		width:100%;
 		margin:0;
