@@ -121,7 +121,7 @@
             }
           },
           {
-            "id": "16a8019390f95678",
+            "id": "9f71146367fd8b0f",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -129,12 +129,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,7 +148,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fac2b580753629bd",
+  "active": "9f71146367fd8b0f",
   "lastOpenFiles": [
     "docs/private/art/Print sizes by theme.md",
     "docs/Teaching/DigitalProduct/Week 6.md",

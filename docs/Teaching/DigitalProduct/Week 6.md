@@ -14,3 +14,73 @@ We will look at the CSS and how to use the Flex object to automatically reorgani
 You can check this document and look at the CodePen
 
 [Getting responsive with Flex](../../Web%20Sites%20with%20GitHub/Getting%20responsive%20with%20Flex.md)
+
+Remember that the HTML that we are using is already set up for us (because we are using a CMS) and has a good structure to help us with layout and design.
+
+> [!important] 
+> CSS = style, HTML = structure
+
+## Using Flexbox
+
+If we have a block element (such as a `div` or `section`) with a set of direct children (such as other block elements) then we can set the parent block to be a flex box and then the direct children can be arranged horizontally or vertically according to the available space. 
+
+We can use this feature on the listing page, because the HTML (simplified) is like this:
+
+```html
+<div class="list">
+	<section class="recipe-teaser">
+		<h1>Recipe 1</h1>
+		<div class="excerpt">
+		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quidem placeat animi laboriosam, iste non consequatur velit iusto provident aliquam totam sed.</p>
+		</div>
+	</section>
+		<section class="recipe-teaser">
+		<h1>Recipe 2</h1>
+		<div class="excerpt">
+		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quidem placeat animi laboriosam, iste non consequatur velit iusto provident aliquam totam sed.</p>
+		</div>
+	</section>
+```
+
+We should have 5 of those `recipe-teaser` blocks inside the `list` block.
+
+The CSS that we need then is as follows, with comments
+
+```css
+
+.list {
+display:flex;
+flex-wrap: wrap; /* when there is not enough space the content will wrap */
+justify-content: space-between;
+}
+
+.recipe-teaser {
+border:1px solid rgb(161, 161, 161);
+padding: 1em;
+flex-basis: 300px; /* this is the preferred dimension if space allows */
+flex-grow: 1; /* the width can grow if space allows */
+margin:1em;
+}
+```
+
+## Media Queries
+
+Using flex box is very useful because the space is arranged automatically. There are some other features of your web pages that we also need to adjust when viewing on different device widths. For these we can use media queries in our CSS to provide some different rules according to the width of the display. For example, we may not want  large margins around the content on smartphones, rather we want to make use of the maximum amount of space that we have.
+
+```css
+main {
+width:70%;
+padding: 2em;
+margin:4em auto;
+}
+
+/* the following means when the screen is smaller than 700px wide */
+@media (max-width: 700px) {
+
+	main {
+		width:100%;
+		margin:0;
+		padding:0;
+	}
+}
+```
