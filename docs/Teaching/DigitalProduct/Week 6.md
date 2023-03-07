@@ -101,3 +101,9 @@ See also the following:
 [Getting responsive with Flex](../../Web%20Sites%20with%20GitHub/Getting%20responsive%20with%20Flex.md)
 
 You can check this document and look at the CodePen
+
+## Questions about adding Video to site
+
+These can be answered by reading through these instructions.
+
+[Add Multimedia to Your web site](../../Web%20Sites%20with%20GitHub/Add%20Multimedia%20to%20Your%20web%20site.md)

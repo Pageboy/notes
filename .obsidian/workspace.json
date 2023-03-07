@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Teaching/DigitalProduct/Week 6.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -121,7 +121,7 @@
             }
           },
           {
-            "id": "9f71146367fd8b0f",
+            "id": "0c1e59d6f63fc43f",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -150,8 +150,10 @@
   },
   "active": "0956dc266ee0a661",
   "lastOpenFiles": [
-    "docs/Teaching/DigitalProduct/Week 3.md",
+    "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
     "docs/Teaching/DigitalProduct/Week 6.md",
+    "docs/Teaching/DigitalProduct/assignment1.canvas",
+    "docs/Teaching/DigitalProduct/Week 3.md",
     "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Teaching/DigitalProduct/Week 4.md",
     "docs/private/art/Print sizes by theme.md",
