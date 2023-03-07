@@ -60,7 +60,7 @@ main {
 ## Media Queries
 
 ```css
-@media screen and (max-width: 500px) {
+@media (max-width: 500px) {
   main {
     width: 100%;
   }

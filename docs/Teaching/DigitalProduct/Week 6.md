@@ -1,13 +1,16 @@
+---
+hide:
+ - navigation
+tags:
+ - css
+ - responsive
+ - digitalproduct
+---
 I will be remote for this week since I have Covid
 
 The focus of this session is making sure that the site that is delivered is responsive and should be usable on a mobile phone.
 
 We will look at the CSS and how to use the Flex object to automatically reorganise content when on a smaller device. We also use `media-queries` to make changes to the styles at certain device widths.
-
-
-> [!NOTE] The system is already setup to make the web site into a _simulated_ web app for your phone
-> You can also change the icon by going to this web site and replacing the icons folder on GitHub
->The template we are using already has a favicon but you can update this to [yours by going to this icon generator here](https://realfavicongenerator.net/) and generating the various versions. You will need to replace the ones in the **icons** folder through GitHub.
 
 ## Editing the CSS for responsiveness
 
@@ -84,3 +87,14 @@ margin:4em auto;
 	}
 }
 ```
+
+## Testing the site on mobile
+
+If you are using Apple Safari browser, you need to switch on the `develop` menu by going to _settings_ - _advanced_. Then you can choose `Enrer Design Responsive Mode`. This will give you lots of device options to test your pages.
+
+### On your Phone
+Your web site needs to be live. Open the web site in your phone's browser. You can also add the site to your home screen. 
+
+> [!NOTE] The system is already setup to make the web site into a _simulated_ web app for your phone
+> You can also change the icon by going to this web site and replacing the icons folder on GitHub
+>The template we are using already has a favicon but you can update this to [yours by going to this icon generator here](https://realfavicongenerator.net/) and generating the various versions. You will need to replace the ones in the **icons** folder through GitHub.
