@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "107c6498ad126dcc",
+        "id": "7e759c73cc352352",
         "type": "tabs",
         "children": [
           {
-            "id": "9c9d7cf25d9eaf6a",
+            "id": "0956dc266ee0a661",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0efc85275c8f71cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "02f35430f619b74a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
+                "file": "docs/Teaching/DigitalProduct/Week 6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
+                "file": "docs/Teaching/DigitalProduct/Week 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
+                "file": "docs/Teaching/DigitalProduct/Week 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +149,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0efc85275c8f71cd",
+  "active": "fac2b580753629bd",
   "lastOpenFiles": [
-    "docs/private/art/Application to RISE ART.md",
     "docs/private/art/Print sizes by theme.md",
+    "docs/Teaching/DigitalProduct/Week 6.md",
+    "docs/private/art/Application to RISE ART.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 6.md",

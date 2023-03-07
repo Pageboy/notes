@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "be1ec1f3cddba732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Teaching/DigitalProduct/Week 6.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+            "file": "docs/Teaching/DigitalProduct/Week 6.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+            "file": "docs/Teaching/DigitalProduct/Week 6.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,9 +147,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "65c31f3bdd5abf5d",
+  "active": "be1ec1f3cddba732",
   "lastOpenFiles": [
     "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+    "docs/Teaching/DigitalProduct/Week 6.md",
     "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
     "daily/05-03-2023.md",
     "daily/04-03-2023.md",
