@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 6.md",
+                "file": "daily/08-03-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -92,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/DigitalProduct/Week 6.md",
+            "file": "daily/08-03-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/DigitalProduct/Week 6.md",
+            "file": "daily/08-03-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,10 +147,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "be1ec1f3cddba732",
+  "active": "067faf30219200de",
   "lastOpenFiles": [
-    "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+    "docs/private/Presentations/Introduction and Listing.md",
+    "docs/Teaching/Multiplatform Publishing/Week 6.md",
+    "docs/private/Presentations",
     "docs/Teaching/DigitalProduct/Week 6.md",
+    "daily/08-03-2023.md",
+    "daily/07-03-23.md",
+    "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
     "daily/05-03-2023.md",
     "daily/04-03-2023.md",
