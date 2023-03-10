@@ -24,7 +24,7 @@ The Google chrome browser provides the ability to save each web page as a compat
 - place one of the recipe Word files into the first page
 	- make sure to use the existing styles
 
-![the settings as you place the file](../../media/Screenshot%202023-03-09%20at%2011.14.43.png) {width=50%}
+![the settings as you place the file](../../media/Screenshot%202023-03-09%20at%2011.14.43.png)
 
 - with this one recipe change styles and layout as you prefer
 > [!important] 
