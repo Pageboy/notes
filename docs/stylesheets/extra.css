@@ -63,8 +63,8 @@ visited {
 }
 
 img {
-  max-width: 60%;
-  max-height: 50vh;
+  max-width: 40%;
+  max-height: 40vh;
   margin: 1em auto 0 auto;
   display: block;
 }
