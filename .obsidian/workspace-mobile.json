@@ -11,12 +11,14 @@
             "id": "65c31f3bdd5abf5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "docs/Teaching/DigitalProduct/Assignment 2.canvas",
+                "viewState": {
+                  "x": 95.89824304538799,
+                  "y": -209.0666178623719,
+                  "zoom": -1.0715958469170914
+                }
               }
             }
           },
@@ -33,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "daily/08-03-2023.md",
+            "file": "docs/Teaching/DigitalProduct/Assignment 2.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "daily/08-03-2023.md",
+            "file": "docs/Teaching/DigitalProduct/Assignment 2.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,15 +148,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "067faf30219200de",
+  "active": "65c31f3bdd5abf5d",
   "lastOpenFiles": [
+    "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+    "docs/media/Screenshot 2023-03-08 at 14.51.59.png",
+    "docs/Teaching/DigitalProduct/Assignment 2.canvas",
+    "docs/media/Screenshot 2023-03-08 at 14.52.16.png",
+    "docs/media/Screenshot 2023-03-09 at 11.14.43.png",
+    "docs/media/Screenshot 2023-03-09 at 11.25.29.png",
+    "docs/media/Screenshot 2023-03-09 at 11.12.24.png",
     "docs/private/Presentations/Introduction and Listing.md",
     "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "docs/private/Presentations",
     "docs/Teaching/DigitalProduct/Week 6.md",
     "daily/08-03-2023.md",
     "daily/07-03-23.md",
-    "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
     "daily/05-03-2023.md",
     "daily/04-03-2023.md",
