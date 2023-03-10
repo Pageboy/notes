@@ -68,3 +68,7 @@ img {
   margin: 1em auto 0 auto;
   display: block;
 }
+
+p:has(img) {
+  max-width: 50%;
+}
