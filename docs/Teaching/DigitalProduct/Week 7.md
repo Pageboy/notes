@@ -11,6 +11,7 @@ The Google chrome browser provides the ability to save each web page as a compat
 - in the chrome browser go to `Save Page As`
 
 ![Save](../../media/Screenshot%202023-03-08%20at%2014.51.59.png)
+
 - choose the `Webpage, Single File` format
 - save this in the folder created above
 - Open the file with MS Word and remove the menu section and spurious code
@@ -22,10 +23,14 @@ The Google chrome browser provides the ability to save each web page as a compat
 - Open the provided template in InDesign
 - place one of the recipe Word files into the first page
 	- make sure to use the existing styles
-![the settings as you place the file](../../media/Screenshot%202023-03-09%20at%2011.14.43.png)
+
+![the settings as you place the file](../../media/Screenshot%202023-03-09%20at%2011.14.43.png) {width=50%}
+
 - with this one recipe change styles and layout as you prefer
 > [!important] 
 > only use the existing paragraph and character styles if possible
+
+
 - You need to un-embed the images from the links panel  and save in a folder within your project folder
 
 ![Images are embedded](../../media/Screenshot%202023-03-10%20at%2013.31.34.png)
