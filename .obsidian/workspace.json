@@ -8,27 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0956dc266ee0a661",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "docs/Teaching/DigitalProduct/Assignment 2.canvas",
-                "viewState": {
-                  "x": 907.5196746826147,
-                  "y": -65.73999999999954,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "e43ccf0e2a61941c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eBookProduction/Notes on Fixed Layout.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4736fdb64cfb51bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -61,26 +59,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "833ba2ecdbcfe2f5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5c0ff00d0db86348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 7.md",
+                "file": "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 7.md",
+                "file": "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,44 +188,48 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5c0ff00d0db86348",
+  "active": "4736fdb64cfb51bc",
   "lastOpenFiles": [
+    "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+    "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
+    "docs/Teaching/Multiplatform Publishing/Week 5.md",
+    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
+    "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
+    "docs/media/id2rfl/image28.png",
+    "docs/media/id2rfl/image27.png",
+    "docs/media/id2rfl/image26.png",
+    "docs/media/id2rfl/image25.png",
+    "docs/media/id2rfl/image24.png",
+    "docs/media/id2rfl/image23.png",
+    "docs/media/id2rfl/image21.png",
+    "docs/media/id2rfl/image20.png",
+    "docs/media/id2rfl/image18.png",
+    "docs/media/id2rfl/image17.png",
+    "docs/media/id2rfl",
+    "docs/eBookProduction/Fixed Layout eBook.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
+    "docs/Teaching/Multiplatform Publishing/Week 7.md",
+    "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
+    "docs/eBookProduction/Notes on Fixed Layout.md",
+    "docs/Teaching/DigitalProduct/assignment1.canvas",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",
     "docs/Teaching/DigitalProduct/Week 7.md",
-    "docs/media/Screenshot 2023-03-10 at 13.32.01.png",
-    "docs/media/Screenshot 2023-03-10 at 13.31.34.png",
     "docs/Teaching/DigitalProduct/Week 6.md",
-    "docs/eBookProduction/Notes on Fixed Layout.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
-    "docs/eBookProduction/Fixed Layout eBook.md",
-    "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
     "docs/eBookProduction/What Kind of eBooks?.md",
     "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "daily/09-03-2023.md",
-    "docs/media/0C996B1A-3C38-40E5-AF29-96199E0E82C5_1_102_a.jpeg",
     "docs/media/F2A4E4D3-4F85-44A4-8385-24614590DF1C_1_201_a.heic",
-    "docs/Web Sites with GitHub/Getting responsive with Flex.md",
-    "docs/Teaching/DigitalProduct/assignment1.canvas",
-    "docs/media/Screenshot 2023-03-09 at 11.25.29.png",
-    "docs/media/Screenshot 2023-03-09 at 11.14.43.png",
-    "docs/media/Screenshot 2023-03-09 at 11.12.24.png",
-    "docs/media/Screenshot 2023-03-08 at 14.51.59.png",
-    "docs/media/Screenshot 2023-03-08 at 14.52.16.png",
-    "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
     "docs/private/Presentations/Introduction and Listing.md",
     "docs/private/Presentations",
-    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 7.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 8.md",
     "daily/07-03-23.md",
     "daily/08-03-2023.md",
     "docs/Teaching/DigitalProduct/Week 3.md",
     "docs/Teaching/DigitalProduct/Week 4.md",
     "docs/private/art/Print sizes by theme.md",
-    "docs/private/art/Application to RISE ART.md",
-    "docs/Teaching/Multiplatform Publishing/Week 5.md",
-    "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
-    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 5 Shakespeare Play notes.md",
-    "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
-    "docs/Teaching/DigitalProduct/Week 2.md"
+    "docs/private/art/Application to RISE ART.md"
   ]
 }
