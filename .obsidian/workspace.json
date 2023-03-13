@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
-                "mode": "source",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +190,9 @@
   },
   "active": "4736fdb64cfb51bc",
   "lastOpenFiles": [
-    "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+    "docs/Teaching/DigitalProduct/Week 7.md",
     "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
+    "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
     "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
@@ -216,7 +216,6 @@
     "docs/eBookProduction/Notes on Fixed Layout.md",
     "docs/Teaching/DigitalProduct/assignment1.canvas",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",
-    "docs/Teaching/DigitalProduct/Week 7.md",
     "docs/Teaching/DigitalProduct/Week 6.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
     "docs/eBookProduction/What Kind of eBooks?.md",

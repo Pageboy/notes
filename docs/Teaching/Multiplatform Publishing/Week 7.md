@@ -9,10 +9,9 @@ tags:
 Any questions or issues or any reminders needed?
 
 ## Points to make
-
 We are letting InDesign do most of the work but we have control of the tagging (and class names) that get created on export. We do this through the `Export tagging`
 
-![[Screenshot 2017-12-20 16.18.53.png]]
+![Export tagging](../../media/Screenshot_2017-12-20_16.18.53.png)
 
 ### Why should we care about the tagging and class names?
 
@@ -50,7 +49,7 @@ Our own `eplay.css` is added _after_ the InDesign generated ones.
 ## What does the ePub consist of?
 Here are the files inside the ePub
 
-![[Screenshot 2022-03-09 at 09.19.14.png]]
+![Inside the ePub](../../media/Screenshot_2022-03-09_at_09.19.14.png)
 
 ### Particulars
 #### content.opf
@@ -154,5 +153,6 @@ By this I mean the software that shows the eBook. There are a number for compute
 
 You can email the ePub file to yourself and open on your Phone or tablet. On iOS you have Apple Books, other devices have their own. If you have a Kindle, you can also get the eBook there, but you may need to do this via a cable.
 
+There is a very comprehensive help document available here.
 
-
+[Creating a Reflowable eBook after a print production workflow](../../eBookProduction/Creating%20a%20Reflowable%20eBook%20after%20a%20print%20production%20workflow.md)
