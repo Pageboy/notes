@@ -29,6 +29,10 @@
   background-color: #221c1c !important;
 } */
 
+p {
+  margin-top: 0;
+}
+
 article h1,
 article h2 {
   font-weight: 700 !important;
