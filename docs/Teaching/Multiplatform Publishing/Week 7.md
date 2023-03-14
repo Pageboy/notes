@@ -1,6 +1,6 @@
 ---
 hide:
- - toc
+ - navigation
 tags:
  - ebookproduction
  - indesign
@@ -29,7 +29,10 @@ In our project we do have one that is available (as a starting point) [we can fi
 - in this CSS we can modify the rules within the selectors; these will then overwrite the InDesign at export time
 - we do need to select this new CSS file at export time
 
->Note: there is a [more substantial document about this here](https://www.publisha.org/pages/editing_ePub/).
+
+> [!note]
+> there is a more substantial document about this here
+>  [Editing inside the ePUB package](../../eBookProduction/Editing%20inside%20the%20ePUB%20package.md)
 
 ### Roundtrip
 By having our own CSS file and _only_ editing this file, we can go back to InDesign and make changes as long as we don't make new styles or change the export tagging for the ePub.
