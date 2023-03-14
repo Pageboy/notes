@@ -114,11 +114,15 @@ There are 2 of these:
 
 the toc.ncx file id for backwards compatabilty for older devices and readers that only support the ePub (version 2).
 
-It looks like this: [[week7extras/ePUB_toc_ncx]]
+It looks like this:
+
+[ePUB_toc_ncx](week7extras/ePUB_toc_ncx.md)
 
 The better toc that is used by the ePub3 reader is more conformant to `xhtml`. 
 
-This one looks like this: [[week7extras/ePub_toc_xhtml]]
+This one looks like this:
+
+[ePub_toc_xhtml](week7extras/ePub_toc_xhtml.md)
 
 >These files should not be edited, however if there is a problem with the table of contents one could edit this as a last resort, noting that this will upset the _roundtrip_ to InDesign as mentioned before.
 

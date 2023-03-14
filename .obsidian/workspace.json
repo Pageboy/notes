@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e759c73cc352352",
+        "id": "2b386d2998dbc16a",
         "type": "tabs",
         "children": [
           {
-            "id": "e43ccf0e2a61941c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4736fdb64cfb51bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "774ebe9e1bee55b3",
+            "id": "e786c1b48f30a239",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,35 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "8950145f4db8974a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/09-03-2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "613794377b467be9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,12 +148,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "774ebe9e1bee55b3",
+  "active": "e786c1b48f30a239",
   "lastOpenFiles": [
+    "docs/Teaching/DigitalProduct/Assignment 2.canvas",
+    "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
     "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
     "docs/eBookProduction/What Kind of eBooks?.md",
-    "docs/Teaching/DigitalProduct/Assignment 2.canvas",
     "docs/eBookProduction/Enhancing an eBook with interactivity, multimedia and animation.md",
     "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
     "docs/media/id2fxlePub/image3.png",
@@ -215,7 +163,6 @@
     "docs/media/id2fxlePub/image2.jpeg",
     "docs/media/id2fxlePub/image1.jpeg",
     "docs/media/id2fxlePub",
-    "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/eBookProduction/Editing inside the ePUB package.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
     "docs/Teaching/DigitalProduct/Week 7.md",
