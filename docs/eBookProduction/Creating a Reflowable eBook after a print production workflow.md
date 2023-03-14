@@ -410,6 +410,8 @@ page-break-before:auto;
 
 The next help document will focus on how we can edit the insides of the ePub file and what changes we can make to the styles and other view settings.
 
+[Editing inside the ePUB package](Editing%20inside%20the%20ePUB%20package.md)
+
 [^1]: There is a project to develop a hybrid ePub format that will allow the mixture of re-flowable and fixed-layout pages. If you want to explore this further then you should go to the [International Digital Publishing Forum ](http://idpf.org/epub/31 "EPUB 3.1 - International Digital Publishing Forum")web site. The IDPF has now merged with the W3 organisation.
 
 [^2]: If we plan to convert the ePub to the Kindle MOBI format then we may need to display a table of contents somewhere. This is because the Amazon recommend this for their format. However, we can find other ways of resolving this. A topic to be addressed later.

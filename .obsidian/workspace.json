@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,6 +204,10 @@
   "active": "774ebe9e1bee55b3",
   "lastOpenFiles": [
     "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
+    "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
+    "docs/eBookProduction/What Kind of eBooks?.md",
+    "docs/Teaching/DigitalProduct/Assignment 2.canvas",
+    "docs/eBookProduction/Enhancing an eBook with interactivity, multimedia and animation.md",
     "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
     "docs/media/id2fxlePub/image3.png",
     "docs/media/id2fxlePub/image2.png",
@@ -218,7 +222,6 @@
     "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
-    "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
     "docs/media/id2rfl/image28.png",
     "docs/media/id2rfl/image27.png",
     "docs/media/id2rfl/image26.png",
@@ -232,9 +235,7 @@
     "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
     "docs/eBookProduction/Notes on Fixed Layout.md",
     "docs/Teaching/DigitalProduct/assignment1.canvas",
-    "docs/Teaching/DigitalProduct/Assignment 2.canvas",
     "docs/Teaching/DigitalProduct/Week 6.md",
-    "docs/eBookProduction/What Kind of eBooks?.md",
     "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "daily/09-03-2023.md",
     "docs/media/F2A4E4D3-4F85-44A4-8385-24614590DF1C_1_201_a.heic",
@@ -242,7 +243,6 @@
     "docs/private/Presentations",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 8.md",
     "daily/07-03-23.md",
-    "daily/08-03-2023.md",
-    "docs/Teaching/DigitalProduct/Week 3.md"
+    "daily/08-03-2023.md"
   ]
 }
