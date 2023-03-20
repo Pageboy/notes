@@ -22,3 +22,13 @@ The last issue here can be identified by viewing the text with Story Editor.
 To solve the problem we can search for the graphic objects and apply an existing object style (one exists in the template but you can create one also).
 
 ![Watch this gif](../../media/imagetoobig.gif)
+
+## Images are embedded
+
+When you place the Word documents into InDesign the images will be embedded and we need to _un-embed_ them. 
+
+You will find the links panel under Window>Links. The images will need to be saved somewhere in your project space. Here are the steps to take.
+
+Right-click over the image in the links panel.
+
+![View this Gif. Un-embed the images](../../media/unebedimages.gif)
