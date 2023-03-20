@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
+                "file": "docs/Teaching/DigitalProduct/Week 7.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "ed5565090e8dcc81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Teaching/DigitalProduct/Week 8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
+                "file": "docs/Teaching/DigitalProduct/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
+                "file": "docs/Teaching/DigitalProduct/Week 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,10 +162,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e786c1b48f30a239",
+  "active": "ed5565090e8dcc81",
   "lastOpenFiles": [
-    "docs/Teaching/DigitalProduct/Assignment 2.canvas",
+    "docs/media/imagetoobig.gif",
+    "docs/media/Screenshot 2023-03-20 at 18.09.19.png",
+    "docs/media/Screenshot 2023-03-20 at 18.08.57.png",
+    "docs/Teaching/DigitalProduct/Week 7.md",
+    "docs/Teaching/DigitalProduct/Week 6.md",
+    "docs/Teaching/DigitalProduct/Week 8.md",
+    "daily/20-03-2023.md",
+    "daily/17-03-2023.md",
+    "daily/15-03-2023.md",
+    "daily/14-03-2023.md",
+    "daily/11-03-2023.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
+    "docs/Teaching/DigitalProduct/Assignment 2.canvas",
     "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
     "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
     "docs/eBookProduction/What Kind of eBooks?.md",
@@ -165,15 +190,12 @@
     "docs/media/id2fxlePub",
     "docs/eBookProduction/Editing inside the ePUB package.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
-    "docs/Teaching/DigitalProduct/Week 7.md",
     "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
     "docs/media/id2rfl/image28.png",
     "docs/media/id2rfl/image27.png",
     "docs/media/id2rfl/image26.png",
-    "docs/media/id2rfl/image25.png",
-    "docs/media/id2rfl/image24.png",
     "docs/media/id2rfl",
     "docs/eBookProduction/Fixed Layout eBook.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
@@ -182,14 +204,7 @@
     "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
     "docs/eBookProduction/Notes on Fixed Layout.md",
     "docs/Teaching/DigitalProduct/assignment1.canvas",
-    "docs/Teaching/DigitalProduct/Week 6.md",
-    "docs/Teaching/Multiplatform Publishing/Week 6.md",
-    "daily/09-03-2023.md",
     "docs/media/F2A4E4D3-4F85-44A4-8385-24614590DF1C_1_201_a.heic",
-    "docs/private/Presentations/Introduction and Listing.md",
-    "docs/private/Presentations",
-    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 8.md",
-    "daily/07-03-23.md",
-    "daily/08-03-2023.md"
+    "docs/private/Presentations"
   ]
 }

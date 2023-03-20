@@ -1,3 +1,11 @@
+---
+hide:
+ - navigation
+tags:
+ - css
+ - responsive
+ - digitalproduct
+---
 We are now taking the contents from the web site that we have now completed and creating an enhanced eBook.
 
 There are more than one ways to extract our content but by far the easier is to save each page ina format that can be _placed_ into InDesign
