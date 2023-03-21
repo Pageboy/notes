@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,11 +165,12 @@
   },
   "active": "ed5565090e8dcc81",
   "lastOpenFiles": [
+    "docs/media/Screenshot 2023-03-20 at 23.34.18.png",
+    "docs/Teaching/DigitalProduct/Week 7.md",
     "docs/media/unebedimages.gif",
     "docs/media/imagetoobig.gif",
     "docs/media/Screenshot 2023-03-20 at 18.09.19.png",
     "docs/media/Screenshot 2023-03-20 at 18.08.57.png",
-    "docs/Teaching/DigitalProduct/Week 7.md",
     "docs/Teaching/DigitalProduct/Week 6.md",
     "docs/Teaching/DigitalProduct/Week 8.md",
     "daily/20-03-2023.md",
@@ -195,7 +197,6 @@
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
     "docs/media/id2rfl/image28.png",
-    "docs/media/id2rfl/image27.png",
     "docs/media/id2rfl",
     "docs/eBookProduction/Fixed Layout eBook.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
