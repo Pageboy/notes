@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 7.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 8.md",
+                "file": "docs/Teaching/Multiplatform Publishing/eBook readers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 8.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 8.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,16 +161,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ed5565090e8dcc81",
+  "active": "e786c1b48f30a239",
   "lastOpenFiles": [
-    "docs/media/Screenshot 2023-03-20 at 23.34.18.png",
+    "docs/Teaching/Multiplatform Publishing/Week 8.md",
     "docs/Teaching/DigitalProduct/Week 7.md",
+    "docs/Teaching/Multiplatform Publishing/eBook readers.md",
+    "docs/Teaching/Multiplatform Publishing/Week 9.md",
+    "docs/Teaching/DigitalProduct/Week 8.md",
+    "docs/media/Screenshot 2023-03-20 at 23.34.18.png",
     "docs/media/unebedimages.gif",
     "docs/media/imagetoobig.gif",
     "docs/media/Screenshot 2023-03-20 at 18.09.19.png",
     "docs/media/Screenshot 2023-03-20 at 18.08.57.png",
     "docs/Teaching/DigitalProduct/Week 6.md",
-    "docs/Teaching/DigitalProduct/Week 8.md",
     "daily/20-03-2023.md",
     "daily/17-03-2023.md",
     "daily/15-03-2023.md",
@@ -196,14 +197,11 @@
     "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
-    "docs/media/id2rfl/image28.png",
     "docs/media/id2rfl",
     "docs/eBookProduction/Fixed Layout eBook.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
-    "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
-    "docs/eBookProduction/Notes on Fixed Layout.md",
     "docs/Teaching/DigitalProduct/assignment1.canvas",
     "docs/media/F2A4E4D3-4F85-44A4-8385-24614590DF1C_1_201_a.heic",
     "docs/private/Presentations"
