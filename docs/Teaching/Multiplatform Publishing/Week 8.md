@@ -12,13 +12,15 @@ Any issues for general airing?
 >Some reminders for the re-flowable eBook
 
 ## Footnotes
-I have a very comprehensive [document about footnotes here](https://www.publisha.org/pages/footnotes/).
+I have a very comprehensive document about footnotes here:
+
+[Footnotes and other Diversions](../../Articles/Footnotes%20and%20other%20Diversions.md)
 
 Make sure to choose Popup Notes when exporting but also try to make the references more visible by changing the CSS for those tags.
 
 First make sure that you have export tagging for the reference in the InDesign document.
 
-![[Screenshot 2022-03-15 at 10.40.22 1.png]]
+![export tagging for the reference](../../media/Screenshot_2022-03-15_at_10.40.22.png)
 
 Then adjust in the CSS
 
@@ -108,7 +110,7 @@ Here is my landmarks section:
 ## Images
 ### Anchored
 
-Images must be anchored in the text (unless they are not part of the threaded text). Images such as the frontis piece are not part of the threaded text, so we must use `object export options` for this.
+Images must be anchored in the text (unless they are not part of the threaded text). Images such as the frontispiece are not part of the threaded text, so we must use `object export options` for this.
 
 ### Figures
 To get the best control over the image styling it is best to use an Object style and control the export tagging with this set as  a tag `figure` with a class name such as `sceneimage`.

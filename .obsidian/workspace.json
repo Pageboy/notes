@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
-                "mode": "preview",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 9.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,10 +163,11 @@
   },
   "active": "e786c1b48f30a239",
   "lastOpenFiles": [
+    "docs/Articles/Footnotes and other Diversions.md",
     "docs/Teaching/Multiplatform Publishing/Week 8.md",
+    "docs/Teaching/Multiplatform Publishing/Week 9.md",
     "docs/Teaching/DigitalProduct/Week 7.md",
     "docs/Teaching/Multiplatform Publishing/eBook readers.md",
-    "docs/Teaching/Multiplatform Publishing/Week 9.md",
     "docs/Teaching/DigitalProduct/Week 8.md",
     "docs/media/Screenshot 2023-03-20 at 23.34.18.png",
     "docs/media/unebedimages.gif",
@@ -201,7 +202,6 @@
     "docs/eBookProduction/Fixed Layout eBook.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
     "docs/Teaching/DigitalProduct/assignment1.canvas",
     "docs/media/F2A4E4D3-4F85-44A4-8385-24614590DF1C_1_201_a.heic",
     "docs/private/Presentations"
