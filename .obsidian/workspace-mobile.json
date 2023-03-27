@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34ec33efe0a49e13",
+        "id": "221c551078e390c3",
         "type": "tabs",
         "children": [
           {
-            "id": "65c31f3bdd5abf5d",
+            "id": "38a14eeadfb9b57c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "be1ec1f3cddba732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/08-03-2023.md",
+                "file": "docs/Articles/Building the TOC in InDesign.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -91,7 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
+            "file": "docs/Articles/Building the TOC in InDesign.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +95,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
+            "file": "docs/Articles/Building the TOC in InDesign.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,9 +116,17 @@
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "01ebb1d5fb29d21e",
+        "type": "leaf",
+        "state": {
+          "type": "side-panel-control-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +141,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "65c31f3bdd5abf5d",
+  "active": "38a14eeadfb9b57c",
   "lastOpenFiles": [
+    "docs/Articles/Building the TOC in InDesign.md",
+    "daily/08-03-2023.md",
+    "docs/Teaching/DigitalProduct/Week 9.md",
+    "docs/Teaching/Multiplatform Publishing/Week 8.md",
+    "docs/media/numbering-and-section-options.jpg",
+    "docs/media/articlespanel.png",
+    "docs/media/toc-in-the-pdf.png",
+    "docs/media/setting-up-the-tabs.png",
+    "docs/media/flatplanFBK.jpg",
+    "docs/media/choosing-the-styles-for-the-toc.png",
+    "docs/media/a-typical-toc.png",
+    "docs/media/the-flatplan-of-prelim-pages.png",
     "docs/Teaching/DigitalProduct/Week 8.md",
     "docs/Teaching/Multiplatform Publishing/eBook readers.md",
-    "docs/Teaching/Multiplatform Publishing/Week 8.md",
     "docs/Teaching/Multiplatform Publishing/Week 9.md",
     "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
     "docs/media/unebedimages.gif",
@@ -159,19 +165,11 @@
     "daily/14-03-2023.md",
     "daily/11-03-2023.md",
     "docs/media/imagetoobig.gif",
-    "docs/media/Screenshot 2023-03-20 at 23.34.18.png",
-    "docs/media/Screenshot 2023-03-20 at 18.08.57.png",
-    "docs/media/Screenshot 2023-03-20 at 18.09.19.png",
     "daily/15-03-2023.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
     "docs/Teaching/DigitalProduct/Week 7.md",
-    "docs/media/id2fxlePub/image2.jpeg",
-    "docs/media/id2fxlePub/image1.jpeg",
-    "docs/media/id2fxlePub/image3.png",
-    "docs/media/id2fxlePub/image1.png",
-    "docs/media/id2fxlePub/image2.png",
     "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
     "docs/eBookProduction/Untitled.md",
     "docs/Teaching/DigitalProduct/Week 6.md",
@@ -183,11 +181,7 @@
     "docs/private/Presentations/Introduction and Listing.md",
     "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "docs/private/Presentations",
-    "daily/08-03-2023.md",
     "daily/07-03-23.md",
-    "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
-    "daily/05-03-2023.md",
-    "daily/04-03-2023.md",
     "docs/Teaching/DigitalProduct/assignment1.canvas"
   ]
 }

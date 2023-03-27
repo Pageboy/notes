@@ -10,7 +10,10 @@ tags:
 
 The table of contents (TOC) belongs to, what are normally referrer to as, the front matter. We might also refer to them as the prelim pages.
 
-![The Flatplan of prelim pages for a fixed layout eBook](../../media/flatplanFBK.jpg)
+![The Flatplan of prelim pages for a fixed layout eBook](../../media/the-flatplan-of-prelim-pages.png)
+
+> [!attention] 
+> If you are creating a fixed layout eBook the pages may be in landscape orientation.
 
 The flat plan seen above shows the pages you need before you create the TOC.
 
