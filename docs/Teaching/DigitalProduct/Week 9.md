@@ -17,6 +17,7 @@ Then we need the imprint or copyright information. You can split this page into 
 
 When constructing the start page, keep the elements separate so that we can make this page deliver dynamically with a build up.
 
-More details on the Table of contents here:
+> [!help] 
+>  More details on the Table of contents is available here although the examples given are for a portrait shaped book.
+>  [Building the TOC in InDesign](../../Articles/Building%20the%20TOC%20in%20InDesign.md)
 
-[Building the TOC in InDesign](../../Articles/Building%20the%20TOC%20in%20InDesign.md)
