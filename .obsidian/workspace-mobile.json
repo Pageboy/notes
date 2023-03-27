@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 8.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -91,7 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/DigitalProduct/Week 8.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/DigitalProduct/Week 8.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 8.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,6 +148,10 @@
   },
   "active": "65c31f3bdd5abf5d",
   "lastOpenFiles": [
+    "docs/Teaching/DigitalProduct/Week 8.md",
+    "docs/Teaching/Multiplatform Publishing/eBook readers.md",
+    "docs/Teaching/Multiplatform Publishing/Week 8.md",
+    "docs/Teaching/Multiplatform Publishing/Week 9.md",
     "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
     "docs/media/unebedimages.gif",
     "daily/20-03-2023.md",
@@ -158,7 +162,6 @@
     "docs/media/Screenshot 2023-03-20 at 23.34.18.png",
     "docs/media/Screenshot 2023-03-20 at 18.08.57.png",
     "docs/media/Screenshot 2023-03-20 at 18.09.19.png",
-    "docs/Teaching/DigitalProduct/Week 8.md",
     "daily/15-03-2023.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
@@ -185,9 +188,6 @@
     "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
     "daily/05-03-2023.md",
     "daily/04-03-2023.md",
-    "daily/03-03-2023.md",
-    "daily/02-03-2023.md",
-    "daily/06-03-2023.md",
     "docs/Teaching/DigitalProduct/assignment1.canvas"
   ]
 }
