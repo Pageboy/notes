@@ -10,6 +10,7 @@ tags:
 
 I start with a quote from Robert Bringhurst in his *The Elements of Typographic Style*:
 
+> [!quote] 
 > “*...the academic habit of relegating notes to the foot of the page or the end of the book is a mirror of Victorian social and domestic practice, in which the kitchen was kept out of sight and the servants were kept below stairs. If the notes are permitted to move around in the margins – as they were in Renaissance books – they can be present where needed and at the same time enrich the life of the page.*”
 
 In medieval Europe, the relationship between the shape of the page and text block provided space for notes in the margin. In fact, even before printing margin notes are used to elaborate or further explain details. In this illustration we see a spread from the _Liber insularum Archipelagi_ with notes in the site margins
