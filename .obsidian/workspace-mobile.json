@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
-                "mode": "source",
+                "file": "docs/private/Teaching_Hold/Multiplatform Publishing/Week 11.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -78,7 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/private/art/Print sizes by theme.md",
+            "file": "docs/private/Teaching_Hold/Multiplatform Publishing/Week 11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/private/art/Print sizes by theme.md",
+            "file": "docs/private/Teaching_Hold/Multiplatform Publishing/Week 11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,6 +143,9 @@
   },
   "active": "38a14eeadfb9b57c",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 10.md",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/private/InDesign to the Fixed Layout Recipe eBook.md",
     "Lightplane.md",
     "docs/private/This is a private note.md",
     "docs/private/art/Galeri Lang.md",
@@ -174,10 +177,7 @@
     "docs/Teaching/DigitalProduct/Week 8.md",
     "docs/Teaching/Multiplatform Publishing/eBook readers.md",
     "docs/Teaching/Multiplatform Publishing/Week 9.md",
-    "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
     "docs/media/unebedimages.gif",
-    "daily/20-03-2023.md",
-    "daily/17-03-2023.md",
     "docs/media/imagetoobig.gif",
     "docs/media/id2rfl",
     "docs/Teaching/Multiplatform Publishing/week7extras",
