@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
+                "file": "docs/eBookProduction/InDesign to the Fixed Layout Recipe eBook.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
+                "file": "docs/eBookProduction/InDesign to the Fixed Layout Recipe eBook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
+                "file": "docs/eBookProduction/InDesign to the Fixed Layout Recipe eBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,16 +162,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d886f93a66ee3a62",
+  "active": "fb02a87f749656dd",
   "lastOpenFiles": [
-    "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
+    "docs/private/Perspectief/Introduction.md",
+    "docs/private/Perspectief/Perspectief details for EA.md",
+    "docs/private/Perspectief/Details.md",
     "docs/Teaching/Multiplatform Publishing/Week 11.md",
+    "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
     "docs/eBookProduction/Fixed Layout eBook.md",
     "docs/eBookProduction/Notes on Fixed Layout.md",
     "docs/eBookProduction/Enhancing an eBook with interactivity, multimedia and animation.md",
     "docs/Teaching/Multiplatform Publishing/Week 10.md",
-    "docs/private/InDesign to the Fixed Layout Recipe eBook.md",
+    "docs/eBookProduction/InDesign to the Fixed Layout Recipe eBook.md",
     "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
     "docs/private/art/Computer art.md",
     "docs/private/art/Three Segments.md",
@@ -189,15 +192,12 @@
     "docs/media/flatplanFBK.jpg",
     "docs/Teaching/DigitalProduct/Week 6.md",
     "docs/media/the-flatplan-of-prelim-pages.png",
-    "docs/Teaching/Multiplatform Publishing/Week 8.md",
     "docs/media/articlespanel.png",
     "docs/media/toc-in-the-pdf.png",
     "docs/media/setting-up-the-tabs.png",
     "docs/media/choosing-the-styles-for-the-toc.png",
     "docs/media/a-typical-toc.png",
     "docs/media/numbering-and-section-options.jpg",
-    "docs/Teaching/Multiplatform Publishing/eBook readers.md",
-    "docs/Teaching/Multiplatform Publishing/Week 9.md",
     "docs/media/Screenshot 2023-03-20 at 23.34.18.png",
     "docs/media/unebedimages.gif",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",
