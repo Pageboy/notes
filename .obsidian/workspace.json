@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 10.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0ec44dca985daf06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "946cfb6f62fa0598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Teaching/DigitalProduct/Week 11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
+                "file": "docs/Teaching/DigitalProduct/Week 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
+                "file": "docs/Teaching/DigitalProduct/Week 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,11 +188,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fb02a87f749656dd",
+  "active": "946cfb6f62fa0598",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 11.md",
+    "docs/Teaching/DigitalProduct/Week 11.md",
+    "docs/Teaching/DigitalProduct/Week 10.md",
+    "docs/Teaching/Multiplatform Publishing/Week 10.md",
+    "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
     "docs/Teaching/Multiplatform Publishing/Week 12.md",
     "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
-    "docs/Teaching/Multiplatform Publishing/Week 10.md",
     "docs/Web Sites with GitHub/How to build a blog website with GitHub and Netlify.md",
     "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
     "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
@@ -176,7 +206,6 @@
     "docs/Articles/The basics of HTML and CSS.md",
     "docs/Articles/Building the TOC in InDesign.md",
     "docs/eBookProduction/Editing inside the ePUB package.md",
-    "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
     "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
     "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
     "docs/Teaching/DigitalProduct/Week 4.md",
@@ -187,9 +216,6 @@
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/Teaching/Multiplatform Publishing/Week 4.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
-    "docs/Teaching/Multiplatform Publishing/Week 9.md",
-    "docs/Teaching/Multiplatform Publishing/Week 5.md",
-    "docs/Teaching/Multiplatform Publishing/Week 3.md",
     "docs/media/flatplanFBK.jpg",
     "docs/media/the-flatplan-of-prelim-pages.png",
     "docs/media/articlespanel.png",

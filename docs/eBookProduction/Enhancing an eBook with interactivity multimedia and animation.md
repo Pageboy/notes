@@ -353,5 +353,3 @@ Under the Window>Interactivity menu you will find the EPUB Interactivity Window.
 ![Interactivity preview](../media/image20.png)
 
 ![](../media/image21.png)
-
-#indesign #html #epubproduction 
