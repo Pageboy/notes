@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
+                "file": "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
+                "file": "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
+                "file": "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +162,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d886f93a66ee3a62",
+  "active": "fb02a87f749656dd",
   "lastOpenFiles": [
+    "docs/eBookProduction/Notes on Fixed Layout.md",
+    "docs/eBookProduction/Editing inside the ePUB package.md",
+    "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
     "docs/Teaching/Multiplatform Publishing/Week 11.md",
+    "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/From Vscode to Web.md",
     "docs/Articles/Building the TOC in InDesign.md",
@@ -174,11 +178,8 @@
     "docs/private/Perspectief/Introduction.md",
     "docs/private/Perspectief/Perspectief details for EA.md",
     "docs/private/Perspectief/Details.md",
-    "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
     "docs/eBookProduction/Fixed Layout eBook.md",
-    "docs/eBookProduction/Notes on Fixed Layout.md",
-    "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
     "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
     "docs/private/art/Computer art.md",
     "docs/private/art/Three Segments.md",
@@ -189,7 +190,6 @@
     "docs/private/art/Mirrors.md",
     "docs/private/art/Folding Pieces.md",
     "docs/private/art/Galleries to Visit.md",
-    "docs/Articles/Footnotes and other Diversions.md",
     "docs/media/flatplanFBK.jpg",
     "docs/media/the-flatplan-of-prelim-pages.png",
     "docs/media/articlespanel.png",

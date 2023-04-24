@@ -1,4 +1,14 @@
-**Just for Apple Books**
+---
+hide:
+ - navigation
+tags:
+ - ebookproduction
+ - indesign
+---
+> [!note] 
+> This is  just for Apple Books
+
+
 When we place audio on the page of a fixed-layout eBook, we cannot expect it to continue to play when the page is turned. Each page is a new XHTML document, so audio (or any media) will stop on leaving that page.
 
 If we want to get audio to continue to play as we turn the pages, we need to modify the markup inside the ePub package after we have exported from InDesign[^1].
