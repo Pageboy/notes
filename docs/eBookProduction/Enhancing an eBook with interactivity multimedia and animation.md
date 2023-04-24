@@ -48,7 +48,7 @@ It is worth pointing out that the video mentioned above will add 470MB to the eB
 ![Placing the video and viewing in the Media panel](../media/image1.png)
 We place video much as we do images. Once placed though, we can then view the settings through the media view panel. We can control the preview image and decide on how to display the controller.
 
-![Anchoring and text wrap for the video](../media/image2.jpg)
+![Anchoring and text wrap for the video](../media/image2.png)
 
 Perhaps a more appropriate use of video within an eBook, is to just show short clips in the appropriate context. The issue with reflowable eBooks, is that we cannot be certain the video will appear right near to the textual context.
 

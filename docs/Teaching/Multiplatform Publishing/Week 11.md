@@ -10,7 +10,7 @@ tags:
 ## Enhancing the fixed layout eBook
 >Note: Apple have a document which [covers a lot of this here](https://help.apple.com/itc/booksassetguide).
 
-[Enhancing an eBook with interactivity, multimedia and animation](../../../eBookProduction/Enhancing%20an%20eBook%20with%20interactivity,%20multimedia%20and%20animation.md)
+[Enhancing an eBook with interactivity multimedia and animation](../../eBookProduction/Enhancing%20an%20eBook%20with%20interactivity%20multimedia%20and%20animation.md)
 
 ## Audio
 - ambient

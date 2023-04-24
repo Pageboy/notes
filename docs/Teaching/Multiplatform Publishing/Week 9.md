@@ -88,7 +88,7 @@ Images will already be anchored (from the work we did before), but they do **not
 
 ## Enhancing the eBook
 We are looking at this in the next weeks but if you want to read ahead on this:
-[Enhancing an eBook with interactivity, multimedia and animation](../../eBookProduction/Enhancing%20an%20eBook%20with%20interactivity,%20multimedia%20and%20animation.md)
+[Enhancing an eBook with interactivity multimedia and animation](../../eBookProduction/Enhancing%20an%20eBook%20with%20interactivity%20multimedia%20and%20animation.md)
 
 ### Image Enlargement
 We can look at making an image enlarge by making use of buttons and layers.
