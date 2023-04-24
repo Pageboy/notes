@@ -74,14 +74,4 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - glightbox:
-      touchNavigation: true
-      loop: false
-      effect: zoom
-      slide_effect: slide
-      width: 100%
-      height: auto
-      zoomable: false
-      auto_caption: true
-      caption_position: bottom
   - callouts
