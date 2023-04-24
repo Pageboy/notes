@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 12.md",
+                "file": "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 12.md",
+                "file": "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 12.md",
+                "file": "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,8 +162,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d886f93a66ee3a62",
+  "active": "fb02a87f749656dd",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 12.md",
     "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
     "docs/Teaching/Multiplatform Publishing/Week 10.md",
     "docs/Web Sites with GitHub/How to build a blog website with GitHub and Netlify.md",
@@ -189,7 +190,6 @@
     "docs/Teaching/Multiplatform Publishing/Week 9.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Teaching/Multiplatform Publishing/Week 3.md",
-    "docs/eBookProduction/Fixed Layout eBook.md",
     "docs/media/flatplanFBK.jpg",
     "docs/media/the-flatplan-of-prelim-pages.png",
     "docs/media/articlespanel.png",

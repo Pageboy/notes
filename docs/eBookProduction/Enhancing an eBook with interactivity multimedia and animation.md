@@ -198,6 +198,8 @@ For the ePUB Fixed layout format, Apple have some proprietary extensions that ca
 
 [Booktrack](https://www.booktrack.com) have a really effective way to add ambient sound to an eBook, but this requires their own eReader software and the use of their service, however, when you experience their approach to this, you realise, that anything less sophisticated than this, simply won’t do!
 
+[see this more comprehensive explanation - Ambient Sound in a Fixed-Layout ePub](Ambient%20Sound%20in%20a%20Fixed-Layout%20ePub.md)
+
 ## Audio on Click or Touch
 
 When building a fixed-layout ePUB with InDesign, it is also possible to have audio play when an object is touched or clicked.
