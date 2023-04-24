@@ -142,10 +142,6 @@ It is very important that you build your site from the home page  `index.html`  
 > [!info] 
 > We did try to get this working (and it should work!)
 
-Here are the instructions again:
-
-[From Vscode to Web](From%20Vscode%20to%20Web.md)
-
 ### Method 2 by uploading to GitHub directly
 
 * Sign in to your GitHub account

@@ -10,7 +10,7 @@ tags:
 
 You should be able to process your changes in `vscode` and then `push` chnages back to GitHub.
 
-[From Vscode to Web](From%20Vscode%20to%20Web.md)
+[From Vscode to Web](../../private/Teaching_Hold/Multiplatform%20Publishing/From%20Vscode%20to%20Web.md)
 
 Now lets move back to InDesign
 
