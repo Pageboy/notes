@@ -40,7 +40,7 @@ In the above example you might say "Why can't we add class names to the `img` ta
 ## The Recipes site
 In the recipes site we have 3 types of page; the home page, the listing page and then a recipe page (repeated). There is one thing that makes those pages unique and that is the class name on the body tag.
 
-![](../../media/Screenshot%202023-02-17%20at%2023.20.56.png)
+![Here are the page types](../../media/Screenshot%202023-02-17%20at%2023.20.56.png)
 
 The body tag for the home page looks like this:
 
