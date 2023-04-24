@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,10 +162,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fb02a87f749656dd",
+  "active": "d886f93a66ee3a62",
   "lastOpenFiles": [
-    "docs/Teaching/Multiplatform Publishing/Week 10.md",
     "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
+    "docs/Teaching/Multiplatform Publishing/Week 10.md",
     "docs/Web Sites with GitHub/How to build a blog website with GitHub and Netlify.md",
     "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
     "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
