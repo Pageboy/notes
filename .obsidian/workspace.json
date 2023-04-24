@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Building the TOC in InDesign.md",
+                "file": "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Articles/Building the TOC in InDesign.md",
+                "file": "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Articles/Building the TOC in InDesign.md",
+                "file": "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,6 +164,7 @@
   },
   "active": "fb02a87f749656dd",
   "lastOpenFiles": [
+    "docs/Articles/Building the TOC in InDesign.md",
     "docs/Teaching/Multiplatform Publishing/Week 11.md",
     "docs/Teaching/Multiplatform Publishing/Week 10.md",
     "docs/Teaching/DigitalProduct/Week 4.md",
@@ -188,7 +189,6 @@
     "docs/private/art/Galleries to Visit.md",
     "docs/Articles/Footnotes and other Diversions.md",
     "docs/Teaching/DigitalProduct/Week 9.md",
-    "docs/Articles/Building the TOC in InDesign.md",
     "docs/Teaching/DigitalProduct/Week 7.md",
     "docs/media/flatplanFBK.jpg",
     "docs/media/the-flatplan-of-prelim-pages.png",

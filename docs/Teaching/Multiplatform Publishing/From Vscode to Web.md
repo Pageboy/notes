@@ -1,8 +1,13 @@
+---
+hide:
+ - navigation
+---
+
 Once you have created the repository from the template provided at https://github.com/publisha/shakespeareplay
 
 You may have already pasted in some changes to your home page and css.
 
-![](../../media/Pasted%20image%2020230210170206.png)
+![Screen from Github](../../media/Pasted%20image%2020230210170206.png)
 
 Now copy the repo link
 
@@ -23,7 +28,7 @@ Edit the site within the docs folder.... do NOT change the structure of these pa
 ## Providing your details
 You will need to give your github username and email to vscode by using the terminal (can be within vscode or in the Terminal application)
 
-```git
+```
 git config --global user.name "your username"
 git config --global user.email "email@address"
 ```
@@ -39,6 +44,7 @@ Write a short commit message and then use Sync Changes
 For that reason best to work offline and check results locally first.
 
 ## Want to work at home on this?
+©
 You will need vscode. Free from here: https://code.visualstudio.com/download
 Add the LiveServer extension, so you easily view your changes on the local computer.
 You will also need to add `Git` to your computer.
