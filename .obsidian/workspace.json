@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 5.md",
+                "file": "docs/eBookProduction/Enhancing an eBook with interactivity, multimedia and animation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 5.md",
+                "file": "docs/eBookProduction/Enhancing an eBook with interactivity, multimedia and animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 5.md",
+                "file": "docs/eBookProduction/Enhancing an eBook with interactivity, multimedia and animation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +164,10 @@
   },
   "active": "fb02a87f749656dd",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 11.md",
+    "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/From Vscode to Web.md",
     "docs/Articles/Building the TOC in InDesign.md",
-    "docs/Teaching/Multiplatform Publishing/Week 11.md",
     "docs/Teaching/Multiplatform Publishing/Week 10.md",
     "docs/Teaching/DigitalProduct/Week 4.md",
     "docs/eBookProduction/InDesign to the Fixed Layout Recipe eBook.md",
@@ -189,7 +190,6 @@
     "docs/private/art/Folding Pieces.md",
     "docs/private/art/Galleries to Visit.md",
     "docs/Articles/Footnotes and other Diversions.md",
-    "docs/Teaching/DigitalProduct/Week 9.md",
     "docs/media/flatplanFBK.jpg",
     "docs/media/the-flatplan-of-prelim-pages.png",
     "docs/media/articlespanel.png",
