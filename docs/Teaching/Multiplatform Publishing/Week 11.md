@@ -30,10 +30,13 @@ Look for player buttons on Google - images.
 ### Ambient sound
 By default, audio will stop when the page is changed, however, for Apple Books it is possible to use special code to get the sound to continue playing. _This does involve editing the HTML inside the ePub package_
 
-[Ambient Sound in a Fixed-Layout ePub](../../../eBookProduction/Ambient%20Sound%20in%20a%20Fixed-Layout%20ePub.md)
+[Ambient Sound in a Fixed-Layout ePub](../../eBookProduction/Ambient%20Sound%20in%20a%20Fixed-Layout%20ePub.md)
+
 
 ### Read Aloud
-The fixed layout eBook does offer support for a _read aloud_ feature. This is quite a complex process through - [you can read about the technique here](https://www.publisha.org/pages/enhanced_eBook/#read-aloud).
+The fixed layout eBook does offer support for a _read aloud_ feature. This is quite a complex process through:
+
+[Enhancing an eBook with interactivity multimedia and animation](../../eBookProduction/Enhancing%20an%20eBook%20with%20interactivity%20multimedia%20and%20animation.md-#readaloud)
 
 ## Video
 Video in the form of _mp4_ can be added to a page. You can use the default controller and this may look different on different reading systems.
