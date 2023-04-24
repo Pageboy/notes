@@ -44,9 +44,7 @@ This is perfectly valid but we need this:
 
 You will want to hide the audio somewhere on the InDesign page, by putting it behind an image.
 
-I do hope the screencast explains this.
-
-https://youtu.be/tdZT2DkI8Rk
+[I do hope the screencast here on YouTube explains this](https://youtu.be/tdZT2DkI8Rk)
 
 >**Note**: Apple Books on the MAC has a few anomolies; the soundtrack switch does not always display and the audio icon in the menu bar shows even if there id no audio on that page.
 

@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -164,6 +164,8 @@
   },
   "active": "fb02a87f749656dd",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 10.md",
+    "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
     "docs/Web Sites with GitHub/How to build a blog website with GitHub and Netlify.md",
     "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
     "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
@@ -188,8 +190,6 @@
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Teaching/Multiplatform Publishing/Week 3.md",
     "docs/eBookProduction/Fixed Layout eBook.md",
-    "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
-    "docs/Teaching/Multiplatform Publishing/Week 11.md",
     "docs/media/flatplanFBK.jpg",
     "docs/media/the-flatplan-of-prelim-pages.png",
     "docs/media/articlespanel.png",
