@@ -29,19 +29,6 @@ Rather just have an image popup over the smaller view, large versions can arrive
 
 if the image that is to be enlarged does not cover the screen (if it is portrait), then we can extend the graphics area by using _effects_ and then adding an _outer glow_. This will then cover over the other items on the screen but also extend the active button area so as to make the object hide on click/touch.
 
-### Image sequences / slide show
-We need to first create a range of images (preferably the same size), then an empty frame that will have a fitting setting that will fit proportionally. Then  duplicate the number of times needed. Then place multiple objects...
-
-![Sequence](../../../media/Screenshot_2022-03-29_at_19.19.41.png)
-
-We can create a _multi-state object_ and then cycle through the images using an overlaid button.
-
-![Multi-State](../../../media/Screenshot_2022-03-29_at_19.41.30.png)
-
-Here is a video on YouTube that I have made covering all of this:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Etpj56AnfK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Coming soon
 ### Audio
 

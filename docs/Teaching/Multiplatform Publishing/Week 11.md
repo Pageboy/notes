@@ -84,3 +84,16 @@ You can install this for yourself on the MAC in your user application folder.
 [https://tuberipper.com](https://tuberipper.com)
 
 You can edit the video with the tools on the MAC - iMovie or Premiere.
+
+### Image sequences / slide show
+We need to first create a range of images (preferably the same size), then an empty frame that will have a fitting setting that will fit proportionally. Then  duplicate the number of times needed. Then place multiple objects...
+
+![Sequence](../../../media/Screenshot_2022-03-29_at_19.19.41.png)
+
+We can create a _multi-state object_ and then cycle through the images using an overlaid button.
+
+![Multi-State](../../../media/Screenshot_2022-03-29_at_19.41.30.png)
+
+Watch this screen recording:
+
+![Portraits](../../media/portraits.gif)

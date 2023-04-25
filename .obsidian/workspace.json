@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 11.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 11.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,12 +188,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "946cfb6f62fa0598",
+  "active": "0ec44dca985daf06",
   "lastOpenFiles": [
-    "docs/Teaching/Multiplatform Publishing/Week 11.md",
     "docs/Teaching/DigitalProduct/Week 11.md",
-    "docs/Teaching/DigitalProduct/Week 10.md",
+    "docs/Teaching/Multiplatform Publishing/Week 11.md",
+    "docs/media/portraits.gif",
     "docs/Teaching/Multiplatform Publishing/Week 10.md",
+    "docs/Teaching/DigitalProduct/Week 10.md",
+    "docs/Teaching/DigitalProduct/Week 8.md",
+    "docs/media/multistateobject.gif",
+    "docs/Teaching/DigitalProduct/Week 9.md",
     "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
     "docs/Teaching/Multiplatform Publishing/Week 12.md",
     "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
@@ -209,13 +213,10 @@
     "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
     "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
     "docs/Teaching/DigitalProduct/Week 4.md",
-    "docs/Teaching/DigitalProduct/Week 9.md",
-    "docs/Teaching/DigitalProduct/Week 8.md",
     "docs/Teaching/DigitalProduct/Week 7.md",
     "docs/Teaching/Multiplatform Publishing/Week 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/Teaching/Multiplatform Publishing/Week 4.md",
-    "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/media/flatplanFBK.jpg",
     "docs/media/the-flatplan-of-prelim-pages.png",
     "docs/media/articlespanel.png",
@@ -224,8 +225,6 @@
     "docs/media/choosing-the-styles-for-the-toc.png",
     "docs/media/a-typical-toc.png",
     "docs/media/numbering-and-section-options.jpg",
-    "docs/media/Screenshot 2023-03-20 at 23.34.18.png",
-    "docs/media/unebedimages.gif",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",
     "docs/media/id2fxlePub",
     "docs/media/id2rfl",

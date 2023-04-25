@@ -35,8 +35,6 @@ By default, audio will stop when the page is changed, however, for Apple Books i
 ## Video
 Video in the form of _mp4_ can be added to a page. You can use the default controller and this may look different on different reading systems.
 
-
-
 ### Getting Video
 
 Video needs to be hard wired; that is you can't include a link or an iframe from YouTube. You will need to convert from YouTube to an __mp4__ file. 
@@ -57,3 +55,24 @@ You can install this for yourself on the MAC in your user application folder.
 [https://tuberipper.com](https://tuberipper.com)
 
 You can edit the video with the tools on the MAC - iMovie or Premiere.
+
+## Slide Show
+
+You can make a slide show from a _multi-state_ object.
+
+### Image sequences / slide show
+We need to first create a range of images (preferably the same size), then an empty frame that will have a fitting setting that will fit proportionally. Then  duplicate the number of times needed. Then place multiple objects...
+
+![Sequence](../../../media/Screenshot_2022-03-29_at_19.19.41.png)
+
+We can create a _multi-state object_ and then cycle through the images using an overlaid button.
+
+![Multi-State](../../../media/Screenshot_2022-03-29_at_19.41.30.png)
+
+### You need
+A number of images all in the same orientation (and the same size if possible)
+
+Watch this screen recording:
+
+![This shows how to add a slide show](../../media/multistateobject.gif)
+
