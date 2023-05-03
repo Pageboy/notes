@@ -81,6 +81,8 @@ You can install this for yourself on the MAC in your user application folder.
 
 [https://ytb.rip/3/](https://ytb.rip/3/)
 
+I have found this one to be reliable at the moment:
+
 [https://tuberipper.com](https://tuberipper.com)
 
 You can edit the video with the tools on the MAC - iMovie or Premiere.
