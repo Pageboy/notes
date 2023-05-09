@@ -76,3 +76,13 @@ Watch this screen recording:
 
 ![This shows how to add a slide show](../../media/multistateobject.gif)
 
+## Package the InDesign files
+
+As well as the ePub file, we need the package from InDesign.
+
+> [!check] 
+> Make sure there are no missing files before you do this. 
+
+Can't remember how to do this? Here is a quick run through:
+
+![How to package your files](../../media/package.gif)

@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
+                "file": "docs/Teaching/DigitalProduct/Week 11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
+                "file": "docs/Teaching/DigitalProduct/Week 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
+                "file": "docs/Teaching/DigitalProduct/Week 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,10 +224,11 @@
   },
   "active": "4c28968ca087b008",
   "lastOpenFiles": [
+    "docs/media/package.gif",
+    "docs/Teaching/Multiplatform Publishing/Week 11.md",
     "docs/private/art/archive",
     "docs/private/art/Print sizes by theme.md",
     "docs/Teaching/DigitalProduct/Week 11.md",
-    "docs/Teaching/Multiplatform Publishing/Week 11.md",
     "docs/media/portraits.gif",
     "docs/Teaching/Multiplatform Publishing/Week 10.md",
     "docs/Teaching/DigitalProduct/Week 10.md",
