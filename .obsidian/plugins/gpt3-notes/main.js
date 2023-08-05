@@ -175,6 +175,8 @@ var require_sse = __commonJS({
       };
       this.stream = function() {
         this._setReadyState(this.CONNECTING);
+        this.progress = 0;
+        this.chunk = "";
         this.xhr = new XMLHttpRequest();
         this.xhr.addEventListener("progress", this._onStreamProgress.bind(this));
         this.xhr.addEventListener("load", this._onStreamLoaded.bind(this));
@@ -212,60 +214,25 @@ __export(main_exports, {
 module.exports = __toCommonJS(main_exports);
 
 // src/GPT3.ts
-var import_obsidian = require("obsidian");
+var import_obsidian2 = require("obsidian");
 var import_sse = __toESM(require_sse());
-var GPT3Model = class {
-  constructor() {
-  }
-  static generate(token, params, retry) {
-    if (!retry) {
-      retry = 0;
-    }
-    let data = {
-      model: params.model,
-      prompt: params.prompt,
-      temperature: params.temperature,
-      max_tokens: params.tokens,
-      stream: true
-    };
-    try {
-      const stream = new import_sse.SSE("https://api.openai.com/v1/completions", {
-        headers: {
-          Authorization: `Bearer ${token}`,
-          "Content-Type": "application/json"
-        },
-        method: "POST",
-        payload: JSON.stringify(data)
-      });
-      return stream;
-    } catch (e) {
-      if (retry < 5) {
-        return this.generate(token, params, retry + 1);
-      }
-      if (e.status === 429) {
-        new import_obsidian.Notice("GPT-3 Rate limit error: please try again soon.");
-      } else if (e.status === 401) {
-        new import_obsidian.Notice("Invalid token. Please change your token in the plugin settings.");
-      } else {
-        new import_obsidian.Notice("An error occured.");
-      }
-      return false;
-    }
-  }
-};
-
-// src/PluginModal.ts
-var import_obsidian3 = require("obsidian");
 
 // src/SettingsView.ts
-var import_obsidian2 = require("obsidian");
-var models = [
-  "text-davinci-003",
-  "text-curie-001",
-  "text-babbage-001",
-  "text-ada-001"
-];
-var SettingsView = class extends import_obsidian2.PluginSettingTab {
+var import_obsidian = require("obsidian");
+var models = {
+  "text-davinci-003": "text",
+  "text-curie-001": "text",
+  "text-babbage-001": "text",
+  "text-ada-001": "text",
+  "gpt-3.5-turbo": "chat",
+  "gpt-3.5-turbo-0301": "chat",
+  "gpt-4": "chat",
+  "gpt-4-0613": "chat",
+  "gpt-4-32k": "chat",
+  "gpt-4-32k-0613	": "chat"
+};
+var modelsKeys = Object.keys(models);
+var SettingsView = class extends import_obsidian.PluginSettingTab {
   constructor(plugin) {
     super(plugin.app, plugin);
     this.plugin = plugin;
@@ -274,7 +241,7 @@ var SettingsView = class extends import_obsidian2.PluginSettingTab {
     const { containerEl } = this;
     containerEl.empty();
     containerEl.createEl("h1", { text: "GPT-3 Settings" });
-    new import_obsidian2.Setting(containerEl).setName("OpenAI API Key").setDesc("The token generated in your OpenAI dashboard.").addText((text) => {
+    new import_obsidian.Setting(containerEl).setName("OpenAI API Key").setDesc("The token generated in your OpenAI dashboard.").addText((text) => {
       text.setPlaceholder("Token").setValue(this.plugin.settings.token || "").onChange((change) => {
         this.plugin.settings.token = change;
         this.plugin.saveSettings();
@@ -285,26 +252,26 @@ var SettingsView = class extends import_obsidian2.PluginSettingTab {
         window.open("https://beta.openai.com/account/api-keys");
       });
     });
-    new import_obsidian2.Setting(containerEl).setName("OpenAI Model").setDesc("The type of GPT-3 model to use.").addDropdown((dropdown) => {
-      for (let model in models) {
-        dropdown.addOption(models[model], models[model]);
+    new import_obsidian.Setting(containerEl).setName("OpenAI Model").setDesc("The type of GPT-3 model to use.").addDropdown((dropdown) => {
+      for (let model in modelsKeys) {
+        dropdown.addOption(modelsKeys[model], modelsKeys[model]);
       }
       dropdown.onChange((change) => {
         this.plugin.settings.model = change;
       });
       dropdown.setValue(this.plugin.settings.model);
     });
-    new import_obsidian2.Setting(containerEl).setName("Delete history").setDesc("This will purge your prompt history").addButton((button) => {
+    new import_obsidian.Setting(containerEl).setName("Delete history").setDesc("This will purge your prompt history").addButton((button) => {
       button.setButtonText("Delete History");
       button.onClick((evt) => {
         try {
           this.plugin.history_handler.reset();
-          new import_obsidian2.Notice("History reset");
+          new import_obsidian.Notice("History reset");
         } catch (e) {
         }
       });
     });
-    new import_obsidian2.Setting(containerEl).setName("Custom Prefixes").setDesc("Set your custom prefixes, each on a separate line.").addTextArea((textArea) => {
+    new import_obsidian.Setting(containerEl).setName("Custom Prefixes").setDesc("Set your custom prefixes, each on a separate line.").addTextArea((textArea) => {
       textArea.inputEl.className = "gpt_settings-text-area";
       textArea.setPlaceholder("Prefixes");
       let text = "";
@@ -320,7 +287,7 @@ var SettingsView = class extends import_obsidian2.PluginSettingTab {
       });
       textArea.setValue(text);
     });
-    new import_obsidian2.Setting(containerEl).setName("Custom Postfixes").setDesc("Set your custom postfixes, each on a separate line.").addTextArea((textArea) => {
+    new import_obsidian.Setting(containerEl).setName("Custom Postfixes").setDesc("Set your custom postfixes, each on a separate line.").addTextArea((textArea) => {
       textArea.inputEl.className = "gpt_settings-text-area";
       textArea.setPlaceholder("Postfixes");
       let text = "";
@@ -336,13 +303,13 @@ var SettingsView = class extends import_obsidian2.PluginSettingTab {
       });
       textArea.setValue(text);
     });
-    new import_obsidian2.Setting(containerEl).setName("Reset Defaults").setDesc("Reset to plugin default settings.").addButton((button) => {
+    new import_obsidian.Setting(containerEl).setName("Reset Defaults").setDesc("Reset to plugin default settings.").addButton((button) => {
       button.setButtonText("Reset to Defaults");
       button.onClick((evt) => {
         try {
           this.plugin.settings = DEFAULT_SETTINGS;
           this.plugin.saveSettings();
-          new import_obsidian2.Notice("Default settings restored. You may need to reload the settings page.");
+          new import_obsidian.Notice("Default settings restored. You may need to reload the settings page.");
         } catch (e) {
         }
       });
@@ -355,11 +322,77 @@ var SettingsView = class extends import_obsidian2.PluginSettingTab {
   }
 };
 
+// src/GPT3.ts
+var GPT3Model = class {
+  constructor() {
+  }
+  static generate(token, params, retry) {
+    if (!retry) {
+      retry = 0;
+    }
+    const modelType = models[params.model];
+    const data = {
+      ...this.paramsToModelParams(params, modelType),
+      stream: true
+    };
+    try {
+      const stream = new import_sse.SSE(this.endpoints[modelType], {
+        headers: {
+          Authorization: `Bearer ${token}`,
+          "Content-Type": "application/json"
+        },
+        method: "POST",
+        payload: JSON.stringify(data)
+      });
+      return stream;
+    } catch (e) {
+      if (retry < 5) {
+        return this.generate(token, params, retry + 1);
+      }
+      if (e.status === 429) {
+        new import_obsidian2.Notice("GPT-3 Rate limit error: please try again soon.");
+      } else if (e.status === 401) {
+        new import_obsidian2.Notice("Invalid token. Please change your token in the plugin settings.");
+      } else {
+        new import_obsidian2.Notice("An error occured.");
+      }
+      return false;
+    }
+  }
+  static paramsToModelParams(params, modelType) {
+    if (modelType === "text") {
+      return {
+        prompt: params.prompt,
+        temperature: params.temperature,
+        max_tokens: params.tokens,
+        model: params.model
+      };
+    } else if (modelType === "chat") {
+      return {
+        messages: [
+          {
+            role: "user",
+            content: params.prompt
+          }
+        ],
+        temperature: params.temperature,
+        model: params.model
+      };
+    }
+  }
+};
+GPT3Model.endpoints = {
+  text: "https://api.openai.com/v1/completions",
+  chat: "https://api.openai.com/v1/chat/completions"
+};
+
 // src/PluginModal.ts
+var import_obsidian3 = require("obsidian");
 var PluginModal = class extends import_obsidian3.Modal {
-  constructor(plugin) {
+  constructor(plugin, settings = {}) {
     super(plugin.app);
     this.plugin = plugin;
+    this.settings = settings;
     this.replacementTokens = {
       selection: (match, prompt) => {
         const view = this.plugin.app.workspace.getActiveViewOfType(import_obsidian3.MarkdownView);
@@ -408,6 +441,11 @@ var PluginModal = class extends import_obsidian3.Modal {
     this.promptField = new import_obsidian3.TextAreaComponent(container);
     this.promptField.inputEl.className = "gpt_prompt-field";
     this.promptField.setPlaceholder("Enter your prompt...");
+    if (this.settings.loadLastItem) {
+      const lastHistoryItemIndex = this.plugin.settings.promptHistory.length - 1;
+      const lastItem = this.plugin.settings.promptHistory[lastHistoryItemIndex];
+      this.useHistoryItem(lastItem);
+    }
     this.promptField.onChange((change) => {
       this.prompt = change;
     });
@@ -434,13 +472,17 @@ var PluginModal = class extends import_obsidian3.Modal {
         this.plugin.saveSettings();
       });
     });
+    if (models[this.plugin.settings.model] === "chat") {
+      tokenSetting.settingEl.style.display = "none";
+    }
     new import_obsidian3.Setting(container).setName("OpenAI Model").setDesc("The type of GPT-3 model to use.").addDropdown((dropdown) => {
-      for (let model in models) {
-        dropdown.addOption(models[model], models[model]);
+      for (let model in modelsKeys) {
+        dropdown.addOption(modelsKeys[model], modelsKeys[model]);
       }
       dropdown.onChange((change) => {
         this.plugin.settings.model = change;
         this.plugin.saveSettings();
+        tokenSetting.settingEl.style.display = models[this.plugin.settings.model] === "chat" ? "none" : "";
       });
       dropdown.setValue(this.plugin.settings.model);
     });
@@ -601,15 +643,15 @@ var PreviewModal = class extends import_obsidian4.Modal {
     this.stream = stream;
   }
   syncPreview() {
-    this.previewTextArea.setValue(this.previewText.substring(2, this.previewText.length));
+    this.previewTextArea.setValue(this.previewText);
   }
   loadStream() {
     this.stream.addEventListener("message", (e) => {
       try {
-        let data = JSON.parse(e.data);
-        let choice = data.choices[0];
-        let text = choice.text;
-        this.previewText += text;
+        const text = this.parseTextResponse(e);
+        if (text) {
+          this.previewText += text;
+        }
         this.syncPreview();
       } catch (e2) {
         return;
@@ -618,7 +660,28 @@ var PreviewModal = class extends import_obsidian4.Modal {
     this.stream.addEventListener("error", (e) => {
       new import_obsidian4.Notice("OpenAI returned an error. Try modifying your paramters and try again.");
     });
+    this.stream.addEventListener("readystatechange", (e) => {
+      if (e.readyState === this.stream.CLOSED) {
+        this.regenerateButton.buttonEl.style.backgroundColor = "#218c74";
+        this.regenerateButton.setButtonText("Regenerate");
+      }
+      if (e.readyState === this.stream.OPEN) {
+        this.regenerateButton.buttonEl.style.backgroundColor = "#b33939";
+        this.regenerateButton.setButtonText("Stop");
+      }
+    });
     this.stream.stream();
+  }
+  parseTextResponse(e) {
+    const modelType = models[this.modelParams.model];
+    const data = JSON.parse(e.data);
+    const choice = data.choices[0];
+    if (modelType === "text") {
+      return choice.text;
+    } else if (modelType === "chat") {
+      return choice.delta.content;
+    }
+    return "";
   }
   onOpen() {
     const { contentEl } = this;
@@ -636,12 +699,25 @@ var PreviewModal = class extends import_obsidian4.Modal {
     buttonContainer.className = "gpt_preview-button-container";
     const cancelButton = new import_obsidian4.ButtonComponent(buttonContainer);
     cancelButton.buttonEl.style.backgroundColor = "#b33939";
-    cancelButton.setButtonText("Cancel").onClick(() => {
+    cancelButton.buttonEl.style.marginRight = "auto";
+    cancelButton.setButtonText("Go Back").onClick(() => {
       this.close();
+      new PluginModal(this.plugin, { loadLastItem: true }).open();
     });
-    const generateButton = new import_obsidian4.ButtonComponent(buttonContainer);
-    generateButton.buttonEl.style.backgroundColor = "#218c74";
-    generateButton.setButtonText("Add to document").onClick(() => {
+    this.regenerateButton = new import_obsidian4.ButtonComponent(buttonContainer);
+    this.regenerateButton.buttonEl.style.backgroundColor = "#218c74";
+    this.regenerateButton.setButtonText("Regenerate").onClick(() => {
+      this.handleRegenerateClick().then((response) => {
+        if (response) {
+          this.previewText = "";
+          this.syncPreview();
+          this.stream.stream();
+        }
+      });
+    });
+    const addToDocumentButton = new import_obsidian4.ButtonComponent(buttonContainer);
+    addToDocumentButton.buttonEl.style.backgroundColor = "#218c74";
+    addToDocumentButton.setButtonText("Add to document").onClick(() => {
       const view = this.plugin.app.workspace.getActiveViewOfType(import_obsidian4.MarkdownView);
       if (view) {
         this.close();
@@ -652,6 +728,22 @@ var PreviewModal = class extends import_obsidian4.Modal {
     this.loadStream();
   }
   onClose() {
+  }
+  async handleRegenerateClick() {
+    if (this.stream.readyState === this.stream.OPEN) {
+      this.stream.close();
+      return;
+    }
+    this.regenerateButton.setButtonText("Regenerating...");
+    const lastHistoryItemIndex = this.plugin.settings.promptHistory.length - 1;
+    const lastHistoryItem = this.plugin.settings.promptHistory[lastHistoryItemIndex];
+    const params = {
+      ...lastHistoryItem,
+      model: this.plugin.settings.model
+    };
+    const token = this.plugin.settings.token;
+    const response = GPT3Model.generate(token, params);
+    return response;
   }
 };
 
@@ -680,7 +772,7 @@ var prompts_default = {
 var DEFAULT_SETTINGS = {
   appName: "GP3_NOTES",
   token: null,
-  model: models[0],
+  model: modelsKeys[0],
   tokens: 300,
   temperature: 5,
   promptHistory: [],

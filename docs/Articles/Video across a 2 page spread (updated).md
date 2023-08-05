@@ -99,17 +99,12 @@ I suppose you might just as well delete all of the last `<div>` or use HTML comm
 When exporting from InDesign, add the following script
 
 ```javascript
-// run this once the page has loaded
 window.onload = function(){
-  // find out if there is more than one video over the spread
  videos = document.getElementsByTagName("video").length;
  if (videos > 1) {
    var css = document.createElement("style");
    css.type = "text/css";
-   // hide the second main div of the body
-   // make the width of the first main div the same as the viewport
    css.innerHTML = "body > div:nth-child(2) {display:none;} body > div:nth-child(1) {width:732px !important;}"
-   // write this css to the head of the page
    document.body.appendChild(css);
  }
  };
