@@ -46,6 +46,8 @@ You will want to hide the audio somewhere on the InDesign page, by putting it be
 
 [I do hope the screencast here on YouTube explains this](https://youtu.be/tdZT2DkI8Rk)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tdZT2DkI8Rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 >**Note**: Apple Books on the MAC has a few anomolies; the soundtrack switch does not always display and the audio icon in the menu bar shows even if there id no audio on that page.
 
 [^1]: Always remember that once we edit the HTML inside the book package then we lose the ability to go back to InDesign for further edits

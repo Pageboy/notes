@@ -105,79 +105,44 @@ Audio can be added in much the same way as the video, but once again we need to 
 
 [![Audio will always stop when we turn the page in the fixed-layout ePub](/images/2017/03/id2fixed_recipes/image6.png)](/images/2017/03/id2fixed_recipes/image6.png)
 
-  
-
 When you create the fixed-layout ePUB from InDesign then the page content will be exactly as you see it in InDesign. With audio you will need to make the audio object fill the frame that you have stretched across the page
 
-  
 
 We can add audio or video as we can for the reflowable ePUB, but both audio and video will stop playing on page turn on both the MAC and iPad.
 
-  
 
 ### Ambient Sound
 
-  
-
 It is possible to add audio that plays automatically when a page is opened. The audio will play as long as one XHTML file is open. In other words, you can have a different ambient sound for each chapter in a reflowable ePub. In our example Shakespeare play we can add some ambient audio to the start of the Scene. If you plan to create a reflowable eBook then this sound will play for the whole of this scene by placing the audio once. With a fixed-layout eBook the audio will need to be on each page.
-
-  
 
 To make the ambient sound user friendly there really needs to be some way to turn this off, if the reader prefers not to hear it.
 
-  
-
 For the ePUB Fixed layout format, Apple have some proprietary extensions that can handle ambient sound in the ePUB, and if you wish to consider this, then please refer to [Apple’s Asset Guide for eBook production][7b08546e].
-
-  
 
 [7b08546e]: https://help.apple.com/itc/booksassetguide/en.lproj/static.html "Essential reading"
 
-  
-
 ### Audio on Click or Touch
-
-  
 
 When build a fixed-layout ePUB with InDesign, it is also possible to have audio play when an object is touched or clicked.
 
-  
-
 The audio object must first be placed on a page, and you will need to hide it by covering with the object itself or another opaque box. If the audio object is off the page (on the pasteboard), then it will not export.
-
-  
 
 Remember that the audio will stop when the user moves to another page.
 
-  
-
 ## Animation
-
-  
 
 InDesign does give you some basic controls over the way objects are dynamically drawn on the screen, and by selecting an object and then the Animation panel (under Window>Interactive), you can invoke an event on page load. Here we see that an image is set to drop down from the top of the page when that page is reached.
 
-  
-
 [![Here we are setting this image to drop down when the page opens](/images/2017/03/id2fixed_recipes/image2.jpeg)](/images/2017/03/id2fixed_recipes/image2.jpeg)
-
-  
 
 >**Note**. Animation is not supported on anchored objects, so you will need to release any previously anchored images.
 
-  
 
 The fixed-layout ePub does not automatically provide image enlargement, but you can make this happen by using a larger version of the image and making this animate to the centre of the screen, invoked by making the smaller version into a button.
 
-  
-
 ### Image Enlargement on Click (or touch)
 
-  
-
 The image itself must large enough to be viewed full screen. If the image is linked (and not embedded) you can copy and paste to a new layer. The advantage of using another layer, is that you can hide this when you need to get access to the under lying layers. Here are the steps:
-
-  
 
 * Make a new layer above the current one
 

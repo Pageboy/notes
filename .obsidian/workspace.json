@@ -4,89 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "beabcba06b6ef699",
+        "id": "4e2e96a50004414f",
         "type": "tabs",
         "children": [
           {
-            "id": "f38ba814de48c8be",
+            "id": "b9b7f47b29b380b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
+                "file": "docs/eBookProduction/InDesign to the Fixed Layout Recipe eBook.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "fb02a87f749656dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0ec44dca985daf06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e355d85bb3a12c35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4c28968ca087b008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 11.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "946cfb6f62fa0598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 11.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 11.md",
+                "file": "docs/eBookProduction/InDesign to the Fixed Layout Recipe eBook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/DigitalProduct/Week 11.md",
+                "file": "docs/eBookProduction/InDesign to the Fixed Layout Recipe eBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,13 +156,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4c28968ca087b008",
+  "active": "b9b7f47b29b380b3",
   "lastOpenFiles": [
+    "docs/Articles/Video across a 2 page spread (updated).md",
+    "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
+    "docs/Articles/Building the TOC in InDesign.md",
+    "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
+    "docs/eBookProduction/Attention to Detail in Typography with InDesign.md",
+    "docs/private/Teaching_Hold/Digital Workflow/Week 2.md",
+    "docs/private/Teaching_Hold/Digital Workflow/Week 1.md",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/private/CV.md",
+    "docs/Teaching/DigitalProduct/Week 11.md",
+    "docs/private/art/Image sizes for export.md",
+    "docs/private/art/Galleries to Visit.md",
+    "docs/private/art/Artist Influencers.md",
     "docs/media/package.gif",
     "docs/Teaching/Multiplatform Publishing/Week 11.md",
     "docs/private/art/archive",
-    "docs/private/art/Print sizes by theme.md",
-    "docs/Teaching/DigitalProduct/Week 11.md",
     "docs/media/portraits.gif",
     "docs/Teaching/Multiplatform Publishing/Week 10.md",
     "docs/Teaching/DigitalProduct/Week 10.md",
@@ -237,22 +182,12 @@
     "docs/Teaching/DigitalProduct/Week 9.md",
     "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
     "docs/Teaching/Multiplatform Publishing/Week 12.md",
-    "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
     "docs/Web Sites with GitHub/How to build a blog website with GitHub and Netlify.md",
     "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
     "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
-    "docs/eBookProduction/Attention to Detail in Typography with InDesign.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
-    "docs/Articles/Video across a 2 page spread (updated).md",
     "docs/Articles/The basics of HTML and CSS.md",
-    "docs/Articles/Building the TOC in InDesign.md",
     "docs/eBookProduction/Editing inside the ePUB package.md",
-    "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
-    "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
-    "docs/Teaching/DigitalProduct/Week 4.md",
-    "docs/Teaching/DigitalProduct/Week 7.md",
-    "docs/Teaching/Multiplatform Publishing/Week 2.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/media/flatplanFBK.jpg",
     "docs/media/the-flatplan-of-prelim-pages.png",
     "docs/media/articlespanel.png",
@@ -260,7 +195,6 @@
     "docs/media/setting-up-the-tabs.png",
     "docs/media/choosing-the-styles-for-the-toc.png",
     "docs/media/a-typical-toc.png",
-    "docs/media/numbering-and-section-options.jpg",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",
     "docs/media/id2fxlePub",
     "docs/media/id2rfl",
