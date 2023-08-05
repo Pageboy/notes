@@ -98,6 +98,7 @@ I suppose you might just as well delete all of the last `<div>` or use HTML comm
 
 When exporting from InDesign, add the following script
 
+
 ```javascript
 window.onload = function(){
  videos = document.getElementsByTagName("video").length;
@@ -108,7 +109,7 @@ window.onload = function(){
    document.body.appendChild(css);
  }
  };
- ```
+```
 
 
 [^1]: It may be possible to use javascript to change the markup on the page dynamically and thereby allowing us to change this even if we have made further edits in InDesign. Let me know if you find a way. **Done**

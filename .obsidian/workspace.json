@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
+                "file": "docs/Articles/Video across a 2 page spread (updated).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
+                "file": "docs/Articles/Video across a 2 page spread (updated).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
+                "file": "docs/Articles/Video across a 2 page spread (updated).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,6 +159,8 @@
   },
   "active": "b9b7f47b29b380b3",
   "lastOpenFiles": [
+    "docs/Teaching/DigitalProduct/assignment1.canvas",
+    "docs/private/art/Print sizes by theme.md",
     "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/Articles/Video across a 2 page spread (updated).md",
     "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
@@ -168,7 +171,6 @@
     "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
     "docs/eBookProduction/Attention to Detail in Typography with InDesign.md",
     "docs/Teaching/Digital Workflow/Week 2.md",
-    "docs/private/art/Print sizes by theme.md",
     "docs/Teaching/DigitalProduct/Week 11.md",
     "docs/private/art/Image sizes for export.md",
     "docs/private/art/Galleries to Visit.md",
@@ -187,7 +189,6 @@
     "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
     "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
-    "docs/Articles/The basics of HTML and CSS.md",
     "docs/media/flatplanFBK.jpg",
     "docs/media/the-flatplan-of-prelim-pages.png",
     "docs/media/articlespanel.png",
@@ -198,7 +199,6 @@
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",
     "docs/media/id2fxlePub",
     "docs/media/id2rfl",
-    "docs/Teaching/DigitalProduct/assignment1.canvas",
     "docs/media/F2A4E4D3-4F85-44A4-8385-24614590DF1C_1_201_a.heic",
     "docs/private/Presentations"
   ]
