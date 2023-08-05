@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Video across a 2 page spread (updated).md",
-                "mode": "preview",
+                "file": "docs/private/art/Print sizes by theme.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Articles/Video across a 2 page spread (updated).md",
+                "file": "docs/private/art/Print sizes by theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Articles/Video across a 2 page spread (updated).md",
+                "file": "docs/private/art/Print sizes by theme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,16 +158,16 @@
   },
   "active": "b9b7f47b29b380b3",
   "lastOpenFiles": [
+    "docs/Teaching/Digital Workflow/Week 1.md",
+    "docs/Articles/Video across a 2 page spread (updated).md",
     "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
     "docs/private/CV.md",
     "docs/private/Teaching_Hold/InDesign to the Fixed Layout Recipe eBook.md",
-    "docs/Articles/Video across a 2 page spread (updated).md",
     "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
     "docs/Articles/Building the TOC in InDesign.md",
     "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
     "docs/eBookProduction/Attention to Detail in Typography with InDesign.md",
-    "docs/private/Teaching_Hold/Digital Workflow/Week 2.md",
-    "docs/private/Teaching_Hold/Digital Workflow/Week 1.md",
+    "docs/Teaching/Digital Workflow/Week 2.md",
     "docs/private/art/Print sizes by theme.md",
     "docs/Teaching/DigitalProduct/Week 11.md",
     "docs/private/art/Image sizes for export.md",
