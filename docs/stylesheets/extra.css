@@ -85,9 +85,9 @@ p:has(img) {
   margin: 0 auto;
 }
 
-@media screen and (max-width: 800px;) {
+@media screen and (max-width: 800px) {
   img {
-    max-height: 100vh;
+    max-height:none
   }
 }
 
