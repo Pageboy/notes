@@ -84,10 +84,3 @@ p:has(img) {
   /* max-height: 40vh; */
   margin: 0 auto;
 }
-
-@media screen and (max-width: 800px) {
-  img {
-    max-height:none
-  }
-}
-
