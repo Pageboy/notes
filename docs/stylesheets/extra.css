@@ -73,7 +73,7 @@ visited {
 }
 
 img {
-  max-width: 40%;
+  max-width: 100%;
   max-height: 40vh;
   margin: 1em auto 0 auto;
   display: block;
@@ -81,4 +81,5 @@ img {
 
 p:has(img) {
   max-width: 50%;
+  margin: 0 auto;
 }
