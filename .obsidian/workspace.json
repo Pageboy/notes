@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 5.md",
+                "file": "docs/private/Teaching/Digital Workflow/Week 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 5.md",
+                "file": "docs/private/Teaching/Digital Workflow/Week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 5.md",
+                "file": "docs/private/Teaching/Digital Workflow/Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,21 +156,21 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "b9b7f47b29b380b3",
+  "active": "d886f93a66ee3a62",
   "lastOpenFiles": [
-    "docs/Teaching/Digital Workflow/Week 4.md",
-    "docs/Teaching/Digital Workflow/Week 3.md",
-    "docs/Teaching/Digital Workflow/Week 2.md",
-    "docs/Teaching/Digital Workflow/Week 1.md",
+    "docs/private/Teaching/Digital Workflow/Week 4.md",
+    "docs/private/Teaching/Digital Workflow/Week 3.md",
+    "docs/private/Teaching/Digital Workflow/Week 2.md",
+    "docs/private/Teaching/Digital Workflow/Week 1.md",
     "docs/private/art/Print sizes by theme.md",
-    "docs/Teaching/Digital Workflow/Week 9.md",
-    "docs/Teaching/Digital Workflow/Week 8.md",
+    "docs/private/Teaching/Digital Workflow/Week 9.md",
+    "docs/private/Teaching/Digital Workflow/Week 8.md",
     "docs/media/Screenshot 2022-11-16 at 17.03.11.png",
     "docs/media/Screenshot 2022-11-16 at 16.44.51.png",
     "docs/media/Screenshot 2022-11-16 at 16.47.40.png",
     "docs/media/Screenshot 2022-11-16 at 16.42.33.png",
-    "docs/Teaching/Digital Workflow/Week 6.md",
-    "docs/Teaching/Digital Workflow/Week 5.md",
+    "docs/private/Teaching/Digital Workflow/Week 6.md",
+    "docs/private/Teaching/Digital Workflow/Week 5.md",
     "docs/Articles/Video across a 2 page spread (updated).md",
     "docs/Articles/Building the TOC in InDesign.md",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
@@ -185,10 +185,10 @@
     "docs/private/art/Galleries to Visit.md",
     "docs/private/art/Artist Influencers.md",
     "docs/media/package.gif",
-    "docs/Teaching/Multiplatform Publishing/Week 11.md",
+    "docs/private/Teaching/Multiplatform Publishing/Week 11.md",
     "docs/private/art/archive",
     "docs/media/portraits.gif",
-    "docs/Teaching/Multiplatform Publishing/Week 10.md",
+    "docs/private/Teaching/Multiplatform Publishing/Week 10.md",
     "docs/private/Teaching_Hold/DigitalProduct/Week 10.md",
     "docs/private/Teaching_Hold/DigitalProduct/Week 8.md",
     "docs/media/multistateobject.gif",
