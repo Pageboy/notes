@@ -1,8 +1,8 @@
-# Final delivery of the cover
+## Final delivery of the cover
 
-## Error checking from the Preflight panel
+### Error checking from the Preflight panel
 
-### Possible errors
+#### Possible errors
 
 - Color space
 	- Images
@@ -16,7 +16,7 @@
 - bleed/trim hazards
 	- these can mostly be ignored accept where a text object is very near to the trim of the page
 
-## Create PDF preset
+### Create PDF preset
 
 - Not spreads
 - Compression
@@ -26,7 +26,7 @@
 - Include the slug
 	- Add name in the slug area
 
-## Create package
+### Create package
 - Add printer instructions
 	- Binding
 	- paper
@@ -35,7 +35,7 @@
 - Select the saved preset
 - Some warnings about fonts
 
-## Check output
+### Check output
 
 - Look at the folder created
 - Edit the printer instructions

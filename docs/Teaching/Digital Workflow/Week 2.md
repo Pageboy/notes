@@ -1,4 +1,4 @@
-# Intro to InDesign
+## Intro to InDesign
 
 Step through the following:
 

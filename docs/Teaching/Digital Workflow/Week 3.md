@@ -1,11 +1,11 @@
-# More on the cover
+## More on the cover
 
-## Reminders:
+### Reminders:
 - Set up your workspace
 - use the template
 - Add colours to the swatches
 
-## Front
+### Front
 
 - Use the photoshop template to make sure that the images fit the space but don’t build the whole cover in Photoshop
 - Use photoshop to modify image(s) for the front cover
@@ -17,7 +17,7 @@
 	- You can use shadow
 	- Try colour block under
 
-## Spine
+### Spine
 
 - Rotate text
 	- Pay attention to the direction
@@ -25,7 +25,7 @@
 - Space
 - Logo for publisher
 
-## Back
+### Back
 
 - Text from synopsis
 - Image(s)

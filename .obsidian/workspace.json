@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 9.md",
+                "file": "docs/Teaching/Digital Workflow/Week 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 9.md",
+                "file": "docs/Teaching/Digital Workflow/Week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 9.md",
+                "file": "docs/Teaching/Digital Workflow/Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,6 +158,12 @@
   },
   "active": "b9b7f47b29b380b3",
   "lastOpenFiles": [
+    "docs/Teaching/Digital Workflow/Week 4.md",
+    "docs/Teaching/Digital Workflow/Week 3.md",
+    "docs/Teaching/Digital Workflow/Week 2.md",
+    "docs/Teaching/Digital Workflow/Week 1.md",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/Teaching/Digital Workflow/Week 9.md",
     "docs/Teaching/Digital Workflow/Week 8.md",
     "docs/media/Screenshot 2022-11-16 at 17.03.11.png",
     "docs/media/Screenshot 2022-11-16 at 16.44.51.png",
@@ -165,14 +171,9 @@
     "docs/media/Screenshot 2022-11-16 at 16.42.33.png",
     "docs/Teaching/Digital Workflow/Week 6.md",
     "docs/Teaching/Digital Workflow/Week 5.md",
-    "docs/Teaching/Digital Workflow/Week 4.md",
-    "docs/Teaching/Digital Workflow/Week 3.md",
-    "docs/Teaching/Digital Workflow/Week 2.md",
-    "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/Articles/Video across a 2 page spread (updated).md",
     "docs/Articles/Building the TOC in InDesign.md",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
-    "docs/private/art/Print sizes by theme.md",
     "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
     "docs/private/CV.md",
     "docs/private/Teaching_Hold/DigitalProduct/InDesign to the Fixed Layout Recipe eBook.md",
@@ -192,7 +193,6 @@
     "docs/private/Teaching_Hold/DigitalProduct/Week 8.md",
     "docs/media/multistateobject.gif",
     "docs/private/Teaching_Hold/DigitalProduct/Week 9.md",
-    "docs/Teaching/Multiplatform Publishing/Week 12.md",
     "docs/media/flatplanFBK.jpg",
     "docs/media/the-flatplan-of-prelim-pages.png",
     "docs/media/articlespanel.png",
