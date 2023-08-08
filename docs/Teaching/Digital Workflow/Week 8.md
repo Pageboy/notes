@@ -2,7 +2,6 @@
 hide: navigation contents
 ---
 
-
 **Check InDesign version**
 
 Re download the folder from moodle
@@ -17,11 +16,11 @@ Re download the folder from moodle
 
 **Look at the DTD**
 
-![[Screenshot 2022-11-16 at 16.42.33.png]]
+![Here is the DTD](../../media/Screenshot%202022-11-16%20at%2016.42.33.png)
 
 **Look at the tags pane**
 
-![[Screenshot 2022-11-16 at 16.47.40.png]]
+![Tags Pane](../../media/Screenshot%202022-11-16%20at%2016.47.40.png)
 
 These tags match the style names (paragraph and character names)
 
@@ -33,7 +32,7 @@ Import
 
 Now see the play in the structure pane
 
-![[Screenshot 2022-11-16 at 16.44.51.png]]
+![Structure](../../media/Screenshot%202022-11-16%20at%2016.44.51.png)
 
 ### Put the XML on the page
 
@@ -47,10 +46,7 @@ From the context menu on the structure pane see the menu item _Map tags to Style
 
 **Map by name**
 
-![[Screenshot 2022-11-16 at 17.03.11.png]]
+![map by Name](../../media/Screenshot%202022-11-16%20at%2017.03.11.png)
 
-We will get a blank extra page at the beginning. This is because the style for the Dramatis heading is designed to start on a new page and there is already an empty paragraph on the first page. Just find the *pilchrow* on page one and delete this.
-
-
-#indesign #xml
-#notes4teaching 
+> [!hint] 
+>  We will get a blank extra page at the beginning. This is because the style for the Dramatis heading is designed to start on a new page and there is already an empty paragraph on the first page. Just find the *pilchrow* on page one and delete this.

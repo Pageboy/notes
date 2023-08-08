@@ -1,3 +1,5 @@
+# Final delivery of the cover
+
 ## Error checking from the Preflight panel
 
 ### Possible errors
@@ -39,3 +41,5 @@
 - Edit the printer instructions
 	- Check Adrian’s slides on moodle for useful tips
 - Create the zip file and submit
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ceRGB1YtxmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

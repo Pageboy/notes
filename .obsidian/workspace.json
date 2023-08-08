@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Video across a 2 page spread (updated).md",
+                "file": "docs/Teaching/Digital Workflow/Week 9.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 408.5
   },
   "right": {
     "id": "13fd9d4d78d9f053",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Articles/Video across a 2 page spread (updated).md",
+                "file": "docs/Teaching/Digital Workflow/Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Articles/Video across a 2 page spread (updated).md",
+                "file": "docs/Teaching/Digital Workflow/Week 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,18 +158,27 @@
   },
   "active": "b9b7f47b29b380b3",
   "lastOpenFiles": [
-    "docs/Articles/Building the TOC in InDesign.md",
+    "docs/Teaching/Digital Workflow/Week 8.md",
+    "docs/media/Screenshot 2022-11-16 at 17.03.11.png",
+    "docs/media/Screenshot 2022-11-16 at 16.44.51.png",
+    "docs/media/Screenshot 2022-11-16 at 16.47.40.png",
+    "docs/media/Screenshot 2022-11-16 at 16.42.33.png",
+    "docs/Teaching/Digital Workflow/Week 6.md",
+    "docs/Teaching/Digital Workflow/Week 5.md",
+    "docs/Teaching/Digital Workflow/Week 4.md",
+    "docs/Teaching/Digital Workflow/Week 3.md",
+    "docs/Teaching/Digital Workflow/Week 2.md",
+    "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/Articles/Video across a 2 page spread (updated).md",
+    "docs/Articles/Building the TOC in InDesign.md",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
     "docs/private/art/Print sizes by theme.md",
-    "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
     "docs/private/CV.md",
     "docs/private/Teaching_Hold/DigitalProduct/InDesign to the Fixed Layout Recipe eBook.md",
     "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
     "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
     "docs/eBookProduction/Attention to Detail in Typography with InDesign.md",
-    "docs/Teaching/Digital Workflow/Week 2.md",
     "docs/private/Teaching_Hold/DigitalProduct/Week 11.md",
     "docs/private/art/Image sizes for export.md",
     "docs/private/art/Galleries to Visit.md",
@@ -185,17 +193,9 @@
     "docs/media/multistateobject.gif",
     "docs/private/Teaching_Hold/DigitalProduct/Week 9.md",
     "docs/Teaching/Multiplatform Publishing/Week 12.md",
-    "docs/Web Sites with GitHub/How to build a blog website with GitHub and Netlify.md",
-    "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
-    "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
-    "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
     "docs/media/flatplanFBK.jpg",
     "docs/media/the-flatplan-of-prelim-pages.png",
     "docs/media/articlespanel.png",
-    "docs/media/toc-in-the-pdf.png",
-    "docs/media/setting-up-the-tabs.png",
-    "docs/media/choosing-the-styles-for-the-toc.png",
-    "docs/media/a-typical-toc.png",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas",
     "docs/media/id2fxlePub",
     "docs/media/id2rfl",

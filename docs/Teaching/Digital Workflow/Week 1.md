@@ -1,6 +1,4 @@
-# Week 1
-
-## What you should read or watch this week
+# What you should read or watch this week
 
 *   [Read this article on Medium](https://medium.com/@shakespearesglobe/publishing-shakespeare-a-history-of-the-printing-press-1689d9b2f087): Publishing Shakespeare: a history of the printing press
 *   [Read this article at the Folger Archive](https://www.folger.edu/publishing-shakespeare)
@@ -18,9 +16,9 @@
 
 [Here are all plays on Moodle](https://moodle.brookes.ac.uk/mod/page/view.php?id=2468159)
 
-# Available Shakespeare Plays with short summary
+## Available Shakespeare Plays with short summary
 
-## Richard III  
+### Richard III  
 
 - First Performed: 1592-93
 - First Printed: 1597
@@ -29,7 +27,7 @@ Richard III (Richard the third) could well qualify as one of the most treacherou
 
 Richards’s victory is short-lived after his tyrannical succession is ended in defeat by Henry the Earl of Richmond who succeeds Richard as King Henry the VII.
 
-## Comedy of Errors
+### Comedy of Errors
 
 - First Performed:1592-93
 - First Printed: 1623
@@ -38,14 +36,14 @@ Shakespeare play, Comedy of errors is a typical example of Shakespearean slapsti
 
 Comedy of errors unfolds over a series of hilarious events involving wrongful accusations, seductions, beatings and even the arrest of Antipholus of Ephesus under the charge of infidelity, thievery and insanity. The play ends on a happy note with both twins united.
 
-## Titus Andronicus
+### Titus Andronicus
 
 - First Performed : 1593-94
 - First Printed : 1594
 
 Titus Andronicus is Shakespeare’s first Tragedy. Set against the backdrop of the Roman Empire, it never really gained approval in Victorian England, primarily because of its overuse of violent overtones. Titus Andronicus is the story of Roman general Titus and his thirst for bloody revenge against Tamora Queen of Goths may well qualify as the most violent of Shakespeare plays. In what appears to be a treacherous plot of mindless murder and revenge, Shakespeare’s characters namely Titus and Tamora along with their respective supporters revel in plotting a gory and macabre killing spree of each other. The play ends with most central characters dead including Tamora and Titus.
 
-## The Taming of the Shrew
+### The Taming of the Shrew
 
 - First Performed : 1593-94
 - First Printed : 1623
@@ -54,7 +52,7 @@ As an induction styled play common to Shakespearean literature, the main play of
 
 The ensuing play then unfolds with the comical story of Petruchio of Verona and his courtship and marriage to Katherina. The eldest of two sisters, Katrina is a head strong ill mannered shrew. The comedy depicts Petruchio’s witty but psychological treatment of Katrina in a bid to temper her obstinate behavior. He succeeds by subduing Katharina who ultimately falls in love with her husband and becomes the obedient wife.
 
-## The Two Gentlemen of Verona
+### The Two Gentlemen of Verona
 
 - First Performed : 1594-95
 - First Printed : 1623
@@ -63,7 +61,7 @@ Shakespeare play, The two gentlemen of Verona is a classic tale of choice betwee
 
 Valentine becomes a leader of outlaws in the forest while Silvia attempts to flee and reunite with him. Meanwhile the second heroine Julia, fiancée of Proteus disguises herself as a boy to spy on Proteus. The drama ends on a happy note with the two friends resolving their differences with marriage to their respective lovers.
 
-## Love’s Labour’s Lost
+### Love’s Labour’s Lost
 
 - First Performed : 1594-95
 - First Printed : 1598
@@ -74,7 +72,7 @@ Their previous commitments forgotten, the men engage in a number of attempts to 
 
 The untimely demise of the Princess’s father dashes all hopes of marriage for the men who are instructed by the women to engage in several tasks for a year before contemplating marriage.
 
-## Romeo and Juliet
+### Romeo and Juliet
 
 - First Performed : 1594-95
 - First Printed : 1597
@@ -83,16 +81,16 @@ Shakespeare play, Romeo and Juliet is well known as one of Shakespeare’s most 
 
 A heartwarming tale ensues with the lovers finding ways and means to romance each other until their relationship is exposed. Tragic events of anger and hate end in the death of both lovers which reunite both factions overcome with remorse.
 
-## The Merchant of Venice
+### The Merchant of Venice
 
 - First Performed: 1596-97
 - First Printed: 1600
 
-Shakespeare Play, The Merchant of Venice is a dramatic comedy that focuses more on the antics of its anti-hero a moneylender called Shylock. The story begins with a young merchant Antonio obtaining a loan from Shylock on behalf of his friend Bassanio. Bassanio requires the money to woo a wealthy heiress Portia. Shylock resenting Antonio agrees to lend the money on condition of extracting a pound of his flesh in case of default of payment. The unthinkable happens with Antonio losing his wealth falling in debt to Shylock. Meanwhile, Bassanio is successful in his attempt to win the affections of Portia.
+The Merchant of Venice is a dramatic comedy that focuses more on the antics of its anti-hero a moneylender called Shylock. The story begins with a young merchant Antonio obtaining a loan from Shylock on behalf of his friend Bassanio. Bassanio requires the money to woo a wealthy heiress Portia. Shylock resenting Antonio agrees to lend the money on condition of extracting a pound of his flesh in case of default of payment. The unthinkable happens with Antonio losing his wealth falling in debt to Shylock. Meanwhile, Bassanio is successful in his attempt to win the affections of Portia.
 
 The play climaxes in a court scene where Portia disguised as a lawyer delivers her famous “mercy” speech to win the case against shylock.
 
-## Much Ado About Nothing  
+### Much Ado About Nothing  
 
 - First Performed : 1598-99
 - First Printed : 1600
@@ -101,7 +99,7 @@ As a love comedy, Much Ado About Nothing portrays a series of comical events sur
 
 Meanwhile another romantic tryst takes place between the Count Benedick and hero’s cousin Beatrice. Although well matched, they repel each other’s advances . Playing matchmaker, hero’s father brings the two together. A joint marriage is planned where Claudio is made to marry an incognito bride introduced as Beatrice’s cousin. However, she turns out to be none other than his love, the Lady Hero.
 
-## Julius Caesar
+### Julius Caesar
 
 - First Performed : 1599-1600
 - First Printed : 1623
@@ -110,7 +108,7 @@ As a historical tragedy, Julius Caesar is part of Shakespeare’s three Roman pl
 
 Roman general Mark Anthony also friend to Caesar swears revenge. Along with Octavius Caesar he meets Cassius’ army in battle on the fields of Philippi. Caesar’s ghost appears to Brutus the night before the battle. Mark Antony and Octavius are successful while Brutus and Cassius commit suicide.
 
-## As You Like It
+### As You Like It
 
 - First Performed: 1599-1600
 - First Printed: 1623
@@ -123,16 +121,16 @@ During their exile in the forest Rosalind disguised as a man Ganymede, befriends
 
 Meanwhile, the younger evil duke while marching with an army to the forest repents his ways after a religious encounter with a holy man. He turns to religion and the senior Duke has his title and lands restored.
 
-## Twelfth Night
+### Twelfth Night
 
 - First Performed : 1599-1600
 - First Printed : 1623
 
-Shakespeare play, twelfth night is a romantic comedy s about two separated twins Viola and Sebastian who make their way to the kingdom of Illyria. Viola disguises herself as a boy cesario and is employed by the reigning duke Orsino. Orsino’s love interest is the Lady Olivia who will not reciprocate the same as she is mourning the death of her father. Orsino sends viola to woo Lady Olivia on his behalf but Olivia ends up falling for viola who she believes to be Cesario. Meanwhile chance brings Sebastian to the court of Olivia who makes him marry her mistaking him for Viola aka Cesario.
+Twelfth night is a romantic comedy s about two separated twins Viola and Sebastian who make their way to the kingdom of Illyria. Viola disguises herself as a boy cesario and is employed by the reigning duke Orsino. Orsino’s love interest is the Lady Olivia who will not reciprocate the same as she is mourning the death of her father. Orsino sends viola to woo Lady Olivia on his behalf but Olivia ends up falling for viola who she believes to be Cesario. Meanwhile chance brings Sebastian to the court of Olivia who makes him marry her mistaking him for Viola aka Cesario.
 
 A healthy rigmarole ensues till all is cleared with the duke finding new love with viola. Noteworthy among the characters is the antics of Malvolio and Sir Andrew Aguecheek.
 
-## Hamlet
+### Hamlet
 
 - First Performed : 1600-01
 - First Printed : 1603
@@ -141,18 +139,18 @@ Hamlet is one of the most powerful of Shakespearean tragedies famed for its catc
 
 The prince’s initial plot to kill Claudius fails with him killing his sweetheart Ophelia’s father instead. When prince is sent to England by Claudius, he chances upon Ophelia’s funeral instead. While Gertrude is killed by drinking poison meant for the prince, Claudius incites a duel between prince and Laertes Ophelia’s brother. Both the men are fatally wounded, but hamlet kills Claudius before succumbing to his injuries.
 
-## The Merry Wives of Windsor
+### The Merry Wives of Windsor
 
 - First Performed : 1600-01
 - First Printed : 1602
 
-Shakespeare play, The Merry Wives of Windsor is a typical farce involving one of Shakespeare most significant characters, john Falstaff. Falstaff is a womanizer and a money grabber who pretends to woo two married women of Windsor Mrs. page and Mrs. Ford
+The Merry Wives of Windsor is a typical farce involving one of Shakespeare most significant characters, john Falstaff. Falstaff is a womanizer and a money grabber who pretends to woo two married women of Windsor Mrs. page and Mrs. Ford
 
 Both women are wise to hid lecherous behavior and play along. Complications arise in the guise of Mr. Ford disguising himself and employing Falstaff to woo his wife and present her to him as proof of her infidelity. However both men are duped by the women on several occasions. Falstaff is led on a merry chase undergoing insult, and humiliation by the women.
 
 This Shakespeare play also depicts the wooing of Anne page which ends in her marriage to her lover Mr. Fenton. In the end Falstaff is forgiven.
 
-## Troilus and Cressida
+### Troilus and Cressida
 
 - First Performed : 1601-02
 - First Printed : 1609
@@ -163,16 +161,16 @@ Troilus son of Trojan King Priam is in love with Cressida daughter of Calchas a 
 
 Meanwhile in the Greek camp trouble constantly brews between Agamemnon and Greek hero Achilles. During the course of battle, Hector son of Priam kills Achilles’ friend Patroclus. An enraged Achilles then slays Hector. Meanwhile Cressida is wooed by Greek prince Diomedes angering Troilus who swears revenge.
 
-## Othello  
+### Othello  
 
 - First Performed : 1604-05
 - First Printed : 1622
 
-Like Shakespeare play Hamlet, Othello is a significant and popular tragedy. Othello is a Moorish captain serving in the Venetian army. Unfortunately for him, he has several enemies the worst of whom is his most trusted ensign Iago. In what unravels as a classic narration of racism, love, betrayal, jealousy and wrongful accusation, Iago hatches a plot to wrongfully accuse his wife Desdemona of infidelity. Inflamed with passion and jealousy an enraged he kills Desdemona.
+Like the Shakespeare play Hamlet, Othello is a significant and popular tragedy. Othello is a Moorish captain serving in the Venetian army. Unfortunately for him, he has several enemies the worst of whom is his most trusted ensign Iago. In what unravels as a classic narration of racism, love, betrayal, jealousy and wrongful accusation, Iago hatches a plot to wrongfully accuse his wife Desdemona of infidelity. Inflamed with passion and jealousy an enraged he kills Desdemona.
 
 Iago’s wife Emilia informs Othello of Desdemona’s innocence revealing Iago’s dastardly plot but she to is killed by Iago. He is filled with remorse and in revenge tries to kill Iago but only wounds him. Before he can be arrested he commits suicide.
 
-## King Lear
+### King Lear
 
 - First Performed : 1605-06
 - First Printed : 1608
@@ -181,7 +179,7 @@ King Lear of Britain in an attempt to avoid unrest divides his kingdom between h
 
 King Lear gradually sinks into manic depression at the indifferent attitude of his two elder daughters’ towards him. In a tragic twist both daughters end up dead as a result of their feuding over the affections of Edmund the bastard son of Gloucester. Edmund in his bid to take over his brother’s property imprisons Lear and executes Cordelia. Lear dies soon after out of remorse.
 
-## Macbeth
+### Macbeth
 
 - First Performed : 1605-06
 - First Printed : 1623
@@ -192,7 +190,7 @@ Influenced By his wife, he murders Duncan the King of Scotland and ascends the t
 
 In revenge, Macduff and Duncan’s son Malcolm wage war on Macbeth killing him in battle. Malcolm is crowned king.
 
-## Antony and Cleopatra
+### Antony and Cleopatra
 
 - First Performed : 1606-07
 - First Printed : 1623
@@ -201,7 +199,7 @@ Shakespeare play, Antony and Cleopatra narrates the relationship between Mark An
 
 He soon returns to Cleopatra enraging Octavius who then declares war on Anthony in a bid to become sole ruler of Rome. Anthony is defeated in battle and accuses Cleopatra of betraying him. Later, thinking Cleopatra to be dead, Anthony mortally wounds himself and subsequently dies in Cleopatra’s arms. Octavius orders Cleopatra to be brought to Rome, but Cleopatra commits suicide by getting bitten by a poisonous Asp.
 
-## Cymbeline  
+### Cymbeline  
 
 - First Performed : 1609-10
 - First Printed : 1623
@@ -210,7 +208,7 @@ Cymbeline is the Celtic king of Britain whose sons were styolemn by Belarus afte
 
 Amidst events surrounding the Roman attack of Britain in which the British emerge victorious. Cymbeline meets with Belarus who has been instrumental in the defense of Britain along with his two adopted sons Guiderius and Aviragus. They are revealed to him as his sons. Meanwhile Innogen dressed a page in the service of Lucius the Roman representative is given to him who reveals herself as Innogen.
 
-## The Winter’s Tale
+### The Winter’s Tale
 
 - First Performed: 1610-11
 - First Printed: 1623
@@ -219,7 +217,7 @@ Polixenes, king of Bohemia invites the wrath of his friend king leontes of Sicil
 
 Hermione’s daughter grows up as Perdita a shepherd girl and is wooed by Prince Florizel Polixenes son. Polixenes disapproves and the lovers elope to Sicily. They are followed by the shepherds and Polixenes. This Shakespeare play climaxes with characters appearing in Leontes court where Perditas true identity is revealed. Leontes is reunited with Hermione.
 
-## The Tempest
+### The Tempest
 
 - First Performed: 1611-12
 - First Printed: 1623

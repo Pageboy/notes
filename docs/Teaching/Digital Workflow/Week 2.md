@@ -1,4 +1,4 @@
-# Week 2 - Intro to InDesign
+# Intro to InDesign
 
 Step through the following:
 
@@ -35,4 +35,6 @@ Look around at the screen….
 	- Can be jpg or Photoshop
 - Links panel
 - Edit in Photoshop
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hAc0SAAo7gQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

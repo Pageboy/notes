@@ -1,5 +1,4 @@
-# Week 3
-More on the cover
+# More on the cover
 
 ## Reminders:
 - Set up your workspace
