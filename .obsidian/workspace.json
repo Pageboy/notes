@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/art/Art Justifications.md",
+                "file": "docs/Articles/Master or Parent Pages in InDesign.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Articles/Attention to Detail in Typography with InDesign.md",
+                "file": "docs/Articles/Master or Parent Pages in InDesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Articles/Attention to Detail in Typography with InDesign.md",
+                "file": "docs/Articles/Master or Parent Pages in InDesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -170,11 +169,29 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "72433125b3ff37c6",
+  "active": "b9b7f47b29b380b3",
   "lastOpenFiles": [
+    "docs/Articles/Attention to Detail in Typography with InDesign.md",
+    "docs/Articles/Master or Parent Pages in InDesign.md",
+    "docs/media/Screenshot 2017-12-06 08.41.40.png",
+    "docs/private/art/Art Justifications.md",
+    "docs/media/masterpages/image3.png",
+    "docs/media/masterpages/image2.png",
+    "docs/media/masterpages/image1.png",
+    "docs/media/masterpages/image5.png",
+    "docs/media/masterpages/image4.png",
+    "docs/media/masterpages/image6.png",
+    "docs/media/masterpages/image7.png",
+    "docs/media/masterpages/image10.png",
+    "docs/media/masterpages/image9.png",
+    "docs/media/masterpages",
+    "docs/private/Teaching/Digital Workflow/Week 4.md",
+    "docs/private/Teaching/Digital Workflow/Week 3.md",
+    "docs/private/Teaching/Digital Workflow/Week 2.md",
+    "docs/private/Teaching/Digital Workflow/Week 6.md",
+    "docs/private/Teaching/Digital Workflow/Week 5.md",
     "docs/private/GitHub Recovery.md",
     "docs/private/art/Print sizes by theme.md",
-    "docs/private/art/Art Justifications.md",
     "daily/10-08-2023.md",
     "daily/08-08-2023.md",
     "daily/19-02-2023.md",
@@ -190,26 +207,8 @@
     "docs/private/art/Galleries to Visit.md",
     "docs/private/art/19 Feb 2022.md",
     "docs/private/art/Image sizes for export.md",
-    "docs/private/art/Art Sites requirements.md",
-    "docs/private/art/Artist Influencers.md",
-    "docs/private/Teaching/Digital Workflow/Week 5.md",
-    "docs/private/Teaching/Digital Workflow/Week 4.md",
-    "docs/private/Teaching/Digital Workflow/Week 3.md",
-    "docs/private/Teaching/Digital Workflow/Week 2.md",
-    "docs/private/Teaching/Digital Workflow/Week 1.md",
-    "docs/private/Teaching/Digital Workflow/Week 9.md",
-    "docs/media/Screenshot 2022-11-16 at 17.03.11.png",
-    "docs/media/Screenshot 2022-11-16 at 16.44.51.png",
-    "docs/media/Screenshot 2022-11-16 at 16.47.40.png",
-    "docs/media/Screenshot 2022-11-16 at 16.42.33.png",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
-    "docs/media/package.gif",
     "docs/private/art/archive",
-    "docs/media/portraits.gif",
-    "docs/media/multistateobject.gif",
-    "docs/media/flatplanFBK.jpg",
-    "docs/media/the-flatplan-of-prelim-pages.png",
-    "docs/media/articlespanel.png",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas",
     "docs/media/id2fxlePub",
     "docs/media/id2rfl",
