@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Master or Parent Pages in InDesign.md",
-                "mode": "source",
+                "file": "docs/Articles/Footnotes and other Diversions.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Articles/Master or Parent Pages in InDesign.md",
+                "file": "docs/Articles/Footnotes and other Diversions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Articles/Master or Parent Pages in InDesign.md",
+                "file": "docs/Articles/Footnotes and other Diversions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +171,13 @@
   },
   "active": "b9b7f47b29b380b3",
   "lastOpenFiles": [
-    "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
+    "docs/media/image21.png",
+    "docs/media/image2-1.png",
+    "docs/media/image2.png",
+    "docs/media/image2.jpg",
+    "docs/Articles/Footnotes and other Diversions.md",
     "docs/Articles/Master or Parent Pages in InDesign.md",
+    "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
     "docs/Articles/Attention to Detail in Typography with InDesign.md",
     "docs/media/Screenshot 2017-12-06 08.41.40.png",
     "docs/private/art/Art Justifications.md",
@@ -182,9 +187,6 @@
     "docs/media/masterpages/image5.png",
     "docs/media/masterpages/image4.png",
     "docs/media/masterpages/image6.png",
-    "docs/media/masterpages/image7.png",
-    "docs/media/masterpages/image10.png",
-    "docs/media/masterpages/image9.png",
     "docs/media/masterpages",
     "docs/private/Teaching/Digital Workflow/Week 4.md",
     "docs/private/Teaching/Digital Workflow/Week 3.md",
@@ -206,8 +208,6 @@
     "daily/20-03-2023.md",
     "docs/private/art/April 3 2022.md",
     "docs/private/art/Galleries to Visit.md",
-    "docs/private/art/19 Feb 2022.md",
-    "docs/private/art/Image sizes for export.md",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
     "docs/private/art/archive",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas",
