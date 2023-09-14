@@ -61,8 +61,8 @@ Wherever the note is deposited it needs a number or symbol reference set as **su
 
 Where the notes are displayed as footnotes then superscripted numbers can also be used, but some publishers use the less than useful range of symbols in the order set out here. \*, †, ‡, §, ‖,¶. Once all of these symbols are used on the page, then the continuation uses the same but doubled up like §§.
 
-> **Note**: These symbols can look very different with different typefaces.
-
+> [!note] 
+>  These symbols can look very different with different typefaces.
 ![Symbols and their order for footnote References](image2.jpg)
 
 The convention is to use these symbols in a particular order on the page as seen in this example, *Journey to Britain*, Bronwen Riley
@@ -233,7 +233,9 @@ This fantastic platform for writers and storytellers, does not support interacti
 
 Footnotes are no good for reflowable eBooks! You don't actually have a page bottom. There are various choices for eBooks depending on the type, the proposed platform and the pBook to eBook workflow.
 
-> **Note:** You can't use _ibid_ any more. (`Meaning: in the same source`)
+> [!caution] 
+>  you can't use _ibid_ any more. (`Meaning: in the same source`)
+
 
 ### For the reflowable eBook
 
