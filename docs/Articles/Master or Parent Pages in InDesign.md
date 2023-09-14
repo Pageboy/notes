@@ -27,9 +27,9 @@ One common use for the Master Pages is to add a header and footer across a range
 
 To add page numbers go to the master pages (in this case A-Master) and create a text box at the bottom left of the left hand page. With the text cursor in that box, go to the menu: `Type>Insert Special Character>Markers>Current Page Number`
 
-![Page numbers are found under the 'Insert Special Character' menu.](../../media//masterpages/image4.png)
+![Page numbers are found under the Insert Special Character menu.](../../media/masterpages/image4.png)
 
-[![The letter 'A' here represents the name of the master page](../../media/masterpages/image5.png)
+![The letter 'A' here represents the name of the master page](../../media/masterpages/image5.png)
 
 You can add text before the letter A (this represents the page number itself), such as ‘Page:’ You should style this text block as you prefer.
 
@@ -55,7 +55,7 @@ In order to achieve the display of the current chapter, we need to use ‘Text V
 
 In the ‘A-Master’, we should first add a text box as before, but this time we need to insert the Text Variable>Running Header.
 
-![Insering or editing the Text Variables'](../../media/masterpages/image8.png)
+![Inserting or editing the Text Variables'](../../media/masterpages/image8.png)
 
 Now we need to define where this variable gets its value, by going to:
 
