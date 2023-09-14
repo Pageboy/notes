@@ -67,7 +67,7 @@ Where the notes are displayed as footnotes then superscripted numbers can also b
 
 The convention is to use these symbols in a particular order on the page as seen in this example, *Journey to Britain*, Bronwen Riley
 
-![part of a page from *Journey to Britain*, Bronwen Riley](image3.jpg)
+![part of a page from *Journey to Britain*, Bronwen Riley](image3-2.jpeg)
 
 Unusually, both symbols and numbers can be used as in this example from *The Devils Details*, Chuck Zerby
 
@@ -83,15 +83,15 @@ As we have seen from early manuscripts such as the *Geneva Bible*, side notes we
 
 Sidenotes may not need the reference numbers or symbols as long as they can be near to the context within the text block. Here as a sample spread from *The Book of Barely Imagined Beings*, Casper Henderson.
 
-![a double page spread from *The Book of Barely Imagined Beings*, Casper Henderson](image4_2.png)
+![a double page spread from *The Book of Barely Imagined Beings*, Casper Henderson](image4_3.png)
 
 On the other hand Edward R. Tufte[^2] is well known for his beautifully designed books about the display of information and we can see in this example from _Visual Explanations_, that he uses numbers for the margin notes.
 
-![a spread from _Visual Explanations_, Edward R. Tufte](image5_2.png)
+![a spread from _Visual Explanations_, Edward R. Tufte](image5_3.png)
 
 Robert Bringhurst uses both side notes and footnotes in his *The Elements of Typographic Style*:
 
-![a spread from *The Elements of Typographic Style*, Robert Bringhurst](image6_1.png)
+![a spread from *The Elements of Typographic Style*, Robert Bringhurst](image6_2.png)
 
 ## Practical Methods
 
