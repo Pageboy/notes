@@ -14,11 +14,9 @@ The Pages panel will show you the pages in your document as thumbnails. You can 
 
 > Note: In recent versions of InDesign *master* pages has been renamed to *parent* pages.
 
-![Traditional page layout with grid](pagelayout.png)
+![Configure the pages panel to suit your needs](../../masterpages/image2.png)
 
-![Configure the pages panel to suit your needs](masterpages/image2.png)
-
-![The pages panel shows the page numbers](masterpages/image3.png)
+![The pages panel shows the page numbers](../../masterpages/image3.png)
 
 In the image here, the pages panel shows the current pages in a scrolling pane, with the master pages on the top. In our document we only have the `A-Master` and this is applied to all pages in the file. We can add Master Pages and base one on another, so we effectively create a hierarchy of page attributes.
 
@@ -28,9 +26,9 @@ One common use for the Master Pages is to add a header and footer across a range
 
 To add page numbers go to the master pages (in this case A-Master) and create a text box at the bottom left of the left hand page. With the text cursor in that box, go to the menu: `Type>Insert Special Character>Markers>Current Page Number`
 
-![Page numbers are found under the 'Insert Special Character' menu.](masterpages/image4.png)
+![Page numbers are found under the 'Insert Special Character' menu.](../../masterpages/image4.png)
 
-[![The letter 'A' here represents the name of the master page](masterpages/image5.png)
+[![The letter 'A' here represents the name of the master page](../../masterpages/image5.png)
 
 You can add text before the letter A (this represents the page number itself), such as ‘Page:’ You should style this text block as you prefer.
 
@@ -38,7 +36,7 @@ Copy this and paste to the right hand page of ‘A-Master’. You will now see t
 
 ## Different Page Number Styles
 
-![Page numbers can take different forms - roman or arabic](masterpages/image6.png)
+![Page numbers can take different forms - roman or arabic](../../masterpages/image6.png)
 
 In a printed book, you will often see different page numbers for the front matter. You may often see page numbers using small Roman Numerals. The text of the book proper may start after this ‘front-matter’. To achieve this we need to use the Numbering and section Options. We may need to start a new section at a particular page, and then use the alternative page numbering styles.
 
@@ -46,7 +44,7 @@ In a printed book, you will often see different page numbers for the front matte
 
 It is traditional to add headers to the pages in a book. In the headers we can include the title of the book and possibly the section or chapter name.
 
-![Headers can be repeated by using the master pages](masterpages/image7.png)
+![Headers can be repeated by using the master pages](../../masterpages/image7.png)
 
 Once again, in the master pages (A-Master) we can add text blocks to the top of the page. In the example here, I have also added a coloured bar; this will also repeat on all pages that use the ‘A-Master’.
 
@@ -56,17 +54,17 @@ In order to achieve the display of the current chapter, we need to use ‘Text V
 
 In the ‘A-Master’, we should first add a text box as before, but this time we need to insert the Text Variable>Running Header.
 
-![Insering or editing the Text Variables'](masterpages/image8.png)
+![Insering or editing the Text Variables'](../../masterpages/image8.png)
 
 Now we need to define where this variable gets its value, by going to:
 
 Type>Text Variables>Define. Select the Running Header and then in the dialogue box here, we need to select the paragraph style that the chapter heading is using.
 
-!['Running Header' is default named Text Variable ](masterpages/image9.png)
+!['Running Header' is default named Text Variable ](../../masterpages/image9.png)
 
 As you can see there are other changes we can make to the text, if we need.
 
-![You will see the name of the Text variable displayed on the master page](masterpages/image10.png)
+![You will see the name of the Text variable displayed on the master page](../../masterpages/image10.png)
 
 ### Multiple Running Headers
 
