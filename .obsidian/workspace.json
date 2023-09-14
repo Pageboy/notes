@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/Teaching/Digital Workflow/Week 5.md",
+                "file": "docs/private/art/Art Justifications.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "72433125b3ff37c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Articles/Attention to Detail in Typography with InDesign.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/private/Teaching/Digital Workflow/Week 5.md",
+                "file": "docs/Articles/Attention to Detail in Typography with InDesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/private/Teaching/Digital Workflow/Week 5.md",
+                "file": "docs/Articles/Attention to Detail in Typography with InDesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,43 +170,43 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "d886f93a66ee3a62",
+  "active": "72433125b3ff37c6",
   "lastOpenFiles": [
+    "docs/private/GitHub Recovery.md",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/private/art/Art Justifications.md",
+    "daily/10-08-2023.md",
+    "daily/08-08-2023.md",
+    "daily/19-02-2023.md",
+    "daily/17-02-2023.md",
+    "daily/08-03-2023.md",
+    "daily/09-03-2023.md",
+    "daily/11-03-2023.md",
+    "daily/14-03-2023.md",
+    "daily/15-03-2023.md",
+    "daily/17-03-2023.md",
+    "daily/20-03-2023.md",
+    "docs/private/art/April 3 2022.md",
+    "docs/private/art/Galleries to Visit.md",
+    "docs/private/art/19 Feb 2022.md",
+    "docs/private/art/Image sizes for export.md",
+    "docs/private/art/Art Sites requirements.md",
+    "docs/private/art/Artist Influencers.md",
+    "docs/private/Teaching/Digital Workflow/Week 5.md",
     "docs/private/Teaching/Digital Workflow/Week 4.md",
     "docs/private/Teaching/Digital Workflow/Week 3.md",
     "docs/private/Teaching/Digital Workflow/Week 2.md",
     "docs/private/Teaching/Digital Workflow/Week 1.md",
-    "docs/private/art/Print sizes by theme.md",
     "docs/private/Teaching/Digital Workflow/Week 9.md",
-    "docs/private/Teaching/Digital Workflow/Week 8.md",
     "docs/media/Screenshot 2022-11-16 at 17.03.11.png",
     "docs/media/Screenshot 2022-11-16 at 16.44.51.png",
     "docs/media/Screenshot 2022-11-16 at 16.47.40.png",
     "docs/media/Screenshot 2022-11-16 at 16.42.33.png",
-    "docs/private/Teaching/Digital Workflow/Week 6.md",
-    "docs/private/Teaching/Digital Workflow/Week 5.md",
-    "docs/Articles/Video across a 2 page spread (updated).md",
-    "docs/Articles/Building the TOC in InDesign.md",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
-    "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
-    "docs/private/CV.md",
-    "docs/private/Teaching_Hold/DigitalProduct/InDesign to the Fixed Layout Recipe eBook.md",
-    "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
-    "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
-    "docs/eBookProduction/Attention to Detail in Typography with InDesign.md",
-    "docs/private/Teaching_Hold/DigitalProduct/Week 11.md",
-    "docs/private/art/Image sizes for export.md",
-    "docs/private/art/Galleries to Visit.md",
-    "docs/private/art/Artist Influencers.md",
     "docs/media/package.gif",
-    "docs/private/Teaching/Multiplatform Publishing/Week 11.md",
     "docs/private/art/archive",
     "docs/media/portraits.gif",
-    "docs/private/Teaching/Multiplatform Publishing/Week 10.md",
-    "docs/private/Teaching_Hold/DigitalProduct/Week 10.md",
-    "docs/private/Teaching_Hold/DigitalProduct/Week 8.md",
     "docs/media/multistateobject.gif",
-    "docs/private/Teaching_Hold/DigitalProduct/Week 9.md",
     "docs/media/flatplanFBK.jpg",
     "docs/media/the-flatplan-of-prelim-pages.png",
     "docs/media/articlespanel.png",
