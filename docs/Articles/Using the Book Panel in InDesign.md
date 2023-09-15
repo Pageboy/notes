@@ -1,5 +1,8 @@
 **Combining sections and chapters into one book**
 
+> [!attention] 
+> *Master* pages has been renamed *parent* pages in later versions of InDesign
+
 ## Introduction
 
 Quite often we will be working with very long publications that will benefit from the concept of separate files for separate sections or chapters. There are also advantages from having individuals in a team, work on different InDesign files (with common styles), and then bring them all together inside one book.
