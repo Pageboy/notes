@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Using the Book Panel in InDesign.md",
-                "mode": "preview",
+                "file": "docs/Articles/Master or Parent Pages in InDesign.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Articles/Using the Book Panel in InDesign.md",
+                "file": "docs/Articles/Master or Parent Pages in InDesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Articles/Using the Book Panel in InDesign.md",
+                "file": "docs/Articles/Master or Parent Pages in InDesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +159,7 @@
   },
   "active": "72433125b3ff37c6",
   "lastOpenFiles": [
+    "docs/Articles/Using the Book Panel in InDesign.md",
     "docs/media/synchroniseOptions.png",
     "docs/media/spreadsinPDF.png",
     "docs/media/numberingoptions.png",
@@ -169,9 +170,7 @@
     "docs/media/firstandlastpage.png",
     "docs/media/firstamdlastspread.png",
     "docs/media/edittingeachfile.png",
-    "docs/media/bookpagenumberingoptions.png",
     "docs/Articles/Attention to Detail in Typography with InDesign.md",
-    "docs/Articles/Using the Book Panel in InDesign.md",
     "docs/Articles/Preflight and Package for Print and Output to PDF.md",
     "docs/media/ID2package",
     "docs/private/Teaching/Digital Workflow/Week 4.md",

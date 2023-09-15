@@ -1,6 +1,4 @@
 ---
-hide:
- - navigation
 tags:
  - indesign
  - typography
@@ -12,8 +10,8 @@ tags:
 
 The Pages panel will show you the pages in your document as thumbnails. You can configure the way this displays through the Panel Options from the context menu in the Pages panel.
 
-> [!note] 
-> In recent versions of InDesign *master* pages has been renamed to *parent* pages.
+> [!attention] 
+> *Master* pages has been renamed *parent* pages in later versions of InDesign
 
 ![Configure the pages panel to suit your needs](../../media/masterpages/image2.png)
 
