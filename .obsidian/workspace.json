@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Attention to Detail in Typography with InDesign.md",
-                "mode": "source",
+                "file": "docs/Articles/Using the Book Panel in InDesign.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Articles/Attention to Detail in Typography with InDesign.md",
+                "file": "docs/Articles/Using the Book Panel in InDesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Articles/Attention to Detail in Typography with InDesign.md",
+                "file": "docs/Articles/Using the Book Panel in InDesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,17 +159,20 @@
   },
   "active": "72433125b3ff37c6",
   "lastOpenFiles": [
+    "docs/media/synchroniseOptions.png",
+    "docs/media/spreadsinPDF.png",
+    "docs/media/numberingoptions.png",
+    "docs/media/mergelayersonexport.png",
+    "docs/media/load-the-styles-from-on-file-to-another.png",
+    "docs/media/lastpage.png",
+    "docs/media/includebookdocs.png",
+    "docs/media/firstandlastpage.png",
+    "docs/media/firstamdlastspread.png",
+    "docs/media/edittingeachfile.png",
+    "docs/media/bookpagenumberingoptions.png",
+    "docs/Articles/Attention to Detail in Typography with InDesign.md",
+    "docs/Articles/Using the Book Panel in InDesign.md",
     "docs/Articles/Preflight and Package for Print and Output to PDF.md",
-    "docs/media/Screenshot 2017-12-08 11.59.40.png",
-    "docs/media/Screenshot 2017-12-08 12.57.18.png",
-    "docs/media/ID2package/image3.png",
-    "docs/media/ID2package/image2.png",
-    "docs/media/ID2package/image1.png",
-    "docs/media/ID2package/image5.png",
-    "docs/media/ID2package/image4.png",
-    "docs/media/ID2package/image6.png",
-    "docs/media/ID2package/image7.png",
-    "docs/media/ID2package/image1.jpeg",
     "docs/media/ID2package",
     "docs/private/Teaching/Digital Workflow/Week 4.md",
     "docs/private/Teaching/Digital Workflow/Week 3.md",
@@ -180,7 +184,6 @@
     "docs/Articles/Footnotes and other Diversions.md",
     "docs/Articles/Master or Parent Pages in InDesign.md",
     "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
-    "docs/Articles/Attention to Detail in Typography with InDesign.md",
     "docs/private/art/Art Justifications.md",
     "docs/media/masterpages",
     "docs/private/GitHub Recovery.md",
@@ -194,7 +197,6 @@
     "daily/11-03-2023.md",
     "daily/14-03-2023.md",
     "daily/15-03-2023.md",
-    "daily/17-03-2023.md",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
     "docs/private/art/archive",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas",
