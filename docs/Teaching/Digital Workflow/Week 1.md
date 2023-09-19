@@ -14,9 +14,7 @@
 
 ## Choose your play
 
-[Here are all plays on Moodle](https://moodle.brookes.ac.uk/mod/page/view.php?id=2468159)
-
-## Available Shakespeare Plays with short summary
+**Available Shakespeare Plays with short summary**
 
 ### Richard III  
 

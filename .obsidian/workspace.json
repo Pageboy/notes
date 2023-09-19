@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/Teaching_Hold/Multiplatform Publishing/Week 6.md",
+                "file": "docs/Teaching/Digital Workflow/Week 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/private/Teaching_Hold/Multiplatform Publishing/Week 6.md",
+                "file": "docs/Teaching/Digital Workflow/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/private/Teaching_Hold/Multiplatform Publishing/Week 6.md",
+                "file": "docs/Teaching/Digital Workflow/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +157,9 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "d886f93a66ee3a62",
+  "active": "72433125b3ff37c6",
   "lastOpenFiles": [
+    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 6.md",
     "docs/private/Teaching_Hold/Digital Workflow/Week 5.md",
     "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/private/Teaching_Hold/Digital Workflow",
