@@ -30,7 +30,7 @@ Richards’s victory is short-lived after his tyrannical succession is ended in 
 - First Performed:1592-93
 - First Printed: 1623
 
-Shakespeare play, Comedy of errors is a typical example of Shakespearean slapstick comedy. It narrates the comical drama of mistaken identities involving two sets of identical twins separated since birth. Both Antipholus of Syracuse and his servant Dromio have corresponding twins in the likeness of brothers with the same names residing in the city of Ephesus where incidentally syracusans aren’t allowed and the penalty is death.
+Comedy of errors is a typical example of Shakespearean slapstick comedy. It narrates the comical drama of mistaken identities involving two sets of identical twins separated since birth. Both Antipholus of Syracuse and his servant Dromio have corresponding twins in the likeness of brothers with the same names residing in the city of Ephesus where incidentally syracusans aren’t allowed and the penalty is death.
 
 Comedy of errors unfolds over a series of hilarious events involving wrongful accusations, seductions, beatings and even the arrest of Antipholus of Ephesus under the charge of infidelity, thievery and insanity. The play ends on a happy note with both twins united.
 
@@ -55,7 +55,7 @@ The ensuing play then unfolds with the comical story of Petruchio of Verona and 
 - First Performed : 1594-95
 - First Printed : 1623
 
-Shakespeare play, The two gentlemen of Verona is a classic tale of choice between love and friendship. It portrays the story of two friends Proteus and Valentine who both fall in love with the same woman Silvia daughter of the Duke of Milan. Choosing love over friendship, Proteus betrays Valentine’s plan to elope with Silvia resulting in Valentines banishment from Milan.
+The Two Gentlemen of Verona is a classic tale of choice between love and friendship. It portrays the story of two friends Proteus and Valentine who both fall in love with the same woman Silvia daughter of the Duke of Milan. Choosing love over friendship, Proteus betrays Valentine’s plan to elope with Silvia resulting in Valentines banishment from Milan.
 
 Valentine becomes a leader of outlaws in the forest while Silvia attempts to flee and reunite with him. Meanwhile the second heroine Julia, fiancée of Proteus disguises herself as a boy to spy on Proteus. The drama ends on a happy note with the two friends resolving their differences with marriage to their respective lovers.
 
@@ -64,7 +64,7 @@ Valentine becomes a leader of outlaws in the forest while Silvia attempts to fle
 - First Performed : 1594-95
 - First Printed : 1598
 
-Shakespeare Play, Love’s Labour’s Lost is totally deceptive of its title. It follows the exploits of the King of Navarre and his three companions who swear to avoid women for three years in a bid to further academic pursuits and good health. Unfortunately their commitment coincides with the visit of the princess of Aquitaine and her ladies.
+Love’s Labour’s Lost is totally deceptive of its title. It follows the exploits of the King of Navarre and his three companions who swear to avoid women for three years in a bid to further academic pursuits and good health. Unfortunately their commitment coincides with the visit of the princess of Aquitaine and her ladies.
 
 Their previous commitments forgotten, the men engage in a number of attempts to woo the ladies. A comical mix up follows with letters and messages being delivered to the wrong women.
 
@@ -75,7 +75,7 @@ The untimely demise of the Princess’s father dashes all hopes of marriage for 
 - First Performed : 1594-95
 - First Printed : 1597
 
-Shakespeare play, Romeo and Juliet is well known as one of Shakespeare’s most famous tragedy. As a popular theme for modern day love stories, the tragic tale records the story of two lovers Romeo of the house of Montague and Juliet from the house of Capulet. With love doomed to end in failure, the lovers woo each other in the wake of a warring feud between the two houses of Montague and Capulet.
+Romeo and Juliet is well known as one of Shakespeare’s most famous tragedy. As a popular theme for modern day love stories, the tragic tale records the story of two lovers Romeo of the house of Montague and Juliet from the house of Capulet. With love doomed to end in failure, the lovers woo each other in the wake of a warring feud between the two houses of Montague and Capulet.
 
 A heartwarming tale ensues with the lovers finding ways and means to romance each other until their relationship is exposed. Tragic events of anger and hate end in the death of both lovers which reunite both factions overcome with remorse.
 
@@ -111,7 +111,7 @@ Roman general Mark Anthony also friend to Caesar swears revenge. Along with Octa
 - First Performed: 1599-1600
 - First Printed: 1623
 
-Shakespeare Play, As You Like it is one of Shakespeare’s well known comedies made famous for its speech “All the world’s a stage”.
+As You Like it is one of Shakespeare’s well known comedies made famous for its speech “All the world’s a stage”.
 
 A senior Duke has been banished to the Forest of Arden by his younger brother. However his daughter Rosalind is allowed to remain but subsequently flees to join her father. Rosalind the main heroine of the play falls in love with Orlando who also flees to Arden from his elder brother’s dominance.
 
@@ -182,7 +182,7 @@ King Lear gradually sinks into manic depression at the indifferent attitude of h
 - First Performed : 1605-06
 - First Printed : 1623
 
-Shakespeare play, Macbeth is a dramatic representation of the treachery of political ambition and how it can lead to madness. General Macbeth after a victorious battle is prophesied by witches to become king. However the prophesy predicts his friend Banquo’s lineage as his successors.
+Macbeth is a dramatic representation of the treachery of political ambition and how it can lead to madness. General Macbeth after a victorious battle is prophesied by witches to become king. However the prophesy predicts his friend Banquo’s lineage as his successors.
 
 Influenced By his wife, he murders Duncan the King of Scotland and ascends the throne. Fearing that Banquo suspects him, he orders Banquo to be killed in the forest but his son Fleance escapes. The witches warn him against Macduff the thane of Fife. He orders the killing of Macduff and his family however Macduff isn’t present. Meanwhile hi wife becomes insane with guilt and dies.
 
@@ -193,7 +193,7 @@ In revenge, Macduff and Duncan’s son Malcolm wage war on Macbeth killing him i
 - First Performed : 1606-07
 - First Printed : 1623
 
-Shakespeare play, Antony and Cleopatra narrates the relationship between Mark Antony of Rome and Cleopatra the queen of Egypt. Rome is ruled by the triumvirate of Antony, Lepidus and Octavius caesar. However, Antony spends more time with Cleopatra in Egypt. He returns to Rome to successfully quell rebellion by Pompey after which he marries Octavia, Caesars widowed sister.
+Antony and Cleopatra narrates the relationship between Mark Antony of Rome and Cleopatra the queen of Egypt. Rome is ruled by the triumvirate of Antony, Lepidus and Octavius caesar. However, Antony spends more time with Cleopatra in Egypt. He returns to Rome to successfully quell rebellion by Pompey after which he marries Octavia, Caesars widowed sister.
 
 He soon returns to Cleopatra enraging Octavius who then declares war on Anthony in a bid to become sole ruler of Rome. Anthony is defeated in battle and accuses Cleopatra of betraying him. Later, thinking Cleopatra to be dead, Anthony mortally wounds himself and subsequently dies in Cleopatra’s arms. Octavius orders Cleopatra to be brought to Rome, but Cleopatra commits suicide by getting bitten by a poisonous Asp.
 
@@ -220,6 +220,6 @@ Hermione’s daughter grows up as Perdita a shepherd girl and is wooed by Prince
 - First Performed: 1611-12
 - First Printed: 1623
 
-Shakespeare play, The Tempest narrates the tale of Prospero, former Duke of Milan and his daughter Miranda who was usurped by his Brother Antonio and banished to an island. Prospero with his books of magic lives on the island with a savage creature Caliban and Ariel a sprite as his slaves.
+The Tempest narrates the tale of Prospero, former Duke of Milan and his daughter Miranda who was usurped by his Brother Antonio and banished to an island. Prospero with his books of magic lives on the island with a savage creature Caliban and Ariel a sprite as his slaves.
 
 Prospero watches a shipwreck from the island whose passengers were none other than Antonio the usurper, Alonso the king of Naples, his brother Sebastian and his son Prince Ferdinand.The group is washed ashore on the same island. In a series of bemusing events Ferdinand falls in love with Miranda and is married to her with Prospero’s blessings. The entire casts of characters are then brought together and Prospero’s identity is revealed. The play ends in reconciliation and celebration.
