@@ -223,3 +223,8 @@ Hermione’s daughter grows up as Perdita a shepherd girl and is wooed by Prince
 The Tempest narrates the tale of Prospero, former Duke of Milan and his daughter Miranda who was usurped by his Brother Antonio and banished to an island. Prospero with his books of magic lives on the island with a savage creature Caliban and Ariel a sprite as his slaves.
 
 Prospero watches a shipwreck from the island whose passengers were none other than Antonio the usurper, Alonso the king of Naples, his brother Sebastian and his son Prince Ferdinand.The group is washed ashore on the same island. In a series of bemusing events Ferdinand falls in love with Miranda and is married to her with Prospero’s blessings. The entire casts of characters are then brought together and Prospero’s identity is revealed. The play ends in reconciliation and celebration.
+
+## Use the paper to sketch out ideas for the cover of your play
+
+We may start using InDesign
+

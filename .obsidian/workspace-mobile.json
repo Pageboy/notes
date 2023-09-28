@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/art/Artist Influencers.md",
-                "mode": "preview",
+                "file": "docs/Teaching/Digital Workflow/Week 1.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/private/art/Artist Influencers.md",
+            "file": "docs/Teaching/Digital Workflow/Week 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/private/art/Artist Influencers.md",
+            "file": "docs/Teaching/Digital Workflow/Week 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,8 +151,9 @@
   },
   "active": "5d6628678a2cb9e2",
   "lastOpenFiles": [
-    "daily/20-09-2023.md",
     "docs/private/art/Artist Influencers.md",
+    "docs/private/Teaching_Hold/Digital Workflow/Week 2.md",
+    "daily/20-09-2023.md",
     "docs/media/image4_3.png",
     "docs/media/image3-3.jpeg",
     "docs/media/image3-2.jpeg",
@@ -186,7 +187,6 @@
     "docs/private/This is a private note.md",
     "docs/private/art/Galeri Lang.md",
     "docs/private/art/Three Segments.md",
-    "docs/private/art/Computer art.md",
     "docs/media/id2rfl",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",
