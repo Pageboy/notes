@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 1.md",
-                "mode": "source",
+                "file": "docs/Teaching/Digital Workflow/Week 2.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Digital Workflow/Week 1.md",
+            "file": "docs/Teaching/Digital Workflow/Week 2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Digital Workflow/Week 1.md",
+            "file": "docs/Teaching/Digital Workflow/Week 2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,8 +151,9 @@
   },
   "active": "5d6628678a2cb9e2",
   "lastOpenFiles": [
+    "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/private/art/Artist Influencers.md",
-    "docs/private/Teaching_Hold/Digital Workflow/Week 2.md",
+    "docs/Teaching/Digital Workflow/Week 2.md",
     "daily/20-09-2023.md",
     "docs/media/image4_3.png",
     "docs/media/image3-3.jpeg",
@@ -186,7 +187,6 @@
     "Lightplane.md",
     "docs/private/This is a private note.md",
     "docs/private/art/Galeri Lang.md",
-    "docs/private/art/Three Segments.md",
     "docs/media/id2rfl",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",
