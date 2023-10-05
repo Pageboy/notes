@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c56fe54b8a571b5",
+        "id": "9419761f03d88721",
         "type": "tabs",
         "children": [
           {
-            "id": "5d6628678a2cb9e2",
+            "id": "cb983f0b333b1e59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 2.md",
+                "file": "docs/Articles/Using Photoshop and InDesign to Create a Cover for Print.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Digital Workflow/Week 2.md",
+            "file": "docs/Articles/Using Photoshop and InDesign to Create a Cover for Print.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Digital Workflow/Week 2.md",
+            "file": "docs/Articles/Using Photoshop and InDesign to Create a Cover for Print.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,11 +149,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5d6628678a2cb9e2",
+  "active": "cb983f0b333b1e59",
   "lastOpenFiles": [
+    "docs/Teaching/Digital Workflow/Week 3.md",
+    "docs/Articles/Using Photoshop and InDesign to Create a Cover for Print.md",
+    "docs/Teaching/Digital Workflow/Week 2.md",
     "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/private/art/Artist Influencers.md",
-    "docs/Teaching/Digital Workflow/Week 2.md",
     "daily/20-09-2023.md",
     "docs/media/image4_3.png",
     "docs/media/image3-3.jpeg",
@@ -185,8 +187,6 @@
     "docs/Teaching/Multiplatform Publishing/Week 10.md",
     "docs/private/InDesign to the Fixed Layout Recipe eBook.md",
     "Lightplane.md",
-    "docs/private/This is a private note.md",
-    "docs/private/art/Galeri Lang.md",
     "docs/media/id2rfl",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",

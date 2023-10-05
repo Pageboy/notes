@@ -33,6 +33,9 @@ Look around at the screen….
 ## Images
 - Placing
 	- Can be jpg or Photoshop
+	- Folger
+	- use highest res
+	- CMYK
 - Links panel
 - Edit in Photoshop
 
