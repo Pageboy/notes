@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 3.md",
+                "file": "docs/Teaching/Digital Workflow/Week 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 3.md",
+                "file": "docs/Teaching/Digital Workflow/Week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 3.md",
+                "file": "docs/Teaching/Digital Workflow/Week 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +171,11 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "268d0b1f3b851690",
+  "active": "d886f93a66ee3a62",
   "lastOpenFiles": [
+    "docs/private/art/text for pieces/October 2023.md",
+    "docs/private/art/text for pieces/September 2023.md",
+    "docs/Teaching/Digital Workflow/Week 3.md",
     "docs/Articles/Using Photoshop and InDesign to Create a Cover for Print.md",
     "docs/Articles/Master or Parent Pages in InDesign.md",
     "docs/media/shakespeareCover/image3.png",
@@ -186,11 +189,8 @@
     "docs/media/shakespeareCover/image1.jpeg",
     "docs/media/shakespeareCover",
     "docs/media/dreamtrials.jpg",
-    "docs/private/art/text for pieces/October 2023.md",
     "docs/Articles/Untitled.md",
-    "docs/Teaching/Digital Workflow/Week 3.md",
     "docs/private/art/Galleries to Visit.md",
-    "docs/private/art/text for pieces/September 2023.md",
     "docs/private/art/Print sizes by theme.md",
     "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/private/Teaching_Hold/Digital Workflow/Week 2.md",

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Using Photoshop and InDesign to Create a Cover for Print.md",
-                "mode": "source",
+                "file": "docs/private/art/Print sizes by theme.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Articles/Using Photoshop and InDesign to Create a Cover for Print.md",
+            "file": "docs/private/art/Print sizes by theme.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Articles/Using Photoshop and InDesign to Create a Cover for Print.md",
+            "file": "docs/private/art/Print sizes by theme.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,8 +151,15 @@
   },
   "active": "cb983f0b333b1e59",
   "lastOpenFiles": [
-    "docs/Teaching/Digital Workflow/Week 3.md",
+    "docs/private/Teaching_Hold/Digital Workflow/Week 4.md",
+    "docs/private/Multi-Platform module description r.md",
+    "docs/private/Open Source Wikis.md",
+    "docs/private/Teaching_Hold/Digital Workflow/Week 5.md",
+    "docs/private/Blog Post Ideas.md",
+    "docs/private/Jekyll Resources.md",
+    "docs/private/Music for Video.md",
     "docs/Articles/Using Photoshop and InDesign to Create a Cover for Print.md",
+    "docs/Teaching/Digital Workflow/Week 3.md",
     "docs/Teaching/Digital Workflow/Week 2.md",
     "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/private/art/Artist Influencers.md",
@@ -180,13 +187,6 @@
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
     "docs/Teaching/Multiplatform Publishing/Week 8.md",
-    "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
-    "docs/Teaching/DigitalProduct/Week 11.md",
-    "docs/eBookProduction/InDesign to the Fixed Layout Recipe eBook.md",
-    "docs/Teaching/DigitalProduct/Week 10.md",
-    "docs/Teaching/Multiplatform Publishing/Week 10.md",
-    "docs/private/InDesign to the Fixed Layout Recipe eBook.md",
-    "Lightplane.md",
     "docs/media/id2rfl",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",
