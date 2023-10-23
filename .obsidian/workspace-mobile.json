@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
-                "mode": "preview",
+                "file": "docs/private/art/Artist Influencers.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/private/art/Print sizes by theme.md",
+            "file": "docs/private/art/Artist Influencers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/private/art/Print sizes by theme.md",
+            "file": "docs/private/art/Artist Influencers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,6 +151,7 @@
   },
   "active": "cb983f0b333b1e59",
   "lastOpenFiles": [
+    "docs/private/art/Print sizes by theme.md",
     "docs/private/Teaching_Hold/Digital Workflow/Week 4.md",
     "docs/private/Multi-Platform module description r.md",
     "docs/private/Open Source Wikis.md",
@@ -181,7 +182,6 @@
     "docs/private/GitHub Recovery.md",
     "daily/10-08-2023.md",
     "daily/08-08-2023.md",
-    "docs/private/art/Print sizes by theme.md",
     "docs/private/art/Art Justifications.md",
     "docs/private/CV.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
