@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 5.md",
+                "file": "docs/private/art/text for pieces/October 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 5.md",
+                "file": "docs/private/art/text for pieces/October 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 5.md",
+                "file": "docs/private/art/text for pieces/October 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,11 +184,17 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "d886f93a66ee3a62",
+  "active": "0a649148185d12a0",
   "lastOpenFiles": [
-    "docs/Teaching/Digital Workflow/Week 4.md",
+    "docs/private/art/text for pieces/November 2023.md",
     "docs/private/art/text for pieces/October 2023.md",
+    "docs/private/art/text for pieces/Untitled",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/private/art/Image sizes for export.md",
+    "docs/private/Teaching_Hold/Digital Workflow/Week 6.md",
+    "docs/private/art/Artist Influencers.md",
     "docs/private/art/text for pieces/September 2023.md",
+    "docs/Teaching/Digital Workflow/Week 4.md",
     "docs/Teaching/Digital Workflow/Week 3.md",
     "docs/Articles/Using Photoshop and InDesign to Create a Cover for Print.md",
     "docs/Articles/Master or Parent Pages in InDesign.md",
@@ -205,7 +211,6 @@
     "docs/media/dreamtrials.jpg",
     "docs/Articles/Untitled.md",
     "docs/private/art/Galleries to Visit.md",
-    "docs/private/art/Print sizes by theme.md",
     "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/private/Teaching_Hold/Digital Workflow/Week 2.md",
     "daily/20-09-2023.md",
@@ -220,11 +225,7 @@
     "daily/03-03-2023.md",
     "docs/private/Presentations/Introduction and Listing.md",
     "docs/private/StudentMeetings/Rowan Thomas.md",
-    "daily/19 Feb 2022.md",
     "docs/private/art/text for pieces",
-    "docs/private/art/Image sizes for export.md",
-    "docs/private/art/Artist Influencers.md",
-    "docs/Articles/Using the Book Panel in InDesign.md",
     "docs/media/ID2package",
     "docs/media/masterpages",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
@@ -232,7 +233,6 @@
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas",
     "docs/media/id2fxlePub",
     "docs/media/id2rfl",
-    "docs/media/F2A4E4D3-4F85-44A4-8385-24614590DF1C_1_201_a.heic",
-    "docs/private/Presentations"
+    "docs/media/F2A4E4D3-4F85-44A4-8385-24614590DF1C_1_201_a.heic"
   ]
 }
