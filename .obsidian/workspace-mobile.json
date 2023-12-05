@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/art/text for pieces/November 2023.md",
-                "mode": "source",
+                "file": "docs/private/art/text for pieces/December 23.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/private/art/text for pieces/November 2023.md",
+            "file": "docs/private/art/text for pieces/December 23.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/private/art/text for pieces/November 2023.md",
+            "file": "docs/private/art/text for pieces/December 23.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -146,11 +146,21 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "32e1d6162634636e",
   "lastOpenFiles": [
+    "docs/private/art/text for pieces/November 2023.md",
+    "docs/private/art/text for pieces/December 23.md",
+    "docs/Teaching/Digital Workflow/Week 9.md",
+    "docs/private/Blog Post Ideas.md",
+    "docs/Teaching/Digital Workflow/Week 8.md",
+    "Test.md",
+    "docs/private/art/jenningsart/Folding Pieces.md",
+    "docs/private/art/jenningsart",
+    "docs/private/art/archive/Solentris.md",
     "docs/Teaching/Digital Workflow/Week 6.md",
     "docs/Teaching/Digital Workflow/Week 5.md",
     "docs/private/art/Artist Influencers.md",
@@ -159,7 +169,6 @@
     "docs/private/Multi-Platform module description r.md",
     "docs/private/Open Source Wikis.md",
     "docs/private/Teaching_Hold/Digital Workflow/Week 5.md",
-    "docs/private/Blog Post Ideas.md",
     "docs/private/Jekyll Resources.md",
     "docs/private/Music for Video.md",
     "docs/Articles/Using Photoshop and InDesign to Create a Cover for Print.md",
@@ -180,13 +189,6 @@
     "docs/media/ID2package/image1.jpeg",
     "docs/media/ID2package/image1.png",
     "docs/Articles/Preflight and Package for Print and Output to PDF.md",
-    "docs/Articles/Using the Book Panel in InDesign.md",
-    "docs/private/GitHub Recovery.md",
-    "daily/10-08-2023.md",
-    "daily/08-08-2023.md",
-    "docs/private/art/Art Justifications.md",
-    "docs/private/CV.md",
-    "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/media/id2rfl",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",
