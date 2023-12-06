@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 10.md",
+                "file": "docs/Teaching/Digital Workflow/Week 9.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 10.md",
+                "file": "docs/Teaching/Digital Workflow/Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 10.md",
+                "file": "docs/Teaching/Digital Workflow/Week 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +159,9 @@
   },
   "active": "268d0b1f3b851690",
   "lastOpenFiles": [
-    "docs/Teaching/Digital Workflow/Week 9.md",
     "docs/Teaching/Digital Workflow/Week 10.md",
+    "docs/Teaching/Digital Workflow/Week 11.md",
+    "docs/Teaching/Digital Workflow/Week 9.md",
     "docs/private/art/jenningsart/Folding Pieces.md",
     "docs/private/art/jenningsart/Untitled.md",
     "docs/private/art/text for pieces/December 23.md",
@@ -188,7 +189,6 @@
     "docs/private/Teaching_Hold/Digital Workflow/Week 6.md",
     "docs/private/art/text for pieces/September 2023.md",
     "docs/Teaching/Digital Workflow/Week 4.md",
-    "docs/Teaching/Digital Workflow/Week 3.md",
     "docs/media/shakespeareCover/image3.png",
     "docs/media/shakespeareCover/image3.jpeg",
     "docs/media/shakespeareCover/image2.png",

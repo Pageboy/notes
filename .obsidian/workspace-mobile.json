@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3c53dfe312c3e812",
+        "id": "3af02fde13d4e2ed",
         "type": "tabs",
         "children": [
           {
-            "id": "32e1d6162634636e",
+            "id": "e408308448838e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/art/text for pieces/December 23.md",
-                "mode": "preview",
+                "file": "docs/Teaching/Digital Workflow/Week 11.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/private/art/text for pieces/December 23.md",
+            "file": "docs/Teaching/Digital Workflow/Week 11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/private/art/text for pieces/December 23.md",
+            "file": "docs/Teaching/Digital Workflow/Week 11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -150,8 +150,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "32e1d6162634636e",
+  "active": "e408308448838e4f",
   "lastOpenFiles": [
+    "docs/Teaching/Digital Workflow/Week 11.md",
     "docs/private/art/text for pieces/November 2023.md",
     "docs/private/art/text for pieces/December 23.md",
     "docs/Teaching/Digital Workflow/Week 9.md",
@@ -188,7 +189,6 @@
     "docs/media/ID2package/image7.png",
     "docs/media/ID2package/image1.jpeg",
     "docs/media/ID2package/image1.png",
-    "docs/Articles/Preflight and Package for Print and Output to PDF.md",
     "docs/media/id2rfl",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",
