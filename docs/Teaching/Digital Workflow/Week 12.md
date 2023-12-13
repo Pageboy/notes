@@ -14,6 +14,8 @@ You will need a page that starts the play before the Dramatis Personae.This will
 4. modify the TOC to include this style (level 1)
 5. now go back to the play-start page and hide the simple title under a white rectangle.
 
+### More to check
+
 - Check synchronising options
 - [Preflight and Package for Print and Output to PDF](../../Articles/Preflight%20and%20Package%20for%20Print%20and%20Output%20to%20PDF.md)
 - include _instructions_ to printer
