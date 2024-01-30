@@ -8,7 +8,7 @@ tags:
  - css
 ---
 
-You should be able to process your changes in `vscode` and then `push` chnages back to GitHub.
+You should be able to process your changes in `vscode` and then `push` changes back to GitHub.
 
 [From Vscode to Web](From%20Vscode%20to%20Web.md)
 

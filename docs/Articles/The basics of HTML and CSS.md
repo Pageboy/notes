@@ -1,10 +1,9 @@
 ---
 hide:
- - navigation
+  - navigation
 tags:
- - digitalproduct
- - html
- - css
+  - html
+  - css
 ---
 
 This is a very simple explanation of HTML with some examples.

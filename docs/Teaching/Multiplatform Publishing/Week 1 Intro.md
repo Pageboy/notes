@@ -36,4 +36,4 @@ Prettier not needed at the moment
 
 ## Next Steps. Next week
 
-[Week 2 1](Week%202%201.md)
+[Week 2](Week%202.md)

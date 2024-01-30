@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
-                "mode": "preview",
+                "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 464.5
   },
   "right": {
     "id": "13fd9d4d78d9f053",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
+                "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
+                "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +159,15 @@
   },
   "active": "1f2582f9772e45fe",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
+    "docs/Teaching/Multiplatform Publishing/Week 4 1.md",
+    "docs/Teaching/Multiplatform Publishing/Week 3.md",
+    "docs/Teaching/Multiplatform Publishing/Week 2.md",
+    "docs/Teaching/Multiplatform Publishing/Week 2.md",
+    "docs/Articles/The basics of HTML and CSS.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
@@ -181,14 +187,8 @@
     "docs/private/art/jenningsart/Untitled.md",
     "docs/private/art/text for pieces/December.md",
     "docs/private/art/text for pieces/November 2023.md",
-    "docs/private/art/Art Justifications.md",
-    "docs/Articles/Preflight and Package for Print and Output to PDF.md",
     "docs/private/art/jenningsart",
-    "Test.md",
-    "Untitled.md",
     "docs/Articles/Preflight and Package for Print and Output to PDF.html",
-    "docs/Teaching/Multiplatform Publishing/Week 9.md",
-    "docs/private/Teaching_Hold/Digital Workflow/Week 9.md",
     "docs/media/Screenshot 2023-11-13 at 11.41.20.png",
     "docs/private/art/text for pieces/Untitled",
     "docs/media/shakespeareCover/image3.png",
