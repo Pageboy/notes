@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "268d0b1f3b851690",
+            "id": "1f2582f9772e45fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 12.md",
-                "mode": "source",
+                "file": "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 12.md",
+                "file": "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 12.md",
+                "file": "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,19 +157,29 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "268d0b1f3b851690",
+  "active": "1f2582f9772e45fe",
   "lastOpenFiles": [
-    "docs/Teaching/Digital Workflow/Week 11.md",
+    "docs/Teaching/Multiplatform Publishing/Week 7.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
+    "docs/Teaching/Multiplatform Publishing/week7extras",
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+    "docs/private/art/Image sizes for export.md",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/private/art/text for pieces/January 2024.md",
+    "docs/private/art/text for pieces/December 23.md",
+    "docs/private/Teaching_Hold/Design and Technology/Week 1.md",
+    "docs/private/Teaching_Hold/Design and Technology",
+    "docs/private/art/jenningsart/Folding Pieces.md",
     "docs/Teaching/Digital Workflow/Week 12.md",
+    "docs/Teaching/Digital Workflow/Week 11.md",
     "docs/Teaching/Digital Workflow/Week 11 copy.md",
     "docs/private/art/Artist Influencers.md",
     "docs/Teaching/Digital Workflow/Week 9.md",
     "docs/Teaching/Digital Workflow/Week 10.md",
-    "docs/private/art/jenningsart/Folding Pieces.md",
     "docs/private/art/jenningsart/Untitled.md",
-    "docs/private/art/text for pieces/December 23.md",
     "docs/private/art/text for pieces/December.md",
-    "docs/private/art/text for pieces/Untitled.md",
     "docs/private/art/text for pieces/November 2023.md",
     "docs/private/art/Art Justifications.md",
     "docs/Articles/Preflight and Package for Print and Output to PDF.md",
@@ -177,18 +187,10 @@
     "Test.md",
     "Untitled.md",
     "docs/Articles/Preflight and Package for Print and Output to PDF.html",
-    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 9.md",
+    "docs/Teaching/Multiplatform Publishing/Week 9.md",
     "docs/private/Teaching_Hold/Digital Workflow/Week 9.md",
-    "docs/Teaching/Digital Workflow/Week 8.md",
     "docs/media/Screenshot 2023-11-13 at 11.41.20.png",
-    "docs/Teaching/Digital Workflow/Week 6.md",
-    "docs/private/art/Galleries to Visit.md",
-    "docs/private/art/text for pieces/October 2023.md",
     "docs/private/art/text for pieces/Untitled",
-    "docs/private/art/Print sizes by theme.md",
-    "docs/private/art/Image sizes for export.md",
-    "docs/private/Teaching_Hold/Digital Workflow/Week 6.md",
     "docs/media/shakespeareCover/image3.png",
     "docs/media/shakespeareCover/image3.jpeg",
     "docs/media/shakespeareCover/image2.png",
@@ -204,8 +206,6 @@
     "docs/media/ID2package",
     "docs/media/masterpages",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
-    "docs/private/art/archive",
-    "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas",
-    "docs/media/id2fxlePub"
+    "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas"
   ]
 }
