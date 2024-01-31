@@ -15,7 +15,7 @@ tags:
 
 **Checkout this detailed explanation of HTML: **
 
-[The basics of HTML and CSS](../../../Articles/The%20basics%20of%20HTML%20and%20CSS.md)
+[The basics of HTML and CSS](../../Articles/The%20basics%20of%20HTML%20and%20CSS.md)
 
 ![!Here is the plan for assignment 1](ass1plan_1.jpg)
 
@@ -30,8 +30,6 @@ tags:
 * Liveserver
 * Prettier
 * GitHub Pull
-
-Prettier not needed at the moment
 
 
 ## Next Steps. Next week

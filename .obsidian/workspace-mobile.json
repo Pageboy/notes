@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/art/text for pieces/Retrospective.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/private/art/text for pieces/Retrospective.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/private/art/text for pieces/Retrospective.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -166,8 +166,8 @@
   },
   "active": "c0cb0cd7ceedd929",
   "lastOpenFiles": [
-    "docs/private/art/text for pieces/December 23.md",
     "docs/private/art/text for pieces/Retrospective.md",
+    "docs/private/art/text for pieces/December 23.md",
     "docs/private/art/archive/Galeri Lang.md",
     "docs/private/art/archive/Folding Pieces.md",
     "docs/private/art/archive/Turning Pieces.md",

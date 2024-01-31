@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
-                "mode": "source",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 2.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +159,9 @@
   },
   "active": "1f2582f9772e45fe",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+    "docs/private/art/text for pieces/January 2024.md",
+    "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 4 1.md",
     "docs/Teaching/Multiplatform Publishing/Week 3.md",
@@ -170,10 +173,8 @@
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
     "docs/Teaching/Multiplatform Publishing/week7extras",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/private/art/Image sizes for export.md",
     "docs/private/art/Print sizes by theme.md",
-    "docs/private/art/text for pieces/January 2024.md",
     "docs/private/art/text for pieces/December 23.md",
     "docs/private/Teaching_Hold/Design and Technology/Week 1.md",
     "docs/private/Teaching_Hold/Design and Technology",
@@ -186,7 +187,6 @@
     "docs/Teaching/Digital Workflow/Week 10.md",
     "docs/private/art/jenningsart/Untitled.md",
     "docs/private/art/text for pieces/December.md",
-    "docs/private/art/text for pieces/November 2023.md",
     "docs/private/art/jenningsart",
     "docs/Articles/Preflight and Package for Print and Output to PDF.html",
     "docs/media/Screenshot 2023-11-13 at 11.41.20.png",
