@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+                "file": "docs/private/Teaching_Hold/Design and Technology/Week 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+            "file": "docs/private/Teaching_Hold/Design and Technology/Week 2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+            "file": "docs/private/Teaching_Hold/Design and Technology/Week 2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -166,6 +166,8 @@
   },
   "active": "c0cb0cd7ceedd929",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 2.md",
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/private/art/text for pieces/Retrospective.md",
     "docs/private/art/text for pieces/December 23.md",
     "docs/private/art/archive/Galeri Lang.md",
@@ -191,8 +193,6 @@
     "docs/private/Teaching_Hold/Digital Workflow/Week 5.md",
     "docs/private/Jekyll Resources.md",
     "docs/private/Music for Video.md",
-    "docs/Articles/Using Photoshop and InDesign to Create a Cover for Print.md",
-    "docs/Teaching/Digital Workflow/Week 3.md",
     "docs/media/image4_3.png",
     "docs/media/image3-3.jpeg",
     "docs/media/image3-2.jpeg",
