@@ -101,7 +101,41 @@ Hide the Color Fill Layer and we have _Einstein on the Beach_. You can move him 
 
 ## Adding Text
 
-Next section comes later.
+First we create a text box with the text tool. (T in the tools) and then replace the Lorem iprum text with _Einstein on the Beach_
+
+We can change the typeface though the Properties panel
+
+![Typeface](../../media/Screenshot%202024-02-08%20at%2016.11.28.png)
+
+### Maximum Flexibility
+
+Now we are going to use this text separated out into 3 lines by copying and pasting 2 more copies. We can do this by dragging the layer onto the + sign
+
+![3 Layers for text](../../media/Screenshot%202024-02-08%20at%2016.15.32.png)
+
+Now we need to change the type size and arrange the 3 lines
+
+![The text is resized](../../media/Screenshot%202024-02-08%20at%2016.20.37.png)
+
+### Contrast is important for readability
+
+So now we can use the Effects panel to add an outline (Outer Glow) where needed.
+
+![Effects](../../media/Screenshot%202024-02-08%20at%2016.22.43.png)
+
+We see here that word goes over the head...
+
+![Over the head](../../media/Screenshot%202024-02-08%20at%2016.23.40.png)
+
+But we can reorder the layers and put the text under the head and even change the colour...
+
+![Color choice](../../media/Screenshot%202024-02-08%20at%2016.27.52.png)
+
+
+
+
+
+
 
 
 
