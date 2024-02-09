@@ -1,5 +1,9 @@
 ## Photoshop
 
+Turn off those annoying pop videos. 
+
+![Removehelp.png](../../media/Removehelp.png.png)
+
 ### First set this up and add to the menu bar
 
 - You can move the tools to where you like.
