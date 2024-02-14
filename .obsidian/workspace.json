@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Design and Technology/Week 2.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Design and Technology/Week 2.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Design and Technology/Week 2.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +159,11 @@
   },
   "active": "1f2582f9772e45fe",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
+    "docs/Teaching/Multiplatform Publishing/Week 3.md",
+    "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
+    "docs/Teaching/Multiplatform Publishing/Week 2.md",
+    "docs/Teaching/Design and Technology/Week 2.md",
     "docs/media/Removehelp.png.png",
     "docs/media/Screenshot 2024-02-08 at 16.27.52.png",
     "docs/media/Screenshot 2024-02-08 at 16.23.40.png",
@@ -167,20 +172,16 @@
     "docs/media/Screenshot 2024-02-08 at 16.15.32.png",
     "docs/media/Screenshot 2024-02-08 at 16.11.28.png",
     "docs/Teaching/Design and Technology/Week 1.md",
-    "docs/Teaching/Design and Technology/Week 2.md",
     "docs/media/Screenshot 2024-02-08 at 15.37.51.png",
     "docs/media/Screenshot 2024-02-08 at 15.35.52.png",
     "docs/media/Screenshot 2024-02-08 at 15.31.47.png",
-    "docs/media/Screenshot 2024-02-08 at 15.28.54.png",
     "docs/private/art/text for pieces/December 23.md",
     "docs/private/art/text for pieces/January 2024.md",
-    "docs/Teaching/Multiplatform Publishing/Week 2.md",
     "docs/private/art/Artist Influencers.md",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 4 1.md",
-    "docs/Teaching/Multiplatform Publishing/Week 3.md",
     "docs/Articles/The basics of HTML and CSS.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
@@ -196,7 +197,6 @@
     "docs/Teaching/Digital Workflow/Week 11 copy.md",
     "docs/Teaching/Digital Workflow/Week 9.md",
     "docs/Teaching/Digital Workflow/Week 10.md",
-    "docs/private/art/jenningsart/Untitled.md",
     "docs/private/art/jenningsart",
     "docs/Articles/Preflight and Package for Print and Output to PDF.html",
     "docs/private/art/text for pieces/Untitled",

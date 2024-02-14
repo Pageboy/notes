@@ -15,6 +15,9 @@ Now copy the repo link
 
 Now clone the repository in Vscode
 
+> [!note] 
+> This may not look like this since a change has been made to vscode that allows you to edit the repository on GitHub remotely. I am looking into to this.... 
+
 ![](../../../media/Pasted%20image%2020230210170749.png)
 
 And paste the link into here

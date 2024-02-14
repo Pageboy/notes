@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Teaching/Design and Technology/Week 2.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -150,7 +150,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "067faf30219200de",
+  "active": "e408308448838e4f",
   "lastOpenFiles": [
     "docs/media/Removehelp.png.png",
     "docs/private/art/text for pieces/December 23.md",
