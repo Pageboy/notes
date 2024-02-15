@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Design and Technology/Week 2.md",
-                "mode": "source",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 3.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Design and Technology/Week 2.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Design and Technology/Week 2.md",
+            "file": "docs/Teaching/Multiplatform Publishing/Week 3.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -152,9 +152,11 @@
   },
   "active": "e408308448838e4f",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 2.md",
+    "daily/April 3 2022.md",
+    "docs/Teaching/Design and Technology/Week 2.md",
     "docs/media/Removehelp.png.png",
     "docs/private/art/text for pieces/December 23.md",
-    "docs/Teaching/Multiplatform Publishing/Week 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/private/art/text for pieces/Retrospective.md",
     "docs/private/art/archive/Galeri Lang.md",
@@ -178,7 +180,6 @@
     "docs/private/Multi-Platform module description r.md",
     "docs/private/Open Source Wikis.md",
     "docs/private/Teaching_Hold/Digital Workflow/Week 5.md",
-    "docs/private/Jekyll Resources.md",
     "docs/media/image4_3.png",
     "docs/media/image3-3.jpeg",
     "docs/media/image3-2.jpeg",
@@ -188,7 +189,6 @@
     "docs/media/ID2package/image6.png",
     "docs/media/ID2package/image7.png",
     "docs/media/ID2package/image1.jpeg",
-    "docs/media/ID2package/image1.png",
     "docs/media/id2rfl",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",
