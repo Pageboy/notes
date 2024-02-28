@@ -67,6 +67,8 @@ Also add the following ~important~ switch to the toggle hamburger
   }
 ```
 
+[There is a CodePen that explains the responsive menu with a 'Hamburger' icon.](https://codepen.io/pageboy/pen/MWboVVV)
+
 ## For the home page
 
 * Collect together the files in the **docs** folder - this is from the downloaded repository from GitHub
@@ -116,7 +118,7 @@ make sure that the head tag includes the following to overcome any issues:
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 ```
 
-### Optional
+### Suggested
 
 To add an audio clip
 

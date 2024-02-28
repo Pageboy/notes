@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eBookProduction/Fixed-Layout ePub with swashes.md",
+                "file": "docs/Teaching/Design and Technology/Week 3.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6699e59c2836d5fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Teaching/Multiplatform Publishing/Week 5.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/eBookProduction/Fixed-Layout ePub with swashes.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/eBookProduction/Fixed-Layout ePub with swashes.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,14 +171,16 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "1f2582f9772e45fe",
+  "active": "6699e59c2836d5fb",
   "lastOpenFiles": [
+    "docs/private/art/text for pieces/February 2024.md",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/eBookProduction/Fixed-Layout ePub with swashes.md",
     "docs/media/Pasted image 20240222154801.png",
     "docs/media/Pasted image 20240222154731.png",
     "docs/media/Pasted image 20240222154706.png",
     "docs/media/Pasted image 20240222154618.png",
     "docs/eBookProduction/Roundtripping InDesign and ePub re-flowable.md",
-    "docs/eBookProduction/Fixed-Layout ePub with swashes.md",
     "docs/media/Pasted image 20240222152908.png",
     "docs/media/Pasted image 20240222152851.png",
     "docs/media/Pasted image 20240222152810.png",
@@ -176,7 +192,6 @@
     "docs/media/Pasted image 20240215190400.png",
     "docs/media/Pasted image 20240215190312.png",
     "docs/media/Pasted image 20240215190233.png",
-    "docs/media/Pasted image 20240215190204.png",
     "docs/Teaching/Design and Technology/Week 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 3.md",
     "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
@@ -194,7 +209,6 @@
     "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/private/art/Image sizes for export.md",
-    "docs/private/art/Print sizes by theme.md",
     "docs/Teaching/Design and Technology",
     "docs/private/art/jenningsart/Folding Pieces.md",
     "docs/private/art/jenningsart",
