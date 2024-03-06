@@ -33,14 +33,14 @@ Note, you can go right back to the original book panel with the 2 files or use t
 
 ### Presentation?
 
-Much of this is a recap on the varois things learnt whai creating the HTML web page for the play. Essentially we look at the CSS equivelants of the InDesign paragraph and character styles.
+Much of this is a recap on the various things learnt when creating the HTML web page for the play. Essentially we look at the CSS equivalents of the InDesign paragraph and character styles.
 
 There is a longer one on Moodle - watch at your leisure
 
 [eBook Typography](https://www.publisha.org/keynotes/eBookTypography/)
 
 * Then demonstrate Dream play
-* From [book panel](https://www.publisha.org/pages/InDesignBookPanel/)
+* From [book panel](../../Articles/Using%20the%20Book%20Panel%20in%20InDesign.md)
 * Articles additions
 * Export options
 * Export tagging
@@ -64,7 +64,7 @@ For each page that has an unthreaded object (such as the title page) , we need t
 2. Select object export options from the object menu and then
 3. Select an appropriate ePub type and 
 
-![[Screenshot 2022-03-05 at 16.10.08.png]]
+![](../../media/Pasted%20image%2020240302132012.png)
 
 ### Issues
 #### Apple Books

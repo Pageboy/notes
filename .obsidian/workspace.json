@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f2582f9772e45fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/Design and Technology/Week 3.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "6699e59c2836d5fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 5.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 6.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 5.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 5.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +159,16 @@
   },
   "active": "6699e59c2836d5fb",
   "lastOpenFiles": [
-    "docs/private/art/text for pieces/February 2024.md",
+    "docs/Teaching/Multiplatform Publishing/Week 5.md",
+    "docs/Teaching/Digital Workflow/Week 5.md",
+    "docs/private/art/Show titles.md",
+    "docs/private/art/Artist Influencers.md",
     "docs/private/art/Print sizes by theme.md",
+    "docs/private/art/text for pieces/February 2024.md",
+    "docs/Teaching/Multiplatform Publishing/Week 6.md",
+    "docs/media/Pasted image 20240302132012.png",
+    "docs/Teaching/Design and Technology/Week 3.md",
+    "docs/Teaching/Multiplatform Publishing/Week 5 Shakespeare Play notes.md",
     "docs/eBookProduction/Fixed-Layout ePub with swashes.md",
     "docs/media/Pasted image 20240222154801.png",
     "docs/media/Pasted image 20240222154731.png",
@@ -188,10 +182,8 @@
     "docs/Teaching/Multiplatform Publishing/Week 4.md",
     "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 4 1.md",
-    "docs/Teaching/Design and Technology/Week 3.md",
     "docs/media/Pasted image 20240215190400.png",
     "docs/media/Pasted image 20240215190312.png",
-    "docs/media/Pasted image 20240215190233.png",
     "docs/Teaching/Design and Technology/Week 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 3.md",
     "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
@@ -200,17 +192,11 @@
     "docs/Teaching/Design and Technology/Week 1.md",
     "docs/private/art/text for pieces/December 23.md",
     "docs/private/art/text for pieces/January 2024.md",
-    "docs/private/art/Artist Influencers.md",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
-    "docs/Teaching/Multiplatform Publishing/Week 7.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_toc_xhtml.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePub_content_opf.md",
     "docs/Teaching/Multiplatform Publishing/week7extras",
-    "docs/private/art/Image sizes for export.md",
     "docs/Teaching/Design and Technology",
-    "docs/private/art/jenningsart/Folding Pieces.md",
     "docs/private/art/jenningsart",
     "docs/Articles/Preflight and Package for Print and Output to PDF.html",
     "docs/private/art/text for pieces/Untitled",
