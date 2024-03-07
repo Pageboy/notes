@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 6.md",
-                "mode": "preview",
+                "file": "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 6.md",
+                "file": "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 6.md",
+                "file": "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,13 +159,14 @@
   },
   "active": "6699e59c2836d5fb",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 6.md",
+    "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Teaching/Digital Workflow/Week 5.md",
     "docs/private/art/Show titles.md",
     "docs/private/art/Artist Influencers.md",
     "docs/private/art/Print sizes by theme.md",
     "docs/private/art/text for pieces/February 2024.md",
-    "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "docs/media/Pasted image 20240302132012.png",
     "docs/Teaching/Design and Technology/Week 3.md",
     "docs/Teaching/Multiplatform Publishing/Week 5 Shakespeare Play notes.md",
@@ -194,7 +195,6 @@
     "docs/private/art/text for pieces/January 2024.md",
     "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
     "docs/Web Sites with GitHub/Getting responsive with Flex.md",
-    "docs/Teaching/Multiplatform Publishing/week7extras/ePUB_toc_ncx.md",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/Design and Technology",
     "docs/private/art/jenningsart",

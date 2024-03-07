@@ -37,5 +37,12 @@
   "mobilePullAction": "obsidian-markdown-formatting-assistant-plugin:open-command-selector",
   "showUnsupportedFiles": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 89
+  }
 }
