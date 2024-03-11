@@ -11,9 +11,11 @@ The eBook uses the example of a Shakespeare Play with introductory text and imag
 > [!note] 
 >  I recently had to change the title and subtitle to conform to title case rules with Apple. Title case rules should conform to those recommended in '[The Chicago Manual of Style](http://www.pagetoscreen.net/ebooks/books/item/chicago_manual_of_style.html)'
 
-[You can download the eBook from here](https://books.apple.com/gb/book/from-print-book-to-ebook/id981068944)
+[You can download the eBook from Apple here](https://books.apple.com/gb/book/from-print-book-to-ebook/id981068944)
 
-![I have also made this available as a PDF](../../eBookProduction/eBook_production1.30.pdf)
+or -
+
+![I have also made this freelyavailable as a PDF](../../eBookProduction/eBook_production1.30.pdf) {:target="_blank"}
 
 ## Technical Stuff
 
@@ -80,7 +82,7 @@ The eBook uses the example of a Shakespeare Play with introductory text and imag
     - From reflowable to Fixed
     - Editing the ePUB package
     - Summary
-- From InDesign to iBooks Author
+- From InDesign to iBooks Author (edit: iBooks Author is no longer supported by Apple)
     - Templates
     - Layouts
     - From ePub to iBooks Author

@@ -6,7 +6,7 @@ This story was written in 1926 but then not published until 1928, after the auth
 
 This ebook is delivered to you in the ePub format. The epub is optimised for the iPad, but will work equally well on a number of ereaders.
 
-![Download the eBook in ePub format](manlovedislands.epub)
+[Download the eBook in ePub format](manlovedislands.epub)
 
 ## Technical Stuff
 

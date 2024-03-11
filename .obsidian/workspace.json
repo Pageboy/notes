@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/eBooks/The Man Who Loved Islands.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -157,25 +157,25 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "d886f93a66ee3a62",
+  "active": "9200a85ccab17489",
   "lastOpenFiles": [
+    "docs/eBooks/From Print Book to eBook.md",
+    "docs/eBooks/eBook Typography for Flowable eBooks.md",
+    "docs/eBooks/The Encantadas or Enchanted Isles.md",
+    "docs/eBooks/The Man Who Loved Islands.md",
     "docs/eBooks/manlovedislands.epub",
     "docs/media/lovedislands.jpeg",
     "docs/eBooks/The Merry Men.md",
-    "docs/eBooks/The Man Who Loved Islands.md",
     "docs/eBooks/merrymen.epub",
     "docs/media/merrymencover.jpg",
     "docs/eBooks/Memoirs of an Islet.md",
     "docs/media/isletcover.jpg",
     "docs/eBooks/Megalithic Landscapes.md",
     "docs/media/megalithiclandscapescover.jpg",
-    "docs/eBooks/From Print Book to eBook.md",
     "docs/eBookProduction/eBook_production1.30.pdf",
     "docs/media/fromprint2ebook.jpg",
     "docs/media/fromprint2ebook--.jpg",
-    "docs/eBooks/eBook Typography for Flowable eBooks.md",
     "docs/media/typography4eBooks.jpg",
-    "docs/eBooks/The Encantadas or Enchanted Isles.md",
     "docs/media/encantadas.jpg",
     "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
     "docs/eBooks",
@@ -204,7 +204,6 @@
     "docs/Articles/Preflight and Package for Print and Output to PDF.html",
     "docs/private/art/text for pieces/Untitled",
     "docs/media/shakespeareCover",
-    "docs/private/Teaching_Hold/Digital Workflow",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas"
   ]
