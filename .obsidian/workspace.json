@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4e2e96a50004414f",
+        "id": "70eec2e02b6259b0",
         "type": "tabs",
         "children": [
           {
-            "id": "6699e59c2836d5fb",
+            "id": "9200a85ccab17489",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
-                "mode": "source",
+                "file": "docs/private/ebooks/The Man Who Loved Islands.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
+                "file": "docs/private/ebooks/The Man Who Loved Islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
+                "file": "docs/private/ebooks/The Man Who Loved Islands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,10 +157,29 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "6699e59c2836d5fb",
+  "active": "9200a85ccab17489",
   "lastOpenFiles": [
-    "docs/Teaching/Multiplatform Publishing/Week 6.md",
+    "docs/private/ebooks/manlovedislands.epub",
+    "docs/media/lovedislands.jpeg",
+    "docs/private/ebooks/The Merry Men.md",
+    "docs/private/ebooks/The Man Who Loved Islands.md",
+    "docs/private/ebooks/merrymen.epub",
+    "docs/media/merrymencover.jpg",
+    "docs/private/ebooks/Memoirs of an Islet.md",
+    "docs/media/isletcover.jpg",
+    "docs/private/ebooks/Megalithic Landscapes.md",
+    "docs/media/megalithiclandscapescover.jpg",
+    "docs/private/ebooks/From Print Book to eBook.md",
+    "docs/eBookProduction/eBook_production1.30.pdf",
+    "docs/media/fromprint2ebook.jpg",
+    "docs/media/fromprint2ebook--.jpg",
+    "docs/private/ebooks/eBook Typography for Flowable eBooks.md",
+    "docs/media/typography4eBooks.jpg",
+    "docs/private/ebooks/The Encantadas or Enchanted Isles.md",
+    "docs/media/encantadas.jpg",
     "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
+    "docs/private/ebooks",
+    "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Teaching/Digital Workflow/Week 5.md",
     "docs/private/art/Show titles.md",
@@ -172,29 +191,13 @@
     "docs/Teaching/Multiplatform Publishing/Week 5 Shakespeare Play notes.md",
     "docs/eBookProduction/Fixed-Layout ePub with swashes.md",
     "docs/media/Pasted image 20240222154801.png",
-    "docs/media/Pasted image 20240222154731.png",
-    "docs/media/Pasted image 20240222154706.png",
-    "docs/media/Pasted image 20240222154618.png",
     "docs/eBookProduction/Roundtripping InDesign and ePub re-flowable.md",
-    "docs/media/Pasted image 20240222152908.png",
-    "docs/media/Pasted image 20240222152851.png",
-    "docs/media/Pasted image 20240222152810.png",
     "docs/Articles/The basics of HTML and CSS.md",
     "docs/Teaching/Multiplatform Publishing/Week 4.md",
     "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 4 1.md",
-    "docs/media/Pasted image 20240215190400.png",
-    "docs/media/Pasted image 20240215190312.png",
     "docs/Teaching/Design and Technology/Week 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 3.md",
-    "docs/Teaching/Multiplatform Publishing/From Vscode to Web.md",
-    "docs/Web Sites with GitHub/From InDesign to HTML and CSS.md",
-    "docs/Teaching/Multiplatform Publishing/Week 2.md",
-    "docs/Teaching/Design and Technology/Week 1.md",
-    "docs/private/art/text for pieces/December 23.md",
-    "docs/private/art/text for pieces/January 2024.md",
-    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
-    "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/Design and Technology",
     "docs/private/art/jenningsart",
@@ -202,9 +205,6 @@
     "docs/private/art/text for pieces/Untitled",
     "docs/media/shakespeareCover",
     "docs/private/Teaching_Hold/Digital Workflow",
-    "docs/private/art/text for pieces",
-    "docs/media/ID2package",
-    "docs/media/masterpages",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas"
   ]
