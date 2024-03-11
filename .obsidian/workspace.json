@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/ebooks/The Man Who Loved Islands.md",
+                "file": "docs/eBooks/The Man Who Loved Islands.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/private/ebooks/The Man Who Loved Islands.md",
+                "file": "docs/eBooks/The Man Who Loved Islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/private/ebooks/The Man Who Loved Islands.md",
+                "file": "docs/eBooks/The Man Who Loved Islands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,28 +157,28 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "9200a85ccab17489",
+  "active": "d886f93a66ee3a62",
   "lastOpenFiles": [
-    "docs/private/ebooks/manlovedislands.epub",
+    "docs/eBooks/manlovedislands.epub",
     "docs/media/lovedislands.jpeg",
-    "docs/private/ebooks/The Merry Men.md",
-    "docs/private/ebooks/The Man Who Loved Islands.md",
-    "docs/private/ebooks/merrymen.epub",
+    "docs/eBooks/The Merry Men.md",
+    "docs/eBooks/The Man Who Loved Islands.md",
+    "docs/eBooks/merrymen.epub",
     "docs/media/merrymencover.jpg",
-    "docs/private/ebooks/Memoirs of an Islet.md",
+    "docs/eBooks/Memoirs of an Islet.md",
     "docs/media/isletcover.jpg",
-    "docs/private/ebooks/Megalithic Landscapes.md",
+    "docs/eBooks/Megalithic Landscapes.md",
     "docs/media/megalithiclandscapescover.jpg",
-    "docs/private/ebooks/From Print Book to eBook.md",
+    "docs/eBooks/From Print Book to eBook.md",
     "docs/eBookProduction/eBook_production1.30.pdf",
     "docs/media/fromprint2ebook.jpg",
     "docs/media/fromprint2ebook--.jpg",
-    "docs/private/ebooks/eBook Typography for Flowable eBooks.md",
+    "docs/eBooks/eBook Typography for Flowable eBooks.md",
     "docs/media/typography4eBooks.jpg",
-    "docs/private/ebooks/The Encantadas or Enchanted Isles.md",
+    "docs/eBooks/The Encantadas or Enchanted Isles.md",
     "docs/media/encantadas.jpg",
     "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
-    "docs/private/ebooks",
+    "docs/eBooks",
     "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Teaching/Digital Workflow/Week 5.md",
