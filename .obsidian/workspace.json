@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +159,7 @@
   },
   "active": "9200a85ccab17489",
   "lastOpenFiles": [
+    "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/eBooks/The Man Who Loved Islands.md",
     "docs/eBooks/From Print Book to eBook.md",
@@ -198,7 +199,6 @@
     "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 4 1.md",
     "docs/Teaching/Design and Technology/Week 2.md",
-    "docs/Teaching/Multiplatform Publishing/Week 3.md",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/Design and Technology",
     "docs/private/art/jenningsart",

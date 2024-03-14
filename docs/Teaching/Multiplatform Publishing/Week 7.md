@@ -32,7 +32,7 @@ In our project we do have one that is available (as a starting point) [we can fi
 
 > [!note]
 > there is a more substantial document about this here
->  [Editing inside the ePUB package](../../../eBookProduction/Editing%20inside%20the%20ePUB%20package.md)
+> [Editing inside the ePUB package](../../eBookProduction/Editing%20inside%20the%20ePUB%20package.md)
 
 ### Roundtrip
 By having our own CSS file and _only_ editing this file, we can go back to InDesign and make changes as long as we don't make new styles or change the export tagging for the ePub.
@@ -107,9 +107,12 @@ and then we have spine section which determines the order:
 </spine>
 ```
 
-The complete content.opf file looks like this: [[week7extras/ePub_content_opf]]
+The complete content.opf file looks like this: 
+
+[ePub_content_opf](week7extras/ePub_content_opf.md)
 
 #### The table of Contents file(s)
+
 There are 2 of these:
 
 the toc.ncx file id for backwards compatabilty for older devices and readers that only support the ePub (version 2).
