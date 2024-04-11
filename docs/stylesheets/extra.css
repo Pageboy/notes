@@ -1,6 +1,6 @@
 [data-md-color-scheme="slate"] {
   --md-hue: 300;
-  --md-default-fg-color: hsla(12, 64%, 89%, 0.918);
+  --md-default-fg-color: hsla(103, 57%, 68%, 0.918);
   --md-default-fg-color--light: hsl(51, 73%, 43%);
   --md-default-fg-color--lighter: hsl(0, 16%, 89%);
   --md-default-fg-color--lightest: hsla(300, 75%, 90%, 0.12);
@@ -23,6 +23,15 @@
   --md-accent-fg-color--transparent: hsl(44, 52%, 49%);
   --md-accent-bg-color: hsla(0, 0%, 100%, 1);
   --md-accent-bg-color--light: hsla(0, 0%, 100%, 0.7);
+}
+
+@page {
+  size: A4;
+  margin: 10%;
+
+  @bottom-center {
+    content: "Page " counter(page);
+  }
 }
 
 /* body {

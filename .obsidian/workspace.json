@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "70eec2e02b6259b0",
+        "id": "1be67e63fc28d643",
         "type": "tabs",
         "children": [
           {
-            "id": "9200a85ccab17489",
+            "id": "37b02c6e55d6ad8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
+                "file": "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
+                "file": "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 7.md",
+                "file": "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 618.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +157,28 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "9200a85ccab17489",
+  "active": "37b02c6e55d6ad8a",
   "lastOpenFiles": [
-    "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
+    "docs/eBookProduction/Page size in InDesign for eBook?.md",
+    "docs/private/art/Exhibition Proposal - Convergent Symmetries.md",
+    "docs/private/art/Art Justifications.md",
+    "docs/private/art/Exhibition Proposal 0.md",
+    "docs/private/art/~$hibition Proposal.docx",
+    "docs/private/art/Exhibition Proposal.docx",
+    "Untitled.canvas",
+    "docs/media/withtryotych3portraits.jpg",
+    "docs/media/withtryotych.jpg",
+    "docs/private/art/text for pieces/December 23.md",
+    "docs/private/art/text for pieces/Retrospective.md",
+    "docs/private/art/Cutting list for panels.md",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/private/art/Image sizes for export.md",
+    "docs/private/art/archive/Lightplane.md",
+    "docs/private/art/archive/Computer art.md",
+    "docs/private/art/text for pieces/March 2024.md",
+    "docs/private/art/text for pieces/February 2024.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
+    "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
     "docs/eBooks/The Man Who Loved Islands.md",
     "docs/eBooks/From Print Book to eBook.md",
     "docs/eBooks/eBook Typography for Flowable eBooks.md",
@@ -184,27 +202,10 @@
     "docs/Teaching/Multiplatform Publishing/Week 6.md",
     "docs/Teaching/Multiplatform Publishing/Week 5.md",
     "docs/Teaching/Digital Workflow/Week 5.md",
-    "docs/private/art/Show titles.md",
-    "docs/private/art/Artist Influencers.md",
-    "docs/private/art/Print sizes by theme.md",
-    "docs/private/art/text for pieces/February 2024.md",
-    "docs/media/Pasted image 20240302132012.png",
-    "docs/Teaching/Design and Technology/Week 3.md",
-    "docs/Teaching/Multiplatform Publishing/Week 5 Shakespeare Play notes.md",
-    "docs/eBookProduction/Fixed-Layout ePub with swashes.md",
-    "docs/media/Pasted image 20240222154801.png",
-    "docs/eBookProduction/Roundtripping InDesign and ePub re-flowable.md",
-    "docs/Articles/The basics of HTML and CSS.md",
-    "docs/Teaching/Multiplatform Publishing/Week 4.md",
-    "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
-    "docs/Teaching/Multiplatform Publishing/Week 4 1.md",
-    "docs/Teaching/Design and Technology/Week 2.md",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/Design and Technology",
     "docs/private/art/jenningsart",
     "docs/Articles/Preflight and Package for Print and Output to PDF.html",
-    "docs/private/art/text for pieces/Untitled",
-    "docs/media/shakespeareCover",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas"
   ]

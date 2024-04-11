@@ -3,7 +3,7 @@
   "promptDelete": true,
   "attachmentFolderPath": "docs/media",
   "spellcheck": true,
-  "livePreview": false,
+  "livePreview": true,
   "foldHeading": true,
   "foldIndent": true,
   "fileSortOrder": "byModifiedTime",
@@ -43,6 +43,6 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 89
+    "downscalePercent": 72
   }
 }

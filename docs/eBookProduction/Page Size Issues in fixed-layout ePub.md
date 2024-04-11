@@ -7,16 +7,16 @@ tags:
  - indesign
 ---
 
-Following on from page size in the reflowable eBook, how about the fixed-layout eBook after it has been created as a print book? So you have used InDesign to create a wonderful printed book of a Shakespeare play, and you chose a standard page size (my example is: 216mm x138mm). Now when you make the fixed layout eBook from the spreads there might be a few observable problems.
+Following on from page size in the reflowable eBook, how about the fixed-layout eBook after it has been created as a print book? So you have used InDesign to create a wonderful printed book of a Shakespeare play, and you chose a standard page size (my example is: 198mm x129mm). Now when you make the fixed layout eBook from the spreads there might be a few observable problems.
 
 ## Proportion
 
 Our print book spreads will become landscape in the fixed-layout eBook. So, we will get the following proportions:
 
-`width:138 x 2 = 278`
-`height = 216`
+`width:129 x 2 = 258`
+`height = 198`
 
-`Proportion = 216/278 = 0.7777`
+`Proportion = 198/258 = 0.767`
 
 On a computer running Apple iBooks or any other eReader, the proportion is
 not really significant because all computer displays vary in proportion. However, on a tablet such as the iPad the proportion is specifically 6x8 or 0.75. So, we need to modify the size of the pages in the InDesign file very slightly; keeping the width of the pages, we take the width of the spread and multiply by 0.75 and we get 208.5. So we lose about 8mm in the height.
@@ -48,11 +48,11 @@ In Indesign, go to the preferences panel and find the `units and increments` sec
 
 ### Page size
 
-Now go to File>Document setup and see that the page size is now an untidy fraction of pixels (391.181 x 591.024). Not nice!
+Now go to File>Document setup and see that the page size is now an untidy fraction of pixels (365.669 x 562.36). Not nice!
 
 We need to do some adjustment to these numbers to get a 3/4 proportion and hopefully exact pixels numbers. Pixels are tiny little units so this should not impact our designs too much.
 
-The result is a page width of `396 pixels` and page height of `594 pixels`. When we add 2 pages together the landscape becomes `792 x 594 = 8 x 6`.
+The result is a page width of `366 pixels` and page height of `549 pixels`. When we add 2 pages together the landscape becomes `732 x 549 = 8 x 6`.
 
 ## Document set up or pages size
 

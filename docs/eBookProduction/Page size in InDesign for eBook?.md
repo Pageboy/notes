@@ -82,3 +82,5 @@ The reflowable eBook should have the default size for for body text (that means 
 > Note: You can, of course post-edit the ePub and remove the font-size CSS from the style rules for your body text.
 
 After much experimenting then, we find that in a situation where we are creating a reflowable ePub from InDesign _without wanting the print version first_ then the best page size choice is **480 pixels wide and 640 pixels high after selecting the intent for web**.
+
+[see also Page Size Issues in fixed-layout ePub](Page%20Size%20Issues%20in%20fixed-layout%20ePub.md)
