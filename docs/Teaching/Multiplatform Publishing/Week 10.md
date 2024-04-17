@@ -15,6 +15,10 @@ Noting the marking criteria
 
 The more enhancements the better!
 
+> [!tip] 
+> See this comprehensive document that explains all of these techniques. 
+> [Enhancing an eBook with interactivity multimedia and animation](../../eBookProduction/Enhancing%20an%20eBook%20with%20interactivity%20multimedia%20and%20animation.md)
+
 ### Page transitions
 Objects on the page can appear through an animation. One or more objects can be allocated an animation preset and then be set to be invoked on _page load_.
 
