@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 10.md",
+                "file": "docs/eBooks/From Print Book to eBook.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 10.md",
+                "file": "docs/eBooks/From Print Book to eBook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 10.md",
+                "file": "docs/eBooks/From Print Book to eBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +159,7 @@
   },
   "active": "37b02c6e55d6ad8a",
   "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 10.md",
     "docs/eBooks/From Print Book to eBook.md",
     "docs/eBooks/The Man Who Loved Islands.md",
     "docs/eBookProduction/eBook_production1.30.pdf",

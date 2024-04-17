@@ -15,7 +15,11 @@ The eBook uses the example of a Shakespeare Play with introductory text and imag
 
 or -
 
-![I have also made this freelyavailable as a PDF](../../eBookProduction/eBook_production1.30.pdf)
+I have also made this freely available as a PDF
+
+[Grab it here](https://notes.chrisjennings.net/eBookProduction/eBook_production1.30.pdf)
+
+https://notes.chrisjennings.net/eBookProduction/eBook_production1.30.pdf
 
 ## Technical Stuff
 
