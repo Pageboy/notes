@@ -31,6 +31,8 @@ Rather just have an image popup over the smaller view, large versions can arrive
 
 if the image that is to be enlarged does not cover the screen (if it is portrait), then we can extend the graphics area by using _effects_ and then adding an _outer glow_. This will then cover over the other items on the screen but also extend the active button area so as to make the object hide on click/touch.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Etpj56AnfK4?si=B2efZ-A5xTlDniLp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Coming soon
 ### Audio
 

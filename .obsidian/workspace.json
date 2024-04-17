@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 10.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +159,13 @@
   },
   "active": "37b02c6e55d6ad8a",
   "lastOpenFiles": [
+    "docs/eBooks/From Print Book to eBook.md",
+    "docs/eBooks/The Man Who Loved Islands.md",
+    "docs/eBookProduction/eBook_production1.30.pdf",
+    "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
+    "docs/eBookProduction/Notes on Fixed Layout.md",
+    "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
+    "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
     "docs/eBookProduction/Page size in InDesign for eBook?.md",
     "docs/private/art/Exhibition Proposal - Convergent Symmetries.md",
     "docs/private/art/Art Justifications.md",
@@ -179,8 +186,6 @@
     "docs/private/art/text for pieces/February 2024.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
-    "docs/eBooks/The Man Who Loved Islands.md",
-    "docs/eBooks/From Print Book to eBook.md",
     "docs/eBooks/eBook Typography for Flowable eBooks.md",
     "docs/eBooks/The Encantadas or Enchanted Isles.md",
     "docs/eBooks/manlovedislands.epub",
@@ -190,18 +195,12 @@
     "docs/media/merrymencover.jpg",
     "docs/eBooks/Memoirs of an Islet.md",
     "docs/media/isletcover.jpg",
-    "docs/eBooks/Megalithic Landscapes.md",
     "docs/media/megalithiclandscapescover.jpg",
-    "docs/eBookProduction/eBook_production1.30.pdf",
     "docs/media/fromprint2ebook.jpg",
     "docs/media/fromprint2ebook--.jpg",
     "docs/media/typography4eBooks.jpg",
     "docs/media/encantadas.jpg",
-    "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
     "docs/eBooks",
-    "docs/Teaching/Multiplatform Publishing/Week 6.md",
-    "docs/Teaching/Multiplatform Publishing/Week 5.md",
-    "docs/Teaching/Digital Workflow/Week 5.md",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/Design and Technology",
     "docs/private/art/jenningsart",

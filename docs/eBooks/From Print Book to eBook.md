@@ -15,7 +15,7 @@ The eBook uses the example of a Shakespeare Play with introductory text and imag
 
 or -
 
-![I have also made this freelyavailable as a PDF](../../eBookProduction/eBook_production1.30.pdf) {:target="_blank"}
+![I have also made this freelyavailable as a PDF](../../eBookProduction/eBook_production1.30.pdf)
 
 ## Technical Stuff
 
