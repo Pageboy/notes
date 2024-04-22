@@ -10,7 +10,7 @@ tags:
 ## Enhancing the fixed layout eBook
 >Note: Apple have a document which [covers a lot of this here](https://help.apple.com/itc/booksassetguide).
 
-[Enhancing an eBook with interactivity multimedia and animation](../../../eBookProduction/Enhancing%20an%20eBook%20with%20interactivity%20multimedia%20and%20animation.md)
+[Enhancing an eBook with interactivity multimedia and animation](../../eBookProduction/Enhancing%20an%20eBook%20with%20interactivity%20multimedia%20and%20animation.md)
 
 ## Audio
 - ambient
@@ -30,8 +30,7 @@ Look for player buttons on Google - images.
 ### Ambient sound
 By default, audio will stop when the page is changed, however, for Apple Books it is possible to use special code to get the sound to continue playing. _This does involve editing the HTML inside the ePub package_
 
-[Ambient Sound in a Fixed-Layout ePub](../../../eBookProduction/Ambient%20Sound%20in%20a%20Fixed-Layout%20ePub.md)
-
+[Ambient Sound in a Fixed-Layout ePub](../../eBookProduction/Ambient%20Sound%20in%20a%20Fixed-Layout%20ePub.md)
 
 ### Read Aloud
 The fixed layout eBook does offer support for a _read aloud_ feature. This is quite a complex process through:
@@ -78,6 +77,8 @@ You can install this for yourself on the MAC in your user application folder.
 
 > [!caution] 
 > This doesn't seem to work at the moment 
+
+You could try this:
 
 [https://ytb.rip/3/](https://ytb.rip/3/)
 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eBooks/From Print Book to eBook.md",
-                "mode": "preview",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/eBooks/From Print Book to eBook.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/eBooks/From Print Book to eBook.md",
+                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +159,9 @@
   },
   "active": "37b02c6e55d6ad8a",
   "lastOpenFiles": [
-    "docs/Teaching/Multiplatform Publishing/Week 10.md",
+    "docs/private/art/text for pieces/April 2024.md",
     "docs/eBooks/From Print Book to eBook.md",
+    "docs/Teaching/Multiplatform Publishing/Week 10.md",
     "docs/eBooks/The Man Who Loved Islands.md",
     "docs/eBookProduction/eBook_production1.30.pdf",
     "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
@@ -194,7 +195,6 @@
     "docs/eBooks/The Merry Men.md",
     "docs/eBooks/merrymen.epub",
     "docs/media/merrymencover.jpg",
-    "docs/eBooks/Memoirs of an Islet.md",
     "docs/media/isletcover.jpg",
     "docs/media/megalithiclandscapescover.jpg",
     "docs/media/fromprint2ebook.jpg",
