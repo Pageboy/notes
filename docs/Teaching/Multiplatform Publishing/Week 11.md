@@ -35,7 +35,7 @@ By default, audio will stop when the page is changed, however, for Apple Books i
 ### Read Aloud
 The fixed layout eBook does offer support for a _read aloud_ feature. This is quite a complex process through:
 
-[Enhancing an eBook with interactivity multimedia and animation](../../eBookProduction/Enhancing%20an%20eBook%20with%20interactivity%20multimedia%20and%20animation.md-#readaloud)
+[Enhancing an eBook with interactivity multimedia and animation](https://notes.chrisjennings.net/eBookProduction/Enhancing%20an%20eBook%20with%20interactivity%20multimedia%20and%20animation/#read-aloud)
 
 ## Video
 Video in the form of _mp4_ can be added to a page. You can use the default controller and this may look different on different reading systems.
