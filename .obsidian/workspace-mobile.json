@@ -27,6 +27,32 @@
               "type": "markdown",
               "state": {
                 "file": "docs/private/Substack articles/Arcs and Arches.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "075a8760b08e27a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/private/art/Print sizes by theme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2aec526cb0da72f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Teaching/Digital Workflow/Notes for Each Week.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/private/Substack articles/Arcs and Arches.md",
+            "file": "docs/Teaching/Digital Workflow/Notes for Each Week.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +143,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/private/Substack articles/Arcs and Arches.md",
+            "file": "docs/Teaching/Digital Workflow/Notes for Each Week.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -164,8 +190,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dba047e5f43391d2",
+  "active": "f2aec526cb0da72f",
   "lastOpenFiles": [
+    "docs/Teaching/Digital Workflow/Week 2.md",
+    "docs/Teaching/Digital Workflow/Notes for Each Week.md",
+    "docs/Teaching/Digital Workflow/Week 1.md",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/private/art/text for pieces/August 24.md",
+    "docs/private/art/Artist Influencers.md",
+    "July 2024.md",
+    "docs/private/Substack articles/Arcs and Arches.md",
+    "Untitled",
+    "docs/Teaching/Multiplatform Publishing/Week 11.md",
+    "docs/media/Pasted image 20240630134920.jpg",
     "docs/media/_DSC7633.jpeg",
     "docs/media/_DSC7828.jpeg",
     "docs/media/_DSC7758.jpeg",
@@ -173,15 +210,11 @@
     "docs/media/arch1.jpg",
     "docs/media/N72_1547.jpeg",
     "docs/private/art/Galleries to Visit.md",
-    "docs/private/Substack articles/Arcs and Arches.md",
     "docs/private/Substack articles",
     "Untitled.md",
-    "docs/private/art/Artist Influencers.md",
     "daily/27-04-2024.md",
     "daily/25-04-2024.md",
-    "Untitled 1.md",
     "daily/01-02-2023.md",
-    "docs/Teaching/Multiplatform Publishing/Week 11.md",
     "docs/Teaching/Multiplatform Publishing/Week 10.md",
     "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
     "docs/private/art/Art Justifications.md",
@@ -194,16 +227,10 @@
     "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 4 1.md",
     "docs/Teaching/Multiplatform Publishing/Week 3.md",
-    "docs/Teaching/Multiplatform Publishing/Week 2.md",
-    "daily/April 3 2022.md",
-    "docs/Teaching/Design and Technology/Week 2.md",
     "docs/media/Removehelp.png.png",
-    "docs/private/art/text for pieces/December 23.md",
     "docs/private/art/jenningsart",
     "docs/media/image4_3.png",
     "docs/media/image3-3.jpeg",
-    "docs/media/image3-2.jpeg",
-    "docs/media/image6_2.png",
     "docs/media/id2rfl",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",
