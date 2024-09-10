@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
+                "file": "docs/Teaching/Digital Workflow/Digital Workflow - Notes for Each Week.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,12 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2aec526cb0da72f",
+  "active": "075a8760b08e27a3",
   "lastOpenFiles": [
-    "docs/Teaching/Digital Workflow/Week 2.md",
-    "docs/Teaching/Digital Workflow/Digital Workflow - Notes for Each Week.md",
-    "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/private/art/Print sizes by theme.md",
+    "docs/Teaching/Digital Workflow/Digital Workflow - Notes for Each Week.md",
+    "docs/Teaching/Digital Workflow/Week 2.md",
+    "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/private/art/text for pieces/August 24.md",
     "docs/private/art/Artist Influencers.md",
     "July 2024.md",
