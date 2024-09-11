@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Digital Workflow - Notes for Each Week.md",
+                "file": "docs/Teaching/Digital Workflow/Digital Workflow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Digital Workflow - Notes for Each Week.md",
+                "file": "docs/Teaching/Digital Workflow/Digital Workflow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Digital Workflow/Digital Workflow - Notes for Each Week.md",
+            "file": "docs/Teaching/Digital Workflow/Digital Workflow.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Digital Workflow/Digital Workflow - Notes for Each Week.md",
+            "file": "docs/Teaching/Digital Workflow/Digital Workflow.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -193,8 +193,9 @@
   },
   "active": "075a8760b08e27a3",
   "lastOpenFiles": [
+    "docs/Teaching/Design and Technology/Week 1.md",
+    "docs/Teaching/Digital Workflow/Digital Workflow.md",
     "docs/private/art/Print sizes by theme.md",
-    "docs/Teaching/Digital Workflow/Digital Workflow - Notes for Each Week.md",
     "docs/Teaching/Digital Workflow/Week 2.md",
     "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/private/art/text for pieces/August 24.md",
@@ -227,7 +228,6 @@
     "docs/eBookProduction/Editing inside the ePUB package.md",
     "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
     "docs/Teaching/Multiplatform Publishing/Week 4 1.md",
-    "docs/Teaching/Multiplatform Publishing/Week 3.md",
     "docs/media/Removehelp.png.png",
     "docs/private/art/jenningsart",
     "docs/media/image4_3.png",
