@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3af02fde13d4e2ed",
+        "id": "03159dfedb683f16",
         "type": "tabs",
         "children": [
           {
-            "id": "e408308448838e4f",
+            "id": "cd048d9f9ca1d76a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Multiplatform Publishing/Week 11.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dba047e5f43391d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/private/Substack articles/Arcs and Arches.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "075a8760b08e27a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/Digital Workflow/Digital Workflow.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2aec526cb0da72f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Teaching/Digital Workflow/Digital Workflow.md",
+                "file": "docs/Teaching/Digital Workflow/Week 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Digital Workflow/Digital Workflow.md",
+            "file": "docs/Teaching/Digital Workflow/Week 5.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Digital Workflow/Digital Workflow.md",
+            "file": "docs/Teaching/Digital Workflow/Week 5.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,26 +151,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "075a8760b08e27a3",
+  "active": "cd048d9f9ca1d76a",
   "lastOpenFiles": [
-    "docs/Teaching/Design and Technology/Week 1.md",
-    "docs/Teaching/Digital Workflow/Digital Workflow.md",
+    "docs/private/art/Cutting list for panels.md",
     "docs/private/art/Print sizes by theme.md",
+    "docs/media/plan.jpg",
+    "docs/private/art/plan.jpg",
+    "docs/private/art/Cutting list for panels.pages",
+    "docs/media/Untitled.jpg",
+    "docs/private/art/Untitled.jpg",
+    "docs/private/art/Image sizes for export.md",
+    "docs/Teaching/Digital Workflow/Digital Workflow.md",
+    "docs/Teaching/Multiplatform Publishing/Week 11.md",
+    "docs/private/Substack articles/Arcs and Arches.md",
+    "docs/Teaching/Design and Technology/Week 1.md",
     "docs/Teaching/Digital Workflow/Week 2.md",
     "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/private/art/text for pieces/August 24.md",
     "docs/private/art/Artist Influencers.md",
     "July 2024.md",
-    "docs/private/Substack articles/Arcs and Arches.md",
     "Untitled",
-    "docs/Teaching/Multiplatform Publishing/Week 11.md",
     "docs/media/Pasted image 20240630134920.jpg",
     "docs/media/_DSC7633.jpeg",
     "docs/media/_DSC7828.jpeg",
     "docs/media/_DSC7758.jpeg",
     "docs/media/N72_1558.jpeg",
     "docs/media/arch1.jpg",
-    "docs/media/N72_1547.jpeg",
     "docs/private/art/Galleries to Visit.md",
     "docs/private/Substack articles",
     "Untitled.md",
@@ -226,12 +192,7 @@
     "docs/private/art/Show titles.md",
     "docs/Teaching/Multiplatform Publishing/Week 7.md",
     "docs/eBookProduction/Editing inside the ePUB package.md",
-    "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
-    "docs/Teaching/Multiplatform Publishing/Week 4 1.md",
-    "docs/media/Removehelp.png.png",
     "docs/private/art/jenningsart",
-    "docs/media/image4_3.png",
-    "docs/media/image3-3.jpeg",
     "docs/media/id2rfl",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/DigitalProduct/Assignment 2.canvas",

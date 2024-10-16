@@ -29,4 +29,7 @@ The Imprint Page is the page that appears on the back of the Title Page. It cont
 > The word “colophon” comes from the Greek “κολοφών” meaning “summit” or “finishing touch.” Around the turn of the 20th century, private and commercial presses began including colophons in the back of their books and listed different technical and material information about the book: the front, paper type, binding process, cover material, etc. This simply adds another layer of recognition for the publisher and the work that went into turning the story into a physical book.
 
 
+Please see further details in this document: [Attention to Detail in Typography with InDesign](../../Articles/Attention%20to%20Detail%20in%20Typography%20with%20InDesign.md)
+
+
 

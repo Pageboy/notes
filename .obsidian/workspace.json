@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
-                "mode": "source",
+                "file": "docs/private/Notes for videos.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
+                "file": "docs/private/Notes for videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/private/art/Print sizes by theme.md",
+                "file": "docs/private/Notes for videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
@@ -186,6 +187,27 @@
   },
   "active": "cec014e238b71f88",
   "lastOpenFiles": [
+    "docs/Teaching/Digital Workflow/Week 5.md",
+    "docs/Articles/Attention to Detail in Typography with InDesign.md",
+    "Screenshot.md",
+    "docs/media/Screenshot 2017-12-05 19.50.54.png",
+    "docs/media/Screenshot 2017-12-05 21.52.15.png",
+    "docs/media/Screenshot 2017-12-05 22.08.05.png",
+    "docs/private/Teaching_Hold/DigitalProduct/Week 2.md",
+    "docs/private/Teaching_Hold/DigitalProduct/Week 1.md",
+    "docs/private/Teaching_Hold/DigitalProduct/Week 10.md",
+    "docs/private/Teaching_Hold/DigitalProduct/Week 11.md",
+    "docs/private/Teaching_Hold/DigitalProduct/Week 6.md",
+    "docs/private/Teaching_Hold/DigitalProduct/Week 4.md",
+    "docs/Teaching/Digital Workflow/Digital Workflow.md",
+    "docs/Teaching/Design and Technology/Week 1.md",
+    "docs/Teaching/Design and Technology/Week 2.md",
+    "docs/Teaching/Design and Technology/Week 3.md",
+    "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
+    "docs/private/art/Cutting list for panels.md",
+    "docs/media/plan.jpg",
+    "docs/private/art/plan.jpg",
+    "docs/private/art/Print sizes by theme.md",
     "docs/private/art/archive/Galeri Lang.md",
     "docs/private/art/archive/Folding Pieces.md",
     "docs/private/art/jenningsart/Folding Pieces.md",
@@ -195,25 +217,8 @@
     "docs/private/art/text for pieces/November 2023.md",
     "docs/private/art/text for pieces/Retrospective.md",
     "docs/private/art/text for pieces/January 2024.md",
-    "docs/private/art/text for pieces/February 2024.md",
-    "docs/private/art/text for pieces/June 2024.md",
-    "docs/private/art/text for pieces/July 24.md",
-    "docs/private/art/text for pieces/March 2024.md",
-    "docs/private/art/text for pieces/April 2024.md",
-    "docs/private/art/Exhibition Proposal - Convergent Symmetries.md",
-    "docs/private/art/Artist Influencers.md",
-    "docs/Articles/Using Flickr to Generate an Image Gallery.md",
     "docs/media/Screenshot 2024-06-19 at 10.28.25.png",
-    "[.md",
-    "docs/Articles/Sharing to Facebook and Twitter.md",
-    "docs/private/art/Art Justifications.md",
-    "daily/28-05-2024.md",
     "Untitled 1.canvas",
-    "daily/27-04-2024.md",
-    "Untitled 1.md",
-    "daily/28-04-2024.md",
-    "daily/26-04-2024.md",
-    "daily/25-04-2024.md",
     "docs/eBookProduction/eBook_production1.30.pdf",
     "docs/private/art/~$hibition Proposal.docx",
     "docs/private/art/Exhibition Proposal.docx",
@@ -224,11 +229,6 @@
     "docs/media/lovedislands.jpeg",
     "docs/eBooks/merrymen.epub",
     "docs/media/merrymencover.jpg",
-    "docs/media/isletcover.jpg",
-    "docs/media/megalithiclandscapescover.jpg",
-    "docs/media/fromprint2ebook.jpg",
-    "docs/media/fromprint2ebook--.jpg",
-    "docs/media/typography4eBooks.jpg",
     "docs/eBooks",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/Design and Technology",
