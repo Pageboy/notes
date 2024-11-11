@@ -39,7 +39,7 @@ Now see the play in the structure pane
 - Drag the dramatis personae onto the first page
 - Now drag the play onto the third page
 
-#### map the tags with the styles
+#### Map the tags To Styles
 
 From the context menu on the structure pane see the menu item _Map tags to Styles_
 

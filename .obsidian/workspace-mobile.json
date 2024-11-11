@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 5.md",
+                "file": "docs/private/art/Print sizes by theme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Print sizes by theme"
             }
           }
         ]
@@ -36,7 +38,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "byModifiedTime"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -51,7 +55,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -62,7 +68,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -70,7 +78,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -86,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Teaching/Digital Workflow/Week 5.md",
+            "file": "docs/private/art/text for pieces/October 2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +104,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -103,10 +115,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Teaching/Digital Workflow/Week 5.md",
+            "file": "docs/private/art/text for pieces/October 2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -114,7 +128,9 @@
         "type": "leaf",
         "state": {
           "type": "git-view",
-          "state": {}
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       },
       {
@@ -122,7 +138,9 @@
         "type": "leaf",
         "state": {
           "type": "calendar",
-          "state": {}
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       },
       {
@@ -130,7 +148,9 @@
         "type": "leaf",
         "state": {
           "type": "side-panel-control-view",
-          "state": {}
+          "state": {},
+          "icon": "viewIcon",
+          "title": "Markdown-Autocomplete"
         }
       }
     ],
@@ -138,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "post-medium-draft:Post Medium draft": false,
       "gpt3-notes:GPT-3 Notes": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
@@ -153,6 +174,10 @@
   },
   "active": "cd048d9f9ca1d76a",
   "lastOpenFiles": [
+    "docs/Teaching/Digital Workflow/Week 6.md",
+    "docs/private/art/Art Sites requirements.md",
+    "docs/private/art/text for pieces/October 2024.md",
+    "docs/Teaching/Digital Workflow/Week 5.md",
     "docs/private/art/Cutting list for panels.md",
     "docs/private/art/Print sizes by theme.md",
     "docs/media/plan.jpg",
@@ -188,10 +213,6 @@
     "docs/private/art/Art Justifications.md",
     "docs/eBooks/Megalithic Landscapes.md",
     "docs/eBooks/The Encantadas or Enchanted Isles.md",
-    "docs/eBooks/Memoirs of an Islet.md",
-    "docs/private/art/Show titles.md",
-    "docs/Teaching/Multiplatform Publishing/Week 7.md",
-    "docs/eBookProduction/Editing inside the ePUB package.md",
     "docs/private/art/jenningsart",
     "docs/media/id2rfl",
     "docs/Teaching/Multiplatform Publishing/week7extras",

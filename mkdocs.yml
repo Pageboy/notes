@@ -6,10 +6,8 @@ copyright: Copyright &copy; 2023 Chris Jennings
 repo_url: https://github.com/Pageboy/pageboy.github.io
 extra:
   social:
-    - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/pageboy
     - icon: fontawesome/brands/instagram 
-      link: https://instagram.com/pagebuoy
+      link: https://www.instagram.com/chris.jennings.art/
 features:
   - navigation.indexes
 extra_css:

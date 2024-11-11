@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Using Flickr to Generate an Image Gallery"
             }
           },
           {
@@ -26,11 +28,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/private/Notes for videos.md",
-                "mode": "preview",
+                "file": "docs/private/art/text for pieces/August 24.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "August 24"
+            }
+          },
+          {
+            "id": "a8ca4c175c5fa17b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/private/art/text for pieces/October 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "October 2024"
+            }
+          },
+          {
+            "id": "da92544b2c267623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Teaching/Digital Workflow/Week 8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 8"
             }
           },
           {
@@ -43,11 +77,13 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Exhibition Proposal - Convergent Symmetries"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -67,7 +103,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -82,7 +120,9 @@
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -90,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -113,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/private/Notes for videos.md",
+                "file": "docs/Articles/Footnotes and other Diversions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +163,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Footnotes and other Diversions"
             }
           },
           {
@@ -130,10 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/private/Notes for videos.md",
+                "file": "docs/Articles/Footnotes and other Diversions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Footnotes and other Diversions"
             }
           },
           {
@@ -144,7 +190,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -152,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -160,7 +210,9 @@
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
-              "state": {}
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           }
         ],
@@ -168,7 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 618.5
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,13 +234,22 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "gpt3-notes:GPT-3 Notes": false
+      "gpt3-notes:GPT-3 Notes": false,
+      "post-medium-draft:Post Medium draft": false
     }
   },
-  "active": "cec014e238b71f88",
+  "active": "da92544b2c267623",
   "lastOpenFiles": [
-    "docs/Teaching/Digital Workflow/Week 5.md",
+    "docs/private/art/text for pieces/July 24.md",
+    "July 2024.md",
+    "docs/private/art/text for pieces/October 2023.md",
+    "docs/private/art/text for pieces/August 24.md",
+    "docs/private/art/text for pieces/October 2024.md",
+    "docs/Articles/Building the TOC in InDesign.md",
+    "docs/Articles/Footnotes and other Diversions.md",
     "docs/Articles/Attention to Detail in Typography with InDesign.md",
+    "docs/private/Notes for videos.md",
+    "docs/Teaching/Digital Workflow/Week 5.md",
     "Screenshot.md",
     "docs/media/Screenshot 2017-12-05 19.50.54.png",
     "docs/media/Screenshot 2017-12-05 21.52.15.png",
@@ -210,13 +271,6 @@
     "docs/private/art/Print sizes by theme.md",
     "docs/private/art/archive/Galeri Lang.md",
     "docs/private/art/archive/Folding Pieces.md",
-    "docs/private/art/jenningsart/Folding Pieces.md",
-    "docs/private/art/text for pieces/October 2023.md",
-    "docs/private/art/text for pieces/December 23.md",
-    "docs/private/art/text for pieces/September 2023.md",
-    "docs/private/art/text for pieces/November 2023.md",
-    "docs/private/art/text for pieces/Retrospective.md",
-    "docs/private/art/text for pieces/January 2024.md",
     "docs/media/Screenshot 2024-06-19 at 10.28.25.png",
     "Untitled 1.canvas",
     "docs/eBookProduction/eBook_production1.30.pdf",
