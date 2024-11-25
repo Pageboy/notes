@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 8.md",
+                "file": "docs/private/art/text for pieces/November 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 8"
+              "title": "November 2024"
             }
           },
           {
@@ -234,17 +234,18 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "gpt3-notes:GPT-3 Notes": false,
-      "post-medium-draft:Post Medium draft": false
+      "gpt3-notes:GPT-3 Notes": false
     }
   },
   "active": "da92544b2c267623",
   "lastOpenFiles": [
+    "docs/private/art/text for pieces/August 24.md",
+    "docs/private/art/text for pieces/October 2024.md",
+    "docs/private/art/text for pieces/November 2024.md",
+    "docs/Teaching/Digital Workflow/Week 8.md",
     "docs/private/art/text for pieces/July 24.md",
     "July 2024.md",
     "docs/private/art/text for pieces/October 2023.md",
-    "docs/private/art/text for pieces/August 24.md",
-    "docs/private/art/text for pieces/October 2024.md",
     "docs/Articles/Building the TOC in InDesign.md",
     "docs/Articles/Footnotes and other Diversions.md",
     "docs/Articles/Attention to Detail in Typography with InDesign.md",
@@ -269,8 +270,6 @@
     "docs/media/plan.jpg",
     "docs/private/art/plan.jpg",
     "docs/private/art/Print sizes by theme.md",
-    "docs/private/art/archive/Galeri Lang.md",
-    "docs/private/art/archive/Folding Pieces.md",
     "docs/media/Screenshot 2024-06-19 at 10.28.25.png",
     "Untitled 1.canvas",
     "docs/eBookProduction/eBook_production1.30.pdf",
