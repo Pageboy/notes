@@ -4,8 +4,9 @@ hide:
 tags:
   - indesign
   - typography
+title: Attention to Detail in Typography with InDesign
 aliases:
-  - Add Slugified Title into Aliases
+  - attention-to-detail-in-typography-with-indesign
 ---
 
 ## Introduction
