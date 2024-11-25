@@ -72,6 +72,8 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - blog:
+      post_slugify_separator: _
   - glightbox:
       touchNavigation: true
       loop: false

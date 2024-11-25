@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Attention to Detail in Typography with InDesign.md",
-                "mode": "source",
+                "file": "docs/Articles/Using the Book Panel in InDesign.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Attention to Detail in Typography with InDesign"
+              "title": "Using the Book Panel in InDesign"
             }
           },
           {
@@ -269,6 +269,8 @@
   },
   "active": "a8ca4c175c5fa17b",
   "lastOpenFiles": [
+    "docs/private/art/text for pieces/August 24.md",
+    "docs/private/art/text for pieces/October 2024.md",
     "docs/Articles/Using the Book Panel in InDesign.md",
     "docs/Articles/Attention to Detail in Typography with InDesign.md",
     "docs/Articles/Using Flickr to Generate an Image Gallery.md",
@@ -278,8 +280,6 @@
     "docs/Teaching/Digital Workflow/Week 9.md",
     "docs/Teaching/Digital Workflow/Digital Workflow.md",
     "docs/Teaching/Digital Workflow/Week 11.md",
-    "docs/private/art/text for pieces/October 2024.md",
-    "docs/private/art/text for pieces/August 24.md",
     "docs/Teaching/Digital Workflow/Week 8.md",
     "docs/private/art/text for pieces/July 24.md",
     "July 2024.md",
