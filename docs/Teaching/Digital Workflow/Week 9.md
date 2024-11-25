@@ -1,4 +1,4 @@
-# Dramatis Personae
+## Dramatis Personae
 
 What is it?
 Plays will always have a list of the characters and their roles
