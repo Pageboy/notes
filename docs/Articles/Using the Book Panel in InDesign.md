@@ -1,3 +1,12 @@
+---
+hide:
+ - navigation
+tags:
+ - design
+ - typography
+ - indesign
+---
+
 **Combining sections and chapters into one book**
 
 > [!attention] 

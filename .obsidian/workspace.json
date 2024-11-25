@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Week 9.md",
+                "file": "docs/Articles/Attention to Detail in Typography with InDesign.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Week 9"
+              "title": "Attention to Detail in Typography with InDesign"
             }
           },
           {
@@ -229,6 +229,20 @@
               "icon": "viewIcon",
               "title": "Markdown-Autocomplete"
             }
+          },
+          {
+            "id": "ba4e1e152eafb9cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 4
@@ -249,22 +263,28 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "gpt3-notes:GPT-3 Notes": false
+      "gpt3-notes:GPT-3 Notes": false,
+      "post-medium-draft:Post Medium draft": false
     }
   },
   "active": "a8ca4c175c5fa17b",
   "lastOpenFiles": [
-    "docs/private/art/text for pieces/October 2024.md",
-    "docs/Teaching/Digital Workflow/Week 9.md",
-    "docs/private/art/text for pieces/August 24.md",
+    "docs/Articles/Using the Book Panel in InDesign.md",
+    "docs/Articles/Attention to Detail in Typography with InDesign.md",
+    "docs/Articles/Using Flickr to Generate an Image Gallery.md",
+    "docs/Articles/The basics of HTML and CSS.md",
     "docs/private/art/text for pieces/November 2024.md",
+    "docs/Articles/Footnotes and other Diversions.md",
+    "docs/Teaching/Digital Workflow/Week 9.md",
+    "docs/Teaching/Digital Workflow/Digital Workflow.md",
+    "docs/Teaching/Digital Workflow/Week 11.md",
+    "docs/private/art/text for pieces/October 2024.md",
+    "docs/private/art/text for pieces/August 24.md",
     "docs/Teaching/Digital Workflow/Week 8.md",
     "docs/private/art/text for pieces/July 24.md",
     "July 2024.md",
     "docs/private/art/text for pieces/October 2023.md",
     "docs/Articles/Building the TOC in InDesign.md",
-    "docs/Articles/Footnotes and other Diversions.md",
-    "docs/Articles/Attention to Detail in Typography with InDesign.md",
     "docs/private/Notes for videos.md",
     "docs/Teaching/Digital Workflow/Week 5.md",
     "Screenshot.md",
@@ -277,12 +297,7 @@
     "docs/private/Teaching_Hold/DigitalProduct/Week 11.md",
     "docs/private/Teaching_Hold/DigitalProduct/Week 6.md",
     "docs/private/Teaching_Hold/DigitalProduct/Week 4.md",
-    "docs/Teaching/Digital Workflow/Digital Workflow.md",
     "docs/Teaching/Design and Technology/Week 1.md",
-    "docs/Teaching/Design and Technology/Week 2.md",
-    "docs/Teaching/Design and Technology/Week 3.md",
-    "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
-    "docs/private/art/Cutting list for panels.md",
     "docs/media/plan.jpg",
     "docs/private/art/plan.jpg",
     "docs/media/Screenshot 2024-06-19 at 10.28.25.png",
