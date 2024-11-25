@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Using the Book Panel in InDesign.md",
+                "file": "docs/Articles/Attention to Detail in Typography with InDesign.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Using the Book Panel in InDesign"
+              "title": "Attention to Detail in Typography with InDesign"
             }
           },
           {
@@ -269,9 +269,9 @@
   },
   "active": "a8ca4c175c5fa17b",
   "lastOpenFiles": [
+    "docs/Articles/Using the Book Panel in InDesign.md",
     "docs/private/art/text for pieces/August 24.md",
     "docs/private/art/text for pieces/October 2024.md",
-    "docs/Articles/Using the Book Panel in InDesign.md",
     "docs/Articles/Attention to Detail in Typography with InDesign.md",
     "docs/Articles/Using Flickr to Generate an Image Gallery.md",
     "docs/Articles/The basics of HTML and CSS.md",

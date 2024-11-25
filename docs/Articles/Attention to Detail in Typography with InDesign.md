@@ -1,9 +1,11 @@
 ---
 hide:
- - navigation
+  - navigation
 tags:
- - indesign
- - typography
+  - indesign
+  - typography
+aliases:
+  - Add Slugified Title into Aliases
 ---
 
 ## Introduction
