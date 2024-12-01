@@ -7,8 +7,7 @@
   "obsidian-export-image",
   "calendar",
   "obsidian-markdown-formatting-assistant-plugin",
-  "obsidian-pandoc",
   "copy-as-html",
-  "post-medium-draft",
-  "slugify-title"
+  "slugify-title",
+  "obsidian-front-matter-title-plugin"
 ]

@@ -7,6 +7,8 @@ tags:
  - html
 ---
 
+![Florence](../media/37576342511_a52b050f97_h.jpg)
+
 >**Note**: There are differences between these 4 scenarios:
 
 - You have already designed for print and are intending to export for the re-flowable ePub.

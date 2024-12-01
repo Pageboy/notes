@@ -23,33 +23,18 @@
             }
           },
           {
-            "id": "cec014e238b71f88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/private/art/text for pieces/August 24.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "August 24"
-            }
-          },
-          {
             "id": "a8ca4c175c5fa17b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Attention to Detail in Typography with InDesign.md",
-                "mode": "source",
+                "file": "docs/Articles/An Introduction to Photoshop.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Attention to Detail in Typography with InDesign"
+              "title": "An Introduction to Photoshop"
             }
           },
           {
@@ -98,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,35 +254,36 @@
   },
   "active": "a8ca4c175c5fa17b",
   "lastOpenFiles": [
+    "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
+    "docs/Teaching/Design and Technology/Week 3.md",
+    "docs/Articles/An Introduction to Photoshop.md",
+    "docs/Teaching/Design and Technology/Week 1.md",
+    "docs/eBookProduction/Page size in InDesign for eBook?.md",
+    "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
+    "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
+    "docs/media/37576342511_a52b050f97_h.jpg",
+    "docs/eBookProduction/Editing inside the ePUB package.md",
+    "docs/eBookProduction/Fixed Layout eBook.md",
+    "docs/private/Perspectief/Introduction.md",
+    "docs/private/Perspectief/Details.md",
+    "docs/private/Notes for videos.md",
+    "docs/Web Sites with GitHub/Creating a recipe web site using GitHub and Netlify.md",
+    "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
+    "docs/Web Sites with GitHub/Getting responsive with Flex.md",
+    "docs/private/Substack articles/Arcs and Arches.md",
+    "docs/private/Presentations/Introduction and Listing.md",
+    "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
+    "docs/Articles/Validation.md",
+    "docs/Articles/Attention to Detail in Typography with InDesign.md",
     "docs/Articles/Using the Book Panel in InDesign.md",
     "docs/private/art/text for pieces/August 24.md",
     "docs/private/art/text for pieces/October 2024.md",
-    "docs/Articles/Attention to Detail in Typography with InDesign.md",
     "docs/Articles/Using Flickr to Generate an Image Gallery.md",
     "docs/Articles/The basics of HTML and CSS.md",
     "docs/private/art/text for pieces/November 2024.md",
-    "docs/Articles/Footnotes and other Diversions.md",
-    "docs/Teaching/Digital Workflow/Week 9.md",
-    "docs/Teaching/Digital Workflow/Digital Workflow.md",
-    "docs/Teaching/Digital Workflow/Week 11.md",
-    "docs/Teaching/Digital Workflow/Week 8.md",
-    "docs/private/art/text for pieces/July 24.md",
-    "July 2024.md",
-    "docs/private/art/text for pieces/October 2023.md",
-    "docs/Articles/Building the TOC in InDesign.md",
-    "docs/private/Notes for videos.md",
-    "docs/Teaching/Digital Workflow/Week 5.md",
-    "Screenshot.md",
     "docs/media/Screenshot 2017-12-05 19.50.54.png",
     "docs/media/Screenshot 2017-12-05 21.52.15.png",
     "docs/media/Screenshot 2017-12-05 22.08.05.png",
-    "docs/private/Teaching_Hold/DigitalProduct/Week 2.md",
-    "docs/private/Teaching_Hold/DigitalProduct/Week 1.md",
-    "docs/private/Teaching_Hold/DigitalProduct/Week 10.md",
-    "docs/private/Teaching_Hold/DigitalProduct/Week 11.md",
-    "docs/private/Teaching_Hold/DigitalProduct/Week 6.md",
-    "docs/private/Teaching_Hold/DigitalProduct/Week 4.md",
-    "docs/Teaching/Design and Technology/Week 1.md",
     "docs/media/plan.jpg",
     "docs/private/art/plan.jpg",
     "docs/media/Screenshot 2024-06-19 at 10.28.25.png",
@@ -311,7 +297,6 @@
     "docs/eBooks/manlovedislands.epub",
     "docs/media/lovedislands.jpeg",
     "docs/eBooks/merrymen.epub",
-    "docs/media/merrymencover.jpg",
     "docs/eBooks",
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/Design and Technology",

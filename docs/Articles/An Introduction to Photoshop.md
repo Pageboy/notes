@@ -1,4 +1,9 @@
-## Photoshop
+## A Very basic tutorial for a new user
+
+> [!important] 
+> New versions of Photoshop may not look the same as these screen images.
+ 
+### Do this first
 
 Turn off those annoying pop videos. 
 
