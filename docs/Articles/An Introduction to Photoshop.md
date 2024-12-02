@@ -46,7 +46,8 @@ Then you can save your workspace to get it back later...
 
 ### The workshop / exercise
 
-This is designed to give you an experience that relates to the cover assignment.
+> [!summary] 
+> This is designed to show how to use layers and subject selection. 
 
 We need these 2 files first (get these from Moodle)
 
@@ -140,9 +141,9 @@ But we can reorder the layers and put the text under the head and even change th
 
 ![Color choice](../../media/Screenshot%202024-02-08%20at%2016.27.52.png)
 
+### Here is a video available of this process
 
-
-
+<iframe style="width:100%;" width="720" height="405" src="https://www.youtube.com/embed/nAzyt8S6FQw?si=IUKQ4gizdCySkohE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
