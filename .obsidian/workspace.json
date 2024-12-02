@@ -29,9 +29,9 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Articles/An Introduction to Photoshop.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "An Introduction to Photoshop"
@@ -254,6 +254,9 @@
   },
   "active": "a8ca4c175c5fa17b",
   "lastOpenFiles": [
+    "docs/Articles/Using the Book Panel in InDesign.md",
+    "docs/Articles/The basics of HTML and CSS.md",
+    "docs/Articles/An Introduction to Photoshop.md",
     "docs/private/art/Art Justifications.md",
     "docs/private/art/Exhibition Proposal - Convergent Symmetries.md",
     "docs/private/art/Exhibition Proposal 0.md",
@@ -262,7 +265,6 @@
     "docs/private/Presentations/Introduction and Listing.md",
     "docs/private/Mediumdrafts/From Osney to Godstow.md",
     "docs/private/art/plan.jpg",
-    "docs/Articles/An Introduction to Photoshop.md",
     "docs/Teaching/Design and Technology/Week 6 - Design and Technology.md",
     "docs/Teaching/Design and Technology/Week 3.md",
     "docs/Teaching/Design and Technology/Week 1.md",
@@ -280,8 +282,6 @@
     "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/private/Substack articles/Arcs and Arches.md",
     "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
-    "docs/Articles/Validation.md",
-    "docs/Articles/Attention to Detail in Typography with InDesign.md",
     "docs/media/Screenshot 2017-12-05 19.50.54.png",
     "docs/media/Screenshot 2017-12-05 21.52.15.png",
     "docs/media/Screenshot 2017-12-05 22.08.05.png",
