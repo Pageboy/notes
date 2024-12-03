@@ -57,7 +57,7 @@ Then you can save your workspace to get it back later...
 > [!tip] 
 > This tutorial is designed to show how to use layers, subject selection, masking and adding text. 
 
-We need these 2 files first (get these from Moodle) or from here:
+We need these 2 files - get them from here:
 
 ![download and unzip](../media/photoshopfiles/einstein-on-the-beach.zip)
 
