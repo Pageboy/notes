@@ -29,9 +29,9 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Articles/An Introduction to Photoshop.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "An Introduction to Photoshop"
@@ -254,6 +254,8 @@
   },
   "active": "a8ca4c175c5fa17b",
   "lastOpenFiles": [
+    "docs/media/photoshopfiles/einstein-on-the-beach.zip",
+    "docs/media/photoshopfiles",
     "docs/Articles/Using the Book Panel in InDesign.md",
     "docs/Articles/The basics of HTML and CSS.md",
     "docs/Articles/An Introduction to Photoshop.md",
@@ -281,7 +283,6 @@
     "docs/Web Sites with GitHub/Add Multimedia to Your web site.md",
     "docs/Web Sites with GitHub/Getting responsive with Flex.md",
     "docs/private/Substack articles/Arcs and Arches.md",
-    "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
     "docs/media/Screenshot 2017-12-05 19.50.54.png",
     "docs/media/Screenshot 2017-12-05 21.52.15.png",
     "docs/media/Screenshot 2017-12-05 22.08.05.png",
@@ -301,7 +302,6 @@
     "docs/Teaching/Multiplatform Publishing/week7extras",
     "docs/Teaching/Design and Technology",
     "docs/private/art/jenningsart",
-    "docs/Articles/Preflight and Package for Print and Output to PDF.html",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas"
   ]

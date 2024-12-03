@@ -54,20 +54,18 @@ Then you can save your workspace to get it back later...
 
 ### The workshop / exercise
 
-> [!summary] 
-> This is designed to show how to use layers and subject selection. 
+> [!tip] 
+> This tutorial is designed to show how to use layers, subject selection, masking and adding text. 
 
-We need these 2 files first (get these from Moodle)
+We need these 2 files first (get these from Moodle) or from here:
+
+![download and unzip](../media/photoshopfiles/einstein-on-the-beach.zip)
 
 ![Beach Scene and Tom Conti playing Einstein in the film _Oppenheimer_](../../../media/Screenshot%202024-02-08%20at%2015.05.16.png)
 
-First we will start a new Photoshop file and this should be A4 in CMYK and 300dpi.
+First we will start a new Photoshop file and create a new file. For use in Instagram we should use a square, but we can always crop this afterwards.
 
 ![A4 Photoshop file](../../../media/Screenshot%202024-02-08%20at%2015.08.00.png)
-
-> [!note] 
-> When you start you own magazine cover  you need to refer to the size given in the spreadsheet on Moodle
-
 
 >Save this somewhere.
 
