@@ -57,9 +57,8 @@ Then you can save your workspace to get it back later...
 > [!tip] 
 > This tutorial is designed to show how to use layers, subject selection, masking and adding text. 
 
-We need these 2 files - get them from here:
+We need these 2 files - get them from [here](https://notes.chrisjennings.net/media/photoshopfiles/einstein-on-the-beach.zip)
 
-![download and unzip](../media/photoshopfiles/einstein-on-the-beach.zip)
 
 ![Beach Scene and Tom Conti playing Einstein in the film _Oppenheimer_](../../../media/Screenshot%202024-02-08%20at%2015.05.16.png)
 
