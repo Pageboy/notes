@@ -248,8 +248,7 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "gpt3-notes:GPT-3 Notes": false,
-      "post-medium-draft:Post Medium draft": false
+      "gpt3-notes:GPT-3 Notes": false
     }
   },
   "active": "a8ca4c175c5fa17b",

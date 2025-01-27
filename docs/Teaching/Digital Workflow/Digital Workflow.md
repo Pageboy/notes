@@ -14,7 +14,7 @@ There are notes for each week. Sometimes these notes link to other more extensiv
 
 [Week 6](Week%206.md)
 
-[Week 7](../Multiplatform%20Publishing/Week%207.md)
+[Week 7](../../private/Teaching_Hold/Multiplatform%20Publishing/Week%207.md)
 
 [Week 8](Week%208.md)
 

@@ -8,7 +8,7 @@ I have created a few versions of this wonderful essay from RLS, partly from an i
 
 Back in 2001, I created a Quicktime VR movie and had included this in a PDF version of this eBook. Including this in the ePub version seems impossible for the moment. Even putting a link to the QTVR online is a bit risky because recent versions of Quicktime from Apple no longer supports this format.
 
-[![Memoirs of an Islet - Robert Louis Stevenson & Chris Jennings](http://r.mzstatic.com/images/web/linkmaker/badge_bookstore-lrg.gif)](https://itunes.apple.com/gb/book/memoirs-of-an-islet/id582663546?mt=11&uo=4)
+[Memoirs of an Islet - Robert Louis Stevenson & Chris Jennings](https://itunes.apple.com/gb/book/memoirs-of-an-islet/id582663546?mt=11&uo=4)
 
 ---
 ## Technical Stuff
@@ -20,7 +20,7 @@ Back in 2001, I created a Quicktime VR movie and had included this in a PDF ve
 
 Is there a way to display a panoramic image? Yes. Here is how I have delivered this for this version of Memoirs of an Islet. This only works in iBooks on the Apple devices:
 
-The once the image has been patched together from all of the individual components, you then need the long horizontal image as a JPEG. Then you need to put this on an HTML page. In other words you are creating a web page with this image displayed centrally. The image needs to be enclosed in a <div> that is absolutely positioned and content set to scroll horizontally.
+The once the image has been patched together from all of the individual components, you then need the long horizontal image as a JPEG. Then you need to put this on an HTML page. In other words you are creating a web page with this image displayed centrally. The image needs to be enclosed in a **div** that is absolutely positioned and content set to scroll horizontally.
 
 ```css
 .container { 
@@ -30,10 +30,11 @@ width:100%;
 overflow-x:scroll;
 -webkit-overflow:hidden; 
 -webkit-overflow-scrolling:touch; 
-padding:0;margin;0;   height:363px; 
+padding:0;
+margin:0;
+height:363px; 
 }
 ```
-
 The image itself is marked up with HTML thus:
 
 ``` html
