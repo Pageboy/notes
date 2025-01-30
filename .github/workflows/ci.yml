@@ -18,4 +18,5 @@ jobs:
       - run: pip install mkdocs-roamlinks-plugin
       - run: pip install mkdocs-callouts
       - run: pip install mkdocs-glightbox==0.3.2
+      - run: pip install mkdocs-caption
       - run: mkdocs gh-deploy --force
