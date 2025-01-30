@@ -33,3 +33,7 @@ Bayon Temple
 
 ![](../media/cambodia/_N723018.jpg)
 Doorway at the Bayon Temple
+
+![](../media/cambodia/_N723029.jpg)
+
+Causeway at Angor Thom

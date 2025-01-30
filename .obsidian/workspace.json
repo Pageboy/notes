@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae4da0793cb3fb5c",
+        "id": "b2e34400bb4f8af1",
         "type": "tabs",
         "children": [
           {
-            "id": "4f97158e1e54f773",
+            "id": "b74884ddefb91942",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,20 +191,21 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "4f97158e1e54f773",
+  "active": "b74884ddefb91942",
   "lastOpenFiles": [
-    "docs/Photo Journal/Arcs and Arches.md",
-    "docs/Photo Journal/Travels in Cambodia.md",
+    "docs/media/cambodia/_N723133.jpg",
+    "docs/media/cambodia/_N723029.jpg",
     "docs/media/cambodia/_N722984.jpg",
-    "docs/media/cambodia/_N723054.jpg",
     "docs/media/cambodia/_N723089.jpg",
+    "docs/media/cambodia/_N723026.jpg",
+    "docs/media/cambodia/_N723054.jpg",
     "docs/media/cambodia/_N723108.jpg",
     "docs/media/cambodia/_N723111.jpg",
-    "docs/media/cambodia/_N723133.jpg",
-    "docs/media/cambodia/_N722976.jpg",
     "docs/media/cambodia/_N723003.jpg",
-    "docs/media/cambodia/IMG_3709.jpg",
     "docs/media/cambodia/_N723018.jpg",
+    "docs/media/cambodia/_N722976.jpg",
+    "docs/Photo Journal/Travels in Cambodia.md",
+    "docs/Photo Journal/Arcs and Arches.md",
     "docs/media/cambodia",
     "docs/private/art/text for pieces/January 2025/Palm Lily Arcs.md",
     "docs/Photo Journal",
