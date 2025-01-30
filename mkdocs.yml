@@ -71,6 +71,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - bigfoot
   - roamlinks
   - glightbox:
       touchNavigation: true
@@ -82,4 +83,5 @@ plugins:
       zoomable: false
       auto_caption: true
       caption_position: bottom
+  - caption
   - callouts

@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Photo Journal/Travels in Cambodia.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -227,6 +227,7 @@
   },
   "active": "2a8dc1915b818d92",
   "lastOpenFiles": [
+    "docs/javascripts/caption.js",
     "docs/Articles/Using the Book Panel in InDesign.md",
     "docs/Articles/Using Flickr to Generate an Image Gallery.md",
     "docs/private/Teaching/Design and Technology/Week 1.md",
