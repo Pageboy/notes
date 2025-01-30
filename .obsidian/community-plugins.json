@@ -1,7 +1,6 @@
 [
   "metaedit",
   "code-block-copy",
-  "obsidian-git",
   "obsidian-gist",
   "gpt3-notes",
   "obsidian-export-image",
@@ -9,5 +8,6 @@
   "obsidian-markdown-formatting-assistant-plugin",
   "copy-as-html",
   "slugify-title",
-  "obsidian-front-matter-title-plugin"
+  "obsidian-front-matter-title-plugin",
+  "obsidian-git"
 ]
