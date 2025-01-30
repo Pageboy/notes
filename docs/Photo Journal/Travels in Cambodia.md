@@ -37,3 +37,7 @@ Doorway at the Bayon Temple
 ![](../media/cambodia/_N723029.jpg)
 
 Causeway at Angor Thom
+
+![Circles](https://live.staticflickr.com/65535/54290751611_4573898bc1_h_d.jpg)
+
+Test from Flickr
