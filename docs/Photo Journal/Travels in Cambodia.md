@@ -17,22 +17,21 @@ January 2025
 
 
 
-![One of many smiling faces at the Bayon Temple](../media/cambodia/_N723054.jpg)
+![One of many smiling faces at the Bayon Temple](https://live.staticflickr.com/65535/54296589377_a00c8ddd19_h_d.jpg)
 
 
 
-![Bayon Temple](../media/cambodia/_N723108.jpg)
+![Bayon Temple](https://live.staticflickr.com/65535/54290751196_a4f2c95a4f_h_d.jpg)
 
 
-![Woman in traditional Cambodian dress at the Ankgor Thom temple](../media/cambodia/_N723089.jpg)
+![Woman in traditional Cambodian dress at the Ankgor Thom temple](https://live.staticflickr.com/65535/54290992059_0f6d594bb4_h_d.jpg)
 
 
-![Bayon Temple](../media/cambodia/_N723111.jpg)
+![Bayon Temple](https://live.staticflickr.com/65535/54290751791_02f5c8378f_h_d.jpg)
 
 
 
-![Doorway at the Bayon Temple](../media/cambodia/_N723018.jpg)
+![Doorway at the Bayon Temple](https://live.staticflickr.com/65535/54290751731_22c8f7b85c_h_d.jpg)
 
 
-![Causeway at Angor Thom](../media/cambodia/_N723029.jpg)
 
