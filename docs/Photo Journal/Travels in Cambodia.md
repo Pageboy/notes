@@ -2,42 +2,37 @@
 
 January 2025
 
-![](../media/cambodia/_N723133.jpg)
-Angkor Thom
-
-![](../media/cambodia/_N723003.jpg)
-Artificial Window at Bayon Temple
+![Angkor Thom](https://live.staticflickr.com/65535/54291183890_24697671e0_h_d.jpg)
 
 
-![](../media/cambodia/_N722976.jpg)
-A huge task to rebuild collapsed wall at Angkor Wat
+![Artificial Window at Bayon Temple](https://live.staticflickr.com/65535/54290751521_c5370120c5_h_d.jpg)
 
 
-![](../media/cambodia/_N722984.jpg)
-Amazing wall construction with interlocking stones
+
+![A huge task to rebuild collapsed wall at Angkor Wat](https://live.staticflickr.com/65535/54289874077_3d03bb2035_h_d.jpg)
 
 
-![](../media/cambodia/_N723054.jpg)
-One of many faces at the Bayon Temple
+
+![Amazing wall construction with interlocking stones](https://live.staticflickr.com/65535/54291000953_63b5abb39d_h_d.jpg)
 
 
-![](../media/cambodia/_N723108.jpg)
-Bayon Temple
 
-![](../media/cambodia/_N723089.jpg)
-Woman in traditional Cambodian dress at the Ankgor Thom temple
-
-![](../media/cambodia/_N723111.jpg)
-Bayon Temple
+![One of many smiling faces at the Bayon Temple](../media/cambodia/_N723054.jpg)
 
 
-![](../media/cambodia/_N723018.jpg)
-Doorway at the Bayon Temple
 
-![](../media/cambodia/_N723029.jpg)
+![Bayon Temple](../media/cambodia/_N723108.jpg)
 
-Causeway at Angor Thom
 
-![Circles](https://live.staticflickr.com/65535/54290751611_4573898bc1_h_d.jpg)
+![Woman in traditional Cambodian dress at the Ankgor Thom temple](../media/cambodia/_N723089.jpg)
 
-Test from Flickr
+
+![Bayon Temple](../media/cambodia/_N723111.jpg)
+
+
+
+![Doorway at the Bayon Temple](../media/cambodia/_N723018.jpg)
+
+
+![Causeway at Angor Thom](../media/cambodia/_N723029.jpg)
+

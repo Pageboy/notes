@@ -9,5 +9,6 @@
   "copy-as-html",
   "slugify-title",
   "obsidian-front-matter-title-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "image-captions"
 ]
