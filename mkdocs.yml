@@ -89,3 +89,4 @@ plugins:
       blog_dir: Photos
       post_date_format: full
       post_url_date_format: dd/MM/yyyy
+      post_readtime: false
