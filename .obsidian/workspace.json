@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Photo Journal/Travels in Cambodia.md",
+                "file": "docs/Blog/Here is the next item.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Travels in Cambodia"
-            }
-          },
-          {
-            "id": "2a8dc1915b818d92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Photo Journal/Travels in Cambodia.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Travels in Cambodia"
+              "title": "Here is the next item"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,13 +200,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a8dc1915b818d92",
+  "active": "b74884ddefb91942",
   "lastOpenFiles": [
+    "docs/Blog/Here is a first blog item.md",
+    "docs/Blog/Here is the next item.md",
+    "docs/Photo Journal/Travels in Cambodia.md",
+    "docs/Blog",
     "docs/javascripts/caption.js",
     "docs/Articles/Using the Book Panel in InDesign.md",
     "docs/Articles/Using Flickr to Generate an Image Gallery.md",
     "docs/private/Teaching/Design and Technology/Week 1.md",
-    "docs/Photo Journal/Travels in Cambodia.md",
     "docs/media/cambodia/_N723133.jpg",
     "docs/media/cambodia/_N723029.jpg",
     "docs/media/cambodia/_N722984.jpg",
@@ -267,14 +245,11 @@
     "docs/private/Teaching/Design and Technology/Week 6 - Design and Technology.md",
     "docs/private/Teaching/Design and Technology/Week 3.md",
     "docs/eBookProduction/Page size in InDesign for eBook?.md",
-    "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
     "Untitled 1.canvas",
     "docs/eBookProduction/eBook_production1.30.pdf",
     "docs/private/art/~$hibition Proposal.docx",
     "docs/private/art/Exhibition Proposal.docx",
     "Untitled.canvas",
-    "docs/eBooks/manlovedislands.epub",
-    "docs/eBooks/merrymen.epub",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas"
   ]
