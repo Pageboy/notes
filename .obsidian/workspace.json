@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b2e34400bb4f8af1",
+        "id": "1da515bd5718291c",
         "type": "tabs",
         "children": [
           {
-            "id": "b74884ddefb91942",
+            "id": "bb74a741c62c2b53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/blog/posts/Here is a first blog item.md",
+                "file": "docs/blog/Photos.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Here is a first blog item"
+              "title": "Photos"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vscode",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,16 +200,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b74884ddefb91942",
+  "active": "bb74a741c62c2b53",
   "lastOpenFiles": [
-    "docs/blog/posts/Here is the next item.md",
+    "docs/blog/posts/Arcs and Arches.md",
+    "docs/blog/posts/Travels in Cambodia.md",
     "docs/blog/posts/Here is a first blog item.md",
+    "docs/blog/posts/Here is the next item.md",
     "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
     "docs/eBookProduction/What Kind of eBooks?.md",
-    "docs/blog/index.md",
+    "docs/blog/Photos.md",
     "docs/blog/posts",
     "docs/index.md",
-    "docs/Photo Journal/Travels in Cambodia.md",
     "docs/blog",
     "docs/javascripts/caption.js",
     "docs/Articles/Using the Book Panel in InDesign.md",
@@ -225,7 +226,6 @@
     "docs/media/cambodia/_N723111.jpg",
     "docs/media/cambodia/_N723003.jpg",
     "docs/media/cambodia/_N723018.jpg",
-    "docs/Photo Journal/Arcs and Arches.md",
     "docs/media/cambodia",
     "docs/private/art/text for pieces/January 2025/Palm Lily Arcs.md",
     "docs/Photo Journal",

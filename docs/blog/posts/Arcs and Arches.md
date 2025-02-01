@@ -1,3 +1,8 @@
+---
+title: Arcs and Arches
+date: 2024-06-30
+updated: 2025-02-01
+---
 ## Bridging the surface
 ![]()
 ![](../../media/Pasted%20image%2020240630134920.jpg)

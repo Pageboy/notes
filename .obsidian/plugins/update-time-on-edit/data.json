@@ -9,6 +9,8 @@
   "enableExperimentalHash": false,
   "fileHashMap": {
     "docs/blog/posts/Here is the next item.md": "4244eed962df85e9fe5fc93bf83a8f4695e8cacd26d31e6eb15008476d2b7a9c",
-    "docs/blog/posts/Here is a first blog item.md": "08d5e9318a4bbb25aba4855551201ee5c0de870e5068728dd130086f62135648"
+    "docs/blog/posts/Here is a first blog item.md": "08d5e9318a4bbb25aba4855551201ee5c0de870e5068728dd130086f62135648",
+    "docs/blog/posts/Travels in Cambodia.md": "48d299bfff4d72345feb589a12483ddf3bee50180951fae7730c9ca172a8e11e",
+    "docs/blog/posts/Arcs and Arches.md": "df54a02e02343111c93aa05bf3739ec683c82a4cd2b707a478bd005a2485ff3c"
   }
 }
