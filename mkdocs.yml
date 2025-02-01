@@ -86,4 +86,6 @@ plugins:
   - callouts
   - caption
   - blog:
-      blog_dir: blog
+      blog_dir: Photos
+      post_date_format: full
+      post_url_date_format: dd/MM/yyyy

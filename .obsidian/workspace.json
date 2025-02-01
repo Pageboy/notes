@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/Photos/index.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -200,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d886f93a66ee3a62",
+  "active": "bb74a741c62c2b53",
   "lastOpenFiles": [
     "docs/Photos/posts/Here is a first blog item.md",
     "docs/Photos/index.md",
