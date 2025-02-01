@@ -85,3 +85,7 @@ plugins:
       caption_position: bottom
   - callouts
   - caption
+  - blogging:
+      dirs: # The directories to be included
+        - blog
+      size: 5
