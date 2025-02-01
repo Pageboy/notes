@@ -10,5 +10,6 @@
   "slugify-title",
   "obsidian-front-matter-title-plugin",
   "obsidian-git",
-  "image-captions"
+  "image-captions",
+  "update-time-on-edit"
 ]

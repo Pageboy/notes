@@ -1,0 +1,14 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "docs/blog/posts/Here is the next item.md": "9ef3bdfb0b1aeb3539b5a715a1af5fed361af0c0145944a59ee1e27a52b60558",
+    "docs/blog/posts/Here is a first blog item.md": "82f843ea78b33bbf41ba2b2121ee8fab997e756bbe2a05a38c44e797973ef548"
+  }
+}

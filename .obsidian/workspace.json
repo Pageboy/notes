@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/blog/index.md",
+                "file": "docs/blog/posts/Here is a first blog item.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Here is a first blog item"
             }
           }
         ]
@@ -200,12 +200,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d886f93a66ee3a62",
+  "active": "b74884ddefb91942",
   "lastOpenFiles": [
+    "docs/blog/posts/Here is the next item.md",
+    "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
+    "docs/eBookProduction/What Kind of eBooks?.md",
+    "docs/blog/index.md",
     "docs/blog/posts",
     "docs/index.md",
-    "docs/blog/index.md",
-    "docs/blog/posts/Here is the next item.md",
     "docs/blog/posts/Here is a first blog item.md",
     "docs/Photo Journal/Travels in Cambodia.md",
     "docs/blog",
@@ -244,11 +246,9 @@
     "docs/private/art/Art Justifications.md",
     "docs/private/art/Exhibition Proposal - Convergent Symmetries.md",
     "docs/private/art/Exhibition Proposal 0.md",
-    "docs/private/Open Source Wikis.md",
     "Untitled 1.canvas",
     "docs/eBookProduction/eBook_production1.30.pdf",
     "docs/private/art/~$hibition Proposal.docx",
-    "docs/private/art/Exhibition Proposal.docx",
     "Untitled.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas"
