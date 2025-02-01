@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog/Here is the next item.md",
+                "file": "docs/index.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Here is the next item"
+              "title": "index"
             }
           }
         ]
@@ -202,8 +202,8 @@
   },
   "active": "b74884ddefb91942",
   "lastOpenFiles": [
-    "docs/Blog/Here is a first blog item.md",
     "docs/Blog/Here is the next item.md",
+    "docs/Blog/Here is a first blog item.md",
     "docs/Photo Journal/Travels in Cambodia.md",
     "docs/Blog",
     "docs/javascripts/caption.js",
