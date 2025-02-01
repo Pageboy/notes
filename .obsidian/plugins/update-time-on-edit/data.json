@@ -1,5 +1,5 @@
 {
-  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "dateFormat": "yyyy/MM/dd",
   "enableCreateTime": true,
   "headerUpdated": "updated",
   "headerCreated": "date",
@@ -8,7 +8,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "docs/blog/posts/Here is the next item.md": "ec923827200bbc43c4f6376bc0ae571a873d9f120feb133ccadafa07ff1b483e",
-    "docs/blog/posts/Here is a first blog item.md": "14b2cd5e9cd0bba788cb162c78a04382063cfa6271ffa847c43a823e3393db11"
+    "docs/blog/posts/Here is the next item.md": "7ecfc63cf25525e290a4b09cac37c8a07d39f7e5d53c0a92f334673cfb1c149f",
+    "docs/blog/posts/Here is a first blog item.md": "5785072ca4f3263512ff9b78e92aa72c9c5babd022a2420cf3cdf88c334f81a4"
   }
 }
