@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/blog/index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -202,8 +202,11 @@
   },
   "active": "d886f93a66ee3a62",
   "lastOpenFiles": [
-    "docs/blog/Here is the next item.md",
-    "docs/blog/Here is a first blog item.md",
+    "docs/blog/posts",
+    "docs/index.md",
+    "docs/blog/index.md",
+    "docs/blog/posts/Here is the next item.md",
+    "docs/blog/posts/Here is a first blog item.md",
     "docs/Photo Journal/Travels in Cambodia.md",
     "docs/blog",
     "docs/javascripts/caption.js",
@@ -242,9 +245,6 @@
     "docs/private/art/Exhibition Proposal - Convergent Symmetries.md",
     "docs/private/art/Exhibition Proposal 0.md",
     "docs/private/Open Source Wikis.md",
-    "docs/private/Teaching/Design and Technology/Week 6 - Design and Technology.md",
-    "docs/private/Teaching/Design and Technology/Week 3.md",
-    "docs/eBookProduction/Page size in InDesign for eBook?.md",
     "Untitled 1.canvas",
     "docs/eBookProduction/eBook_production1.30.pdf",
     "docs/private/art/~$hibition Proposal.docx",
