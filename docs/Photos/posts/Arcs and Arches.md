@@ -8,6 +8,8 @@ updated: 2025-02-01
 ![](../../media/Pasted%20image%2020240630134920.jpg)
 A relatively new motif has developed in my recent work and, although I have used geometry in a variety of forms before, these new pieces are less subtle and more direct in their symmetry.
 
+<!-- more -->
+
 ![](../../media/arch1.jpg)
 ### Curves Camered
 I love boating on the River Thames and many bridges have elegant curves and I take some pictures:

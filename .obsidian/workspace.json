@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/blog/Photos.md",
+                "file": "docs/Photos/posts/Here is a first blog item.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Photos"
+              "title": "Here is a first blog item"
             }
           }
         ]
@@ -202,16 +202,17 @@
   },
   "active": "bb74a741c62c2b53",
   "lastOpenFiles": [
-    "docs/blog/posts/Arcs and Arches.md",
-    "docs/blog/posts/Travels in Cambodia.md",
-    "docs/blog/posts/Here is a first blog item.md",
-    "docs/blog/posts/Here is the next item.md",
+    "docs/Photos/posts/Travels in Cambodia.md",
+    "docs/Articles/Footnotes and other Diversions.md",
+    "docs/Photos/posts/Here is the next item.md",
+    "docs/Photos/posts/Here is a first blog item.md",
     "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
-    "docs/eBookProduction/What Kind of eBooks?.md",
-    "docs/blog/Photos.md",
-    "docs/blog/posts",
+    "docs/Photos/posts/Arcs and Arches.md",
     "docs/index.md",
-    "docs/blog",
+    "docs/photos/Photos.md",
+    "docs/eBookProduction/What Kind of eBooks?.md",
+    "docs/Photos/posts",
+    "docs/Photos",
     "docs/javascripts/caption.js",
     "docs/Articles/Using the Book Panel in InDesign.md",
     "docs/Articles/Using Flickr to Generate an Image Gallery.md",
@@ -245,7 +246,6 @@
     "docs/Articles/The basics of HTML and CSS.md",
     "docs/private/art/Art Justifications.md",
     "docs/private/art/Exhibition Proposal - Convergent Symmetries.md",
-    "docs/private/art/Exhibition Proposal 0.md",
     "Untitled 1.canvas",
     "docs/eBookProduction/eBook_production1.30.pdf",
     "docs/private/art/~$hibition Proposal.docx",

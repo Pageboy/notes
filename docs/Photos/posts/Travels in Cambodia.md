@@ -10,6 +10,8 @@ January 2025
 ![Angkor Thom](https://live.staticflickr.com/65535/54291183890_24697671e0_h_d.jpg)
 
 
+<!-- more -->
+
 ![Artificial Window at Bayon Temple](https://live.staticflickr.com/65535/54290751521_c5370120c5_h_d.jpg)
 
 
