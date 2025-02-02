@@ -85,8 +85,3 @@ plugins:
       caption_position: bottom
   - callouts
   - caption
-  - blog:
-      blog_dir: Photos
-      post_date_format: full
-      post_url_date_format: yyyy
-      post_readtime: false
