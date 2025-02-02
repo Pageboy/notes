@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Photos/index.md",
+                "file": "docs/index.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -202,8 +202,9 @@
   },
   "active": "bb74a741c62c2b53",
   "lastOpenFiles": [
-    "docs/Photos/posts/Here is a first blog item.md",
+    "README.md",
     "docs/Photos/index.md",
+    "docs/Photos/posts/Here is a first blog item.md",
     "docs/Photos/posts/Travels in Cambodia.md",
     "docs/Articles/Footnotes and other Diversions.md",
     "docs/Photos/posts/Here is the next item.md",
@@ -245,7 +246,6 @@
     "docs/media/photoshopfiles/einstein-on-the-beach.zip",
     "docs/media/photoshopfiles",
     "docs/Articles/The basics of HTML and CSS.md",
-    "docs/private/art/Art Justifications.md",
     "Untitled 1.canvas",
     "docs/eBookProduction/eBook_production1.30.pdf",
     "docs/private/art/~$hibition Proposal.docx",
