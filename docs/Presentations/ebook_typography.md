@@ -1,19 +1,17 @@
 ---
-layout: presentation
 title: eBook Typography - InDesign and CSS
-published: true
 date: 2021-01-20
-folder: eBookTypography
-categories: [Typography, Design, InDesign, ePub]
-images: none
-image: /images/eBookTypography.001.jpeg
-excerpt_separator: <!--more-->
+tags:
+  - Typography
+  - Design
+  - InDesign
+  - ePub
+updated: 2025-02-17
 ---
-Typographic style as it applies to eBook production.
+### Typographic style as it applies to eBook production.
 
-[![The first slide](/images/eBookTypography.001.jpeg)](/images/eBookTypography.001.jpeg)
 
-<!--more-->
+![The first slide](../media/presentation_images/eBookTypography.001.jpeg)
 
 - CSS
 - InDesign styles to CSS
@@ -22,3 +20,5 @@ Typographic style as it applies to eBook production.
 - The page size
 - Orientation
 - Footnotes
+
+![See the presentation >](../media/keynotes/ebooktypography_full.pdf)
