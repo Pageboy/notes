@@ -8,10 +8,8 @@ updated: 2025-02-17
 ---
 Using Search and Replace to process text
 
-![First slide](../media/presentation_images/tools_to_help_ID.001.jpeg)
+[![The first slide > click to see the presentation as a PDF](../media/presentation_images/tools_to_help_ID.001.jpeg)](../media/keynotes/Computer%20as%20Tool.pdf)
 
 - Search and Replace
 - Using GREP
 - GREP inside InDesign
-
-[See the presentation as PDF>](../media/keynotes/Computer%20as%20Tool.pdf)

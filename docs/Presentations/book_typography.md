@@ -8,7 +8,7 @@ updated: 2025-02-17
 ---
 An overview of typographic design as it applies to books. [updated October 2022]
 
-![Renaissance book ](../media/presentation_images/BookDesign_Typography.001.jpeg)
+[![The first slide > click to see the presentation as a PDF ](../media/presentation_images/BookDesign_Typography.001.jpeg)](../media/keynotes/BookDesign_Typography.pdf)
 
 - Book size
 - Text block size
@@ -16,6 +16,3 @@ An overview of typographic design as it applies to books. [updated October 2022]
 - Structure
 - Typography
 - A view of some examples
-
-
-![View the presentation](../media/keynotes/BookDesign_Typography.pdf)

@@ -8,11 +8,9 @@ updated: 2025-02-17
 ---
 An introduction to XML and how it applies to a Shakespeare play
 
-![First slide](../media/presentation_images/XML2017.001.jpeg)
+[![The first slide > click to see the presentation as a PDF](../media/presentation_images/XML2017.001.jpeg)](../media/keynotes/XML2024.pdf)
 
 - what is XML
 - XML in publishing
 - The structure of our Shakespeare play
 - the DTD
-
-![Here is the presentation >](../media/keynotes/XML2024.pdf)

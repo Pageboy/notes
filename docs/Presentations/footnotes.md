@@ -9,7 +9,7 @@ updated: 2025-02-17
 ---
 ### From margin notes to hypertext
 
-![The first frame of the presentation](../media/presentation_images/slide1.001.jpeg)
+[![The first slide > click to see the presentation as a PDF](../media/presentation_images/slide1.001.jpeg)](../media/keynotes/iterativePublishing.pdf)
 
 How can footnotes, endnotes, margin notes and other deviations from the narrative flow, work best in a screen based medium?
 
@@ -21,5 +21,4 @@ We look at some examples of the way information is cross linked and where this i
 
 This presentation was given at the _By the Book - 5_ conference in Florence, June 2018.
 
-![See the presentation >](../media/keynotes/iterativePublishing.pdf)
 
