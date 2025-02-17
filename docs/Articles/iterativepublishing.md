@@ -92,11 +92,11 @@ When it comes to marketing advantage, there must always be a benefit it proclaim
 
 When we explore imprint pages in the books on our shelves we find some interesting publishing messages.
 
-![Treasure Island, Cassell](../media/iterativepublishing/iterativepublishing.008.jpeg)
+![Treasure Island, Cassell](../media/iterativepublishing/iterativePublishing.008.jpeg)
 
 Book collectors, of course, prefer to own first editions, so in their collections there will be limited information; just the first publication date. On the other hand, popular titles (see here 'Treasure Island'), will have many reprints and new editions up to the date of the edition you have. Many reprints could be an indication of the popularity of the title, although imprint pages do not tell us how many were printed. One could argue that many reprints show that the publisher was not confident enough for a longer print run in the first place.
 
-![Winnie the Pooh](../media/iterativepublishing/iterativepublishing.009.jpeg)
+![Winnie the Pooh](../media/iterativepublishing/iterativePublishing.009.jpeg)
 
 As an alternative to taking a lot of space on the page, you see here from the 1949 edition of *Winnie the Pooh*, that it had been reprinted 38 times before this "Thirty-ninth edition". This seems to be a misinterpretation of the term "edition", since a reprint is not usually regarded as a new edition.
 
@@ -104,25 +104,25 @@ As an alternative to taking a lot of space on the page, you see here from the 19
 
 For each printing the lowest number is erased.
 
-![A Harper Collins imprint page](../media/iterativepublishing/iterativepublishing.011.jpeg)
+![A Harper Collins imprint page](../media/iterativepublishing/iterativePublishing.011.jpeg)
 
 The convention is different in the USA; publishers there tend to include the date as well as the impression number.
 
-![A publication from a USA Publisher](../media/iterativepublishing/iterativepublishing.012.jpeg)
+![A publication from a USA Publisher](../media/iterativepublishing/iterativePublishing.012.jpeg)
 
 You will see in the illustrations here that Oxford University Press have used impression numbers, and the popular *Economics* title in their *Very Short Introductions* series has lost all numbers 1 through 8, an indication that my copy is the 9th printing.
 
-![Animal Rights - OUP, Very Short Introductions](../media/iterativepublishing/iterativepublishing.014.jpeg)
+![Animal Rights - OUP, Very Short Introductions](../media/iterativepublishing/iterativePublishing.014.jpeg)
 
-![Economics - OUP, Very Short Introductions](../media/iterativepublishing/iterativepublishing.015.jpeg)
+![Economics - OUP, Very Short Introductions](../media/iterativepublishing/iterativePublishing.015.jpeg)
 
 Oxford University Press have followed this convention until their *Microeconomics* title, in this same series. This now uses the less cryptic notation; my copy: *Impression: 4*. A rather sensible strategy, because the purchaser gets clear evidence that this is a popular title and must be good.
 
-![Microeconomics - OUP, Very Short Introductions](../media/iterativepublishing/iterativepublishing.016.jpeg)
+![Microeconomics - OUP, Very Short Introductions](../media/iterativepublishing/iterativePublishing.016.jpeg)
 
 A more adventurous and even contemporary approach is found on a new edition of *The Elements of Typographic Style*, Robert Bringhurst, 2012. What has inspired the publisher to label this (even on the title page) "Version 4.0".
 
-![The Elements of Typographic Style, Robert Bringhurst, 2012](../media/iterativepublishing/iterativepublishing.010.jpeg)
+![The Elements of Typographic Style, Robert Bringhurst, 2012](../media/iterativepublishing/iterativePublishing.010.jpeg)
 
 By using the term **Version 4.0** the publishers are making a nod towards the digital world as well as giving a positive marketing message.
 
@@ -131,21 +131,21 @@ By using the term **Version 4.0** the publishers are making a nod towards the di
 
 As in the previous section, we can refer to the way authors worked in the past. You can see here a typed manuscript of *The Waste Land*, T.S. Eliot[^5], with notes and edits by himself, his wife Vivien Eliot and Ezra Pound. There is no timeline for the notes; in which order they were applied.
 
-![T.S.Eliot, The Waste Land](../media/iterativepublishing/iterativepublishing.018.jpeg)
+![T.S.Eliot, The Waste Land](../media/iterativepublishing/iterativePublishing.018.jpeg)
 
 This is also the case when proof-readers use standard notation to markup corrections to a printed copy. The British standard (BS 5261)[^6] is adopted beyond the UK, but rarely provides times or staging for the corrections.
 
-![The conventions for Copy Editing](../media/iterativepublishing/iterativepublishing.019.jpeg)
+![The conventions for Copy Editing](../media/iterativepublishing/iterativePublishing.019.jpeg)
 
 ### Digital Tools
 
 Many authors and editors will use **Microsoft Word** and the *track changes* feature of that software has become the often used method to get changes, additions or corrections approved. The system provides the means to edit the text and leave comments. Individuals involved in the process are named with their comments. There is no hierarchical control; we can can each accept changes or not with no overall approval workflow. It does work up to a point, but can get very complex when changes overlay one another.
 
-![Tracking the changes with Microsoft Word](../media/iterativepublishing/iterativepublishing.020.jpeg)
+![Tracking the changes with Microsoft Word](../media/iterativepublishing/iterativePublishing.020.jpeg)
 
 Another approach may be to annotate a PDF of the pages. **Adobe's Acrobat Reader** software (there are others on the market) provides sophisticated annotation tools, as you can see here in the images. Not all software can easily edit the text within the PDF, so the proof reader is simply making suggestions for the editor to make in the original text.
 
-![Annotation with the PDF format](../media/iterativepublishing/iterativepublishing.021.jpeg)
+![Annotation with the PDF format](../media/iterativepublishing/iterativePublishing.021.jpeg)
 
 Digital annotation is certainly useful but can never be as powerful as direct editing  and version control of the text.
 
@@ -153,17 +153,17 @@ Digital annotation is certainly useful but can never be as powerful as direct ed
 
 I add this as a slight deviation, but in my own experience, publishers of eBooks really need a good method of proof reading and annotating eBooks ready for distribution. Apple's iBooks software, does provide annotation tools (see in this attached figure from my own book), but sharing these annotations is not currently so easy. The annotations are nicely overlaid, but you can (as I write this) only email the annotations as a text; detached from the pages themselves.
 
-![Annotating an eBook inside Apple iBooks](../media/iterativepublishing/iterativepublishing.022.jpeg)
+![Annotating an eBook inside Apple iBooks](../media/iterativepublishing/iterativePublishing.022.jpeg)
 
 #### Editing in the the cloud
 
 Cloud services such as **Google Drive** and **DropBox** do provide some version control although Google do provide apps that allow direct editing of files (Google Docs and Google Sheets), when those documents are shared for editing. Sharing documents is a nod forward to `Part 5: Collaborative Editing.`
 
-![Using Google Docs to share editing](../media/iterativepublishing/iterativepublishing.023.jpeg)
+![Using Google Docs to share editing](../media/iterativepublishing/iterativePublishing.023.jpeg)
 
 Systems can be built and customised for revision control using Content Management Systems. Illustrated here are screens from an application that I have used to manage remote authors contributing to a global cookery book. Authors can input and edit their own recipes, with overall editorial control given to the chief editor, who then exports the data out as XML for use in page layout software for final 'print-ready' output.
 
-![Bespoke editing system made by me with ExpressionEngine](../media/iterativepublishing/iterativepublishing.025.jpeg)
+![Bespoke editing system made by me with ExpressionEngine](../media/iterativepublishing/iterativePublishing.025.jpeg)
 
 Not only do these systems provide the means to see versions but also they provide multi-author access. This is something to look at later in this article.
 
@@ -176,13 +176,13 @@ There are some publishers who provide the tools for their authors to write and e
 
 **O'Reilly Publishers** have an authoring system called *Atlas* [^7] that authors and editors have access to. At some stage in the workflow, the book available as an *Early Release* title. You can see in the accompanying image from the O'Reilly web site[^8] a title that was available with some chapters completed.
 
-![Early Release - now only available through the subscription service - SafariBooksOnline](../media/iterativepublishing/iterativepublishing.028.jpeg)
+![Early Release - now only available through the subscription service - SafariBooksOnline](../media/iterativepublishing/iterativePublishing.028.jpeg)
 
 > **Note:** Since this article was started, O'Reilly Publishers have stopped selling books from their web site. The early release eBooks are only available through their Safari Books Online subscription service.[^21]
 
 **LeanPub** is a self publishing system[^9]. Authors use the online authoring and editing tools to create the book and then decide when to make available. You can see from the image here that this book is only 20% complete, but the author makes this much of the book available.
 
-![LeanPub for self-publshing](../media/iterativepublishing/iterativepublishing.029.jpeg)
+![LeanPub for self-publshing](../media/iterativepublishing/iterativePublishing.029.jpeg)
 
 ### Authoring Incrementally
 
@@ -190,13 +190,13 @@ So these systems do offer the author and their editors ways to keep track of the
 
 The authoring tools needs to give an indication of the status and there might even be alerts displayed to communicate tasks for completion.
 
-![I use Metadata to show progress of an article](../media/iterativepublishing/iterativepublishing.031.jpeg)
+![I use Metadata to show progress of an article](../media/iterativepublishing/iterativePublishing.031.jpeg)
 
 #### eBooks Only
 
 This approach to publishing can only be implemented for digital products that use an online distribution system.
 
-![Apple's eBook versioning rules](../media/iterativepublishing/iterativepublishing.032.jpeg)
+![Apple's eBook versioning rules](../media/iterativepublishing/iterativePublishing.032.jpeg)
 
 eBooks published through Apple's iBooks store can be updated with some limitations. Apple are very strict about how much an eBook can be modified and how a version must be identified. You can see in this image how a purchaser of an eBook is notified of a new version and the display of the version history that has been provided by the publisher / author.
 
@@ -204,7 +204,7 @@ eBooks published through Apple's iBooks store can be updated with some limitatio
 
 It is really very difficult to update books in print, and from the customers' point of view, it can represent an impact on budgets. Companion web sites can be a help here; new material or errata can be provided on a web site as well as multimedia content that relates to the book.
 
-![InDesign CC multiple books for multiple versions](../media/iterativepublishing/iterativepublishing.033.jpeg)
+![InDesign CC multiple books for multiple versions](../media/iterativepublishing/iterativePublishing.033.jpeg)
 
  In the image here,  we see  that when Adobe (and their publishing partners, Peachpit/Pearson) release new versions of their software, they then re-version their *Classroom in a Book* titles. These are more than  new editions; they are new books  with new ISBNs.
 
@@ -220,7 +220,7 @@ Images here show what this looks like with a version control system like **GitHu
 
 **Git** is known as a distributed version control system (DVCS), because the edits take place remotely from the master copy. Each collaborator owns their own version (a fork) and makes a request to merge their changes to the master. Centralised version control systems keep only one copy that is *checked-out* by an editor, and thus, locked until they have completed their session.
 
-![Version Control explained in a diagram - thanks to Boris van Hoytema](../media/iterativepublishing/iterativepublishing.036.jpeg)
+![Version Control explained in a diagram - thanks to Boris van Hoytema](../media/iterativepublishing/iterativePublishing.036.jpeg)
 
 ## Part 5: Collaborative Editing
 
@@ -230,27 +230,27 @@ A distributed version control system like Git, hosted at GitHub.com, is robust a
 
 Content can be *forked* and then worked on by individuals and then *pulled* back in to the master copy. Edits or *commits* are recorded and can be accepted. Every committed change represents a different version.
 
-![Versions of code in GitHub](../media/iterativepublishing/iterativepublishing.037.jpeg)
+![Versions of code in GitHub](../media/iterativepublishing/iterativePublishing.037.jpeg)
 
 Essentially the file has many different states which can be retrieved. Git is a set of tools to help manage change. [^10]
 
-![Text under Version control](../media/iterativepublishing/iterativepublishing.038.jpeg)
+![Text under Version control](../media/iterativepublishing/iterativePublishing.038.jpeg)
 
 ### Student Example with _The Student Guide to Oxford_
 
 Git can be hosted anywhere, since the software, itself is Open Source.
 
-![Forks and commits](../media/iterativepublishing/iterativepublishing.040.jpeg)
+![Forks and commits](../media/iterativepublishing/iterativePublishing.040.jpeg)
 
 For a student project where 30 students are contributing to a guide book about Oxford, we used a free system called **Penflip** (www.penflip.com).
 
-![Penflip](../media/iterativepublishing/iterativepublishing.041.jpeg)
+![Penflip](../media/iterativepublishing/iterativePublishing.041.jpeg)
 
 You can see in the images here that the complexity of having a lot of editors is handled perfectly by this kind of system.
 
 In terms of the actual workflow and details of the process, the text is edited with *markdown* [^11]
 
-![Workflow from Penflip - output to Pandoc to ICML to InDesign](../media/iterativepublishing/iterativepublishing.042.jpeg)
+![Workflow from Penflip - output to Pandoc to ICML to InDesign](../media/iterativepublishing/iterativePublishing.042.jpeg)
 
 Once the edit process was complete (a milestone previously set) the text was converted to `ICML` for InDesign using Pandoc.[^12]
 
@@ -262,20 +262,20 @@ We can find several places where version control for text authors and editors ha
 
 **Prose.io** is a server based *markdown* tool that can be used to edit text held in a GitHub repository. While this system is effective and very easy to uses, the prime focus is editing for a web site, rather than for other platforms. [^13]
 
-![Prose.io](../media/iterativepublishing/iterativepublishing.044.jpeg)
+![Prose.io](../media/iterativepublishing/iterativePublishing.044.jpeg)
 
 **GitBook**, as the name suggests is built to edit (also with *markdown*) a book under revision control within a Git repository. This goes beyond the prose.io instance described above, because the content can be exported as PDF or eBook. The management of the edits by multiple authors can be hard to resolve. [^14]
 
-![GitBook with an alert to the chief editor](../media/iterativepublishing/iterativepublishing.045.jpeg)
+![GitBook with an alert to the chief editor](../media/iterativepublishing/iterativePublishing.045.jpeg)
 
 **OmniBook** is based on an open source system developed under the name of
 **BookType**. The OmniBook instance is free up to a point. The *BookType* software can be installed on a server but requires technical knowledge to do so.[^15]
 
-![OminBook uses the BookType open source code](../media/iterativepublishing/iterativepublishing.046.jpeg)
+![OminBook uses the BookType open source code](../media/iterativepublishing/iterativePublishing.046.jpeg)
 
 **Editoria** is a web-based open source, end-to-end, authoring, editing and workflow tool [^16]. As I write this article, this software is under development.
 
-![editoria](../media/iterativepublishing/iterativepublishing.047.jpeg)
+![editoria](../media/iterativepublishing/iterativePublishing.047.jpeg)
 
 ### Social Reading and Annotation
 
