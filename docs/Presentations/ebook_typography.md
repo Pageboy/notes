@@ -21,4 +21,4 @@ updated: 2025-02-17
 - Orientation
 - Footnotes
 
-![See the presentation >](../media/keynotes/ebooktypography_full.pdf)
+[See the presentation s PDF >](../media/keynotes/ebooktypography_full.pdf)

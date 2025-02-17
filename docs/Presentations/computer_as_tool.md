@@ -14,4 +14,4 @@ Using Search and Replace to process text
 - Using GREP
 - GREP inside InDesign
 
-![See the presentation >](../media/keynotes/Computer%20as%20Tool.pdf)
+[See the presentation as PDF>](../media/keynotes/Computer%20as%20Tool.pdf)

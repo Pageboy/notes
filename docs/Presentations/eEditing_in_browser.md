@@ -14,4 +14,4 @@ I explore editing systems where the content is actually stored (much like bloggi
 
 This presentation was given at the _SfEP_ conference at Lancaster University, September 2018.
 
-![Here is the presentation >](../media/keynotes/eEditing%20in%20the%20Browser.pdf)
+[Here is the presentation as PDF >](../media/keynotes/eEditing%20in%20the%20Browser.pdf)
