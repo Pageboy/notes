@@ -11,7 +11,7 @@ updated: 2025-02-17
 ### Typographic style as it applies to eBook production.
 
 
-![The first slide](../media/presentation_images/eBookTypography.001.jpeg)
+[![The first slide > click to see the presentation as a PDF](../media/presentation_images/eBookTypography.001.jpeg)](../media/keynotes/ebooktypography_full.pdf)
 
 - CSS
 - InDesign styles to CSS
@@ -20,5 +20,3 @@ updated: 2025-02-17
 - The page size
 - Orientation
 - Footnotes
-
-[See the presentation s PDF >](../media/keynotes/ebooktypography_full.pdf)
