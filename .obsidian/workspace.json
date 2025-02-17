@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Presentations/book_typography.md",
+                "file": "docs/Articles/iterativepublishing.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "book_typography"
+              "title": "iterativepublishing"
             }
           }
         ]
@@ -202,15 +202,18 @@
   },
   "active": "bb74a741c62c2b53",
   "lastOpenFiles": [
-    "docs/Presentations/ebook_typography.md",
+    "docs/Articles/Building the TOC in InDesign.md",
+    "docs/Articles/iterativepublishing.md",
+    "docs/Articles/Using Flickr to Generate an Image Gallery.md",
+    "docs/media/iterativepublishing/iterativePublishing.008.jpeg",
     "docs/Presentations/book_typography.md",
+    "docs/Presentations/ebook_typography.md",
     "docs/Presentations/CreatingeBooksCN17.md",
     "docs/Presentations/XML.md",
     "docs/Presentations/iterative_publishing.md",
     "docs/Presentations/eEditing_in_browser.md",
     "docs/Presentations/footnotes.md",
     "docs/Presentations/computer_as_tool.md",
-    "docs/Articles/iterativepublishing.md",
     "docs/private/Teaching/howShakespeareHelpsMeTeach.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 5 Shakespeare Play notes.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/From Vscode to Web.md",
@@ -231,7 +234,6 @@
     "docs/media/iterativepublishing/iterativePublishing.041.jpeg",
     "docs/media/iterativepublishing/iterativePublishing.040.jpeg",
     "docs/media/iterativepublishing/iterativePublishing.038.jpeg",
-    "docs/media/iterativepublishing/iterativePublishing.037.jpeg",
     "docs/media/iterativepublishing",
     "docs/media/keynotes/readme.md",
     "docs/media/keynotes/imagesinindesign.pdf",
@@ -246,8 +248,6 @@
     "docs/_papers/iterativepublishing.md",
     "docs/_papers/howShakespeareHelpsMeTeach.md",
     "docs/_papers/fromiBA2ePub.md",
-    "docs/_papers/footnotes.md",
-    "docs/_papers/eEditing4multi-channelpublishing.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas",
