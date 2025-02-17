@@ -9,6 +9,7 @@
   "enableExperimentalHash": false,
   "fileHashMap": {
     "docs/index.md": "b4e8aa45861751414666728817afa222283b0140664762df9fc3beb61fa4a78e",
-    "docs/Articles/Footnotes and other Diversions.md": "621a987fbc5cf95231292fdd6dccc4cefdd3af5d1c2d322011ea7c67dfc6c0bf"
+    "docs/Articles/Footnotes and other Diversions.md": "621a987fbc5cf95231292fdd6dccc4cefdd3af5d1c2d322011ea7c67dfc6c0bf",
+    "docs/Presentations/book typography.md": "e3239ea1b786eb233ce1af1e5d6b5ee3ac8023a8a93a6fe107d7ea9a1d92effd"
   }
 }

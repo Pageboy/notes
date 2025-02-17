@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
-                "mode": "preview",
+                "file": "docs/Presentations/book typography.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "book typography"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 300.5
   },
   "right": {
     "id": "13fd9d4d78d9f053",
@@ -150,8 +150,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -187,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -196,61 +197,61 @@
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "gpt3-notes:GPT-3 Notes": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
   "active": "bb74a741c62c2b53",
   "lastOpenFiles": [
-    "README.md",
-    "docs/Photos/index.md",
-    "docs/Photos/posts/Here is a first blog item.md",
-    "docs/Photos/posts/Travels in Cambodia.md",
-    "docs/Articles/Footnotes and other Diversions.md",
-    "docs/Photos/posts/Here is the next item.md",
-    "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
-    "docs/Photos/posts/Arcs and Arches.md",
-    "docs/index.md",
-    "docs/photos/Photos.md",
-    "docs/eBookProduction/What Kind of eBooks?.md",
-    "docs/Photos/posts",
-    "docs/Photos",
-    "docs/javascripts/caption.js",
-    "docs/Articles/Using the Book Panel in InDesign.md",
-    "docs/Articles/Using Flickr to Generate an Image Gallery.md",
-    "docs/private/Teaching/Design and Technology/Week 1.md",
-    "docs/media/cambodia/_N723133.jpg",
-    "docs/media/cambodia/_N723029.jpg",
-    "docs/media/cambodia/_N722984.jpg",
-    "docs/media/cambodia/_N723089.jpg",
-    "docs/media/cambodia/_N723026.jpg",
-    "docs/media/cambodia/_N723054.jpg",
-    "docs/media/cambodia/_N723108.jpg",
-    "docs/media/cambodia/_N723111.jpg",
-    "docs/media/cambodia/_N723003.jpg",
-    "docs/media/cambodia/_N723018.jpg",
-    "docs/media/cambodia",
-    "docs/private/art/text for pieces/January 2025/Palm Lily Arcs.md",
-    "docs/Photo Journal",
-    "docs/private/art/text for pieces/November 2024/Viburnum in the wild.md",
+    "docs/media/presentation_images/eBookTypography.001.jpeg",
+    "docs/media/presentation_images/buildyourwebsite.jpg",
+    "docs/media/presentation_images/eEditing_in_Browser.001.jpeg",
+    "docs/media/presentation_images/slide1.001.jpeg",
+    "docs/media/presentation_images/tools_to_help_ID.001.jpeg",
+    "docs/media/presentation_images/BookDesign_Typography.001.jpeg",
+    "docs/media/presentation_images",
     "docs/private/Presentations/Introduction and Listing.md",
-    "docs/private/art/text for pieces/January 2025",
-    "docs/private/Mediumdrafts/From Osney to Godstow.md",
-    "docs/private/Mediumdrafts/A Patchwork of Asphalt.md",
-    "docs/private/Music for Video.md",
-    "docs/private/Teaching/Digital Workflow/Week 9.md",
-    "docs/private/Notes for videos.md",
-    "docs/private/Blog Post Ideas.md",
-    "docs/Articles/Validation.md",
-    "docs/Articles/An Introduction to Photoshop.md",
-    "docs/media/photoshopfiles/einstein-on-the-beach.zip",
-    "docs/media/photoshopfiles",
-    "docs/Articles/The basics of HTML and CSS.md",
-    "Untitled 1.canvas",
-    "docs/eBookProduction/eBook_production1.30.pdf",
-    "docs/private/art/~$hibition Proposal.docx",
-    "Untitled.canvas",
+    "docs/Presentations/iterative_publishing.md",
+    "docs/Presentations/footnotes.md",
+    "docs/Presentations/ebook_typography.md",
+    "docs/Presentations/eEditing_in_browser.md",
+    "docs/Presentations/computer_as_tool.md",
+    "docs/Presentations/buildyourwebsite.md",
+    "docs/Presentations/XML.md",
+    "docs/Presentations/book typography.md",
+    "docs/Presentations/CreatingeBooksCN17.md",
+    "docs/Presentations",
+    "docs/_presentations/computer_as_tool.md",
+    "docs/_presentations/CreatingeBooksCN17.md",
+    "docs/_presentations/XML.md",
+    "docs/_presentations/book_typography.md",
+    "docs/_presentations/buildyourwebsite.md",
+    "docs/_presentations/ebook_typography.md",
+    "docs/_presentations/iterative_publishing.md",
+    "docs/_presentations/footnotes.md",
+    "docs/_presentations/eEditing_in_browser.md",
+    "docs/_presentations",
+    "docs/media/keynotes/Computer_as_Tool/assets/player/NavigatorController.js",
+    "docs/media/keynotes/Computer_as_Tool/assets/player/KNTransitionSlide_Black.png",
+    "docs/media/keynotes/Computer_as_Tool/assets/player/left_arrow_mobile_n.png",
+    "docs/media/keynotes/Computer_as_Tool/assets/player/right_arrow_mobile_n-hd.png",
+    "docs/media/keynotes/Computer_as_Tool/assets/player/kn-cloud_pd_help_btn-N@2x.png",
+    "docs/media/keynotes/Computer_as_Tool/assets/player/spinner.png",
+    "docs/media/keynotes/Computer_as_Tool/assets/player/StageManager.js",
+    "docs/media/keynotes/Computer_as_Tool/assets/player/HelpPlacardController.js",
+    "docs/media/keynotes/Computer_as_Tool/assets/player/KeynoteDHTMLPlayer.html",
+    "docs/media/keynotes/Computer_as_Tool/assets/player/KeynoteDHTMLPlayer.css",
+    "docs/media/keynotes/Computer_as_Tool/assets/player/gl/KNWebGLUtil.js",
+    "docs/media/keynotes/Computer_as_Tool/assets/player/gl/KNWebGLParticleObjects.js",
+    "docs/media/keynotes/readme.md",
+    "docs/index.md",
+    "docs/private/art/text for pieces/October 2024/Olive Arcs.md",
+    "docs/private/art/text for pieces/November 2024/Viburnum in the wild.md",
+    "docs/private/art/text for pieces/November 2024/Burdock Arc.md",
+    "docs/private/art/text for pieces/January 2025/Palm Lily Arcs.md",
+    "docs/private/Teaching_Hold/Multiplatform Publishing/Assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
-    "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas"
+    "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
