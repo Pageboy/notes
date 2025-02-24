@@ -89,9 +89,9 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: false
       use_pygments: true
-      linenums_style: pymdownx-inline
+      linenums_style: pymdownx-inlin©e
   - pymdownx.superfences
-  - admonitions
+  - admonition
   - markdown.extensions.toc:
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
       permalink: "\ue157"
