@@ -8,8 +8,6 @@ extra:
   social:
     - icon: fontawesome/brands/instagram 
       link: https://www.instagram.com/chris.jennings.art/
-features:
-  - navigation.indexes
 extra_css:
   - stylesheets/extra.css
   - stylesheets/glightbox.min.css
@@ -63,7 +61,7 @@ theme:
       # - header.autohide
       - navigation.expand
 #       - navigation.footer
-#       - navigation.indexes
+      - navigation.indexes
       # - navigation.instant
       # - navigation.instant.prefetch
       # - navigation.instant.progress
@@ -71,14 +69,14 @@ theme:
       # - navigation.sections
       - navigation.tabs
       - navigation.tabs.sticky
-#       - navigation.top
+      - navigation.top
       - navigation.path
       - navigation.tracking
       - search.highlight
       - search.share
       - search.suggest
 #       - toc.follow
-      - toc.integrate
+#       - toc.integrate
       
 
    
