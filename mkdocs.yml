@@ -92,6 +92,9 @@ markdown_extensions:
       linenums_style: pymdownx-inline
   - pymdownx.superfences
   - admonition
+  - markdown.extensions.toc:
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
+      permalink: "\ue157"
 
   # - attr_list
   # - pymdownx.arithmatex
@@ -133,4 +136,7 @@ plugins:
 #       archive_date_format: MMMM yyyy
 #       pagination_per_page: 6
 #       pagination_url_format: "page/{page}"
-  - tags
+  - tags:
+      tags_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
