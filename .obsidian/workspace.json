@@ -210,8 +210,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bb74a741c62c2b53",
+  "active": "d886f93a66ee3a62",
   "lastOpenFiles": [
+    "docs/Tags.md",
+    "Tags.md",
     "docs/Articles/iterativepublishing.md",
     "docs/Articles/InDesign",
     "docs/Articles/InDesign/Placing images into InDesign.md",
@@ -251,7 +253,6 @@
     "docs/private/Teaching/howShakespeareHelpsMeTeach.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 5 Shakespeare Play notes.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/From Vscode to Web.md",
-    "docs/private/Teaching/Digital Workflow/Week 2.md",
     "docs/media/iterativepublishing/iterativepublishing08.epub",
     "docs/media/iterativepublishing",
     "docs/media/keynotes/imagesinindesign.pdf",
