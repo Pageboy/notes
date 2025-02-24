@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/About.md",
+                "file": "docs/Articles/Placing images into InDesign.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "Placing images into InDesign"
             }
           }
         ]
@@ -202,8 +202,10 @@
   },
   "active": "bb74a741c62c2b53",
   "lastOpenFiles": [
-    "docs/Articles/Placing images into InDesign.md",
+    "docs/Articles/iterativepublishing.md",
+    "docs/media/iterativepublishing/Screenshot 2017-07-02 17.42.56.png",
     "docs/About.md",
+    "docs/Articles/Placing images into InDesign.md",
     "docs/media/anchor_wrap/anchoropposite.png",
     "docs/eBookProduction/Making an eBook of Recipes.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
@@ -218,14 +220,12 @@
     "docs/media/eRecipeBook/image6.jpeg",
     "docs/media/eRecipeBook/image5.png",
     "docs/media/eRecipeBook/image5.jpeg",
-    "docs/media/eRecipeBook/image4.png",
     "docs/media/eRecipeBook",
     "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
     "docs/media/anchor_wrap",
     "docs/media/images2indesign",
     "docs/Web Sites with GitHub/How to build a blog website with GitHub and Netlify.md",
     "docs/index.md",
-    "docs/Articles/iterativepublishing.md",
     "docs/private/docs/2019-09-05-sharingwebpagestosocial.md",
     "docs/private/docs",
     "docs/Articles/Using Flickr to Generate an Image Gallery.md",
@@ -241,7 +241,6 @@
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 5 Shakespeare Play notes.md",
     "docs/private/Teaching_Hold/Multiplatform Publishing/From Vscode to Web.md",
     "docs/private/Teaching/Digital Workflow/Week 2.md",
-    "docs/private/Teaching/Digital Workflow/Digital Workflow.md",
     "docs/media/iterativepublishing/iterativepublishing08.epub",
     "docs/media/iterativepublishing",
     "docs/media/keynotes/imagesinindesign.pdf",

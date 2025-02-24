@@ -6,6 +6,8 @@ tags:
   - indesign
 ---
 
+# Placing images into InDesign
+
 We look at how to ‘place’ images on the page, and the issues that we might encounter along the way.
 
 Images can be put on the InDesign pages in a a number of ways, but before we explore these methods, we need to prepare our workspace and the images that we intend to use.

@@ -4,7 +4,7 @@ date: 2018-01-06
 status:
   - Complete
 blurb: Books like other created artefacts go through a number of iterations before being ready for public display. The question is, can we observe and record what those changes are and when they happened, and by whom?
-updated: 2025-02-17
+updated: 2025-02-24
 tags:
   - Publishing
   - indesign
@@ -287,7 +287,7 @@ It has to be mentioned that there are also some eBook reading platforms/systems 
 
 There are also annotation tools available for web sites, and **The Hypothesis Project** is one such tool[^19]. This open platform provides bookmarking for your browser, so you can annotate web pages.
 
-![Here is hypothes.is in use](/images/Screenshot 2017-07-02 17.42.56.png)
+![Here is hypothes.is in use](../media/iterativepublishing/Screenshot%202017-07-02%2017.42.56.png)
 
 hypothes.is and several other projects use an open source javascript library called **Annotator** which is freely available[^20] to add to web sites.
 
