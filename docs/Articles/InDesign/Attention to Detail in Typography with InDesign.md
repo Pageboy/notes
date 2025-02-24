@@ -7,6 +7,8 @@ tags:
 title: Attention to Detail in Typography with InDesign
 aliases:
   - attention-to-detail-in-typography-with-indesign
+date: 2025-02-16
+updated: 2025-02-24
 ---
 
 ## Introduction
@@ -272,16 +274,16 @@ InDesign can resolve this 2 ways.
 ## OpenType features
 If the font you are using is of the `Opentype` variety, you will be able to invoke some more appropriate characters and glyphs. One example is numbers. Numbers will look better as 'proportional old-style' if they are within the text. The numbers will align themselves to the lowercase of the font rather than use the same height as the uppercase letters.
 
-![Lining Numbers](../media/Screenshot%202017-12-05%2019.50.54.png)
+![Lining Numbers](../../media/Screenshot%202017-12-05%2019.50.54.png)
 
 In the illustration seen here, the font used in the paragraph text is Minion Pro; this is an opentype font and so we can use proportional old style numbers.
 
 Other aspects of the font they you may wish to use (for even greater attention detail) are _Ligatures_ and _Kerning_.
 
-![Ligatures in action](../media/Screenshot%202017-12-05%2021.52.15.png)
+![Ligatures in action](../../media/Screenshot%202017-12-05%2021.52.15.png)
 
 **Ligatures** are essentially special glyphs that exist within the font that are characters put together. The example shown here includes the letters `s` and `t` that in their special form are joined together. You can see the available ligatures in the _glyph_ table of the font. Only well prepared fonts will have a full set of ligatures. Here we see the example of Adobe Jenson Pro in use.
 
-![Glyph Table for Jenson](../media/Screenshot%202017-12-05%2022.08.05.png)
+![Glyph Table for Jenson](../../media/Screenshot%202017-12-05%2022.08.05.png)
 
 **Kerning** is a setting within InDesign for the paragraph style that will adjust letter spacing for certain characters. The letters `A` and `v`, for example, should be optically set rather than using the metrics setting.

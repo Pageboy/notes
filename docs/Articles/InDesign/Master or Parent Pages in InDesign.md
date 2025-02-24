@@ -1,7 +1,9 @@
 ---
 tags:
- - indesign
- - typography
+  - indesign
+  - typography
+date: 2025-02-16
+updated: 2025-02-24
 ---
 
 **Or How to Repeat Content**
@@ -71,7 +73,7 @@ The description above will cover a running header delivered from a paragraph sty
 
 In our Shakespeare play, we want the Act and Scene to be available in the header. The Act variable is straightforward, because this is a paragraph style and we can use the instructions above. The running header for the Scene can also use a paragraph style, however in our work we use 2 different paragraph styles for this; `scene` is the general style but `firstscene` is used for Scene heading after the Act heading (because we don't want this to start on a new page). In this scenario we need to add a _character style_ to those elements. This character style is merely a named style, it does not need to be used to present a different appearance.
 
-![Using the text variables from a character style](../media/Screenshot%202017-12-06%2008.41.40.png)
+![Using the text variables from a character style](../../media/Screenshot%202017-12-06%2008.41.40.png)
 
 Once the character style has been created it is very easy to use the `search/replace`method to look for the paragraph styles (scene and firstscene) and then replace the found content with the new character style. This character style can then be used as a new variable alongside our variable for the Act. The headings `scene` and `firstcene` will then have both a paragraph and a character style applied.
 

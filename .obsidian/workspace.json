@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/iterativepublishing.md",
+                "file": "docs/Articles/InDesign/Placing images into InDesign.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "iterativepublishing"
+              "title": "Placing images into InDesign"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "bb74a741c62c2b53",
   "lastOpenFiles": [
-    "docs/Articles/Placing images into InDesign.md",
     "docs/Articles/iterativepublishing.md",
+    "docs/Articles/InDesign",
+    "docs/Articles/InDesign/Placing images into InDesign.md",
     "docs/media/iterativepublishing/Screenshot 2017-07-02 17.42.56.png",
     "docs/About.md",
     "docs/media/anchor_wrap/anchoropposite.png",
@@ -221,7 +222,7 @@
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
     "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
     "docs/Articles/The basics of HTML and CSS.md",
-    "docs/Articles/Building the TOC in InDesign.md",
+    "docs/Articles/InDesign/Building the TOC in InDesign.md",
     "docs/media/eRecipeBook/threading.png",
     "docs/media/eRecipeBook/image9.png",
     "docs/media/eRecipeBook/image8.png",
@@ -256,7 +257,6 @@
     "docs/media/keynotes/imagesinindesign.pdf",
     "docs/media/keynotes/MagDesign_Typography.pdf",
     "docs/media/keynotes/GraphicsTools.pdf",
-    "docs/media/keynotes/Computer as Tool.pdf",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas",
