@@ -11,10 +11,24 @@
             "id": "7f4c3c78c97f517d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/Presentations/iterative_publishing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "iterative_publishing"
             }
           }
         ]
@@ -199,6 +213,8 @@
   },
   "active": "7f4c3c78c97f517d",
   "lastOpenFiles": [
+    "docs/Articles/An Introduction to Photoshop.md",
+    "docs/Presentations/computer_as_tool.md",
     "docs/The basics of HTML and CSS.md",
     "docs/Articles/The basics of HTML and CSS.md",
     "docs/Articles/index.md",
@@ -223,8 +239,6 @@
     "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
     "docs/eBookProduction/Fixed-Layout ePub with swashes.md",
     "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
-    "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
-    "docs/eBookProduction/Fixed Layout eBook.md",
     "docs/eBookProduction/eBook_production1.30.pdf",
     "docs/InDesign",
     "docs/media/iterativepublishing/Screenshot 2017-07-02 17.42.56.png",
