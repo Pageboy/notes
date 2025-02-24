@@ -1,10 +1,11 @@
 ---
-hide:
- - navigation
 tags:
- - multiplatform
- - typography
- - indesign
+  - multiplatform
+  - typography
+  - indesign
+date: 2025-02-16
+updated: 2025-02-24
+title: Dropping your caps
 ---
 
 A drop cap is so called because the first character drops down below the line in which it would normally be restricted. The amount of drop can vary but is usually defined by the number of lines. The illustration here shows a **drop** of 3 lines.

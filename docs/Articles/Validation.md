@@ -1,10 +1,11 @@
 ---
-hide:
- - navigation
 tags:
- - multiplatform
- - website
- - html
+  - multiplatform
+  - website
+  - html
+date: 2025-02-16
+updated: 2025-02-24
+title: Validation
 ---
 
 

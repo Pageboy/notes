@@ -119,7 +119,11 @@
     }
   },
   "processor": {
-    "args": [],
-    "type": null
+    "args": [
+      " ",
+      "",
+      "-"
+    ],
+    "type": "replace"
   }
 }

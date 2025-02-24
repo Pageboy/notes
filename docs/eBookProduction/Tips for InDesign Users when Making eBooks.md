@@ -1,10 +1,11 @@
 ---
-hide:
- - navigation
 tags:
- - ebookproduction
- - indesign
- - html
+  - ebookproduction
+  - indesign
+  - html
+date: 2025-02-16
+updated: 2025-02-24
+title: Tips for InDesign Users
 ---
 
 ![Florence](../media/37576342511_a52b050f97_h.jpg)
@@ -22,30 +23,23 @@ Keep this on to show you where you might have empty paragraphs, double spaces, s
 
 Some of these things you might want to be rid of, but some, just may not convert to the ePub.{check on where to find hidden characters}
 
-
 ## Create a root paragraph style for the major part of the content
 
 This makes sense if you have a lot of text that needs a style applying. Use select-all and then style with that body text style. The headings can then be styled afterwards.
 
-
 ### Use a 'Next-Style' as a rule for the headings
 
 Headings will be followed by a special first paragraph in the chapter or sub-section.
-
-
 ### Make a style for every category of content that you will have in your publication
 
 These styles get converted to HTML mark-up in the ePub.
 
 Make sure everything is styled with a style definition. If you use bespoke styles (by selecting attributes directly), your ePub may contain hard-to-edit, complex markup.
-
 ### Give names to your styles that make sense for the kind of content that belongs there
 
 For paragraphs and headings use names that can easily be identified. An example might be 'first paragraph after the title', or 'author name'.
 
 Character styles need names like 'citation' or 'name of country', or 'latin name'. Not 'italic' nor 'red underlined'!
-
-
 ### When using colour in text, define it with RGB values not CMYK.
 
 Colour defined in CMYK usually end up as the nearest 'web safe' colour. Our devices can do better than that!
@@ -91,20 +85,15 @@ Objects such as images or groups will be tagged with a `<div>` name that matches
 The TOC needs to be interactive. InDesign will export the correctly formatted TOC for the ePub only if you have used the correct auto-generated TOC.
 
 You may want more sophisticated control and style for the print version, but you can always create a different TOC style for the eBook version.
-
-
 ### Dropcaps
 
 You can use the dropcaps feature of InDesign, but you will need to create a character style for the dropcap letter, and apply to the first letter in that paragraph.
-
 ### Empty paragraphs
 
 Don't create space between paragraphs by using a line break (ENTER or RETURN key). Space before or after a paragraph or heading should be provided by the style not with empty paragraphs. You will find `space-before` and `space-after` under the `Indents and Spacing` paragraph style control.
-
 ### Avoid the use of the soft break to make a word go to the next line
 
 In your print version you may have used a soft-break to balance the lines or even to control orphans and widows. This will upset things when someone views in the eBook, because the line may suddenly wrap in the middle of a sentence!
-
 
 ### Use character styles rather than bespoke style over-rides.
 
@@ -113,13 +102,11 @@ When you import (place) text from MS Word, the author may have italicised some t
 ### Avoid using style and tag names that refer to their appearance
 
 Let's say you had a character style that gave an HTML tag `<span class=”blue”>`, then a future version editor may be discouraged from changing the style to a different colour. Use style names that define the *usage* rather than the appearance.
-
 ### Character styles inherit the parent styles
 
 When setting the rules for a character style, remember, that it will always inherit the basic formats from its parent; the parent is the paragraph in which it resides.
 
 You do not need to select the font name again (it will be unusual to have a different font inside a line), because this will make it difficult for you to change the style of the whole paragraph; it will also over complicate the style rules in the ePub CSS.
-
 ### Avoid hardwiring UPPERCASE
 
 If you want text in uppercase, do not type as *THAT* but rather create a style that changes the text to uppercase. Future version editors may want to re-publish this work with these headings to use small-caps. Now they need to dig in to the actual text and re-key those capitals — or use sophisticated search with GREP.
@@ -129,13 +116,11 @@ If you want text in uppercase, do not type as *THAT* but rather create a style t
 If you intend that the print book becomes a re-flowable ebook as well then avoid putting image captions on the opposite page to the image in a spread.
 
 Although you can attempt to get content to start on a new page, you don't know if this will be verso or recto.
-  
 ### Page Size
 
 If we are starting the production of an eBook without even considering print, then we might start an InDesign file with a page size of 640x480 pixels portrait for the iPad. This will work well if you want to simulate the appearance on the iPad, but really not required at all. So if your page is set up as a 'real' book size: eg. 156mm x 234mm with margins of 24mm top and bottom with 18mm and 16mm inside and outside, then this is fine for a re-flowable eBook; it just means that the `wysiwyg` nature of InDesign is not perfect. You don't need to change the page size for the re-flowable ePub version, however if you are targeting the fixed-layout ePub that you may want to adjust the page size before exporting.
 
 [Page size in InDesign for eBook?](Page%20size%20in%20InDesign%20for%20eBook?.md)
-
 ### Orientation and spreads
 
 Re-flowable eBooks are normally viewed portrait. Although the iPad does give us a side-by-side view in landscape mode, this is not the same as spreads that you may see in your InDesign view. You can use spreads in your InDesign file for your print /PDF purposes, but these spreads will not result in a spread view. If your print book is designed as landscape pages, you can leave alone, but your eBook will look nothing like the print version unless you build a fixed-layout eBook.

@@ -1,3 +1,12 @@
+---
+date: 2025-02-16
+updated: 2025-02-24
+title: Preflight and Package for Print
+tags:
+  - indesign
+---
+
+
 ## Introduction
 
 At some point during our workflow and design process we want to send something to the proof printer. Normally the best approach to this is to output to PDF from InDesign and then print from this file.

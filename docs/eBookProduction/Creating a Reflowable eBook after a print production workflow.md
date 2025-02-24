@@ -1,9 +1,10 @@
 ---
-hide:
- - navigation
 tags:
- - css
- - multiplatform
+  - css
+  - multiplatform
+date: 2025-02-16
+updated: 2025-02-24
+title: Creating a Reflowable eBook
 ---
 
 This work follows on from previous workflows in creating a Shakespeare play for print. We should already have an Indesign ‘book’ with at least 2 sections. We will export from InDesign for ePub (re-flowable) and then 'break open' the ePub file and make some changes to some of the included files.

@@ -1,10 +1,11 @@
 ---
-hide:
- - navigation
 tags:
   - code
   - typography
   - website
+date: 2025-02-16
+updated: 2025-02-24
+title: Sharing to Facebook and Twitter
 ---
 
 Very often we want to share a web page to our social media locations such as Twitter and Facebook. How do we do this properly to get a good looking post in those platforms?

@@ -1,10 +1,12 @@
 ---
-hide:
- - navigation
 tags:
- - ebookproduction
- - indesign
- - epub
+  - ebookproduction
+  - indesign
+  - epub
+date: 2025-02-16
+updated: 2025-02-24
+title: Fixed Layout eBook
+published: true
 ---
 
 ## Start Page

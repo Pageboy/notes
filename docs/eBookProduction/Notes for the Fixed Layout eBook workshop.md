@@ -1,9 +1,12 @@
 ---
 hide:
- - navigation
+  - navigation
 tags:
- - ebookproduction
- - indesign
+  - ebookproduction
+  - indesign
+published: true
+date: 2025-02-16
+updated: 2025-02-24
 ---
 
 ## Not using InDesign

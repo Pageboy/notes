@@ -1,3 +1,15 @@
+---
+date: 2025-02-16
+updated: 2025-02-24
+tags:
+  - code
+  - eBooks
+  - epub
+  - vscode
+title: Editing inside the ePUB package
+---
+
+
 When we have created a reflowable ePub by exporting from InDesign, we may find that there are some stylistic details that need tidying up, changing or even correcting. Not all aspects of our wonderfully crafted typographic design work will give perfect results in the ePub.
 
 Some text editors have the functionality to edit the components of the ePUB package even without unpacking. BBedit is the one I have used, but Oxygen XML will also give you that ability. Oxygen is more sophisticated and expensive; it will allow you to remove and add files into the package, so if you wanted replace a picture, Oxygen will do it!
@@ -18,7 +30,7 @@ For this I recommend downloading eCanCrusher available here: [https://www.docdat
 
 It really depends on the software tools that you have.
 
-I tend to use Atom as the text editor, and once you have unpacked the ePub (using the script just described), then you can drag the complete folder onto the Atom app, and this will then become a project that you can edit.
+I tend to use ~~Atom~~ vscode as the text editor, and once you have unpacked the ePub (using the script just described), then you can drag the complete folder onto the Atom app, and this will then become a project that you can edit.
 
 The ePub package open for editing with Atom
 

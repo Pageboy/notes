@@ -1,10 +1,11 @@
 ---
-hide:
- - navigation
 tags:
- - design
- - graphics
- - photoshop
+  - design
+  - graphics
+  - photoshop
+date: 2025-02-16
+updated: 2025-02-24
+title: An Introduction to Photoshop
 ---
 ## A Very basic tutorial for a new user
 

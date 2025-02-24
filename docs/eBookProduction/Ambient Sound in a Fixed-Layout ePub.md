@@ -1,9 +1,10 @@
 ---
-hide:
- - navigation
 tags:
- - ebookproduction
- - indesign
+  - ebookproduction
+  - indesign
+date: 2025-02-16
+updated: 2025-02-24
+title: Ambient Sound in a Fixed-Layout ePub
 ---
 > [!note] 
 > This is  just for Apple Books

@@ -1,9 +1,10 @@
 ---
-hide:
-  - navigation
 tags:
   - html
   - css
+date: 2025-02-16
+updated: 2025-02-24
+title: The basics of HTML and CSS
 ---
 
 This is a very simple explanation of HTML with some examples.

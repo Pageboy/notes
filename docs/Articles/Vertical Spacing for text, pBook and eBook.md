@@ -1,10 +1,11 @@
 ---
-hide:
- - navigation
 tags:
- - multiplatform
- - typography
- - indesign
+  - multiplatform
+  - typography
+  - indesign
+date: 2025-02-16
+updated: 2025-02-24
+title: Vertical Spacing for text, pBook and eBook
 ---
 
 When we choose a value for _leading_ in InDesign, we are actually defining the distance between the baselines. The more traditional definition of leading is the space between the baseline and top of character container; the term coming from the little slabs of lead put between the type.

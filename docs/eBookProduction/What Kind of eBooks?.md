@@ -1,4 +1,12 @@
-# What kinds of eBooks are possible?
+---
+date: 2025-02-16
+updated: 2025-02-24
+title: What kinds of eBooks are possible?
+tags:
+  - ebookproduction
+  - epub
+  - Publishing
+---
 
 We can go into the details of these formats later but in this section we can just list the types and some of the basic attributes.
 

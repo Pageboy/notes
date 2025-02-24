@@ -1,10 +1,11 @@
 ---
-hide:
- - navigation
 tags:
- - multiplatform
- - typography
- - indesign
+  - multiplatform
+  - typography
+  - indesign
+date: 2025-02-16
+updated: 2025-02-24
+title: Page size in InDesign for eBook
 ---
 
 We're creating a **reflowable** eBook in InDesign. We're not planning a print book at all - just straight to an eBook; what size page should we choose when we use Adobe InDesign?

@@ -1,3 +1,13 @@
+---
+date: 2025-02-16
+updated: 2025-02-24
+tags:
+  - ebookproduction
+  - epub
+  - indesign
+title: InDesign to the Fixed Layout ePub
+---
+
 The fixed-layout format ePUB3 format provides a way to deliver every single page in your print book laid out just as it was in the print version.
 
 This fixed-layout format can be considered almost the same as an interactive PDF, however, as you will see, the ePUB can have much more interactivity and, you, the designer can control the way the eBook is displayed. For those that ask ‘why can’t I deliver a PDF?’. The answer is that you cannot sell and distribute a PDF through the same channels as the ePUB (or Kindle) format eBooks.

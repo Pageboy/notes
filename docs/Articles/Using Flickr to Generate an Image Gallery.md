@@ -1,9 +1,10 @@
 ---
-hide:
- - navigation
-tags: 
- - html
- - css
+tags:
+  - html
+  - css
+date: 2025-02-16
+updated: 2025-02-24
+title: Using Flickr to Generate an Image Gallery
 ---
 > [!attention] 
 > This has been edited

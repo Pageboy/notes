@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/InDesign/Placing images into InDesign.md",
+                "file": "docs/Articles/The basics of HTML and CSS.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Placing images into InDesign"
+              "title": "The basics of HTML and CSS"
             }
           }
         ]
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -210,21 +210,38 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d886f93a66ee3a62",
+  "active": "bb74a741c62c2b53",
   "lastOpenFiles": [
-    "docs/Tags.md",
-    "Tags.md",
-    "docs/Articles/iterativepublishing.md",
-    "docs/Articles/InDesign",
-    "docs/Articles/InDesign/Placing images into InDesign.md",
-    "docs/media/iterativepublishing/Screenshot 2017-07-02 17.42.56.png",
-    "docs/About.md",
-    "docs/media/anchor_wrap/anchoropposite.png",
+    "docs/InDesign/Placing images into InDesign.md",
     "docs/eBookProduction/Making an eBook of Recipes.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
+    "docs/eBookProduction/Notes on Fixed Layout.md",
+    "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
+    "docs/eBookProduction/Roundtripping InDesign and ePub re-flowable.md",
+    "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
+    "docs/eBookProduction/What Kind of eBooks?.md",
+    "docs/eBookProduction/Page size in InDesign for eBook?.md",
+    "docs/eBookProduction/Editing inside the ePUB package.md",
+    "docs/eBookProduction/Ambient Sound in a Fixed-Layout ePub.md",
+    "docs/eBookProduction/Creating a Reflowable eBook after a print production workflow.md",
+    "docs/eBookProduction/Fixed-Layout ePub with swashes.md",
+    "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
     "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
+    "docs/eBookProduction/Fixed Layout eBook.md",
+    "docs/eBookProduction/eBook_production1.30.pdf",
+    "docs/Articles/Video across a 2 page spread (updated).md",
+    "docs/Articles/Dropping your caps.md",
+    "docs/Articles/Sharing to Facebook and Twitter.md",
+    "docs/Articles/Footnotes and other Diversions.md",
+    "docs/Articles/Preflight and Package for Print and Output to PDF.md",
+    "docs/Articles/Measure me in Units.md",
+    "docs/Articles/An Introduction to Photoshop.md",
+    "docs/Articles/iterativepublishing.md",
     "docs/Articles/The basics of HTML and CSS.md",
-    "docs/Articles/InDesign/Building the TOC in InDesign.md",
+    "docs/Articles/Using Flickr to Generate an Image Gallery.md",
+    "docs/InDesign",
+    "docs/media/iterativepublishing/Screenshot 2017-07-02 17.42.56.png",
+    "docs/media/anchor_wrap/anchoropposite.png",
     "docs/media/eRecipeBook/threading.png",
     "docs/media/eRecipeBook/image9.png",
     "docs/media/eRecipeBook/image8.png",
@@ -234,30 +251,13 @@
     "docs/media/eRecipeBook/image5.png",
     "docs/media/eRecipeBook/image5.jpeg",
     "docs/media/eRecipeBook",
-    "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
     "docs/media/anchor_wrap",
     "docs/media/images2indesign",
-    "docs/Web Sites with GitHub/How to build a blog website with GitHub and Netlify.md",
-    "docs/index.md",
-    "docs/private/docs/2019-09-05-sharingwebpagestosocial.md",
     "docs/private/docs",
-    "docs/Articles/Using Flickr to Generate an Image Gallery.md",
-    "docs/Presentations/book_typography.md",
-    "docs/Presentations/ebook_typography.md",
-    "docs/Presentations/CreatingeBooksCN17.md",
-    "docs/Presentations/XML.md",
-    "docs/Presentations/iterative_publishing.md",
-    "docs/Presentations/eEditing_in_browser.md",
-    "docs/Presentations/footnotes.md",
-    "docs/Presentations/computer_as_tool.md",
-    "docs/private/Teaching/howShakespeareHelpsMeTeach.md",
-    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 5 Shakespeare Play notes.md",
-    "docs/private/Teaching_Hold/Multiplatform Publishing/From Vscode to Web.md",
     "docs/media/iterativepublishing/iterativepublishing08.epub",
     "docs/media/iterativepublishing",
     "docs/media/keynotes/imagesinindesign.pdf",
     "docs/media/keynotes/MagDesign_Typography.pdf",
-    "docs/media/keynotes/GraphicsTools.pdf",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas",

@@ -1,3 +1,13 @@
+---
+date: 2025-02-16
+updated: 2025-02-24
+tags:
+  - eBooks
+  - epub
+  - indesign
+title: Fixed-Layout ePub with swashes
+---
+
 > [!summary] 
 > I am using InDesign to build a fixed-layout eBook and I want some alternate swashes in the text. 
 

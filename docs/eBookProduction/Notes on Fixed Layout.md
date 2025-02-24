@@ -1,11 +1,12 @@
 ---
-hide:
- - navigation
 tags:
- - ebookproduction
- - indesign
- - html
- - css
+  - ebookproduction
+  - indesign
+  - html
+  - css
+date: 2025-02-16
+updated: 2025-02-24
+title: Notes on Fixed Layout
 ---
 
 ## Adding HTML to InDesign

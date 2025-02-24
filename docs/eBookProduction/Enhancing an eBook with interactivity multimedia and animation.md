@@ -1,12 +1,12 @@
 ---
-hide:
- - navigation
 tags:
- - ebookproduction
- - indesign
- - multimedia
+  - ebookproduction
+  - indesign
+  - multimedia
+date: 2025-02-16
+updated: 2025-02-24
+title: Enhancing an eBook
 ---
-
 There are some ways we can creatively enhance the eBook version to provide some interactivity and multimedia that can go beyond the traditional book page.
 
 ## What enhancements we can add beyond text and image?

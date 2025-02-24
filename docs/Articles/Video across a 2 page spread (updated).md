@@ -1,11 +1,12 @@
 ---
-hide:
- - navigation
 tags:
- - multiplatform
- - html
- - video
- - indesign
+  - multiplatform
+  - html
+  - video
+  - indesign
+date: 2025-02-16
+updated: 2025-02-24
+title: Video across a 2 page spread
 ---
 ## In a fixed layout eBook
 
