@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eBookProduction/Making an eBook of Recipes.md",
+                "file": "docs/About.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Making an eBook of Recipes"
+              "title": "About"
             }
           }
         ]
@@ -202,11 +202,14 @@
   },
   "active": "bb74a741c62c2b53",
   "lastOpenFiles": [
+    "docs/Articles/Placing images into InDesign.md",
+    "docs/About.md",
+    "docs/media/anchor_wrap/anchoropposite.png",
+    "docs/eBookProduction/Making an eBook of Recipes.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
     "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
     "docs/Articles/The basics of HTML and CSS.md",
     "docs/Articles/Building the TOC in InDesign.md",
-    "docs/eBookProduction/Making an eBook of Recipes.md",
     "docs/media/eRecipeBook/threading.png",
     "docs/media/eRecipeBook/image9.png",
     "docs/media/eRecipeBook/image8.png",
@@ -216,10 +219,8 @@
     "docs/media/eRecipeBook/image5.png",
     "docs/media/eRecipeBook/image5.jpeg",
     "docs/media/eRecipeBook/image4.png",
-    "docs/media/eRecipeBook/image4.jpeg",
     "docs/media/eRecipeBook",
     "docs/eBookProduction/Enhancing an eBook with interactivity multimedia and animation.md",
-    "docs/Articles/Placing images into InDesign.md",
     "docs/media/anchor_wrap",
     "docs/media/images2indesign",
     "docs/Web Sites with GitHub/How to build a blog website with GitHub and Netlify.md",
@@ -241,7 +242,6 @@
     "docs/private/Teaching_Hold/Multiplatform Publishing/From Vscode to Web.md",
     "docs/private/Teaching/Digital Workflow/Week 2.md",
     "docs/private/Teaching/Digital Workflow/Digital Workflow.md",
-    "docs/private/Teaching/Digital Workflow/Week 1.md",
     "docs/media/iterativepublishing/iterativepublishing08.epub",
     "docs/media/iterativepublishing",
     "docs/media/keynotes/imagesinindesign.pdf",

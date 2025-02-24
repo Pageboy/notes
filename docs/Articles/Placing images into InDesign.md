@@ -94,4 +94,4 @@ If you have a design that requires an image opposite the text then you may need 
 
 > [!note]  It is not possible to anchor an image in this way unless your pages are arranged as spreads. You cannot anchor to another page that is not part of the spread.
 
-![Anchoring an image to be used on the opposite page in the spread.](/images/2017/02/anchoropposite.png)
+![Anchoring an image to be used on the opposite page in the spread.](../media/anchor_wrap/anchoropposite.png)
