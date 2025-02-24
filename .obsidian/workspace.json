@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/The basics of HTML and CSS.md",
+                "file": "docs/Articles/Video across a 2 page spread (updated).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The basics of HTML and CSS"
+              "title": "Video across a 2 page spread (updated)"
             }
           }
         ]
@@ -213,10 +213,11 @@
   },
   "active": "bb74a741c62c2b53",
   "lastOpenFiles": [
+    "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
+    "docs/Articles/The basics of HTML and CSS.md",
     "docs/eBookProduction/Notes on Fixed Layout.md",
     "docs/Articles/Footnotes and other Diversions.md",
     "docs/Articles/Dropping your caps.md",
-    "docs/Articles/The basics of HTML and CSS.md",
     "docs/InDesign/Placing images into InDesign.md",
     "docs/eBookProduction/Making an eBook of Recipes.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
@@ -239,7 +240,6 @@
     "docs/Articles/Measure me in Units.md",
     "docs/Articles/An Introduction to Photoshop.md",
     "docs/Articles/iterativepublishing.md",
-    "docs/Articles/Using Flickr to Generate an Image Gallery.md",
     "docs/InDesign",
     "docs/media/iterativepublishing/Screenshot 2017-07-02 17.42.56.png",
     "docs/media/anchor_wrap/anchoropposite.png",

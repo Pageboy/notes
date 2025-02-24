@@ -1,5 +1,5 @@
 {
-  "version": "3.12.0",
+  "version": "3.13.1",
   "templates": {
     "common": {
       "main": "title.replace(new RegExp(\"#pattern#\", \"#flags#\"), \"#relacement#\");",
@@ -16,9 +16,10 @@
       "value": "-"
     }
   },
-  "debug": false,
+  "debug": true,
   "boot": {
-    "delay": 1000
+    "delay": 1000,
+    "background": true
   },
   "features": {
     "alias": {
@@ -120,7 +121,7 @@
   },
   "processor": {
     "args": [
-      " ",
+      "\\S",
       "",
       "_"
     ],

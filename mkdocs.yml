@@ -18,10 +18,10 @@ extra_javascript:
   - javascripts/glightbox.min.js
   - javascripts/caption.js
   
-# nav:
-#   - Home: index.md
-#   - About.md
-#   - Tags.md
+nav:
+  - Home: index.md
+  - About.md
+  - Tags.md
 #   - 'My Art': 'https://www.chrisjennings.net'
 #   - 'Subscribe': 'https://chrisjenningsart.substack.com/'  
 
@@ -69,14 +69,14 @@ theme:
       # - navigation.instant.progress
       # - navigation.prune
       # - navigation.sections
-#       - navigation.tabs
-#       - navigation.tabs.sticky
-#       - navigation.top
-#       - navigation.path
-#       - navigation.tracking
-#       - search.highlight
-#       - search.share
-#       - search.suggest
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.top
+      - navigation.path
+      - navigation.tracking
+      - search.highlight
+      - search.share
+      - search.suggest
 #       - toc.follow
 #       - toc.integrate
       
@@ -91,7 +91,7 @@ markdown_extensions:
       use_pygments: true
       linenums_style: pymdownx-inline
   - pymdownx.superfences
-  - admonition
+  - admonition©
   - markdown.extensions.toc:
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
       permalink: "\ue157"
@@ -106,7 +106,7 @@ markdown_extensions:
 #  - pymdownx.emoji:
 #      emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - toc:
-      permalink: true
+#       permalink: true
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
