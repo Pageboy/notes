@@ -11,24 +11,10 @@
             "id": "7f4c3c78c97f517d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/The basics of HTML and CSS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The basics of HTML and CSS"
+              "title": "New tab"
             }
           }
         ]
@@ -211,15 +197,16 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d886f93a66ee3a62",
+  "active": "7f4c3c78c97f517d",
   "lastOpenFiles": [
+    "docs/The basics of HTML and CSS.md",
+    "docs/Articles/The basics of HTML and CSS.md",
     "docs/Articles/index.md",
     "docs/index.md",
     "docs/About.md",
     "README.md",
     "docs/Articles/Video across a 2 page spread (updated).md",
     "docs/Articles/Vertical Spacing for text, pBook and eBook.md",
-    "docs/The basics of HTML and CSS.md",
     "docs/eBookProduction/Notes on Fixed Layout.md",
     "docs/Articles/Footnotes and other Diversions.md",
     "docs/Articles/Dropping your caps.md",
@@ -239,7 +226,6 @@
     "docs/eBookProduction/InDesign to the Fixed Layout ePub.md",
     "docs/eBookProduction/Fixed Layout eBook.md",
     "docs/eBookProduction/eBook_production1.30.pdf",
-    "docs/Articles/Sharing to Facebook and Twitter.md",
     "docs/InDesign",
     "docs/media/iterativepublishing/Screenshot 2017-07-02 17.42.56.png",
     "docs/media/anchor_wrap/anchoropposite.png",
