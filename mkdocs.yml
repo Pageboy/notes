@@ -69,16 +69,16 @@ theme:
       # - navigation.instant.progress
       # - navigation.prune
       # - navigation.sections
-      - navigation.tabs
-      - navigation.tabs.sticky
-      - navigation.top
-      - navigation.path
-      - navigation.tracking
-      - search.highlight
-      - search.share
-      - search.suggest
-      - toc.follow
-      - toc.integrate
+#       - navigation.tabs
+#       - navigation.tabs.sticky
+#       - navigation.top
+#       - navigation.path
+#       - navigation.tracking
+#       - search.highlight
+#       - search.share
+#       - search.suggest
+#       - toc.follow
+#       - toc.integrate
       
 
    
