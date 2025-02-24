@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,10 +213,13 @@
   },
   "active": "bb74a741c62c2b53",
   "lastOpenFiles": [
+    "docs/eBookProduction/Notes on Fixed Layout.md",
+    "docs/Articles/Footnotes and other Diversions.md",
+    "docs/Articles/Dropping your caps.md",
+    "docs/Articles/The basics of HTML and CSS.md",
     "docs/InDesign/Placing images into InDesign.md",
     "docs/eBookProduction/Making an eBook of Recipes.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
-    "docs/eBookProduction/Notes on Fixed Layout.md",
     "docs/eBookProduction/Page Size Issues in fixed-layout ePub.md",
     "docs/eBookProduction/Roundtripping InDesign and ePub re-flowable.md",
     "docs/eBookProduction/Tips for InDesign Users when Making eBooks.md",
@@ -230,14 +234,11 @@
     "docs/eBookProduction/Fixed Layout eBook.md",
     "docs/eBookProduction/eBook_production1.30.pdf",
     "docs/Articles/Video across a 2 page spread (updated).md",
-    "docs/Articles/Dropping your caps.md",
     "docs/Articles/Sharing to Facebook and Twitter.md",
-    "docs/Articles/Footnotes and other Diversions.md",
     "docs/Articles/Preflight and Package for Print and Output to PDF.md",
     "docs/Articles/Measure me in Units.md",
     "docs/Articles/An Introduction to Photoshop.md",
     "docs/Articles/iterativepublishing.md",
-    "docs/Articles/The basics of HTML and CSS.md",
     "docs/Articles/Using Flickr to Generate an Image Gallery.md",
     "docs/InDesign",
     "docs/media/iterativepublishing/Screenshot 2017-07-02 17.42.56.png",
