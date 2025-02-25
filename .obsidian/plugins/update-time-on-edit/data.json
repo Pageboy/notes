@@ -15,12 +15,12 @@
     "docs/Presentations/eEditing_in_browser.md": "b4fc89e67c6c183ef6350718ffe9a50de2c73f30102b7f3cc7b54637276bb27d",
     "docs/Presentations/ebook_typography.md": "8b942779b9878f407f95a143d0722c5a3e24411f07d04e7f660e32cbdc3432be",
     "docs/Presentations/footnotes.md": "efe6bf39a7036223d083a8481799c07cd49f8d509e862305153978684109844d",
-    "docs/Presentations/iterative_publishing.md": "ad8e1d1275ed1cdf1efafac10c601b5f6361751c677826cd42f544c466d87c32",
+    "docs/Presentations/iterative_publishing.md": "b8ad4a6e0bd9164d1f4cc83133e27f035c2b89634ff1b506a0adce2b839c53ed",
     "docs/Presentations/CreatingeBooksCN17.md": "61cbbb74a8bbdafc71f88791628d5a0b68138de8c324643a1bafdd311f4899e7",
     "docs/Presentations/XML.md": "2824080380e702a68b8cb1b03cca405c94c9ff55b5826dda46eb912bf1de3dd0",
     "docs/private/buildyourwebsite.md": "de20867aa355704ae146f4bceca9a54b208719bc46b7133bc2d6456676d84463",
     "docs/private/Teaching/howShakespeareHelpsMeTeach.md": "88ea3d12faa1f065cc370baa876a0ce2de35eb1db4087fbd4f591f832cadd57b",
-    "docs/Articles/iterativepublishing.md": "ea5c0ab62ee2d18e648a928ea9c7f92ddbac37172320715e92e056ffdebe139f",
+    "docs/Articles/iterativepublishing.md": "687c8c9b8affd73853e891d955b2b8ae417cc8562be3d837f22e5b3dd28989f0",
     "docs/eBookProduction/Making an eBook of Recipes.md": "e2d0b6e51a6b89366a168af46925fa9b6e0f15ae17f7e0b7a68d72ca19be2aec",
     "docs/About.md": "35d905259d105688bedaa67bb30e556af82ce05ad96b7f131079d7cffd3d2595",
     "docs/private/Teaching/Digital Workflow/Week 3.md": "3ce96254d4c2466e05ca9a6ac15a08a090cf3a2f65967d75c5d8761b69e7d30b",
@@ -56,6 +56,8 @@
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md": "8d0344b5ee13903e71ac6fcdec54e7f89ff974aa6c84921e6abfdc05e91ac6cd",
     "README.md": "6762850db2e93da3bd7f5d26d0cc5c5c089d84ad57485a7c388dbb41571ee1b6",
     "docs/private/Teaching_Hold/DigitalProduct/Week 2.md": "9a505bb4ea0bc1ee1b4f51634dfbe6a504f7caa1daeb83f19aa9e323f31bc6e3",
-    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 1 Intro.md": "61162aa51a0388493f5a9f2fc7fede1be08de2c8ca33f907ce9744480507f478"
+    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 1 Intro.md": "61162aa51a0388493f5a9f2fc7fede1be08de2c8ca33f907ce9744480507f478",
+    "docs/InDesign/InDesign-to-HTML-and-CSS.md": "7d71a1cbee5da3747ad1843d6905d2ad5c006fdf58a41d072407cf84ef643fe4",
+    "docs/InDesign/InDesign-to-XML.md": "2620a28fd862af491d7bf1faa1d796023c96afd0bfbbe5fbd7305e187f753705"
   }
 }

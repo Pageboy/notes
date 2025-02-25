@@ -1,10 +1,10 @@
 ---
-title: Iterative Publishing
+title: Iterative Publishing Presentation
 date: 2017-07-01
 tags:
   - Publishing
   - GitHub
-updated: 2025-02-17
+updated: 2025-02-25
 ---
 ### Is this the Final Version?
 

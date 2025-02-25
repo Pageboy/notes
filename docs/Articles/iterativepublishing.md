@@ -4,7 +4,7 @@ date: 2018-01-06
 status:
   - Complete
 blurb: Books like other created artefacts go through a number of iterations before being ready for public display. The question is, can we observe and record what those changes are and when they happened, and by whom?
-updated: 2025-02-24
+updated: 2025-02-25
 tags:
   - Publishing
   - indesign
@@ -312,6 +312,8 @@ hypothes.is and several other projects use an open source javascript library cal
  + Can media and publishing students benefit from using clever version control as individuals or in teams?
    + I have used collaborative editing methods for text with my students.
    + We need to encourage a more robust approach to version control to avoid the confusion that comes from using arbitrary file naming, such as *finalversion*.
+
+[See the presentation here](../Presentations/iterative_publishing.md)
 
 [^1]: semver.org
 
