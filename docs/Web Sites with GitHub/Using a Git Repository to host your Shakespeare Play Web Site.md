@@ -1,7 +1,6 @@
 ---
 tags:
   - css
-  - multiplatorm
   - html
   - github
   - vscode

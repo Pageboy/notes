@@ -2,6 +2,7 @@
 tags:
   - html
   - web
+  - github
 date: 2025-02-16
 updated: 2025-02-25
 title: Creating a recipe web site using GitHub and Netlify

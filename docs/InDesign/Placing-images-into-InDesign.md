@@ -1,9 +1,10 @@
 ---
 date: 2025-02-24
-updated: 2025-02-24
+updated: 2025-02-25
 title: Placing images into InDesign
 tags:
   - indesign
+  - graphics
 ---
 
 We look at how to ‘place’ images on the page, and the issues that we might encounter along the way.

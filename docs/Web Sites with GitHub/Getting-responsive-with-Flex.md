@@ -2,8 +2,7 @@
 tags:
   - css
   - responsive
-  - multiplatorm
-  - digitalproduct
+  - html
 date: 2025-02-16
 updated: 2025-02-25
 title: Getting responsive with Flex
