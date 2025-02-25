@@ -2,8 +2,9 @@
 tags:
   - html
   - css
+  - code
 date: 2025-02-16
-updated: 2025-02-24
+updated: 2025-02-25
 title: The basics of HTML and CSS
 ---
 
@@ -341,7 +342,7 @@ There are many other units that can be used; some are specific for print (such a
 
 I have another article all about Units here:
 
-[Measure me in Units](Measure%20me%20in%20Units.md)
+[Measure-me-in-Units](Measure-me-in-Units.md)
 
 
 [^1]: Web developers and designers often use a stylesheet to reset all of the standard styles to a neutral setting so they can, more efficiently, apply styles from a basic setting. In a _reset.css_ stylesheet, all of the margins are set to zero.

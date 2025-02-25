@@ -1,14 +1,10 @@
 ---
-hide:
-  - navigation
 tags:
   - indesign
   - typography
 title: Attention to Detail in Typography with InDesign
-aliases:
-  - attention-to-detail-in-typography-with-indesign
 date: 2025-02-16
-updated: 2025-02-24
+updated: 2025-02-25
 ---
 
 ## Introduction

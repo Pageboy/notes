@@ -3,7 +3,8 @@ tags:
   - indesign
   - typography
 date: 2025-02-16
-updated: 2025-02-24
+updated: 2025-02-25
+title: Master or Parent Pages in InDesign
 ---
 
 **Or How to Repeat Content**

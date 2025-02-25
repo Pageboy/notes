@@ -1,9 +1,10 @@
 ---
-hide:
- - navigation
 tags:
- - digitalproduct
- - designandproduction
+  - Publishing
+  - indesign
+date: 2025-02-16
+updated: 2025-02-25
+title: Building the TOC in InDesign
 ---
 
 ## The Front Matter pages

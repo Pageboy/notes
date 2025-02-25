@@ -1,10 +1,11 @@
 ---
-hide:
- - navigation
 tags:
- - design
- - typography
- - indesign
+  - design
+  - typography
+  - indesign
+title: Using the Book Panel in InDesign
+date: 2025-02-16
+updated: 2025-02-25
 ---
 
 **Combining sections and chapters into one book**

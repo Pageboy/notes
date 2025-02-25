@@ -1,13 +1,12 @@
 ---
 tags:
-  - teaching
   - HTML
   - code
   - typography
   - web
   - sites
 date: 2025-02-16
-updated: 2025-02-24
+updated: 2025-02-25
 title: Measure me in Units
 ---
 

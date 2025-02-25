@@ -1,12 +1,11 @@
 ---
 tags:
-  - multiplatform
   - html
   - video
   - indesign
 date: 2025-02-16
-updated: 2025-02-24
-title: Video across a 2 page spread
+updated: 2025-02-25
+title: Video across a 2 page spread  (updated)
 ---
 ## In a fixed layout eBook
 
@@ -16,7 +15,7 @@ There is an issue when video in a fixed layout ePub spans across 2 pages. This s
 
 ## There are really 2 videos (one on each half)
 
-![In iBooks, the video is split](videoover2_broke.png)
+![In Apple Books, the video is split](videoover2_broke.png)
 
 When you export to the fixed-layout ePub from InDesign – and you choose the `Convert Spread to Landscape` option. The process takes the pair of pages and creates one XHTML file (in the ePub package) with a viewport dimension based on the overall width of 2 pages. But, it also creates a 2 divisions with a width obtained from the width of the page. Inside these `<div>`s, it puts a copy of the video; there are 2 videos on the ePub page.
 

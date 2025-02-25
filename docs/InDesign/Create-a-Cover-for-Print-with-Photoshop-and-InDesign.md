@@ -1,3 +1,13 @@
+---
+date: 2025-02-16
+updated: 2025-02-25
+title: Using Photoshop and InDesign to Create a Cover for Print
+tags:
+  - Publishing
+  - indesign
+---
+
+
 
 We need a print ready PDF of the full cover for a paperback book with image (optional) and title on the front and some blurb on the back.
 
