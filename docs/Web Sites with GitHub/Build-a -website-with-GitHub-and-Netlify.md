@@ -1,11 +1,12 @@
 ---
-hide:
- - navigation
 tags:
- - github
- - vscode
- - html
- - css
+  - github
+  - vscode
+  - html
+  - css
+date: 2025-02-16
+updated: 2025-02-25
+title: How to build a blog website with GitHub and Netlify
 ---
 
 This is a template set up for anyone to begin their own web site. The template is created by Chris Jennings and is based on various Jekyll themes.

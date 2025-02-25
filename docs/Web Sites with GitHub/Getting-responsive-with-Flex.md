@@ -1,11 +1,12 @@
 ---
-hide:
- - navigation
 tags:
- - css
- - responsive
- - multiplatorm
- - digitalproduct
+  - css
+  - responsive
+  - multiplatorm
+  - digitalproduct
+date: 2025-02-16
+updated: 2025-02-25
+title: Getting responsive with Flex
 ---
 
 ## Some CSS using **flex**

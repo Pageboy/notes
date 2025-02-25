@@ -6,7 +6,7 @@ tags:
   - css
 date: 2025-02-16
 updated: 2025-02-25
-title: Notes on Fixed Layout
+title: Notes on Fixed Layout eBook
 ---
 
 ## Adding HTML to InDesign

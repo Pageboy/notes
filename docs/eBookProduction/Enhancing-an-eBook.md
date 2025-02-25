@@ -4,8 +4,8 @@ tags:
   - indesign
   - multimedia
 date: 2025-02-16
-updated: 2025-02-24
-title: Enhancing an eBook
+updated: 2025-02-25
+title: Enhancing an eBook with interactivity multimedia and animation
 ---
 There are some ways we can creatively enhance the eBook version to provide some interactivity and multimedia that can go beyond the traditional book page.
 
@@ -198,7 +198,7 @@ For the ePUB Fixed layout format, Apple have some proprietary extensions that ca
 
 [Booktrack](https://www.booktrack.com) have a really effective way to add ambient sound to an eBook, but this requires their own eReader software and the use of their service, however, when you experience their approach to this, you realise, that anything less sophisticated than this, simply won’t do!
 
-[see this more comprehensive explanation - Ambient Sound in a Fixed-Layout ePub](Ambient%20Sound%20in%20a%20Fixed-Layout%20ePub.md)
+[see this more comprehensive explanation - Ambient Sound in a Fixed-Layout ePub](Ambient-Sound-Fixed-Layout-ePub.md)
 
 ## Audio on Click or Touch
 

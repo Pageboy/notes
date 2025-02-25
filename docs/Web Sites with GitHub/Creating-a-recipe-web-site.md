@@ -1,9 +1,10 @@
 ---
-hide:
- - navigation
 tags:
- - digitalproduct
- - html
+  - html
+  - web
+date: 2025-02-16
+updated: 2025-02-25
+title: Creating a recipe web site using GitHub and Netlify
 ---
 These are the instructions to set up the GitHub repository with the template provided and then use this through Netlify to build a static web site.
 

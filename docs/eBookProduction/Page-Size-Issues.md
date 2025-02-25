@@ -4,8 +4,8 @@ tags:
   - typography
   - indesign
 date: 2025-02-16
-updated: 2025-02-24
-title: Page Size Issues
+updated: 2025-02-25
+title: Page Size Issues in fixed layout ePub
 ---
 
 Following on from page size in the reflowable eBook, how about the fixed-layout eBook after it has been created as a print book? So you have used InDesign to create a wonderful printed book of a Shakespeare play, and you chose a standard page size (my example is: 198mm x129mm). Now when you make the fixed layout eBook from the spreads there might be a few observable problems.

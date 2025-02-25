@@ -1,12 +1,13 @@
 ---
-hide:
- - navigation
 tags:
- - css
- - multiplatorm
- - html
- - github
- - vscode
+  - css
+  - multiplatorm
+  - html
+  - github
+  - vscode
+date: 2025-02-16
+updated: 2025-02-25
+published: true
 ---
 
 

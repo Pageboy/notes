@@ -1,11 +1,11 @@
 ---
 date: 2025-02-16
-updated: 2025-02-24
+updated: 2025-02-25
 tags:
   - epub
   - eBooks
   - indesign
-title: Roundtripping
+title: Roundtripping InDesign and ePub re-flowable
 ---
 
 > [!info] 

@@ -1,11 +1,11 @@
 ---
-hide:
- - navigation
 tags:
- - css
- - multiplatorm
- - digitalproduct
- - html
+  - css
+  - html
+  - web
+date: 2025-02-16
+updated: 2025-02-25
+title: Add Multimedia to Your web site
 ---
 
 > We are using GitHub pages to host a web site for the Shakespeare play. This page explains how to add video and audio to the web page.

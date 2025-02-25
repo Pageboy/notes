@@ -4,8 +4,8 @@ tags:
   - indesign
   - html
 date: 2025-02-16
-updated: 2025-02-24
-title: Tips for InDesign Users
+updated: 2025-02-25
+title: Tips for InDesign Users when Making eBooks
 ---
 
 ![Florence](../media/37576342511_a52b050f97_h.jpg)
@@ -120,7 +120,7 @@ Although you can attempt to get content to start on a new page, you don't know i
 
 If we are starting the production of an eBook without even considering print, then we might start an InDesign file with a page size of 640x480 pixels portrait for the iPad. This will work well if you want to simulate the appearance on the iPad, but really not required at all. So if your page is set up as a 'real' book size: eg. 156mm x 234mm with margins of 24mm top and bottom with 18mm and 16mm inside and outside, then this is fine for a re-flowable eBook; it just means that the `wysiwyg` nature of InDesign is not perfect. You don't need to change the page size for the re-flowable ePub version, however if you are targeting the fixed-layout ePub that you may want to adjust the page size before exporting.
 
-[Page size in InDesign for eBook?](Page%20size%20in%20InDesign%20for%20eBook?.md)
+[Page-size-in -InDesign-for-eBook](Page-size-in%20-InDesign-for-eBook.md)
 ### Orientation and spreads
 
 Re-flowable eBooks are normally viewed portrait. Although the iPad does give us a side-by-side view in landscape mode, this is not the same as spreads that you may see in your InDesign view. You can use spreads in your InDesign file for your print /PDF purposes, but these spreads will not result in a spread view. If your print book is designed as landscape pages, you can leave alone, but your eBook will look nothing like the print version unless you build a fixed-layout eBook.

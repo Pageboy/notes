@@ -2,9 +2,10 @@
 tags:
   - css
   - multiplatform
+  - epub
 date: 2025-02-16
-updated: 2025-02-24
-title: Creating a Reflowable eBook
+updated: 2025-02-25
+title: Creating a Reflowable eBook after a print production workflow
 ---
 
 This work follows on from previous workflows in creating a Shakespeare play for print. We should already have an Indesign ‘book’ with at least 2 sections. We will export from InDesign for ePub (re-flowable) and then 'break open' the ePub file and make some changes to some of the included files.
@@ -411,7 +412,7 @@ page-break-before:auto;
 
 The next help document will focus on how we can edit the insides of the ePub file and what changes we can make to the styles and other view settings.
 
-[Editing inside the ePUB package](Editing%20inside%20the%20ePUB%20package.md)
+[Editing-inside-the-ePUB](Editing-inside-the-ePUB.md)
 
 [^1]: There is a project to develop a hybrid ePub format that will allow the mixture of re-flowable and fixed-layout pages. If you want to explore this further then you should go to the [International Digital Publishing Forum ](http://idpf.org/epub/31 "EPUB 3.1 - International Digital Publishing Forum")web site. The IDPF has now merged with the W3 organisation.
 
