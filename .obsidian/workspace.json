@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/iterativepublishing.md",
+                "file": "docs/About.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "iterativepublishing"
+              "title": "About"
             }
           }
         ]
@@ -212,6 +212,7 @@
   },
   "active": "ade2ba82f8af4034",
   "lastOpenFiles": [
+    "docs/Articles/iterativepublishing.md",
     "docs/eBookProduction/Fixed Layout eBook.md",
     "docs/Articles/Footnotes-and-other-Diversions.md",
     "docs/InDesign/Placing-images-into-InDesign.md",
@@ -237,7 +238,6 @@
     "docs/eBookProduction/Page-Size-Issues.md",
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
     "docs/eBookProduction/Notes-on-Fixed-Layout-eBook.md",
-    "docs/Articles/HTML-and-CSS.md",
     "docs/media/text2id/image9.png",
     "docs/media/text2id/image8.png",
     "docs/media/text2id/image7.png",
