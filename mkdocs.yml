@@ -17,12 +17,12 @@ extra_javascript:
   - javascripts/caption.js
 
   
-nav:
-  - Home: index.md
-  - About.md
-  - Tags.md
-  - 'My Art': 'https://www.chrisjennings.net'
-  - 'Subscribe': 'https://chrisjenningsart.substack.com/'
+# nav:
+#   - Home: index.md
+#   - About.md
+#   - Tags.md
+#   - 'My Art': 'https://www.chrisjennings.net'
+#   - 'Subscribe': 'https://chrisjenningsart.substack.com/'
 
 theme:
     name: 'material'
@@ -61,14 +61,14 @@ theme:
     - content.tooltips
     # - header.autohide
     # - navigation.expand
-    - navigation.footer
-    - navigation.indexes
+#     - navigation.footer
+#     - navigation.indexes
     # - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
     # - navigation.prune
-    - navigation.sections
-    - navigation.tabs
+#     - navigation.sections
+#     - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
