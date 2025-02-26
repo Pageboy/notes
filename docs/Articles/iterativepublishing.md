@@ -3,16 +3,14 @@ title: Iterative Publishing
 date: 2018-01-06
 status:
   - Complete
-blurb: Books like other created artefacts go through a number of iterations before being ready for public display. The question is, can we observe and record what those changes are and when they happened, and by whom?
-updated: 2025-02-25
+updated: 2025-02-26
 tags:
   - Publishing
   - indesign
   - eBooks
   - epub
 ---
-
-
+Books like other created artefacts go through a number of iterations before being ready for public display. The question is, can we observe and record what those changes are and when they happened, and by whom?
 # Iterative Publishing
 **Is this the Final Version?**
 
@@ -254,7 +252,8 @@ In terms of the actual workflow and details of the process, the text is edited w
 
 Once the edit process was complete (a milestone previously set) the text was converted to `ICML` for InDesign using Pandoc.[^12]
 
-_Please note that Penflip is no longer operating_ - January 2022
+> [!important] 
+>  _Please note that Penflip is no longer operating_ - January 2022
 
 ## Some Further Options under consideration
 
@@ -270,6 +269,9 @@ We can find several places where version control for text authors and editors ha
 
 **OmniBook** is based on an open source system developed under the name of
 **BookType**. The OmniBook instance is free up to a point. The *BookType* software can be installed on a server but requires technical knowledge to do so.[^15]
+
+> [!important] 
+> Booktype is availble here: https://www.sourcefabric.org/software/booktype
 
 ![OminBook uses the BookType open source code](../media/iterativepublishing/iterativePublishing.046.jpeg)
 
