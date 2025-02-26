@@ -1,7 +1,7 @@
 site_name: Chris Jennings - his Notes
 site_description: My personal digital garden
 site_author: ""
-site_url: https://notes.chrisjennings.net
+site_url: https://notes.chrisjennings.net/
 copyright: Copyright &copy; 2025 Chris Jennings
 repo_url: https://github.com/Pageboy/notes
 extra:
@@ -23,7 +23,6 @@ nav:
   - Tags.md
   - 'My Art': 'https://www.chrisjennings.net'
   - 'Subscribe': 'https://chrisjenningsart.substack.com/'
-   - docs  
 
 theme:
     name: 'material'
