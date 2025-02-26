@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/InDesign/Placing-images-into-InDesign.md",
+                "file": "docs/eBookProduction/Fixed Layout eBook.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Placing-images-into-InDesign"
+              "title": "Fixed Layout eBook"
             }
           }
         ]
@@ -212,6 +212,8 @@
   },
   "active": "7f4c3c78c97f517d",
   "lastOpenFiles": [
+    "docs/Articles/Footnotes-and-other-Diversions.md",
+    "docs/InDesign/Placing-images-into-InDesign.md",
     "docs/Articles/An-Introduction-to-Photoshop.md",
     "docs/InDesign/Preflight-and-Package.md",
     "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md",
@@ -236,8 +238,6 @@
     "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
     "docs/eBookProduction/Notes-on-Fixed-Layout-eBook.md",
     "docs/Articles/HTML-and-CSS.md",
-    "docs/Articles/Measure-me-in-Units.md",
-    "docs/Articles/Footnotes-and- other-Diversions.md",
     "docs/media/text2id/image9.png",
     "docs/media/text2id/image8.png",
     "docs/media/text2id/image7.png",

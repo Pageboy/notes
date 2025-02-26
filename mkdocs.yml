@@ -15,13 +15,15 @@ extra_javascript:
   # - javascripts/jquery-1.10.2.min.js
   - javascripts/glightbox.min.js
   - javascripts/caption.js
+features:
+  - navigation.indexes
   
-# nav:
-#   - Home: index.md
-#   - About.md
-#   - Tags.md
-#   - 'My Art': 'https://www.chrisjennings.net'
-#   - 'Subscribe': 'https://chrisjenningsart.substack.com/'  
+nav:
+  - Home: index.md
+  - About.md
+  - Tags.md
+  - 'My Art': 'https://www.chrisjennings.net'
+  - 'Subscribe': 'https://chrisjenningsart.substack.com/'  
 
 theme:
     name: 'material'

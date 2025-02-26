@@ -47,13 +47,12 @@
     "docs/Articles/Video-across-spread.md": "f415e71bcd3f407b4a7e1118c89417fa21832a3f81f99c730400673713d478f9",
     "docs/Articles/Dropping-your-caps.md": "4a83e36a9cda9ea8990bfa6a79d68919ebf74c5567bb37bd232fa6a76690197f",
     "docs/Articles/Sharing-to-Facebook-and-X.md": "384d81e4f42a240906d3aa57cd8c88612d9c430866243df0058f4f19ef354209",
-    "docs/Articles/Footnotes-and- other-Diversions.md": "0ba21edc039d04527ab38a8faf02ee149e902377c6405c90268079a73a3c3753",
-    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 8.md": "e6456384358be8ef40a6216f139b85a86c310faeeeb0f1a0f7d6b0412741366f",
+    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 8.md": "75320bae421489a3028809a38fbd1bac4d3b9b71eefac5086c580ec9777b2764",
     "docs/private/Teaching/Digital Workflow/Week 12.md": "187c2975162b31cf5122125f71f5069dbcf7722aaa761ea508ad5b057dce943b",
     "docs/private/Teaching_Hold/DigitalProduct/Week 3.md": "86f82ba835ce309bf401798139c66e157471c67a7e8b9588bed5096383f9aa11",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Week 3.md": "78053bc18563af23171e0eda3ac64d35be8d6b783c7a915968afe9646e0a76d2",
     "docs/Articles/Measure-me-in-Units.md": "690ab907a8b811bf099d86af796293ab06334b80ece0b8264bbc20e95869ceb1",
-    "docs/eBookProduction/Notes-on-Fixed-Layout-eBook.md": "eb1f329974985219717bc800efaca5cde04d1ca0069b3f199add3c125d797fb3",
+    "docs/eBookProduction/Notes-on-Fixed-Layout-eBook.md": "7c819a946dc73c1bb22c1875976d713cbf3a9e25050d45b3b1791a595cddef24",
     "docs/eBookProduction/Page-Size-Issues.md": "6aea16d1a6b8580ec5955ba65ffdaf6e53ced881268cef446a892ae88e334044",
     "docs/eBookProduction/Roundtripping.md": "d28f43d5cdb7b19c1977e227fe4404606125544b870109095219f1a64acee7cd",
     "docs/eBookProduction/Tips-for-InDesign-Users.md": "96d82d8116c198e2ff743781781f560bf580d38228eda7cdaca44e38da9289ae",
@@ -80,6 +79,7 @@
     "docs/Web Sites with GitHub/Build-a -website-with-GitHub-and-Netlify.md": "b061aaf5d93d1a0bf3d979eb842439e6ac620df2cc8f671895852ca5c4814cbd",
     "docs/Web Sites with GitHub/Using a Git Repository to host your Shakespeare Play Web Site.md": "a6090079b8163f07e60d4d619f23eddcdd406c336fb46babc6580b2511447a01",
     "docs/Articles/An-Introduction-to-Photoshop.md": "fba33f3f9d3140bb036cc82010d81c54f08a91fc7256f4120c2685d4be2094d2",
-    "docs/InDesign/Preflight-and-Package.md": "a198d8d2be618a78d183566a896c4e236023ebde4fdf6ffc7d670fbc718d6a16"
+    "docs/InDesign/Preflight-and-Package.md": "a198d8d2be618a78d183566a896c4e236023ebde4fdf6ffc7d670fbc718d6a16",
+    "docs/Articles/Footnotes-and-other-Diversions.md": "0ba21edc039d04527ab38a8faf02ee149e902377c6405c90268079a73a3c3753"
   }
 }

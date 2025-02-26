@@ -5,7 +5,7 @@ tags:
   - html
   - css
 date: 2025-02-16
-updated: 2025-02-25
+updated: 2025-02-26
 title: Notes on Fixed Layout eBook
 ---
 
@@ -81,7 +81,7 @@ InDesign can build the footnotes perfectly well for print / PDF. Some clever opt
 
 #### Let's hack the footnotes then
 
-[see this artcle](../Articles/Footnotes-and-%20other-Diversions.md)
+[see this artcle](../Articles/Footnotes-and-other-Diversions.md)
 
 ### Table of Contents
 
