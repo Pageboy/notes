@@ -15,8 +15,7 @@ extra_javascript:
   # - javascripts/jquery-1.10.2.min.js
   - javascripts/glightbox.min.js
   - javascripts/caption.js
-features:
-  - navigation.indexes
+
   
 nav:
   - Home: index.md
@@ -63,15 +62,15 @@ theme:
       # - header.autohide
 #       - navigation.expand
 #       - navigation.footer
-#       - navigation.indexes
+      - navigation.indexes
       # - navigation.instant
       # - navigation.instant.prefetch
       # - navigation.instant.progress
       # - navigation.prune
-      # - navigation.sections
+      - navigation.sections
 #       - navigation.tabs
 #       - navigation.tabs.sticky
-#       - navigation.top
+      - navigation.top
 #       - navigation.path
 #       - navigation.tracking
       - search.highlight
