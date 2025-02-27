@@ -3,8 +3,9 @@ tags:
   - ebookproduction
   - indesign
   - epub
+  - multimedia
 date: 2025-02-16
-updated: 2025-02-25
+updated: 2025-02-27
 title: Ambient Sound in a Fixed-Layout ePub
 ---
 > [!note] 

@@ -3,8 +3,9 @@ tags:
   - html
   - css
   - code
+  - graphics
 date: 2025-02-16
-updated: 2025-02-25
+updated: 2025-02-27
 title: Using Flickr to Generate an Image Gallery
 ---
 > [!attention] 

@@ -1,10 +1,11 @@
 ---
 tags:
   - css
-  - multiplatform
   - epub
+  - ebookproduction
+  - indesign
 date: 2025-02-16
-updated: 2025-02-25
+updated: 2025-02-27
 title: Creating a Reflowable eBook after a print production workflow
 ---
 

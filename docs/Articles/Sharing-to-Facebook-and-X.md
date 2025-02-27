@@ -1,10 +1,12 @@
 ---
 tags:
   - code
-  - typography
   - website
+  - html
+  - graphics
+  - social
 date: 2025-02-16
-updated: 2025-02-25
+updated: 2025-02-27
 title: Sharing to Facebook and X
 ---
 
@@ -21,7 +23,7 @@ The basic metadata that needs to be added to each web page uses `OpenGraph` to p
 Open Graph is essentially a set of metadata tags that `Facebook` will recognise and be able to use the data to display the link in the timeline.
 
 
-## *Twitter* has it’s Own
+## *~~Twitter~~X* has it’s Own
 
 If you want your page referrals in `Twitter`to look good too you have some further options.
 

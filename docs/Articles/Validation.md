@@ -1,10 +1,10 @@
 ---
 tags:
-  - multiplatform
   - website
   - html
+  - code
 date: 2025-02-16
-updated: 2025-02-24
+updated: 2025-02-27
 title: Validation
 ---
 

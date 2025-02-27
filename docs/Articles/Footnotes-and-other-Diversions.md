@@ -3,9 +3,10 @@ tags:
   - design
   - typography
   - indesign
+  - Publishing
 title: Footnotes and other Diversions
 date: 2025-01-28
-updated: 2025-02-25
+updated: 2025-02-27
 ---
 
 I start with a quote from Robert Bringhurst in his *The Elements of Typographic Style*:

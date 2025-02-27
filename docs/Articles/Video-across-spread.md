@@ -3,8 +3,9 @@ tags:
   - html
   - video
   - indesign
+  - epub
 date: 2025-02-16
-updated: 2025-02-25
+updated: 2025-02-27
 title: Video across a 2 page spread  (updated)
 ---
 ## In a fixed layout eBook

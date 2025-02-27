@@ -1,10 +1,12 @@
 ---
 tags:
-  - multiplatform
-  - typography
   - indesign
+  - html
+  - code
+  - epub
+  - eBooks
 date: 2025-02-16
-updated: 2025-02-25
+updated: 2025-02-27
 title: Page Size Issues in fixed layout ePub
 ---
 

@@ -1,11 +1,12 @@
 ---
 tags:
-  - ebookproduction
   - indesign
   - html
   - css
+  - epub
+  - code
 date: 2025-02-16
-updated: 2025-02-26
+updated: 2025-02-27
 title: Notes on Fixed Layout eBook
 ---
 

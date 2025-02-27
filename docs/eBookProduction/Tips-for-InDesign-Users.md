@@ -4,13 +4,15 @@ tags:
   - indesign
   - html
 date: 2025-02-16
-updated: 2025-02-25
+updated: 2025-02-27
 title: Tips for InDesign Users when Making eBooks
 ---
 
 ![Florence](../media/37576342511_a52b050f97_h.jpg)
 
->**Note**: There are differences between these 4 scenarios:
+
+> [!note] 
+>  There are differences between these 4 scenarios:
 
 - You have already designed for print and are intending to export for the re-flowable ePub.
 - You have already designed for print and are intending to export for the fixed-layout ePub.
