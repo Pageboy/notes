@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eBookProduction/Making-eBook-of-Recipes.md",
+                "file": "docs/Articles/Using-Flickr-to-Generate-an-Image-Gallery.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Making-eBook-of-Recipes"
+              "title": "Using-Flickr-to-Generate-an-Image-Gallery"
             }
           }
         ]
@@ -212,6 +212,7 @@
   },
   "active": "ade2ba82f8af4034",
   "lastOpenFiles": [
+    "docs/eBookProduction/Making-eBook-of-Recipes.md",
     "docs/eBookProduction/Fixed Layout eBook.md",
     "docs/eBookProduction/InDesign-to-the-Fixed-Layout-ePub.md",
     "docs/eBookProduction/Fixed-Layout-ePub-with-swashes.md",
@@ -237,7 +238,6 @@
     "docs/Articles/Footnotes-and-other-Diversions.md",
     "docs/Articles/Measure-me-in-Units.md",
     "docs/Articles/HTML-and-CSS.md",
-    "docs/About.md",
     "docs/media/text2id/image9.png",
     "docs/media/text2id/image8.png",
     "docs/media/text2id/image7.png",
